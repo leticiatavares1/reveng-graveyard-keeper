@@ -1,6 +1,6 @@
 """TypeTree das classes do jogo, geradas a partir das DLLs Mono.
 
-O build do Graveyard Keeper nao embute TypeTree nos arquivos serializados
+Nenhum dos dois jogos embute TypeTree nos arquivos serializados
 (`SerializedType.node is None`), entao a UnityPy nao sabe sozinha como ler um
 MonoBehaviour. O TypeTreeGeneratorAPI reconstroi a arvore lendo a
 `Assembly-CSharp.dll` -- mas emite dois detalhes diferentes do que o leitor da
@@ -14,43 +14,40 @@ import os
 from UnityPy.helpers.TypeTreeGenerator import TypeTreeGenerator
 from UnityPy.helpers.TypeTreeNode import TypeTreeNode
 
-#: Pasta `*_Data` do jogo. Pode ser trocada pela variavel de ambiente GK_DATA.
-DATA_DIR = os.environ.get(
-    "GK_DATA",
-    os.path.expanduser(
-        "~/.local/share/Steam/steamapps/common/Graveyard Keeper/Graveyard Keeper_Data"
-    ),
-)
-
-#: Versao da Unity do build (lida de `globalgamemanagers`).
-UNITY_VERSION = os.environ.get("GK_UNITY_VERSION", "2020.3.17f1")
+from .games import Game
 
 ALIGN_FLAG = 0x4000
 
-_gen: TypeTreeGenerator | None = None
-_cache: dict[tuple[str, str], TypeTreeNode] = {}
+_gens: dict[str, TypeTreeGenerator] = {}
+_cache: dict[tuple[str, str, str], TypeTreeNode] = {}
 
 
-def managed_dir() -> str:
-    return os.path.join(DATA_DIR, "Managed")
+def managed_dir(game: Game) -> str:
+    return os.path.join(game.env_data_dir(), "Managed")
 
 
-def generator() -> TypeTreeGenerator:
-    global _gen
-    if _gen is None:
-        if not os.path.isdir(managed_dir()):
+def generator(game: Game) -> TypeTreeGenerator:
+    gen = _gens.get(game.id)
+    if gen is None:
+        if not os.path.isdir(managed_dir(game)):
             raise SystemExit(
-                f"Pasta do jogo nao encontrada: {DATA_DIR}\n"
-                "Aponte a variavel de ambiente GK_DATA para o `*_Data` do jogo."
+                f"Pasta do jogo nao encontrada: {game.env_data_dir()}\n"
+                f"Aponte {game.id.upper()}_DATA para o `*_Data` de {game.nome}."
             )
-        _gen = TypeTreeGenerator(UNITY_VERSION)
-        _gen.load_local_dll_folder(managed_dir())
-    return _gen
+        gen = TypeTreeGenerator(os.environ.get("GK_UNITY_VERSION", game.unity))
+        gen.load_local_dll_folder(managed_dir(game))
+        _gens[game.id] = gen
+    return gen
 
 
-def tree(assembly: str, cls: str) -> TypeTreeNode:
-    """Arvore de tipos de `cls`, pronta para `ObjectReader.read_typetree()`."""
-    key = (assembly, cls)
+def tree(game: Game, assembly: str, cls: str) -> TypeTreeNode:
+    """Arvore de tipos de `cls`, pronta para `ObjectReader.read_typetree()`.
+
+    `cls` precisa do nome COMPLETO quando a classe esta em namespace (o
+    `LazyBearTechnology.LL` do GK2); com o nome curto o gerador falha com
+    "Object reference not set to an instance of an object".
+    """
+    key = (game.id, assembly, cls)
     if key in _cache:
         return _cache[key]
 
@@ -63,7 +60,7 @@ def tree(assembly: str, cls: str) -> TypeTreeNode:
             "m_ByteSize": 0,
             "m_Version": 1,
         }
-        for n in generator().get_nodes(assembly, cls)
+        for n in generator(game).get_nodes(assembly, cls)
     ]
 
     for i, node in enumerate(nodes):

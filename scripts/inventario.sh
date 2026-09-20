@@ -1,28 +1,48 @@
 #!/usr/bin/env bash
-# Inventario do build instalado: versao, assemblies proprios x terceiros,
-# arquivos serializados. Equivale ao "classificar binarios" do metrics-reveng.
+# Inventario do build instalado: versao, assemblies proprios, arquivos serializados.
+# Equivale ao "classificar binarios" do metrics-reveng.
+#
+#   ./scripts/inventario.sh gk1
+#   ./scripts/inventario.sh gk2
 set -uo pipefail
 cd "$(dirname "$0")/.."
 
-GK_DATA="${GK_DATA:-$HOME/.local/share/Steam/steamapps/common/Graveyard Keeper/Graveyard Keeper_Data}"
-[ -d "$GK_DATA" ] || { echo "Pasta do jogo nao encontrada: $GK_DATA" >&2; exit 1; }
+JOGO="${1:-gk1}"
+eval "$(./.venv/bin/python - "$JOGO" <<'PY'
+import sys, os
+sys.path.insert(0, "scripts")
+from gk import games
+g = games.get(sys.argv[1])
+print(f'DATA={g.env_data_dir()!r}')
+print(f'NOME={g.nome!r}')
+print(f'APPID={g.steam_appid}')
+print('ASMS=(' + ' '.join(f'"{a}"' for a in g.assemblies) + ')')
+PY
+)"
+[ -d "$DATA" ] || { echo "Pasta do jogo nao encontrada: $DATA" >&2; exit 1; }
 
-echo "# Inventario do build"
+echo "# Inventario — $NOME"
 echo
-echo "Pasta: $GK_DATA"
-echo -n "Jogo:  "; tr '\n' ' ' < "$GK_DATA/app.info"; echo
-echo -n "Unity: "; strings -n 5 "$GK_DATA/globalgamemanagers" | grep -m1 -E '^[0-9]{4}\.[0-9]+\.[0-9]+[a-z][0-9]+$'
-BUILDID=$(grep -m1 '"buildid"' "$(dirname "$(dirname "$GK_DATA")")/../appmanifest_599140.acf" 2>/dev/null | tr -d '\t"' | sed 's/buildid//')
-[ -n "${BUILDID:-}" ] && echo "Steam buildid:$BUILDID"
+echo "Pasta: $DATA"
+echo -n "Unity: "; strings -n 5 "$DATA/globalgamemanagers" | grep -m1 -E '^[0-9]{4}\.[0-9]+\.[0-9]+[a-z][0-9]+$'
+BUILDID=$(grep -m1 '"buildid"' "$HOME/.local/share/Steam/steamapps/appmanifest_$APPID.acf" 2>/dev/null | tr -d '\t"' | sed 's/buildid//')
+[ -n "${BUILDID:-}" ] && echo "Steam buildid:$BUILDID (appid $APPID)"
 
 echo
-echo "## Assemblies do jogo (decompilaveis)"
-for dll in Assembly-CSharp Assembly-CSharp-firstpass; do
-  f="$GK_DATA/Managed/$dll.dll"
-  [ -f "$f" ] && printf '%-32s %8s KiB  %s\n' "$dll.dll" "$(( $(stat -c%s "$f") / 1024 ))" "$(file -b "$f" | cut -c1-40)"
+echo "## Assemblies do estudio (decompilaveis)"
+for dll in "${ASMS[@]}"; do
+  f="$DATA/Managed/$dll.dll"
+  [ -f "$f" ] && printf '%-34s %8s KiB\n' "$dll.dll" "$(( $(stat -c%s "$f") / 1024 ))"
 done
 
 echo
 echo "## Arquivos serializados (maiores)"
-find "$GK_DATA" -maxdepth 1 -type f \( -name 'resources.assets' -o -name 'globalgamemanagers*' -o -name 'level*' \) \
-  -printf '%10s  %p\n' | sort -rn | head -12 | sed "s|$GK_DATA/||"
+find "$DATA" -maxdepth 1 -type f \( -name 'resources.assets' -o -name 'globalgamemanagers*' \
+  -o -name 'level*' -o -name 'sharedassets*' \) -printf '%10s  %p\n' | sort -rn | head -10 | sed "s|$DATA/||"
+
+if [ -d "$DATA/StreamingAssets/aa" ]; then
+  echo
+  echo "## Addressables"
+  echo "$(find "$DATA/StreamingAssets/aa" -name '*.bundle' | wc -l) bundles, $(du -sh "$DATA/StreamingAssets/aa" | cut -f1)"
+  echo "(arte e cenas; o balanceamento NAO esta ai — vem de resources.assets)"
+fi

@@ -1,11 +1,24 @@
 #!/usr/bin/env bash
-# Decompila os assemblies do jogo para C# em out/src-csharp/.
+# Decompila os assemblies do estudio para C# em out/<jogo>/src-csharp/.
 # Mesma tecnica do metrics-reveng: ilspycmd, um projeto .csproj por assembly.
+#
+#   ./scripts/decompila.sh gk1
+#   ./scripts/decompila.sh gk2
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-GK_DATA="${GK_DATA:-$HOME/.local/share/Steam/steamapps/common/Graveyard Keeper/Graveyard Keeper_Data}"
-DEST="${1:-out/src-csharp}"
+JOGO="${1:-gk1}"
+eval "$(./.venv/bin/python - "$JOGO" <<'PY'
+import sys
+sys.path.insert(0, "scripts")
+from gk import games
+g = games.get(sys.argv[1])
+print(f'DATA={g.env_data_dir()!r}')
+print(f'DEST={g.out!r}/src-csharp')
+print('ASMS=(' + ' '.join(f'"{a}"' for a in g.assemblies) + ')')
+PY
+)"
+DEST="${2:-$DEST}"
 
 # ilspycmd 8.x tem alvo .NET 6 e a maquina so tem 8/10 -- mesma pegadinha do metrics-reveng.
 export DOTNET_ROLL_FORWARD=LatestMajor
@@ -15,11 +28,11 @@ command -v ilspycmd >/dev/null 2>&1 || {
   exit 1
 }
 
-for dll in Assembly-CSharp Assembly-CSharp-firstpass; do
+for dll in "${ASMS[@]}"; do
   echo "== $dll"
   rm -rf "${DEST:?}/$dll"
   mkdir -p "$DEST/$dll"
-  ilspycmd -p -o "$DEST/$dll" "$GK_DATA/Managed/$dll.dll"
+  ilspycmd -p -o "$DEST/$dll" "$DATA/Managed/$dll.dll"
 done
 
 echo
