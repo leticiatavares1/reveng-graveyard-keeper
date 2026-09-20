@@ -9,7 +9,7 @@ Um arquivo serializado da Unity normalmente carrega o **TypeTree** de cada tipo:
 de campos, na ordem, com tipo e regra de alinhamento. É o que permite a uma ferramenta
 externa ler um `MonoBehaviour` sem conhecer o código do jogo.
 
-O build do Graveyard Keeper **não traz TypeTree**:
+Nenhum dos dois builds **traz TypeTree** (GK1 em Unity 2020.3, GK2 em Unity 6000.3):
 
 ```python
 >>> obj.serialized_type
@@ -84,6 +84,35 @@ e por dados que só batem se tudo estiver certo:
   na bancada de cozinhar — que é o que o jogo faz;
 - `flitch` no cavalete: 1 tora → 6 tábuas, +1 ponto vermelho.
 
+No GK2 a mesma checagem: `lng_pt-br` fecha em 9.370 pares, e `wooden_plank` sai como
+1 `flitch` → 1 placa de madeira na Bancada de Carpintaria, 4 s, 2 de energia por tick,
++2 vermelho, liberada pela tecnologia `work_with_wood_1`.
+
+## A terceira pegadinha: namespace
+
+O gerador quer o **nome completo** da classe. A localização do GK2 vive em
+`namespace LazyBearTechnology`, e pedir a classe pelo nome curto falha com uma mensagem
+que não diz nada sobre o motivo:
+
+```
+>>> gen.get_nodes("LazyBearTechnology.dll", "LL")
+Error generating tree nodes:
+Object reference not set to an instance of an object.
+AssertionError: failed to dump nodes raw
+>>> gen.get_nodes("LazyBearTechnology.dll", "LazyBearTechnology.LL")   # funciona
+```
+
+Classe no namespace global (como `GameBalance`, nos dois jogos) funciona pelo nome curto.
+Por isso `games.py` guarda o par `(assembly, classe)` já com o nome completo.
+
+## Vale para Unity 2020 e para Unity 6
+
+As duas correções foram descobertas no GK1 (Unity 2020.3.17f1) e valem sem alteração no
+GK2 (Unity 6000.3.9f1) — o formato serializado e o que o gerador emite não mudaram nesse
+ponto. A versão passada ao gerador continua importando (ela muda regras de alinhamento);
+use a que o `globalgamemanagers` informa, que é o que `games.py` guarda e o
+`inventario.sh` imprime.
+
 ## Pegadinhas para a próxima vez
 
 - **`path_id` não é estável entre builds.** Procure pelo nome (`game_data`, `lng_*`).
@@ -91,3 +120,6 @@ e por dados que só batem se tudo estiver certo:
   `DOTNET_ROLL_FORWARD=LatestMajor`. O `scripts/decompila.sh` já exporta.
 - **A versão da Unity passada ao gerador importa.** Ela muda regras de alinhamento; use a
   que o `globalgamemanagers` informa (`scripts/inventario.sh` imprime).
+- **Classe em namespace precisa do nome completo** (ver acima).
+- **Addressables não atrapalham.** O GK2 distribui 876 MB em bundles, mas o balanceamento
+  continua em `resources.assets`. Não foi preciso abrir um bundle sequer.

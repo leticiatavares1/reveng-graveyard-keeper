@@ -9,11 +9,16 @@ desatualiza sozinha.
 
 ## O que sai daqui pronto para consumo
 
-| Arquivo | Registros | Conteúdo |
-| ------- | --------: | -------- |
-| `out/data/wiki/itens.json` | 1.157 | id, nome pt-BR e en oficiais, descrição, tipo, preço-base, qualidade, pilha |
-| `out/data/wiki/receitas.json` | 2.634 | estações, entradas, saídas, tempo, energia, pontos de tecnologia, quem desbloqueia |
-| `out/data/wiki/tecnologias.json` | 187 | ramo, custo em pontos, pré-requisitos, o que libera |
+| Arquivo | GK1 | GK2 | Conteúdo |
+| ------- | --: | --: | -------- |
+| `out/<jogo>/data/wiki/itens.json` | 1.157 | 814 | id, nome pt-BR e en oficiais, descrição, tipo, preço-base, qualidade, pilha |
+| `out/<jogo>/data/wiki/receitas.json` | 2.634 | 825 | estações, entradas, saídas, tempo, energia, pontos de tecnologia, quem desbloqueia |
+| `out/<jogo>/data/wiki/tecnologias.json` | 187 | 236 | ramo/aba, custo, pré-requisitos, o que libera |
+
+Os dois jogos saem no **mesmo formato normalizado**, apesar de o balanceamento bruto ser
+bem diferente — é para isso que existe um adaptador por jogo em `scripts/gk/catalogo_<jogo>.py`.
+O GK2 acrescenta `energia_por_tick`, `e_automatica`, `combustivel` e, nas tecnologias,
+`disponivel_na_demo`.
 
 Formato de uma receita:
 
@@ -95,14 +100,45 @@ madeira"** o jogo chama de "Placa de madeira", enquanto **"Tábua"** no jogo é 
 apelido de busca. `Recipe.en` já existe para isso; caberia um `alias?: string[]` no tipo
 para o nome antigo continuar achável. É decisão da Letícia — este projeto só traz o dado.
 
+## ⚠️ O GK2 não pode herdar o glossário do GK1
+
+A wiki já prevê dois jogos (`content/gk1/`, `content/gk2/`), e a tentação óbvia é reusar a
+tradução de um no outro. **Não dá.** Dos 90 ids de item que existem nos dois jogos, **37
+têm nome pt-BR diferente**:
+
+| id | GK1 | GK2 |
+| -- | --- | --- |
+| `flitch` | Tábua | **Placa** |
+| `ceramic_1` | Potes de cerâmica | **Placa de Argila** |
+| `ceramic_2` | Jarro de cerâmica | **Urna de Argila** |
+| `axe_1` / `axe_2` | Machado I / II | **Machado de Bronze / de Ferro** |
+| `ash` | Ash *(não traduzido)* | **Cinzas** |
+| `detail_1` | Peças simples de ferro | Peça de Ferro simples |
+| `bag_alchemy` | Bolsa do alquimista | Bolsa de Alquimista |
+
+Além do nome, mudou a convenção: o GK2 usa **Caixa Alta em Cada Palavra** ("Bancada de
+Carpintaria I"), o GK1 não ("Bancada de cozinhar"). E o mesmo id pode ser outro item:
+`ceramic_1` deixou de ser "potes" e virou "placa de argila".
+
+Em números de locale: das 183 chaves que existem nos dois `lng_pt-br`, **103 têm texto
+diferente**. A conclusão para a wiki é que nome de item é dado **por jogo**, nunca
+compartilhado — que é, felizmente, como o `GameContent` já está modelado.
+
+## Escopo da demo do GK2
+
+O `GameBalance` da demo traz o balanceamento do **jogo completo em desenvolvimento**:
+13.754 definições, com **185 das 236 tecnologias** marcadas `disponivel_na_demo: false`.
+Serve para antecipar conteúdo, mas não é fato publicável — pode mudar até o lançamento.
+Se for virar conteúdo, marque como provisório e filtre por `disponivel_na_demo`.
+
 ## Rodando
 
 ```sh
-./scripts/setup.sh                 # uma vez
-./.venv/bin/python scripts/extrai-balance.py
-./.venv/bin/python scripts/extrai-locales.py
-./.venv/bin/python scripts/catalogo.py
+./scripts/setup.sh                                  # uma vez
+./.venv/bin/python scripts/extrai-balance.py gk2
+./.venv/bin/python scripts/extrai-locales.py gk2
+./.venv/bin/python scripts/catalogo.py gk2
 ```
 
-Para ler com olho humano antes de virar conteúdo: `out/catalogo/receitas.md` (receitas
-agrupadas por estação), `out/catalogo/itens.md` e `out/catalogo/tecnologias.md`.
+Para ler com olho humano antes de virar conteúdo: `out/<jogo>/catalogo/receitas.md`
+(receitas agrupadas por estação), `itens.md` e `tecnologias.md`.

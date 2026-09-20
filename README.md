@@ -1,35 +1,40 @@
 # reveng-graveyard-keeper
 
-Engenharia reversa do **Graveyard Keeper** (Lazy Bear Games / tinyBuild, Unity) para
-extrair e catalogar **todos os itens, receitas e mecânicas** do jogo — a base de dados que
-alimenta a [`keeper-wiki-fnd`](../keeper-wiki-fnd/), a wiki de fã em português.
+Engenharia reversa dos jogos **Graveyard Keeper** (Lazy Bear Games / tinyBuild, Unity) para
+extrair e catalogar **todos os itens, receitas e mecânicas** — a base de dados que alimenta
+a [`keeper-wiki-fnd`](../keeper-wiki-fnd/), a wiki de fã em português.
 
 **O problema que ele resolve:** a wiki é escrita à mão a partir da Graveyard Keeper Wiki
-(fandom) e de guias. Isso não escala (são 1.157 itens e 2.634 receitas), envelhece a cada
-patch e já introduziu erro — metade dos nomes em português da wiki não bate com a tradução
-oficial do jogo (ver [§7](#7-achados)). Aqui a fonte passa a ser **o binário do jogo**.
+(fandom) e de guias. Isso não escala (só o GK1 tem 1.157 itens e 2.634 receitas), envelhece
+a cada patch e já introduziu erro — metade dos nomes em português da wiki não bate com a
+tradução oficial do jogo (ver [§7](#7-achados)). Aqui a fonte passa a ser **o binário**.
 
-> ⚠️ Uso restrito: extração de dados de um jogo **comprado**, para uma wiki de fã sem fins
-> lucrativos. Não redistribuir binários, assets nem o fonte recuperado.
+| Jogo | Build | Engine | Definições | Textos por idioma |
+| ---- | ----- | ------ | ---------: | ----------------: |
+| **GK1** — Graveyard Keeper | Steam `22583570` | Unity 2020.3.17f1 (Mono) | 6.116 | 10.961 × 11 |
+| **GK2** — Graveyard Keeper 2 (**demo**) | Steam `25344626` | Unity 6000.3.9f1 (Mono) | 13.754 | 9.370 × 11 |
+
+> ⚠️ Uso restrito: extração de dados de jogos **comprados/instalados legalmente**, para uma
+> wiki de fã sem fins lucrativos. Não redistribuir binários, assets nem o fonte recuperado.
 
 ---
 
 ## 1. O que dá para extrair
 
-O jogo é **Unity 2020.3.17f1 com backend Mono** — não IL2CPP. Isso muda tudo: existe uma
+Os dois jogos são **Unity com backend Mono** — não IL2CPP. Isso muda tudo: existe uma
 `Assembly-CSharp.dll` de verdade, que decompila para C# legível com o mesmo `ilspycmd` do
-[`metrics-reveng`](../../kromos-group/metrics-reveng/README.md). O lado de dados é
-igualmente generoso:
+[`metrics-reveng`](../../kromos-group/metrics-reveng/README.md). E os dois guardam o jogo
+inteiro num ScriptableObject só.
 
 | Fonte | Onde | O que dá |
 | ----- | ---- | -------- |
-| **`game_data`** (4,3 MB) | `resources.assets` | **todo o balanceamento**: 6.116 definições em 34 listas |
-| **`lng_*`** (11 idiomas) | `resources.assets` | 10.961 textos por idioma — inclui **pt-BR oficial** |
-| `Assembly-CSharp.dll` | `Managed/` | as regras: fórmulas de qualidade, custo de energia, lógica |
-| `level0`…`level27` | raiz do `_Data` | cenas: posições, NPCs, zonas (**ainda não extraído**) |
-| 21.030 Sprites | `resources.assets` | ícones e arte (**ainda não extraído**) |
+| **balanceamento** (~4,3 MB nos dois) | `resources.assets` | **tudo**: itens, receitas, objetos, tecnologias, quests |
+| **`lng_*`** (11 idiomas cada) | `resources.assets` | os textos oficiais — inclui **pt-BR** |
+| `Assembly-CSharp.dll` (+ `LazyBearTechnology.dll` no GK2) | `Managed/` | as regras: fórmulas, custos, lógica |
+| cenas / Addressables | `level*` (GK1), `StreamingAssets/aa` (GK2, 876 MB) | mapa, NPCs, arte (**ainda não extraído**) |
+| `DialogData` (GK2) | `resources.assets` | diálogos (**ainda não extraído**) |
 
-Detalhe do build em [`docs/01-inventario.md`](docs/01-inventario.md).
+Detalhe dos dois builds em [`docs/01-inventario.md`](docs/01-inventario.md).
 
 ---
 
@@ -37,14 +42,11 @@ Detalhe do build em [`docs/01-inventario.md`](docs/01-inventario.md).
 
 | Caminho | Conteúdo |
 | ------- | -------- |
-| `~/.local/share/Steam/steamapps/common/Graveyard Keeper/` | instalação analisada (Steam, Linux) |
-| `…/Graveyard Keeper_Data/` | arquivos serializados + `Managed/` |
-| `…/Managed/Assembly-CSharp{,-firstpass}.dll` | os dois assemblies do estúdio |
+| `~/.local/share/Steam/steamapps/common/Graveyard Keeper/` | GK1 (Steam, Linux nativo) |
+| `~/.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/` | GK2 demo (build Windows, roda em Proton) |
 
 A pasta do jogo nunca é escrita — a extração é **só leitura**. Para apontar para outra
-instalação (Windows, Proton, outra máquina), exporte `GK_DATA` com o caminho do `*_Data`.
-
-Build analisado: Steam buildid **22583570**, Unity **2020.3.17f1**.
+instalação, exporte `GK1_DATA` ou `GK2_DATA` com o caminho do `*_Data`.
 
 ---
 
@@ -65,51 +67,51 @@ Build analisado: Steam buildid **22583570**, Unity **2020.3.17f1**.
 
 ## 4. O pipeline
 
+Todo script recebe o jogo (`gk1` ou `gk2`) como primeiro argumento.
+
 ```sh
-./scripts/setup.sh                              # 1. cria .venv e instala as libs
-./scripts/inventario.sh                         # 2. versão, assemblies, arquivos
-./scripts/decompila.sh                          # 3. C# -> out/src-csharp/ (3.110 .cs)
-./.venv/bin/python scripts/extrai-balance.py    # 4. game_data -> out/data/balance/
-./.venv/bin/python scripts/extrai-locales.py    # 5. lng_*     -> out/data/locales/
-./.venv/bin/python scripts/catalogo.py          # 6. cruza tudo -> out/data/wiki + out/catalogo
+./scripts/setup.sh                                  # 1. uma vez: cria .venv e instala as libs
+./scripts/inventario.sh gk2                         # 2. versão, assemblies, arquivos
+./scripts/decompila.sh gk2                          # 3. C# -> out/gk2/src-csharp/
+./.venv/bin/python scripts/extrai-balance.py gk2    # 4. balanceamento -> out/gk2/data/balance/
+./.venv/bin/python scripts/extrai-locales.py gk2    # 5. lng_*         -> out/gk2/data/locales/
+./.venv/bin/python scripts/catalogo.py gk2          # 6. cruza tudo    -> out/gk2/{data/wiki,catalogo}
 ```
 
 Os passos 4-6 levam segundos e são idempotentes. O passo 3 leva ~15 s.
 
-### Passo 3 — decompilar
-
-Mesma técnica do metrics-reveng: um projeto `.csproj` por assembly, um arquivo por tipo.
-É daqui que saem as regras que o dado sozinho não conta — como a qualidade de um craft é
-calculada, quando uma receita pode ser enfileirada, o que `min_value` significa.
-
 ### Passos 4 e 5 — ler os arquivos serializados
 
-**O achado que faz o projeto funcionar:** o build **não embute TypeTree**, então a UnityPy
+**O achado que faz o projeto funcionar:** nenhum dos builds embute TypeTree, então a UnityPy
 sozinha não sabe ler nenhum `MonoBehaviour`. A árvore é reconstruída a partir da
 `Assembly-CSharp.dll` pelo `TypeTreeGeneratorAPI` — e ainda precisa de **duas correções**
 para casar com o leitor da UnityPy (alinhamento depois de `m_Enabled`; `List<T>` emitido
 com o tipo do elemento em vez de `vector`). As duas estão em `scripts/gk/typetree.py`,
-explicadas em [`docs/03-pipeline-typetree.md`](docs/03-pipeline-typetree.md).
+explicadas em [`docs/03-pipeline-typetree.md`](docs/03-pipeline-typetree.md), e valem
+igual para Unity 2020 e Unity 6.
 
 A saída é **fiel ao binário**: nada filtrado, nada renomeado. É o baseline para o diff
-entre versões — a cada patch da Lazy Bear, rodar de novo e dar `git diff` mostra
-exatamente o que mudou no balanceamento, sem release notes.
+entre versões — a cada patch, rodar de novo e dar `git diff` mostra exatamente o que mudou
+no balanceamento, sem release notes.
 
 ### Passo 6 — catálogo
 
-Cruza balanceamento + localização e produz as duas coisas que o resto do mundo consome:
-`out/data/wiki/*.json` (para virar conteúdo) e `out/catalogo/*.md` (para ler).
+Cruza balanceamento + localização e produz `out/<jogo>/data/wiki/*.json` (para virar
+conteúdo) e `out/<jogo>/catalogo/*.md` (para ler). O esquema do balanceamento mudou muito
+entre os dois jogos, então cada um tem o seu adaptador em `scripts/gk/catalogo_<jogo>.py`.
 
 ---
 
 ## 5. O modelo de dados em uma frase
 
-**Todo o jogo é um ScriptableObject.** `Resources.Load<GameBalance>("game_data")` traz 34
-listas de definição ligadas por `id` string; os nomes visíveis vivem separados nos `lng_*`
-e se juntam pelo mesmo `id`. Rastrear uma mecânica = `id → definição → SmartExpression →
-a classe C# que avalia`.
+**Todo o jogo é um ScriptableObject.** `Resources.Load<GameBalance>(...)` traz 33-34 listas
+de definição ligadas por `id` string; os nomes visíveis vivem separados nos `lng_*` e se
+juntam pelo mesmo `id`. Rastrear uma mecânica = `id → definição → expressão → a classe C#
+que avalia`.
 
-Classes, campos e armadilhas em [`docs/02-modelo-de-dados.md`](docs/02-modelo-de-dados.md).
+O GK2 é o mesmo desenho reescrito: as classes viraram `*Def`, os campos passaram para
+camelCase e o `SmartExpression` virou `LazyExpression`. Classes, campos e armadilhas dos
+dois em [`docs/02-modelo-de-dados.md`](docs/02-modelo-de-dados.md).
 
 ---
 
@@ -120,24 +122,25 @@ reveng-graveyard-keeper/
 ├── README.md                     # este arquivo
 ├── scripts/
 │   ├── setup.sh                  # cria o .venv
-│   ├── inventario.sh             # versão do build, assemblies, serializados
-│   ├── decompila.sh              # ilspycmd -> out/src-csharp/
-│   ├── gk/typetree.py            # ← TypeTree a partir da DLL + as 2 correções
-│   ├── gk/assets.py              # achar MonoBehaviour por NOME (path_id não é estável)
-│   ├── extrai-balance.py         # game_data -> uma lista por arquivo
-│   ├── extrai-locales.py         # lng_* -> id → texto, 11 idiomas
-│   └── catalogo.py               # cruza tudo; normaliza quantidades e nomes
+│   ├── inventario.sh <jogo>      # versão do build, assemblies, serializados
+│   ├── decompila.sh  <jogo>      # ilspycmd -> out/<jogo>/src-csharp/
+│   ├── extrai-balance.py <jogo>  # balanceamento -> uma lista por arquivo
+│   ├── extrai-locales.py <jogo>  # lng_* -> id → texto
+│   ├── catalogo.py       <jogo>  # cruza tudo; normaliza quantidades e nomes
+│   └── gk/
+│       ├── games.py              # ← registro dos jogos: tudo que difere mora aqui
+│       ├── typetree.py           # ← TypeTree a partir da DLL + as 2 correções
+│       ├── assets.py             # achar MonoBehaviour por NOME (path_id não é estável)
+│       ├── catalogo_comum.py     # Names, quantidades, tabelas
+│       └── catalogo_gk1.py · catalogo_gk2.py   # um adaptador por jogo
 ├── docs/
-│   ├── 01-inventario.md          # o que é o build, o que tem dentro
-│   ├── 02-modelo-de-dados.md     # GameBalance, as 34 listas, SmartExpression, GameRes
+│   ├── 01-inventario.md          # o que é cada build, o que tem dentro
+│   ├── 02-modelo-de-dados.md     # GameBalance, as listas, expressões, armadilhas
 │   ├── 03-pipeline-typetree.md   # por que não lia e como passou a ler
 │   └── 04-ponte-para-a-wiki.md   # como isso vira conteúdo da keeper-wiki-fnd
 └── out/
-    ├── src-csharp/               # C# recuperado (versionado)
-    ├── data/balance/             # 34 listas, fiéis ao binário (versionado)
-    ├── data/locales/             # 11 idiomas (versionado)
-    ├── data/wiki/                # itens/receitas/tecnologias normalizados (versionado)
-    └── catalogo/                 # itens.md, receitas.md, tecnologias.md (versionado)
+    ├── gk1/{src-csharp,data/{balance,locales,wiki},catalogo}
+    └── gk2/{src-csharp,data/{balance,locales,wiki},catalogo}
 ```
 
 **Regra do `.gitignore`**, herdada do metrics-reveng: versionar o que foi escrito à mão
@@ -150,38 +153,40 @@ comparação entre builds. Ficam de fora só binários e o que é pesado-e-regen
 
 | Achado | Onde | Em uma linha |
 | ------ | ---- | ------------ |
-| **O build não tem TypeTree** | `docs/03` | Sem TypeTree, `MonoBehaviour` é byte cru. A árvore vem da `Assembly-CSharp.dll`, com duas correções que a `UnityPy` exige. É o que destrava tudo. |
-| **`Item.value` é campo morto** | `docs/02` | A quantidade real de uma receita está em `min_value`/`max_value` (SmartExpression). `flitch_2` tem `value=1` mas produz **7** tábuas. A primeira rodada do catálogo divergiu da wiki do fandom por causa disso — a wiki estava certa. |
-| **O jogo tem pt-BR oficial, e a wiki não usa** | `docs/04` | `lng_pt-br` traz 10.961 textos traduzidos. **12 das 25 receitas** escritas à mão na wiki usam nome diferente do oficial. Pior caso: "Tábua de madeira" na wiki é "Placa de madeira" no jogo, e "Tábua" no jogo é outro item. |
-| **Quase todo número é fórmula** | `docs/02` | `SmartExpression` — `energia = 10-Ppar("p_woodworker")*5`. Número fixo é a exceção, não a regra; perks entram direto no custo e no rendimento. |
-| **75 itens em uso não têm nome** | `docs/02` | Itens ativos sem entrada na localização (`onion_crop`, `1h_ore_metal`). O catálogo deixa nulo em vez de inventar. |
-| **387 itens são `not_used`** | `out/data/wiki/itens.json` | Um terço do `items_data` é conteúdo cortado ou de teste. Filtrar antes de virar wiki. |
+| **Nenhum build tem TypeTree** | `docs/03` | Sem TypeTree, `MonoBehaviour` é byte cru. A árvore vem da `Assembly-CSharp.dll`, com duas correções que a `UnityPy` exige. É o que destrava tudo — e funciona igual em Unity 2020 e Unity 6. |
+| **Classe em namespace precisa do nome completo** | `docs/03` | `LL` falha com "Object reference not set to an instance of an object"; `LazyBearTechnology.LL` funciona. Meia hora perdida nisso. |
+| **`Item.value` é campo morto (GK1)** | `docs/02` | A quantidade real está em `min_value`/`max_value`. `flitch_2` tem `value=1` mas produz **7** tábuas. A wiki do fandom estava certa e o catálogo errado. |
+| **O jogo tem pt-BR oficial, e a wiki não usa** | `docs/04` | **12 das 25 receitas** escritas à mão na wiki usam nome diferente do oficial. Pior caso: "Tábua de madeira" na wiki é "Placa de madeira" no jogo, e "Tábua" no jogo é outro item. |
+| **GK1 e GK2 traduzem o mesmo item de formas diferentes** | `docs/04` | Dos 90 ids de item que existem nos dois, **37 têm nome pt-BR diferente** — `flitch` é "Tábua" no GK1 e "Placa" no GK2; `ceramic_1` muda de "Potes de cerâmica" para "Placa de Argila". Glossário compartilhado entre os jogos seria erro. |
+| **Quase todo número é fórmula** | `docs/02` | `energia = 10-Ppar("p_woodworker")*5`. Número fixo é a exceção; perks entram direto no custo e no rendimento. |
+| **A demo do GK2 traz o balanceamento inteiro** | `docs/01` | 13.754 definições, mais que o dobro do GK1 — mas **185 das 236 tecnologias** estão marcadas `isAvailableInDemo = false`. O dado é do jogo completo em desenvolvimento e pode mudar. |
 
 ---
 
 ## 8. Status
 
-**Eixo 1 — ler o jogo**
+**Eixo 1 — ler os jogos**
 
-- [x] Inventariar o build (Unity 2020.3.17f1, Mono) → `docs/01`
-- [x] Decompilar os dois assemblies → `out/src-csharp/` (3.110 `.cs`)
+- [x] Inventariar os dois builds → `docs/01`
+- [x] Decompilar os assemblies → `out/gk1/src-csharp` (3.110 `.cs`), `out/gk2/src-csharp` (2.744)
 - [x] Resolver o TypeTree e ler `MonoBehaviour` → `docs/03`
-- [x] Extrair `game_data`: 6.116 definições em 34 listas → `out/data/balance/`
-- [x] Extrair as 11 localizações → `out/data/locales/`
-- [ ] Extrair sprites/ícones (21.030) — decidir antes o que a wiki pode usar
-- [ ] Extrair as cenas (`level*`): posições, NPCs, zonas, spawns do mapa
+- [x] Extrair o balanceamento: 6.116 (GK1) + 13.754 (GK2) definições
+- [x] Extrair as localizações: 11 idiomas em cada jogo
+- [ ] Extrair sprites/ícones — decidir antes o que a wiki pode usar
+- [ ] Extrair cenas (GK1 `level*`) e Addressables (GK2, 24.062 bundles)
+- [ ] Extrair `DialogData` do GK2 (diálogos + o `voiceover_lines.json` do ModdingTools)
 
 **Eixo 2 — catalogar**
 
-- [x] Itens, receitas (craft + construção) e tecnologias normalizados → `out/data/wiki/`
-- [x] Catálogos legíveis por estação de trabalho → `out/catalogo/`
-- [ ] Catalogar quests, almas/NPCs, comerciantes, peixes, conquistas
-- [ ] Grafo de dependência (o que precisa do quê) — a matéria-prima de um guia de progressão
+- [x] Itens, receitas e tecnologias normalizados nos dois jogos → `out/<jogo>/data/wiki/`
+- [x] Catálogos legíveis por estação de trabalho → `out/<jogo>/catalogo/`
+- [ ] Catalogar quests, NPCs, comerciantes, peixes, conquistas
+- [ ] Grafo de dependência (o que precisa do quê) — matéria-prima de um guia de progressão
 
 **Eixo 3 — alimentar a wiki**
 
 - [x] Mapear o dado extraído para o tipo `Recipe` da `keeper-wiki-fnd` → `docs/04`
 - [ ] **Decisão pendente (Letícia):** adotar o nome oficial em pt-BR como canônico e manter
       o nome do fandom como apelido de busca
-- [ ] Gerador que emite `recipes.ts` direto do `out/data/wiki/receitas.json`
-- [ ] Rotina de atualização: a cada patch, reextrair e dar `git diff` no `out/data/`
+- [ ] Gerador que emite `recipes.ts` direto do `out/<jogo>/data/wiki/receitas.json`
+- [ ] Rotina de atualização: a cada patch, reextrair e dar `git diff` no `out/`

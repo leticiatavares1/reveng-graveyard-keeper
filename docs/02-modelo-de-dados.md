@@ -1,5 +1,8 @@
 # 2. O modelo de dados do jogo
 
+Este documento descreve o **GK1** em detalhe e, em [§GK2](#o-gk2-o-mesmo-desenho-reescrito),
+o que muda no GK2. A ideia é a mesma nos dois; os nomes é que mudaram quase todos.
+
 ## Uma frase
 
 **Todo o balanceamento do Graveyard Keeper é um único ScriptableObject.**
@@ -133,3 +136,107 @@ Item com estrelas (`id:2`) cai no id base — é o que `ItemDefinition.GetItemNa
 
 **75 itens em uso não têm entrada na localização** (ex.: `onion_crop`, `1h_ore_metal`).
 Nesses o catálogo deixa `pt`/`en` nulos em vez de inventar nome.
+
+
+---
+
+# O GK2: o mesmo desenho, reescrito
+
+`Resources.Load<GameBalance>("GameBalance")` continua trazendo o jogo inteiro. O que mudou:
+
+| | GK1 | GK2 |
+| --- | --- | --- |
+| Asset | `game_data` | `GameBalance` |
+| Classes | `ItemDefinition`, `CraftDefinition`… | `ItemDef`, `CraftDef`… (sufixo `Def`) |
+| Campos | `snake_case` (`base_price`) | `camelCase` (`basePrice`) |
+| Expressões | `SmartExpression` | `LazyExpression` (em `LazyBearTechnology.dll`) |
+| Localização | `GJL` | `LazyBearTechnology.LL` |
+| Quantidade de receita | `min_value`/`max_value` (e `value` morto) | `count`, com `minValue`/`maxValue` para faixa |
+| Saída de receita | lista `output` | objeto `outputItems` com `chanceOutputItems` |
+| Pontos de tecnologia | itens de saída com id `r`/`g`/`b` | campos próprios `techRed`/`techGreen`/`techBlue` |
+| Custo de tecnologia | `GameRes price` | `redSpheresPrice`/`greenSpheresPrice`/`blueSpheresPrice` (int) |
+| Ramo da tecnologia | `branch_type` → locale `tbranch_<n>` | `tab` (`TechTreeTab`) → locale `tech_tab_<Nome>` |
+
+As convenções que **não** mudaram: `id` é a chave universal, o nome vem do locale na chave
+`<id>`, a descrição em `<id>_d`, e id com sufixo (`item:2`) cai no id base.
+
+## As 33 listas do GK2 (`out/gk2/data/balance/`)
+
+| Lista | Nº |
+| ----- | -: |
+| `alchemyMixSourceDefs` | 6960 |
+| `wgoDefs` | 1443 |
+| `craftDefs` | 825 |
+| `itemDefs` | 814 |
+| `buildingDefs` | 614 |
+| `questDefs` | 538 |
+| `surveyDefs` | 396 |
+| `inspirationDefs` | 382 |
+| `perkDefs` | 310 |
+| `wsoDefs` | 303 |
+| `techDefs` | 236 |
+| `talentLevelUpDefs` | 179 |
+| `worldZoneDefs` | 105 |
+| `vendorOrderDefs` | 74 |
+| `bodyDefs` | 71 |
+| `townBuildingDefs` | 63 |
+| `gameLogicsDefs` | 61 |
+| `sermonDefs` | 58 |
+| `constDefs` | 53 |
+| `achievementDefs` | 38 |
+| `fighterDefs` | 34 |
+| `fishingDefs` | 33 |
+| `talentExpLevelDefs` | 30 |
+| `alchemyFormulaDefs` | 29 |
+| `fightDefinitions` | 26 |
+| `vendorDefs` | 21 |
+| `toolTypes` · `wgoGroupDefs` | 12 |
+| `gameResSystemDefs` | 10 |
+| `porterStationDefs` | 9 |
+| `mercenariesDefs` | 7 |
+| `talentDefs` | 5 |
+| `sermonConfigDefs` | 3 |
+
+**13.754 definições** — mais que o dobro do GK1, numa demo. `wgoDefs` (World Game Objects)
+é o que o GK1 chamava de `objs_data`; `wsoDefs` são objetos de cenário estáticos;
+`alchemyMixSourceDefs`, com quase 7 mil linhas, é a tabela de combinação da alquimia.
+
+## `LazyExpression`
+
+```json
+{"expressionString": "1", "pureValueType": 1, "pureValueFloat": 1.0, "pureValueBool": false}
+```
+
+`pureValueType` é o enum `PureValueType`: `0 None`, `1 Float`, `2 Bool`, `3 String`.
+Quando é `Float`, `pureValueFloat` vale; quando é `None` e há `expressionString`, é
+fórmula. O helper `expr()` de `catalogo_gk2.py` aplica exatamente isso.
+
+## Receita no GK2
+
+```json
+{
+  "id": "wooden_plank",
+  "craftsIn": ["woodworking_workbench_1", "woodworking_workbench_2"],
+  "needItems": [{"id": "flitch", "count": {...}, "groupType": 0}],
+  "outputItems": {
+    "chanceOutputItems": [{"id": "wooden_plank", "count": {...}, "minValue": {...},
+                           "maxValue": {...}, "chance": {...}, "isStarGroup": false}],
+    "groupChanceOutputItems": []
+  },
+  "duration": {...}, "energyPerTick": {...}, "techRed": {...}
+}
+```
+
+Duas pegadinhas:
+
+- **`outputItems` é objeto, não lista.** As saídas estão em `chanceOutputItems`; as
+  alternativas com chance ficam em `groupChanceOutputItems[].chanceItems` (só uma receita
+  usa isso na demo, `energy_potion_3`, com chance `perk_alchemist`).
+- **Os pontos de tecnologia saíram das saídas.** No GK1 eram itens de id `r`/`g`/`b`
+  misturados no `output`; aqui são `techRed`/`techGreen`/`techBlue`, cada um uma expressão.
+
+## Escopo da demo
+
+`TechDef.isAvailableInDemo` separa o que a demo libera: **185 das 236 tecnologias estão
+fora**. O arquivo traz o balanceamento do jogo em desenvolvimento inteiro — útil para
+antecipar conteúdo, arriscado para publicar como fato: pode mudar até o lançamento.
