@@ -1,0 +1,170 @@
+[
+ {
+  "faith": {
+   "_expression": "GetZoneQ(\"church\") * 0.4 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "default",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * 0.06",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*0.5",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ },
+ {
+  "faith": {
+   "_expression": "GetZoneQ(\"church\") * 0.2 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "default_0",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * (0.03 + 0.01*Ppar(\"p_cardinal\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*1",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ },
+ {
+  "faith": {
+   "_expression": "GetZoneQ(\"church\") * 0.2 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "default_1",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * (0.03 + 0.01*Ppar(\"p_cardinal\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*0.5",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ },
+ {
+  "faith": {
+   "_expression": "GetZoneQ(\"church\") * 0.2 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "default_2",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * (0.03 + 0.01*Ppar(\"p_cardinal\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*0.34",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ },
+ {
+  "faith": {
+   "_expression": "GetZoneQ(\"church\") * 0.2 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "default_3",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * (0.03 + 0.01*Ppar(\"p_cardinal\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*0.34",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ },
+ {
+  "faith": {
+   "_expression": "(GetZoneQ(\"church\") + Ppar(\"gratitude_points\"))  * 0.1 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "pray_for_souls_1",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * (0.03 + 0.01*Ppar(\"p_cardinal\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*0.5",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ },
+ {
+  "faith": {
+   "_expression": "(GetZoneQ(\"church\") + Ppar(\"gratitude_points\"))  * 0.1 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "pray_for_souls_2",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * (0.03 + 0.01*Ppar(\"p_cardinal\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*0.34",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ },
+ {
+  "faith": {
+   "_expression": "(GetZoneQ(\"church\") + Ppar(\"gratitude_points\"))  * 0.1 * (1+0.3*Ppar(\"p_eloquence\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "pray_for_souls_3",
+  "money": {
+   "_expression": "GetZoneQ(\"graveyard\") * (0.03 + 0.01*Ppar(\"p_cardinal\"))",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "people": {
+   "_expression": "GetZoneQ(\"church\")*0.34",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  }
+ }
+]

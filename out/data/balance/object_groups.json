@@ -1,0 +1,141 @@
+[
+ {
+  "aura_emitters": [],
+  "aura_receivers": [
+   "poison",
+   "add_hp"
+  ],
+  "id": "_char",
+  "tech_icon": ""
+ },
+ {
+  "aura_emitters": [
+   "poison"
+  ],
+  "aura_receivers": [],
+  "id": "poisoned",
+  "tech_icon": ""
+ },
+ {
+  "aura_emitters": [
+   "add_hp"
+  ],
+  "aura_receivers": [],
+  "id": "healing",
+  "tech_icon": ""
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "farming",
+  "tech_icon": ""
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_stone",
+  "tech_icon": "i_1h_stone"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_iron_ore_1",
+  "tech_icon": "i_1h_ore_metal"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_iron_ore_2",
+  "tech_icon": "i_1h_ore_metal"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_coal",
+  "tech_icon": "i_coal"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_clai",
+  "tech_icon": "i_clay"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_wood_small",
+  "tech_icon": "i_wood_2"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_wood_big",
+  "tech_icon": "i_wood_2"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_marble",
+  "tech_icon": "i_1h_marble"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_sand",
+  "tech_icon": "i_sand_river"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_mushroom",
+  "tech_icon": "i_shr_boletus"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_berry",
+  "tech_icon": "i_berry"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_apple",
+  "tech_icon": "i_apple_red_crop"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_mushroom2",
+  "tech_icon": "i_shr_agaric"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_stick",
+  "tech_icon": "i_stick"
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "pulpit",
+  "tech_icon": ""
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "winemaking",
+  "tech_icon": ""
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "balsamation",
+  "tech_icon": ""
+ },
+ {
+  "aura_emitters": [],
+  "aura_receivers": [],
+  "id": "t_diamond",
+  "tech_icon": "i_faceted_diamond"
+ }
+]

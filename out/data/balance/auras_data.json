@@ -1,0 +1,28 @@
+[
+ {
+  "id": "poison",
+  "radius": 3.0,
+  "res": {
+   "_durability": 0.0,
+   "_hp": -1.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "time_tick": 1.0
+ },
+ {
+  "id": "add_hp",
+  "radius": 3.0,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 1.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "time_tick": 1.0
+ }
+]

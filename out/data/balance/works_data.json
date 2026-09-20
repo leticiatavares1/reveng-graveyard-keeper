@@ -1,0 +1,71 @@
+[
+ {
+  "id": "axe_1",
+  "reward": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "r",
+    "g",
+    "b",
+    "v",
+    "gratitude_points"
+   ],
+   "_res_v": [
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ {
+  "id": "shovel_1",
+  "reward": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "r",
+    "g",
+    "b",
+    "v",
+    "gratitude_points"
+   ],
+   "_res_v": [
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ {
+  "id": "pickaxe_1",
+  "reward": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "r",
+    "g",
+    "b",
+    "v",
+    "gratitude_points"
+   ],
+   "_res_v": [
+    2.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ }
+]

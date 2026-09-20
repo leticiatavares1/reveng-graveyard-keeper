@@ -1,0 +1,1995 @@
+[
+ {
+  "baits_mod": [
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_1",
+  "id": "fish_frog_green",
+  "item_id": "fish_frog_green",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 5.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   1.0,
+   0.5,
+   0.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 2.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 2.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 2.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 20.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_1",
+  "id": "fish_gudgeon",
+  "item_id": "fish_gudgeon",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 6.0,
+   "weight_k": 1.0
+  },
+  "rod_mods": [
+   1.0,
+   0.5,
+   0.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 2.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 2.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 2.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_1",
+  "id": "fish_gudgeon_2",
+  "item_id": "fish_gudgeon",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 6.0,
+   "weight_k": 1.0
+  },
+  "rod_mods": [
+   1.0,
+   0.5,
+   0.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 20.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_1",
+  "id": "fish_anchovy",
+  "item_id": "fish_anchovy",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 6.0,
+   "weight_k": 1.0
+  },
+  "rod_mods": [
+   1.0,
+   0.5,
+   0.20000000298023224
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 2.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 1.5
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_1_2",
+  "id": "fish_tilapia",
+  "item_id": "fish_tilapia",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 7.0,
+   "weight_k": 0.5
+  },
+  "rod_mods": [
+   1.0,
+   0.5,
+   0.0
+  ],
+  "time_of_day_mods": [
+   0.5,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 2.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_1_2",
+  "id": "fish_perch",
+  "item_id": "fish_perch",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 7.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   1.0,
+   0.800000011920929,
+   0.5
+  ],
+  "time_of_day_mods": [
+   0.25,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 2.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 10.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_2",
+  "id": "fish_eel_see",
+  "item_id": "fish_eel",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 1.0
+  },
+  "rod_mods": [
+   1.0,
+   0.0,
+   0.5
+  ],
+  "time_of_day_mods": [
+   0.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_2",
+  "id": "fish_eel_swamp",
+  "item_id": "fish_eel",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.5
+  },
+  "rod_mods": [
+   1.0,
+   1.0,
+   0.5
+  ],
+  "time_of_day_mods": [
+   0.5,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 6.0,
+    "weight_k": 0.30000001192092896
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_2_2",
+  "id": "fish_bream_bronze",
+  "item_id": "fish_bream:1",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.5
+  },
+  "rod_mods": [
+   0.5,
+   1.0,
+   0.5
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 5.0,
+    "weight_k": 0.5
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_2_2",
+  "id": "fish_bream_silver",
+  "item_id": "fish_bream:2",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 7.0,
+   "weight_k": 0.30000001192092896
+  },
+  "rod_mods": [
+   0.5,
+   1.0,
+   0.5
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 5.0,
+    "weight_k": 0.75
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 0.30000001192092896
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 10.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   1.0,
+   0.5
+  ],
+  "fish_preset": "fish_catch_preset_3",
+  "id": "fish_tuna_1",
+  "item_id": "fish_tuna:1",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 7.0,
+   "weight_k": 0.20000000298023224
+  },
+  "rod_mods": [
+   0.0,
+   1.0,
+   0.699999988079071
+  ],
+  "time_of_day_mods": [
+   0.5,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 8.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   0.5,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_3",
+  "id": "fish_tuna_2",
+  "item_id": "fish_tuna:2",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 6.0,
+   "weight_k": 0.20000000298023224
+  },
+  "rod_mods": [
+   0.0,
+   0.699999988079071,
+   1.0
+  ],
+  "time_of_day_mods": [
+   0.5,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 5.0,
+    "weight_k": 0.75
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 5.0,
+    "weight_k": 0.75
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 6.0,
+    "weight_k": 0.25
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 6.0,
+    "weight_k": 0.25
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 10.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_3_2",
+  "id": "fish_sardine_1",
+  "item_id": "fish_sardine:1",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.75
+  },
+  "rod_mods": [
+   0.0,
+   1.0,
+   0.699999988079071
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 5.0,
+    "weight_k": 0.75
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 5.0,
+    "weight_k": 0.75
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 6.0,
+    "weight_k": 0.25
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 6.0,
+    "weight_k": 0.25
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 8.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_3_2",
+  "id": "fish_sardine_2",
+  "item_id": "fish_sardine:2",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.75
+  },
+  "rod_mods": [
+   0.0,
+   0.699999988079071,
+   1.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_4",
+  "id": "fish_pike_1",
+  "item_id": "fish_pike:1",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 1.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   1.0,
+   0.75
+  ],
+  "time_of_day_mods": [
+   0.5,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.25,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_4",
+  "id": "fish_pike_2",
+  "item_id": "fish_pike:2",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 10.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   1.0,
+   1.25
+  ],
+  "time_of_day_mods": [
+   0.5,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 9.0,
+    "weight_k": 1.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_4",
+  "id": "fish_crucian_silver_1",
+  "item_id": "fish_crucian_silver:1",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 9.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   1.0,
+   0.699999988079071
+  ],
+  "time_of_day_mods": [
+   1.0,
+   0.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "butterfly",
+    "wait_time": 5.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 6.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 9.0,
+    "weight_k": 1.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_5_2",
+  "id": "fish_crucian_silver_2",
+  "item_id": "fish_crucian_silver:2",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 9.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.699999988079071,
+   1.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   0.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 10.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_5",
+  "id": "fish_salmon_silver",
+  "item_id": "fish_salmon:2",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.30000001192092896,
+   0.5
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 10.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_5",
+  "id": "fish_salmon_gold",
+  "item_id": "fish_salmon:3",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.10000000149011612,
+   1.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 5.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_5",
+  "id": "fish_salmon_gold_2",
+  "item_id": "fish_salmon:3",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.10000000149011612,
+   1.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "butterfly",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "moth",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 5.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 7.0,
+    "weight_k": 0.5
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_4_2",
+  "id": "fish_sturgeon_2",
+  "item_id": "fish_sturgeon:2",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.20000000298023224,
+   1.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 5.0,
+    "weight_k": 0.5
+   },
+   {
+    "bait_name": "bait_steel",
+    "wait_time": 6.0,
+    "weight_k": 0.5
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_4_2",
+  "id": "fish_sturgeon_3",
+  "item_id": "fish_sturgeon:3",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.0,
+   0.5
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 6.0,
+    "weight_k": 0.20000000298023224
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 6.0,
+    "weight_k": 0.20000000298023224
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   1.0,
+   0.0
+  ],
+  "fish_preset": "fish_catch_preset_5_2",
+  "id": "fish_crucian_gold",
+  "item_id": "fish_crucian_gold",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 5.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.25,
+   1.0
+  ],
+  "time_of_day_mods": [
+   0.25,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "maggot",
+    "wait_time": 6.0,
+    "weight_k": 1.0
+   },
+   {
+    "bait_name": "fish_anchovy",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   },
+   {
+    "bait_name": "fish_gudgeon",
+    "wait_time": 1.0,
+    "weight_k": 0.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 10.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 0.0
+   }
+  ],
+  "distance_mods": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_3_2",
+  "id": "fish_carp",
+  "item_id": "fish_carp",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 8.0,
+   "weight_k": 0.5
+  },
+  "rod_mods": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "baits_mod": [
+   {
+    "bait_name": "bait_gem",
+    "wait_time": 7.0,
+    "weight_k": 1.0
+   }
+  ],
+  "base_weight": [
+   {
+    "data_name": "swamp_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "village_lake_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "river_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "waterfall_fishing_spot",
+    "weight": 0.0
+   },
+   {
+    "data_name": "sea_fishing_spot",
+    "weight": 1.0
+   }
+  ],
+  "distance_mods": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "fish_preset": "fish_catch_preset_6",
+  "id": "fish_goldfish",
+  "item_id": "fish_goldfish",
+  "no_bait_mod": {
+   "bait_name": "no_bait",
+   "wait_time": 11.0,
+   "weight_k": 0.0
+  },
+  "rod_mods": [
+   0.0,
+   0.0,
+   0.25
+  ],
+  "time_of_day_mods": [
+   1.0,
+   1.0
+  ]
+ }
+]

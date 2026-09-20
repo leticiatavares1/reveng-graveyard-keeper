@@ -1,0 +1,1772 @@
+[
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_plant",
+  "do_not_show_timer": 0,
+  "id": "buff_plant",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_plant"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_sins",
+  "do_not_show_timer": 0,
+  "id": "buff_sins",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_sins"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_skull",
+  "do_not_show_timer": 0,
+  "id": "buff_skull",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "body_max"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.699999988079071,
+  "custom_icon": "b_pen",
+  "do_not_show_timer": 0,
+  "id": "buff_pen",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.20000000298023224,
+  "custom_icon": "b_star",
+  "do_not_show_timer": 0,
+  "id": "buff_star",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_sword",
+  "do_not_show_timer": 0,
+  "id": "buff_sword",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "add_damage"
+   ],
+   "_res_v": [
+    5.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_shield",
+  "do_not_show_timer": 0,
+  "id": "buff_shield",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "add_armor"
+   ],
+   "_res_v": [
+    4.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_skull",
+  "do_not_show_timer": 0,
+  "id": "poison",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "15*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "DecPpar(\"hp\", 2)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 1.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_skull",
+  "do_not_show_timer": 0,
+  "id": "poison_2",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "0.5*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "DecPpar(\"hp\", 2)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 1.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_skull",
+  "do_not_show_timer": 0,
+  "id": "buff_garlic_poison",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "0.4",
+   "_simpified_float": 0.4000000059604645,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "DecPpar(\"hp\", 1)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 1.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_sword",
+  "do_not_show_timer": 0,
+  "id": "buff_pot_damage",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "5*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "add_damage"
+   ],
+   "_res_v": [
+    5.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_sword",
+  "do_not_show_timer": 0,
+  "id": "buff_pot_berserk_damage",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "5*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "add_damage"
+   ],
+   "_res_v": [
+    15.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_heart_hyphen",
+  "do_not_show_timer": 0,
+  "id": "buff_pot_berserk_poison",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "5*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "DecPpar(\"hp\", 1)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 7.5
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_shield",
+  "do_not_show_timer": 0,
+  "id": "buff_pot_armor",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "5*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "add_armor"
+   ],
+   "_res_v": [
+    4.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_heart_plus",
+  "do_not_show_timer": 0,
+  "id": "buff_pot_heal_long",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "1*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "AddPpar(\"hp\", 1)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 1.5
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_hunger",
+  "do_not_show_timer": 0,
+  "id": "buff_pot_appetite",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "5*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "food_multiplier"
+   ],
+   "_res_v": [
+    2.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_run",
+  "do_not_show_timer": 0,
+  "id": "buff_pot_speed",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "10*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "speed_buff"
+   ],
+   "_res_v": [
+    1.5
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_sleep",
+  "do_not_show_timer": 1,
+  "id": "buff_tired",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "999",
+   "_simpified_float": 999.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "overlay_type": 0,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "tired"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "tired",
+    "energy"
+   ],
+   "_res_v": [
+    1.0,
+    50.0
+   ]
+  },
+  "craft_q": 0.0,
+  "custom_icon": "",
+  "do_not_show_timer": 0,
+  "id": "buff_tired_tech",
+  "is_hidden": 1,
+  "length": {
+   "_expression": "0.05",
+   "_simpified_float": 0.05000000074505806,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "overlay_type": 0,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "DecPpar(\"energy\", 1)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 1.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_fishing_1",
+  "do_not_show_timer": 0,
+  "id": "buff_fishing",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_fish_catch_time_mltplr"
+   ],
+   "_res_v": [
+    2.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_fishing_2",
+  "do_not_show_timer": 0,
+  "id": "buff_fishing2",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_pulling_fish_mltplr"
+   ],
+   "_res_v": [
+    1.5
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_science",
+  "do_not_show_timer": 0,
+  "id": "buff_survay",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_survay"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_beer",
+  "do_not_show_timer": 0,
+  "id": "buff_beer",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_beer"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_axe",
+  "do_not_show_timer": 0,
+  "id": "buff_hardwork",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "axe_energy_k_add",
+    "pickaxe_energy_k_add"
+   ],
+   "_res_v": [
+    -0.5,
+    -0.5
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_snail",
+  "do_not_show_timer": 0,
+  "id": "buff_longtimer",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2",
+   "_simpified_float": 2.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_longtimer"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_pillow",
+  "do_not_show_timer": 0,
+  "id": "buff_sleep",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "sleep_k_add"
+   ],
+   "_res_v": [
+    0.4000000059604645
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_scalpel",
+  "do_not_show_timer": 0,
+  "id": "buff_cleancut",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "buff_cleancut"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.699999988079071,
+  "custom_icon": "b_pen",
+  "do_not_show_timer": 0,
+  "id": "buff_pen_food",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.20000000298023224,
+  "custom_icon": "b_star",
+  "do_not_show_timer": 0,
+  "id": "buff_star_food",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_sword",
+  "do_not_show_timer": 0,
+  "id": "buff_sword_food",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "add_damage"
+   ],
+   "_res_v": [
+    5.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_shield",
+  "do_not_show_timer": 0,
+  "id": "buff_shield_food",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "2*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "add_armor"
+   ],
+   "_res_v": [
+    4.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_persistence"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "craft_q": 0.0,
+  "custom_icon": "",
+  "do_not_show_timer": 1,
+  "id": "buff_dlc_refugee_persistence",
+  "is_hidden": 1,
+  "length": {
+   "_expression": "0.05",
+   "_simpified_float": 0.05000000074505806,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "overlay_type": 0,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "AddPpar(\"energy\", 1)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 1.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_shards",
+  "do_not_show_timer": 0,
+  "id": "buff_sin_shard",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "increase_sin_shard_drop"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ },
+ {
+  "condition_player_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "craft_q": 0.0,
+  "custom_icon": "b_thanks",
+  "do_not_show_timer": 0,
+  "id": "buff_gp_increase",
+  "is_hidden": 0,
+  "length": {
+   "_expression": "36*(1+Ppar(\"buff_longtimer\")*0.3)",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "overlay_type": 1,
+  "res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "increase_gp_gain"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "se_finish": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_start": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "se_tick": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "tick_period": 0.0
+ }
+]

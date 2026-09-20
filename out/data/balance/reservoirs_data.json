@@ -1,0 +1,42 @@
+[
+ {
+  "dist_avaliables": [
+   1,
+   1,
+   1
+  ],
+  "id": "village_lake_fishing_spot"
+ },
+ {
+  "dist_avaliables": [
+   1,
+   1,
+   0
+  ],
+  "id": "river_fishing_spot"
+ },
+ {
+  "dist_avaliables": [
+   1,
+   1,
+   0
+  ],
+  "id": "swamp_fishing_spot"
+ },
+ {
+  "dist_avaliables": [
+   1,
+   1,
+   1
+  ],
+  "id": "waterfall_fishing_spot"
+ },
+ {
+  "dist_avaliables": [
+   1,
+   1,
+   1
+  ],
+  "id": "sea_fishing_spot"
+ }
+]

@@ -1,0 +1,800 @@
+[
+ {
+  "icon": "i_p_blacksmith",
+  "id": "p_blacksmith",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_blacksmith"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.10000000149011612
+ },
+ {
+  "icon": "i_p_woodworker",
+  "id": "p_woodworker",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_woodworker"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.5
+ },
+ {
+  "icon": "i_p_mason",
+  "id": "p_mason",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_mason"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.5
+ },
+ {
+  "icon": "i_p_engineer",
+  "id": "p_engineer",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_engineer"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.30000001192092896
+ },
+ {
+  "icon": "i_p_writer",
+  "id": "p_writer",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_writer"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.30000001192092896
+ },
+ {
+  "icon": "i_p_shakespear",
+  "id": "p_good_writer",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_good_writer"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.5
+ },
+ {
+  "icon": "i_p_jevelery",
+  "id": "p_jevelery",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_jevelery"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.699999988079071
+ },
+ {
+  "icon": "i_p_wine_master",
+  "id": "p_wine_master",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_wine_master"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.800000011920929
+ },
+ {
+  "icon": "i_p_scientist",
+  "id": "p_scientist",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_scientist"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_sword_master",
+  "id": "p_sword_master",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_sword_master",
+    "add_damage"
+   ],
+   "_res_v": [
+    1.0,
+    5.0
+   ]
+  },
+  "show": 1,
+  "stars": 1.0
+ },
+ {
+  "icon": "i_p_fireman",
+  "id": "p_fireman",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_fireman"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_miner",
+  "id": "p_miner",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_miner"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_big_guy",
+  "id": "p_big_guy",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_big_guy",
+    "add_armor",
+    "add_damage"
+   ],
+   "_res_v": [
+    1.0,
+    2.0,
+    2.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_master_potter",
+  "id": "p_master_potter",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_master_potter"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_journalist",
+  "id": "p_journalist",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_journalist"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_collector",
+  "id": "p_collector",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_collector"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_farmer",
+  "id": "p_farmer",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_farmer"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_beekeeper2",
+  "id": "p_beekeeper2",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_beekeeper2"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_butcher",
+  "id": "p_butcher",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_butcher"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_axeman",
+  "id": "p_axeman",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_axeman"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_doctor",
+  "id": "p_doctor",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_doctor"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_magnifier",
+  "id": "p_naturalist",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_naturalist"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_cultist",
+  "id": "p_cultist",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_cultist"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_preacher",
+  "id": "p_preacher",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_preacher"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_cardinal",
+  "id": "p_cardinal",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_cardinal"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_nugget_gold",
+  "id": "p_t_gold_ore",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_gold_ore"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_nugget_silver",
+  "id": "p_t_silver_ore",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_silver_ore"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_pyrite",
+  "id": "p_t_pyrite",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_pirit"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_sulfur",
+  "id": "p_t_sulfur",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_sulfur"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_lifestone",
+  "id": "p_t_lifestone",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_lifestone"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "",
+  "id": "p_t_sand_improve",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_sand_improve"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_beeswax",
+  "id": "p_t_beeswax",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_beeswax"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_butterfly",
+  "id": "p_t_butterfly",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_butterfly"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_moth",
+  "id": "p_t_moth",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_moth"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_bee",
+  "id": "p_t_bee",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_bee"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_book_ruined_1",
+  "id": "p_t_old_books",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_old_books"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_maggot",
+  "id": "p_t_maggot",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_maggot"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_resistance",
+  "id": "p_persistence",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_persistence"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_p_hard_worker",
+  "id": "p_industriousness",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_industriousness"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.20000000298023224
+ },
+ {
+  "icon": "i_p_oratory",
+  "id": "p_eloquence",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_eloquence"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 1,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_1h_obsidian",
+  "id": "p_t_obsidian",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_obsidian"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_1h_marble_gold",
+  "id": "p_t_marble_gold",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_marble_gold"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_faceted_emerald",
+  "id": "p_t_emerald",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_emerald"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ },
+ {
+  "icon": "i_faceted_diamond",
+  "id": "p_t_diamond",
+  "output_res": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "p_t_diamond"
+   ],
+   "_res_v": [
+    1.0
+   ]
+  },
+  "show": 0,
+  "stars": 0.0
+ }
+]

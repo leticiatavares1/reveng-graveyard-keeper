@@ -1,0 +1,775 @@
+[
+ {
+  "calc_method": 1,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "slava_test",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "garden",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "garden_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_grv_descr_gui",
+  "hud_descr_str": "zone_grv_descr_hud",
+  "id": "graveyard",
+  "quality_icon": "(wskull)",
+  "string_format": "@{0:0.#}",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "alchemy",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "church_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "mf_wood",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "home_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_church_descr_gui",
+  "hud_descr_str": "zone_church_descr_hud",
+  "id": "church",
+  "quality_icon": "(cross)",
+  "string_format": "@{0:0.#}",
+  "zone_group": "church_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "cellar",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "home_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_morgue_descr_gui",
+  "hud_descr_str": "zone_morgue_descr_hud",
+  "id": "morgue",
+  "quality_icon": "(body)",
+  "string_format": "@ {$cur_bodies_count:0} / {0:0}",
+  "zone_group": "morgue_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "dur_k_body"
+   ],
+   "_res_v": [
+    0.5
+   ]
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_morgue_descr_gui",
+  "hud_descr_str": "zone_morgue_descr_hud",
+  "id": "morgue_outside",
+  "quality_icon": "(body)",
+  "string_format": "@ {$cur_bodies_count:0} / %morgue",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "cabinet",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "home",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "home_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "farm",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "hill",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "tavern",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "vilage",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "flat_under_waterflow",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "flat_under_waterflow_2",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "flat_under_waterflow_3",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "swamp",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "witch_hut",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "wheat_land",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "beatch",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "forest_under_village",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "east_border",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "sealight",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "vineyard",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "vineyard_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "camp",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "beegarden",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "tree_garden",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "marble_deposit",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "stone_workyard",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "quarry_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_storage_descr_gui",
+  "hud_descr_str": "zone_storage_descr_hud",
+  "id": "storage",
+  "quality_icon": "(fame)",
+  "string_format": "@{0:0.#}",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_sacrifice_descr_gui",
+  "hud_descr_str": "zone_sacrifice_descr_hud",
+  "id": "sacrifice",
+  "quality_icon": "(pntgrm)",
+  "string_format": "@{0:0.#}",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "burned_house",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "nountain_fort",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "cremation",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "cliff",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "zombie_sawmill",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "cellar_storage",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "player_tavern_cellar",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "tavern_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_players_tavern_descr_gui",
+  "hud_descr_str": "zone_players_tavern_descr_hud",
+  "id": "players_tavern",
+  "quality_icon": "(tavern)",
+  "string_format": "@{0:0.#}",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_refugees_descr_gui",
+  "hud_descr_str": "zone_refugees_descr_hud",
+  "id": "refugees_camp",
+  "quality_icon": "(refugee_happiness_slot)",
+  "string_format": "@{$cur_refugee_happiness:0.##} / {0:0}",
+  "zone_group": "refugee_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "alarich_tent_inside",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ },
+ {
+  "calc_method": 1,
+  "gui_descr_str": "zone_soul_descr_gui",
+  "hud_descr_str": "zone_soul_descr_hud",
+  "id": "souls",
+  "quality_icon": "(soul_zone_capacity)",
+  "string_format": "@{$gratitude_points:0} / {0:0}",
+  "zone_group": "morgue_group",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [
+    "dur_k_body"
+   ],
+   "_res_v": [
+    0.5
+   ]
+  }
+ },
+ {
+  "calc_method": 0,
+  "gui_descr_str": "",
+  "hud_descr_str": "",
+  "id": "euric_room",
+  "quality_icon": "",
+  "string_format": "",
+  "zone_group": "",
+  "zone_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  }
+ }
+]

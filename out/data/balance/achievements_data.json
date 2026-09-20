@@ -1,0 +1,6252 @@
+[
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "bury_1_body",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "zerohp_grave_corp"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 10,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "bury_10_bodies",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "zerohp_grave_corp"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 50,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "bury_50_bodies",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "zerohp_grave_corp"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "first_slice",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "ach_slice_flesh"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 30,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "first_slice_10",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "ach_slice_flesh"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "church_up_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "church_1lvl_to_2lvl"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "church_up_2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "church_2lvl_to_3lvl"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 6,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fish_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_fish"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 10,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fish_2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_fish"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 15,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fish_3",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_fish"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 200,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fish_200",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "fishing_success"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fish_goldfish",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_fish_fish_goldfish"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 10,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "cook_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_cook_food"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 20,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "cook_2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_cook_food"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 30,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "cook_3",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_cook_food"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "cook_golddinner",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "item_dinner:3"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "eat_fishstick",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "use_item_meal:nuggets_fish"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 5,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "craft_alch_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_craft_alchemy"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 10,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "craft_alch_2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_craft_alchemy"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 20,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "craft_alch_3",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "new_craft_alchemy"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 50,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "eat_healpots",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "use_item_pot_heal"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 7,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "player_die",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "player_dead"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dungeon_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dungeon_completed_5"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dungeon_2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dungeon_completed_10"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dungeon_3",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dungeon_completed_15"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "gold_pumpkin",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "item_pumpkin_crop:3"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "craft_gold_wine",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "item_bottle_red_vine:3"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "meet_astro",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "meet_npc_astrologer"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "meet_actress",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "meet_npc_actress"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "meet_merch",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "meet_npc_merchant"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "meet_inq",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "meet_npc_inquisitor"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "meet_bishop",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "meet_npc_bishop"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "meet_snake",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "meet_npc_cultist"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "summon_snake",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "chicken_summoning"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "kill_witcher",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "witchers_death"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "decore_dtemple",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "satans_will"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "burger_seller",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "burgers_from_future"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "all_darkparts",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dark_organs"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "witch_hill",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "witch_hill_keeper"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "parfume",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "actress_parfume"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "ideal_song",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "actress_song"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "merch_deal",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "beginning_of_trading"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "merch_5_fame",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "fame_more_than_5"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "astro_book",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "gold_book"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fix_garden",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "fix_garden"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "stone_fence",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "stone_fence_gr"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "marble",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "craft_build_marble_quarry"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "astro_skull",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "true_skull"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fix_mill",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "fixed_mill"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "necronomicon",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "necronomicon"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "fix_bridge",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "craft_fix_bridge_stn_broken"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1000,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "tech_g",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "tech_collect_g"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1000,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "tech_b",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "tech_collect_b"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1000,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "tech_r",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "tech_collect_r"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 3000,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "tech_g2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "tech_collect_g"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 3000,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "tech_b2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "tech_collect_b"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 3000,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "tech_r2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "tech_collect_r"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "hidden_portal",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "launch_the_portal"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "hidden_act_astro",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "astr_actr_together"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "hidden_merch_bish",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "bish_merch_together"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "hidden_imyourfather",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "snk_inqstr_together"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "betray_gerry",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "attempt_btr_grr"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_buy_land",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_buy_land"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_build_tavern",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_build_tavern"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_tavern_q_20",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_tavern_q_20"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_tavern_q_40",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_tavern_q_40"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_tavern_q_80",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_tavern_q_80"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_barman",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_barman"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_first_alcoparty",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_alcoparty"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_first_stand_up",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_stand_up"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_first_sharmel_song",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_sharmel_song"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_first_rat_race",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_rat_race"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_good_alcoparty",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_good_alcoparty"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_good_stand_up",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_good_stand_up"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_good_sharmel_song",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_good_sharmel_song"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_good_rat_race",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_good_rat_race"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 15,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_15_events",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_event"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_cut_scene_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_cut_scene_1"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_cut_scene_6",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_cut_scene_6"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_cut_scene_10",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_cut_scene_10"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_cut_scene_14",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_cut_scene_14"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_cut_scene_18",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_cut_scene_18"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_stories_cut_scene_9",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_stories_cut_scene_9"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s1"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s5",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s5"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s10",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s10"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s12",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s12"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s15_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s15_1"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s15_2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s15_2"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s15_3",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s15_3"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s18",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s18"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s23",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s23"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s28",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s28"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s33",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s33"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s37",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s37"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s40",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s40"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_s46_or_s53",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_s46_or_s53"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_d1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_d1"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_d3",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_d3"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_d6",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_d6"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_d10",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_d10"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_d16",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_d16"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_city_1_fin",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_city_1_fin"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_city_2_fin",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_city_2_fin"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_city_3_fin",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_city_3_fin"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_paradise",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_paradise"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_cook",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_cook"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_undertaker",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_undertaker"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_refugees_tanner",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_refugees_tanner"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_1"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_4_3",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_4_3"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_6a",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_6a"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_6b_2",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_6b_2"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_15",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_15"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_16_1",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_16_1"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_22",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_22"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_24",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_24"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_25",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_25"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_30",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_30"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_31",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_31"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_33",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_33"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_34",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_34"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_35",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_35"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_41",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_41"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ },
+ {
+  "arrow_wgo_custom_tag": "",
+  "arrow_wgo_obj_id": "",
+  "counter": 1,
+  "fail_expressions": [],
+  "fail_script": "",
+  "fail_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "id": "dlc_souls_s_s_46",
+  "one_time_quest": 0,
+  "quest_visible": 0,
+  "rew_on_fail_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "rew_on_success_params": {
+   "_durability": 0.0,
+   "_hp": 0.0,
+   "_money": 0.0,
+   "_progress": 0.0,
+   "_res_type": [],
+   "_res_v": []
+  },
+  "start_key": [
+   "dlc_souls_s_s_46"
+  ],
+  "start_script": "",
+  "start_trigger": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "success_expressions": [],
+  "success_script": "",
+  "success_trigger": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  }
+ }
+]

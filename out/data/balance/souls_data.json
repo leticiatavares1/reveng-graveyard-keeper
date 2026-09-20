@@ -1,0 +1,656 @@
+[
+ {
+  "id": "soul_0_1",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_1"
+  ],
+  "tier": 0
+ },
+ {
+  "id": "soul_0_2",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_0"
+  ],
+  "tier": 0
+ },
+ {
+  "id": "soul_0_3",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_1"
+  ],
+  "tier": 0
+ },
+ {
+  "id": "soul_1_1",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_1"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_2",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_0"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_3",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_1"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_4",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_5",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_0"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_6",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_7",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_1"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_8",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_9",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_3"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_10",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_0"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_11",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_3"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_12",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_1"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_13",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_3"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_14",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_1_15",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_3"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "soul_2_1",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_1",
+   "sin_pride:pride_1_0"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_2",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_0",
+   "sin_pride:pride_0_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_3",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_1",
+   "sin_pride:pride_1_0"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_4",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_2",
+   "sin_pride:pride_2_0"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_5",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_0",
+   "sin_pride:pride_1_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_6",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_2",
+   "sin_pride:pride_0_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_7",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_1",
+   "sin_pride:pride_0_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_8",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_2",
+   "sin_pride:pride_1_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_9",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_3",
+   "sin_pride:pride_3_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_10",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_0",
+   "sin_pride:pride_1_3"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_11",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_3",
+   "sin_pride:pride_3_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_12",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_1",
+   "sin_pride:pride_2_3"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_13",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_3",
+   "sin_pride:pride_2_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_14",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_2",
+   "sin_pride:pride_2_3"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_2_15",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_3",
+   "sin_pride:pride_3_3"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "soul_3_1",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_1",
+   "sin_pride:pride_1_0",
+   "sin_wrath:wrath_0_1",
+   "sin_gluttony:gluttony_3_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_2",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_0",
+   "sin_pride:pride_0_2",
+   "sin_wrath:wrath_1_0",
+   "sin_gluttony:gluttony_1_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_3",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_1",
+   "sin_pride:pride_1_0",
+   "sin_wrath:wrath_1_1",
+   "sin_gluttony:gluttony_2_0"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_4",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_2",
+   "sin_pride:pride_2_0",
+   "sin_wrath:wrath_0_2",
+   "sin_gluttony:gluttony_1_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_5",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_0",
+   "sin_pride:pride_1_1",
+   "sin_wrath:wrath_2_0",
+   "sin_gluttony:gluttony_1_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_6",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_2",
+   "sin_pride:pride_0_1",
+   "sin_wrath:wrath_1_2",
+   "sin_gluttony:gluttony_0_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_7",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_3",
+   "sin_pride:pride_2_2",
+   "sin_wrath:wrath_2_1",
+   "sin_gluttony:gluttony_2_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_8",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_3",
+   "sin_pride:pride_2_2",
+   "sin_wrath:wrath_2_2",
+   "sin_gluttony:gluttony_1_3"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_9",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_3",
+   "sin_pride:pride_3_1",
+   "sin_wrath:wrath_0_3",
+   "sin_gluttony:gluttony_1_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_10",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_1",
+   "sin_pride:pride_0_2",
+   "sin_wrath:wrath_3_0",
+   "sin_gluttony:gluttony_1_3"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_11",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_3",
+   "sin_pride:pride_2_2",
+   "sin_wrath:wrath_1_3",
+   "sin_gluttony:gluttony_2_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_12",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_1",
+   "sin_pride:pride_0_2",
+   "sin_wrath:wrath_3_1",
+   "sin_gluttony:gluttony_1_0"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_13",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_3",
+   "sin_pride:pride_3_1",
+   "sin_wrath:wrath_3_2",
+   "sin_gluttony:gluttony_1_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_14",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_3",
+   "sin_pride:pride_3_3",
+   "sin_wrath:wrath_2_3",
+   "sin_gluttony:gluttony_3_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_3_15",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_3",
+   "sin_pride:pride_3_1",
+   "sin_wrath:wrath_3_3",
+   "sin_gluttony:gluttony_0_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "soul_4_1",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_0",
+   "sin_pride:pride_0_2",
+   "sin_wrath:wrath_1_0",
+   "sin_gluttony:gluttony_1_2",
+   "sin_sloth:sloth_0_1",
+   "sin_lust:lust_1_1",
+   "sin_envy:envy_1_1"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_2",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_1",
+   "sin_pride:pride_1_0",
+   "sin_wrath:wrath_1_1",
+   "sin_gluttony:gluttony_2_0",
+   "sin_sloth:sloth_1_0",
+   "sin_lust:lust_1_1",
+   "sin_envy:envy_0_1"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_3",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_1",
+   "sin_pride:pride_1_0",
+   "sin_wrath:wrath_2_1",
+   "sin_gluttony:gluttony_2_2",
+   "sin_sloth:sloth_1_1",
+   "sin_lust:lust_2_0",
+   "sin_envy:envy_0_3"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_4",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_0",
+   "sin_pride:pride_1_1",
+   "sin_wrath:wrath_2_2",
+   "sin_gluttony:gluttony_1_3",
+   "sin_sloth:sloth_0_2",
+   "sin_lust:lust_3_1",
+   "sin_envy:envy_2_3"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_5",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_2",
+   "sin_pride:pride_1_1",
+   "sin_wrath:wrath_1_3",
+   "sin_gluttony:gluttony_2_1",
+   "sin_sloth:sloth_2_0",
+   "sin_lust:lust_0_3",
+   "sin_envy:envy_2_1"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_6",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_3_0",
+   "sin_pride:pride_1_3",
+   "sin_wrath:wrath_3_1",
+   "sin_gluttony:gluttony_1_0",
+   "sin_sloth:sloth_1_2",
+   "sin_lust:lust_2_1",
+   "sin_envy:envy_2_2"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_7",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_3",
+   "sin_pride:pride_2_2",
+   "sin_wrath:wrath_3_3",
+   "sin_gluttony:gluttony_0_2",
+   "sin_sloth:sloth_2_1",
+   "sin_lust:lust_2_3",
+   "sin_envy:envy_1_0"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_8",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_3",
+   "sin_pride:pride_3_1",
+   "sin_wrath:wrath_2_2",
+   "sin_gluttony:gluttony_1_3",
+   "sin_sloth:sloth_2_2",
+   "sin_lust:lust_1_0",
+   "sin_envy:envy_3_2"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_9",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_2",
+   "sin_pride:pride_0_1",
+   "sin_wrath:wrath_3_0",
+   "sin_gluttony:gluttony_1_3",
+   "sin_sloth:sloth_0_3",
+   "sin_lust:lust_3_1",
+   "sin_envy:envy_2_0"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_10",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_2",
+   "sin_pride:pride_1_1",
+   "sin_wrath:wrath_1_0",
+   "sin_gluttony:gluttony_1_2",
+   "sin_sloth:sloth_3_0",
+   "sin_lust:lust_2_0",
+   "sin_envy:envy_2_3"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_11",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_0_3",
+   "sin_pride:pride_3_1",
+   "sin_wrath:wrath_3_3",
+   "sin_gluttony:gluttony_0_2",
+   "sin_sloth:sloth_1_3",
+   "sin_lust:lust_1_3",
+   "sin_envy:envy_3_3"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_12",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_2_3",
+   "sin_pride:pride_2_2",
+   "sin_wrath:wrath_3_1",
+   "sin_gluttony:gluttony_1_0",
+   "sin_sloth:sloth_3_1",
+   "sin_lust:lust_2_3",
+   "sin_envy:envy_1_2"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_13",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_0",
+   "sin_pride:pride_0_2",
+   "sin_wrath:wrath_2_1",
+   "sin_gluttony:gluttony_2_2",
+   "sin_sloth:sloth_2_3",
+   "sin_lust:lust_0_2",
+   "sin_envy:envy_2_2"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_14",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_1",
+   "sin_pride:pride_1_0",
+   "sin_wrath:wrath_1_0",
+   "sin_gluttony:gluttony_1_2",
+   "sin_sloth:sloth_3_2",
+   "sin_lust:lust_1_1",
+   "sin_envy:envy_2_3"
+  ],
+  "tier": 4
+ },
+ {
+  "id": "soul_4_15",
+  "linked_item_id": "soul_harmed_body_part",
+  "parts_ids": [
+   "sin_greed:greed_1_0",
+   "sin_pride:pride_0_2",
+   "sin_wrath:wrath_3_3",
+   "sin_gluttony:gluttony_0_2",
+   "sin_sloth:sloth_3_3",
+   "sin_lust:lust_2_1",
+   "sin_envy:envy_2_2"
+  ],
+  "tier": 4
+ }
+]

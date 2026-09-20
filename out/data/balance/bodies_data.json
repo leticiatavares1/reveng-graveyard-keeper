@@ -1,0 +1,865 @@
+[
+ {
+  "id": "body_0_1",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_1_1",
+   "heart:heart_0_0",
+   "intestine:intestine_0_1"
+  ],
+  "tier": 0
+ },
+ {
+  "id": "body_0_2",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_0",
+   "heart:heart_1_1",
+   "intestine:intestine_0_1"
+  ],
+  "tier": 0
+ },
+ {
+  "id": "body_0_3",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_1",
+   "heart:heart_1_1",
+   "intestine:intestine_0_0"
+  ],
+  "tier": 0
+ },
+ {
+  "id": "body_1_1",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_1_1",
+   "heart:heart_2_-1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_2",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_-1",
+   "heart:heart_1_1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_3",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_1_1",
+   "intestine:intestine_2_-1"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_4",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_1_1",
+   "heart:heart_2_0",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_5",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_0",
+   "heart:heart_0_2",
+   "intestine:intestine_1_1"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_6",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_1_1",
+   "intestine:intestine_2_0"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_7",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_1",
+   "heart:heart_2_0",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_8",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_0",
+   "heart:heart_0_1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_9",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_0_1",
+   "intestine:intestine_2_0"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_10",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_2_0",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_11",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_0",
+   "heart:heart_0_2",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_1_12",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_0_2",
+   "intestine:intestine_2_0"
+  ],
+  "tier": 1
+ },
+ {
+  "id": "body_2_1",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_2_-1",
+   "intestine:intestine_2_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_2",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_1",
+   "heart:heart_0_2",
+   "intestine:intestine_2_-1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_3",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_-1",
+   "heart:heart_2_1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_4",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_-1",
+   "heart:heart_0_2",
+   "intestine:intestine_2_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_5",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_2_2",
+   "intestine:intestine_2_-1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_6",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_2",
+   "heart:heart_2_-1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_7",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_0",
+   "heart:heart_0_2",
+   "intestine:intestine_2_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_8",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_2_2",
+   "intestine:intestine_2_0"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_9",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_2",
+   "heart:heart_2_0",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_10",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_2_1",
+   "intestine:intestine_1_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_11",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_1",
+   "heart:heart_1_1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_12",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_1_1",
+   "heart:heart_0_2",
+   "intestine:intestine_2_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_13",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_4_1",
+   "heart:heart_1_1",
+   "intestine:intestine_-2_3"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_14",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_-2_3",
+   "heart:heart_4_1",
+   "intestine:intestine_1_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_2_15",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_1_1",
+   "heart:heart_-2_3",
+   "intestine:intestine_4_1"
+  ],
+  "tier": 2
+ },
+ {
+  "id": "body_3_1",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_4_1",
+   "heart:heart_0_1",
+   "intestine:intestine_2_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_2",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_1",
+   "heart:heart_2_2",
+   "intestine:intestine_4_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_3",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_2",
+   "heart:heart_4_1",
+   "intestine:intestine_0_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_4",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_4_1",
+   "heart:heart_0_1",
+   "intestine:intestine_1_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_5",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_1",
+   "heart:heart_1_1",
+   "intestine:intestine_4_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_6",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_1_1",
+   "heart:heart_4_1",
+   "intestine:intestine_0_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_7",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_0",
+   "heart:heart_0_1",
+   "intestine:intestine_3_3"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_8",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_1",
+   "heart:heart_3_3",
+   "intestine:intestine_2_0"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_9",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_3_3",
+   "heart:heart_2_0",
+   "intestine:intestine_0_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_10",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_0",
+   "heart:heart_0_2",
+   "intestine:intestine_3_3"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_11",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_3_3",
+   "intestine:intestine_2_0"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_12",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_3_3",
+   "heart:heart_2_0",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_13",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_0_2",
+   "heart:heart_2_1",
+   "intestine:intestine_2_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_14",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_1",
+   "heart:heart_2_2",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_15",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_1_1",
+   "heart:heart_0_2",
+   "intestine:intestine_2_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_16",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_4_1",
+   "heart:heart_2_2",
+   "intestine:intestine_-2_3"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_17",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_-2_3",
+   "heart:heart_4_1",
+   "intestine:intestine_2_2"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_3_18",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_2",
+   "heart:heart_-2_3",
+   "intestine:intestine_4_1"
+  ],
+  "tier": 3
+ },
+ {
+  "id": "body_witcher",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "blood",
+   "skin",
+   "brain:brain_4_1",
+   "heart:heart_4_1",
+   "intestine:intestine_0_0"
+  ],
+  "tier": 666
+ },
+ {
+  "id": "body_zombie",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "skin",
+   "brain:brain_-2_3",
+   "heart:heart_-2_3",
+   "intestine:intestine_-2_3",
+   "embalm_0_1",
+   "embalm_-1_1",
+   "embalm_-2_2"
+  ],
+  "tier": 100
+ },
+ {
+  "id": "body_3rd_keeper",
+  "linked_item_id": "body",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "skin",
+   "brain:brain_2_0",
+   "brain:brain_2_0",
+   "heart:heart_1_1",
+   "intestine:intestine_-2_3"
+  ],
+  "tier": 228
+ },
+ {
+  "id": "body_guard_1",
+  "linked_item_id": "body_guard",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_2",
+   "heart:heart_2_-1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 101
+ },
+ {
+  "id": "body_guard_2",
+  "linked_item_id": "body_guard",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_2",
+   "heart:heart_2_-1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 101
+ },
+ {
+  "id": "body_guard_3",
+  "linked_item_id": "body_guard",
+  "parts_ids": [
+   "skull",
+   "bone",
+   "flesh",
+   "fat",
+   "blood",
+   "skin",
+   "brain:brain_2_2",
+   "heart:heart_2_-1",
+   "intestine:intestine_0_2"
+  ],
+  "tier": 101
+ }
+]

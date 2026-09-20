@@ -1,0 +1,2778 @@
+[
+ {
+  "condition": {
+   "_expression": "1-Ppar(\"donkey_on_scene\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "AddPpar(\"donkeys\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":donkey_start"
+  ],
+  "expressions": [],
+  "id": "donkey",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.5
+ },
+ {
+  "condition": {
+   "_expression": "0",
+   "_simpified_float": 0.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "red_eye_talk_1"
+  ],
+  "expressions": [],
+  "id": "red_eye_call_1",
+  "period_time": 0.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.7999999523162842
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_remove"
+  ],
+  "expressions": [],
+  "id": "bishop_remove",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.899999976158142
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 6)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_spawn"
+  ],
+  "expressions": [],
+  "id": "actress_spawn",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.0999999046325684
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 6)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_remove"
+  ],
+  "expressions": [],
+  "id": "actress_remove",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.9000000953674316
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 5)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_spawn"
+  ],
+  "expressions": [],
+  "id": "merchant_spawn",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.0999999046325684
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 5)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_remove"
+  ],
+  "expressions": [],
+  "id": "merchant_remove",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.75
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 4)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_spawn"
+  ],
+  "expressions": [],
+  "id": "cultist_spawn",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.9000000953674316
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 4)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_remove"
+  ],
+  "expressions": [],
+  "id": "cultist_remove",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 4.650000095367432
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 3)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_spawn"
+  ],
+  "expressions": [],
+  "id": "inquisitor_spawn",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 5.099999904632568
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 3)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_remove"
+  ],
+  "expressions": [],
+  "id": "inquisitor_remove",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 5.800000190734863
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 2)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_spawn"
+  ],
+  "expressions": [],
+  "id": "astrologer_spawn",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 5.900000095367432
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 2)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_remove"
+  ],
+  "expressions": [],
+  "id": "astrologer_remove",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 6.800000190734863
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"cur_key_char\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":on_key_char_spawn"
+  ],
+  "expressions": [],
+  "id": "bishop_spawn",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 6.900000095367432
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"everyday_cultist_come\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_cultist",
+    "event_name": "custom_cultist_spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "custom_cultist_spawn",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.899999976158142
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"everyday_cultist_come\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_cultist",
+    "event_name": "custom_cultist_remove"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "custom_cultist_remove",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.3499999046325684
+ },
+ {
+  "condition": {
+   "_expression": "0",
+   "_simpified_float": 0.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "on_evening_came"
+  ],
+  "expressions": [],
+  "id": "evening_came",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.875
+ },
+ {
+  "condition": {
+   "_expression": "0",
+   "_simpified_float": 0.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "on_morning_came"
+  ],
+  "expressions": [],
+  "id": "morning_came",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.375
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "on_spawn_bat_test"
+  ],
+  "expressions": [],
+  "id": "spawn_bat_test",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.7999999523162842
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "on_spawn_slime_test"
+  ],
+  "expressions": [],
+  "id": "spawn_slime_test",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.299999952316284
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"do_spawn_rednecks\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":walking_in_tavern"
+  ],
+  "expressions": [],
+  "id": "morning_rednecks_spawn",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.200000047683716
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"do_spawn_rednecks\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":walking_in_tavern"
+  ],
+  "expressions": [],
+  "id": "rednecks_spawn_first_time",
+  "period_time": 0.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.5
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"rednecks_spawned\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   ":walking_in_tavern"
+  ],
+  "expressions": [],
+  "id": "rednecks_walking_in_tavern",
+  "period_time": 0.05000000074505806,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.7000000476837158
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"do_remove_rednecks\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":walking_in_tavern"
+  ],
+  "expressions": [],
+  "id": "evening_rednecks_remove",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.75
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "mrs_chain_walking_in_tavern"
+  ],
+  "expressions": [],
+  "id": "mrs_chain_walking_in_tavern",
+  "period_time": 0.10000000149011612,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.2750000953674316
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_guard_5",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "npc_guard_5_spawn",
+  "period_time": 0.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.5499999523162842
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"confession_probability\", 0.15)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   "church_budka_roll"
+  ],
+  "expressions": [],
+  "id": "church_budka_roll",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.0
+ },
+ {
+  "condition": {
+   "_expression": "0",
+   "_simpified_float": 0.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "village_hut_1",
+    "event_name": "Enable"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "village_house_3_chicken_enable",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.299999952316284
+ },
+ {
+  "condition": {
+   "_expression": "0",
+   "_simpified_float": 0.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "village_hut_1",
+    "event_name": "Disable"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "village_house_3_chicken_disable",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.899999976158142
+ },
+ {
+  "condition": {
+   "_expression": "0",
+   "_simpified_float": 0.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "sealman_house",
+    "event_name": "Enable"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "sealman_house_cow_enable",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.299999952316284
+ },
+ {
+  "condition": {
+   "_expression": "0",
+   "_simpified_float": 0.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "sealman_house",
+    "event_name": "Disable"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "sealman_house_cow_disable",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.899999976158142
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_miller",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_miller",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.259999990463257
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_miller",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_miller",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.9600000381469727
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_guard_torch",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_guard_torch",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.75
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_guard_torch",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_guard_torch",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.1500000953674316
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_engineer",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_engineer",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.25
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_engineer",
+    "event_name": "do_behavior"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "do_behavior_engineer",
+  "period_time": 0.25,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.299999952316284
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_engineer",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_engineer",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.950000047683716
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_alice",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_alice",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.2799999713897705
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_alice",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_alice",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.7799999713897705
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"storage_available\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "storage_process_merchant_traiding"
+  ],
+  "expressions": [],
+  "id": "storage_process_merchant_traiding",
+  "period_time": 6.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 9.75
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"appear_hunchback\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_hunchback",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_hunchback",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.700000047683716
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"appear_hunchback\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_hunchback",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_hunchback",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 4.199999809265137
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_blacksmith",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_blacksmith",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.299999952316284
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_blacksmith",
+    "event_name": "do_behavior"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "do_behavior_blacksmith",
+  "period_time": 0.25,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.3499999046325684
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_blacksmith",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_blacksmith",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.0
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_potter",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_potter",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.309999942779541
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_potter",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_potter",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.009999990463257
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_beekeeper",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_beekeeper",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.319999933242798
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_beekeeper",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_beekeeper",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.0199999809265137
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_rosa",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_rosa",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.240000009536743
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_rosa",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_rosa",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.940000057220459
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_shepherd",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_shepherd",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.3499999046325684
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_shepherd",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_shepherd",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.049999952316284
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_lightkeeper",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_lightkeeper",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.359999895095825
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_lightkeeper",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_lightkeeper",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.059999942779541
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_witch",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_witch",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.380000114440918
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_witch",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_witch",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.0799999237060547
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_carpenter",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_carpenter",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.2899999618530273
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_carpenter",
+    "event_name": "do_behavior"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "do_behavior_carpenter",
+  "period_time": 0.25,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.299999952316284
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_carpenter",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_carpenter",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.990000009536743
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_farmer",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_farmer",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.390000104904175
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_farmer",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_farmer",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.0899999141693115
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_farmers_son",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "npc_farmers_son_spawn",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.240000009536743
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_farmers_son",
+    "event_name": "do_behavior"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "npc_farmers_son_do_behavior",
+  "period_time": 0.25,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.299999952316284
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_farmers_son",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "npc_farmers_son_despawn",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.940000057220459
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_dig",
+    "event_name": "spawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "spawn_dig",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 3.2300000190734863
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_dig",
+    "event_name": "despawn"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "despawn_dig",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.930000066757202
+ },
+ {
+  "condition": {
+   "_expression": "1",
+   "_simpified_float": 1.0,
+   "_simplified": 1,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   ":portal_switch_sign"
+  ],
+  "expressions": [],
+  "id": "portal_switch_sign",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 2.0
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"tavern_shuffle_started\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "tavern_do_shuffle"
+  ],
+  "expressions": [],
+  "id": "tavern_shuffle",
+  "period_time": 0.07000000029802322,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 10.0
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"tavern_selling_started\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "tavern_sellings"
+  ],
+  "expressions": [],
+  "id": "tavern_sellings",
+  "period_time": 0.15000000596046448,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 10.0
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"camp_is_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"do_spawn_refugees\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":refugee_activities"
+  ],
+  "expressions": [],
+  "id": "refugee_morning_spawn",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.2000000476837158
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"camp_is_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [
+   {
+    "_expression": "SetPpar(\"do_despawn_refugees\", 1)",
+    "_simpified_float": 0.0,
+    "_simplified": 0,
+    "default_value": 0.0
+   }
+  ],
+  "execute_scripts": [
+   ":refugee_activities"
+  ],
+  "expressions": [],
+  "id": "refugee_evening_despawn",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.75
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"camp_is_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   ":refugee_activities"
+  ],
+  "expressions": [],
+  "id": "refugee_roll",
+  "period_time": 0.07000000029802322,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.2999999523162842
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"camp_is_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "refugee_camp_get_food"
+  ],
+  "expressions": [],
+  "id": "refugee_get_food",
+  "period_time": 0.20000000298023224,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.399999976158142
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"camp_is_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   ":mushrooms_and_berries"
+  ],
+  "expressions": [],
+  "id": "refugee_mushrooms_and_berries",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.2000000476837158
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"refugee_farm_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   ":roll_chickens"
+  ],
+  "expressions": [],
+  "id": "roll_chickens",
+  "period_time": 0.03500000014901161,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.2999999523162842
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"refugee_farm_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   ":refugee_milk"
+  ],
+  "expressions": [],
+  "id": "refugee_milk",
+  "period_time": 0.20000000298023224,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.2000000476837158
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"refugee_farm_live\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   ":refugee_eggs"
+  ],
+  "expressions": [],
+  "id": "refugee_eggs",
+  "period_time": 0.20000000298023224,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.2000000476837158
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"is_alarich_supply_enabled\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [
+   {
+    "custom_tag": "npc_master_alarich",
+    "event_name": "update_supply"
+   }
+  ],
+  "execute_expressions": [],
+  "execute_scripts": [],
+  "expressions": [],
+  "id": "alairch_supply_update",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.0
+ },
+ {
+  "condition": {
+   "_expression": "Ppar(\"has_refugee_cooking_table\")",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_1": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "condition_2": {
+   "_expression": "",
+   "_simpified_float": 0.0,
+   "_simplified": 0,
+   "default_value": 0.0
+  },
+  "execute_events": [],
+  "execute_expressions": [],
+  "execute_scripts": [
+   "check_refugee_cooking"
+  ],
+  "expressions": [],
+  "id": "check_refugee_cooking",
+  "period_time": 1.0,
+  "scripts_1": [],
+  "scripts_2": [],
+  "start_time": 1.2000000476837158
+ }
+]
