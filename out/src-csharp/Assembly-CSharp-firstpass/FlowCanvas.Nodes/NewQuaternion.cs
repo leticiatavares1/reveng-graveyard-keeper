@@ -1,0 +1,15 @@
+using System;
+using ParadoxNotion.Design;
+using UnityEngine;
+
+namespace FlowCanvas.Nodes;
+
+[Obsolete]
+[Category("Utilities/Constructors")]
+public class NewQuaternion : PureFunctionNode<Quaternion, float, float, float, float>
+{
+	public override Quaternion Invoke(float x, float y, float z, float w)
+	{
+		return new Quaternion(x, y, z, w);
+	}
+}
