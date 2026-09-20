@@ -55,9 +55,10 @@ Use o escopo que melhor representa a área tocada. Se a mudança cruza várias �
 |---|---|
 | `typetree` | `scripts/gk/typetree.py`, `scripts/gk/assets.py` (a leitura dos assets da Unity) |
 | `extracao` | `scripts/extrai-balance.py`, `scripts/extrai-locales.py` |
-| `catalogo` | `scripts/catalogo.py` e a saída em `out/catalogo/**` e `out/data/wiki/**` |
-| `data` | `out/data/balance/**` e `out/data/locales/**` — reextração sem mudança de código |
-| `src-csharp` | `out/src-csharp/**` — redecompilação |
+| `catalogo` | `scripts/catalogo.py`, `gk/catalogo_*.py` e a saída em `out/*/catalogo/**` e `out/*/data/wiki/**` |
+| `data` | `out/*/data/balance/**` e `out/*/data/locales/**` — reextração sem mudança de código |
+| `src-csharp` | `out/*/src-csharp/**` — redecompilação |
+| `gk1` · `gk2` | mudança que só afeta um dos jogos (use no lugar do escopo de área quando for esse o recorte) |
 | `scripts` | `scripts/*.sh` (setup, inventário, decompilação) |
 | `deps` | `requirements.txt` |
 | `skills` | `.claude/skills/**` |
@@ -90,9 +91,15 @@ A Lazy Bear mexeu em 14 receitas de alquimia e adicionou 3 itens.
 3. **Valide antes de commitar.** Se o commit toca `scripts/`, rode o pipeline afetado e confira que os números continuam de pé:
 
    ```sh
-   ./.venv/bin/python scripts/extrai-balance.py    # 6.116 definições em 34 listas
-   ./.venv/bin/python scripts/extrai-locales.py    # 11 idiomas, 10.961 textos cada
-   ./.venv/bin/python scripts/catalogo.py          # 1.157 itens, 2.634 receitas, 187 techs
+   # gk1: 6.116 definições em 34 listas · 11 idiomas × 10.961 textos
+   #      1.157 itens, 2.634 receitas, 187 techs
+   # gk2: 13.754 definições em 33 listas · 11 idiomas × 9.370 textos
+   #      814 itens, 825 receitas, 236 techs
+   for j in gk1 gk2; do
+     ./.venv/bin/python scripts/extrai-balance.py $j
+     ./.venv/bin/python scripts/extrai-locales.py $j
+     ./.venv/bin/python scripts/catalogo.py       $j
+   done
    ```
 
    Contagem que despenca ou estoura é sinal de leitura torta, não de patch do jogo — pare e investigue (`docs/03-pipeline-typetree.md`). Não commite por cima de extração quebrada sem autorização.
