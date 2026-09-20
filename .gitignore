@@ -1,0 +1,13 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# saída pesada / regenerável
+out/binarios/
+out/icones/
+out/tmp/
+*.log
+*.dll
+*.exe
+*.png
