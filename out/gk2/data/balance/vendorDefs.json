@@ -1,0 +1,7484 @@
+[
+ {
+  "icon": "npc_head_of_the_village",
+  "id": "npc_head_of_the_village",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 1000,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 75,
+    "happinessCap": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 20000,
+    "newProducts": [
+     "beer",
+     "berry_pie",
+     "body_certificate:1",
+     "body_certificate:2",
+     "body_certificate:3",
+     "town_gratitude",
+     "exhume_certificate"
+    ],
+    "notBuying": [
+     "town_gratitude"
+    ],
+    "notSelling": [
+     "body_certificate:1",
+     "body_certificate:2",
+     "body_certificate:3"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:1",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:2",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:3",
+      "perOne": 1.0
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "berry_pie",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "town_gratitude",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "exhume_certificate",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "15",
+     "expressionStringUnparsed": "15",
+     "pureValueBool": 0,
+     "pureValueFloat": 15.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 20000,
+    "newProducts": [],
+    "notBuying": [
+     "town_gratitude"
+    ],
+    "notSelling": [
+     "body_certificate:1",
+     "body_certificate:2",
+     "body_certificate:3"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 5,
+      "itemCount": 50,
+      "itemId": "beer",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:1",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:2",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:3",
+      "perOne": 1.0
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berry_pie",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 2,
+      "itemId": "town_gratitude",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 2,
+      "itemId": "exhume_certificate",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 200,
+    "happinessCap": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "printed_money"
+    ],
+    "notBuying": [
+     "town_gratitude"
+    ],
+    "notSelling": [
+     "body_certificate:1",
+     "body_certificate:2",
+     "body_certificate:3",
+     "printed_money"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 5,
+      "itemCount": 50,
+      "itemId": "beer",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:1",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:2",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 5,
+      "itemId": "body_certificate:3",
+      "perOne": 1.0
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 30,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "berry_pie",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "town_gratitude",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "exhume_certificate",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "printed_money",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "npc_herm",
+  "id": "npc_herm",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 1500,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "wheat_seed",
+     "bronze_scrap",
+     "fillet_fish_river",
+     "firewood",
+     "stick",
+     "flitch"
+    ],
+    "notBuying": [],
+    "notSelling": [
+     "fillet_fish_river",
+     "firewood",
+     "stick",
+     "flitch"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 5,
+      "itemId": "fillet_fish_river",
+      "perOne": 0.4000000059604645
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "wheat_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fillet_fish_river",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "firewood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "stick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "flitch",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 200,
+    "happinessCap": {
+     "expressionString": "15",
+     "expressionStringUnparsed": "15",
+     "pureValueBool": 0,
+     "pureValueFloat": 15.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "egg_chicken",
+     "carrot_seed",
+     "beet_seed",
+     "cabbage_seed:1",
+     "onion_seed:1",
+     "flax_seed",
+     "hop_seed",
+     "wheat",
+     "carrot",
+     "beet",
+     "cabbage:1",
+     "onion:1",
+     "wooden_plank",
+     "ceramic_1",
+     "brick"
+    ],
+    "notBuying": [],
+    "notSelling": [
+     "firewood",
+     "stick",
+     "flitch",
+     "wooden_plank",
+     "ceramic_1",
+     "brick"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "wheat",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "carrot",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "beet",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "cabbage:1",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "cabbage:2",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "cabbage:3",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "onion:1",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "onion:2",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "onion:3",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 5,
+      "itemId": "fillet_fish_river",
+      "perOne": 0.4000000059604645
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "egg_chicken",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fillet_fish_river",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 32,
+      "itemId": "wheat_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 32,
+      "itemId": "carrot_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 32,
+      "itemId": "beet_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 12,
+      "itemId": "cabbage_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 12,
+      "itemId": "onion_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 12,
+      "itemId": "flax_seed",
+      "priceMod": 10
+     },
+     {
+      "baseCount": 12,
+      "itemId": "hop_seed",
+      "priceMod": 10
+     },
+     {
+      "baseCount": 30,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "carrot",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "beet",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cabbage:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 25,
+      "itemId": "onion:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "firewood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "stick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "flitch",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "ceramic_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "brick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 300,
+    "happinessCap": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "jug_milk",
+     "grape_seed:1",
+     "apple_seedling",
+     "berry_seedling",
+     "rhod_seedling",
+     "blueberry_seedling",
+     "thread_flax"
+    ],
+    "notBuying": [],
+    "notSelling": [
+     "firewood",
+     "stick",
+     "flitch",
+     "wooden_plank",
+     "ceramic_1",
+     "brick"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "wheat",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "carrot",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "beet",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "cabbage:1",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "cabbage:2",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "cabbage:3",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "onion:1",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "onion:2",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "onion:3",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 5,
+      "itemId": "fillet_fish_river",
+      "perOne": 0.4000000059604645
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "jug_milk",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "egg_chicken",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fillet_fish_river",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "wheat_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "carrot_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "beet_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cabbage_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "onion_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 12,
+      "itemId": "grape_seed:1",
+      "priceMod": 10
+     },
+     {
+      "baseCount": 20,
+      "itemId": "flax_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "hop_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "apple_seedling",
+      "priceMod": 150
+     },
+     {
+      "baseCount": 3,
+      "itemId": "berry_seedling",
+      "priceMod": 150
+     },
+     {
+      "baseCount": 3,
+      "itemId": "rhod_seedling",
+      "priceMod": 200
+     },
+     {
+      "baseCount": 3,
+      "itemId": "blueberry_seedling",
+      "priceMod": 250
+     },
+     {
+      "baseCount": 30,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "carrot",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "beet",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cabbage:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 25,
+      "itemId": "onion:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "firewood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "stick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "flitch",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "ceramic_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "brick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "thread_flax",
+      "priceMod": 15
+     },
+     {
+      "baseCount": 15,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "npc_warehouse_manager",
+  "id": "npc_warehouse_manager",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 5000,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 500,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "bronze_scrap",
+     "iron_ore",
+     "gold_nugget",
+     "gem",
+     "frill",
+     "incense_basic",
+     "quest_paint",
+     "lacquer",
+     "cacao",
+     "cabbage_seed:2",
+     "onion_seed:2",
+     "pumpkin_seed:2",
+     "grape_seed:1",
+     "grape_seed:2",
+     "hop_seed",
+     "flax_seed",
+     "trinkets_wood",
+     "trinkets_bronze",
+     "trinkets_gold"
+    ],
+    "notBuying": [],
+    "notSelling": [
+     "trinkets_wood",
+     "trinkets_bronze",
+     "trinkets_gold"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": [
+     {
+      "baseCount": 25,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "iron_ore",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "gold_nugget",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "gem",
+      "priceMod": 900
+     },
+     {
+      "baseCount": 10,
+      "itemId": "frill",
+      "priceMod": 300
+     },
+     {
+      "baseCount": 10,
+      "itemId": "incense_basic",
+      "priceMod": 300
+     },
+     {
+      "baseCount": 10,
+      "itemId": "quest_paint",
+      "priceMod": 300
+     },
+     {
+      "baseCount": 10,
+      "itemId": "lacquer",
+      "priceMod": 300
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cacao",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cabbage_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "onion_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "pumpkin_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "grape_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 12,
+      "itemId": "grape_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "hop_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "flax_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_wood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_gold",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "npc_astrologer",
+  "id": "npc_astrologer",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 1000,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 500,
+    "newProducts": [
+     "comets_tail",
+     "fireflight",
+     "hypno_device",
+     "resurrection_liquid",
+     "crystal_goddess",
+     "zombie_goo"
+    ],
+    "notBuying": [],
+    "notSelling": [
+     "hypno_device",
+     "resurrection_liquid",
+     "crystal_goddess"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": [
+     {
+      "baseCount": 5,
+      "itemId": "comets_tail",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fireflight",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "hypno_device",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "resurrection_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "crystal_goddess",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "zombie_goo",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [
+     "hypno_device"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": [
+     {
+      "baseCount": 5,
+      "itemId": "comets_tail",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fireflight",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "hypno_device",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "resurrection_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "crystal_goddess",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "zombie_goo",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": [
+     {
+      "baseCount": 5,
+      "itemId": "comets_tail",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fireflight",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "hypno_device",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "resurrection_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "crystal_goddess",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "zombie_goo",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "npc_workshop_foreman",
+  "id": "npc_workshop_foreman",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 500,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [
+     "quest_order_iron"
+    ],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "npc_bishop",
+  "id": "npc_bishop",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "bronze_scrap",
+     "iron_ore"
+    ],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": [
+     {
+      "baseCount": 25,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "iron_ore",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   }
+  ],
+  "townVendor": 0
+ },
+ {
+  "icon": "npc_woodcarver",
+  "id": "npc_woodcarver",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "bronze_scrap",
+     "iron_ore"
+    ],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": [
+     {
+      "baseCount": 25,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "iron_ore",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   }
+  ],
+  "townVendor": 0
+ },
+ {
+  "icon": "t_b_apothecary",
+  "id": "t_b_apothecary",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "powder_r",
+     "powder_r_r",
+     "powder_g",
+     "powder_g_g",
+     "powder_b",
+     "powder_b_b",
+     "powder_r_g",
+     "powder_r_b",
+     "powder_g_b",
+     "melted_fat",
+     "fragrance",
+     "alchemy_bottle_1",
+     "candle_basic",
+     "incense_basic",
+     "comets_tail",
+     "ash",
+     "salt",
+     "bag_alchemy"
+    ],
+    "notBuying": [
+     "bag_alchemy"
+    ],
+    "notSelling": [],
+    "orders": [
+     "pharmacy_box_cutlery_1",
+     "pharmacy_box_cutlery_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "fragrance",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "alchemy_bottle_1",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 4,
+      "itemId": "salt",
+      "perOne": 0.5
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 4,
+      "itemId": "incense_basic",
+      "perOne": 0.5
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "powder_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "melted_fat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fragrance",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "alchemy_bottle_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "candle_basic",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "incense_basic",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "comets_tail",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "ash",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_alchemy",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "powder_r_r_r",
+     "powder_g_g_g",
+     "powder_b_b_b",
+     "powder_r_r_g",
+     "powder_r_g_g",
+     "powder_r_r_b",
+     "powder_r_b_b",
+     "powder_g_g_b",
+     "powder_g_b_b",
+     "powder_r_g_b",
+     "alcohol",
+     "candle_advanced"
+    ],
+    "notBuying": [
+     "bag_alchemy"
+    ],
+    "notSelling": [],
+    "orders": [
+     "pharmacy_box_kitchen_utensils",
+     "pharmacy_box_kitchen_utensils_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 15,
+      "itemId": "alcohol",
+      "perOne": 0.2666666805744171
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "fragrance",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "alchemy_bottle_1",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 8,
+      "itemId": "salt",
+      "perOne": 0.25
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 8,
+      "itemId": "candle_advanced",
+      "perOne": 0.5
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 8,
+      "itemId": "incense_basic",
+      "perOne": 0.25
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "powder_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_g_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_g_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_g_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_g_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "melted_fat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "alcohol",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fragrance",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "alchemy_bottle_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "candle_basic",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "candle_advanced",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "incense_basic",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "comets_tail",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "ash",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_alchemy",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "alchemy_bottle_2",
+     "candle_master",
+     "incense_advanced"
+    ],
+    "notBuying": [
+     "bag_alchemy"
+    ],
+    "notSelling": [],
+    "orders": [
+     "pharmacy_box_cutlery_2",
+     "pharmacy_box_cutlery_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 15,
+      "itemId": "alcohol",
+      "perOne": 0.2666666805744171
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "fragrance",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "alchemy_bottle_1",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "alchemy_bottle_2",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 8,
+      "itemId": "salt",
+      "perOne": 0.25
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 8,
+      "itemId": "candle_advanced",
+      "perOne": 0.5
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 8,
+      "itemId": "candle_master",
+      "perOne": 0.5
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 8,
+      "itemId": "incense_basic",
+      "perOne": 0.25
+     },
+     {
+      "happinessCount": 3,
+      "itemCount": 8,
+      "itemId": "incense_advanced",
+      "perOne": 0.375
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "powder_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r_r",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_g_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_b_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_g_g",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_r_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_g_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_g_b_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "powder_r_g_b",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "melted_fat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "alcohol",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fragrance",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "alchemy_bottle_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "alchemy_bottle_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "candle_basic",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "candle_advanced",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "candle_master",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "incense_basic",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "incense_advanced",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "comets_tail",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "ash",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_alchemy",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_alchemist",
+  "id": "t_b_alchemist",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "powder_dreams",
+     "quest_paint",
+     "lacquer",
+     "heal_potion",
+     "damage_potion",
+     "motivator_potion",
+     "berserk_potion",
+     "weak_growing_elixir",
+     "preservative",
+     "resurrection_liquid",
+     "embalm_white:1",
+     "embalm_red:1",
+     "embalm_white_red:1",
+     "embalm_red_white:1",
+     "skroll_skin_pig",
+     "clean_paper",
+     "ink",
+     "science_kit_1",
+     "paper_liquid",
+     "bag_potions"
+    ],
+    "notBuying": [
+     "bag_potions"
+    ],
+    "notSelling": [],
+    "orders": [
+     "alchemy_box_kitchen_utensils",
+     "alchemy_box_kitchen_utensils_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 4,
+      "itemId": "powder_dreams",
+      "perOne": 0.5
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "quest_paint",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "lacquer",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "weak_growing_elixir",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "clean_paper",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "ink",
+      "perOne": 0.20000000298023224
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 5,
+      "itemId": "powder_dreams",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "quest_paint",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "lacquer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "heal_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "damage_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "motivator_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "berserk_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "weak_growing_elixir",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "preservative",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "resurrection_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "embalm_white_red:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "embalm_red_white:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "skroll_skin_pig",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "clean_paper",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "ink",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "science_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "paper_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_potions",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "heal_potion_2",
+     "damage_potion_2",
+     "motivator_potion_2",
+     "berserk_potion_2",
+     "rich_growing_elixir",
+     "organ_improver_red",
+     "organ_improver_white",
+     "quality_food_silver",
+     "third_eye_salt",
+     "embalm_white:2",
+     "embalm_red:2",
+     "embalm_white_red:2",
+     "embalm_red_white:2",
+     "notebook",
+     "science_kit_2"
+    ],
+    "notBuying": [
+     "bag_potions"
+    ],
+    "notSelling": [],
+    "orders": [
+     "alchemy_box_engineering_mechanism",
+     "alchemy_box_engineering_mechanism_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 4,
+      "itemId": "powder_dreams",
+      "perOne": 0.5
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "quest_paint",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "lacquer",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "weak_growing_elixir",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "rich_growing_elixir",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "organ_improver_red",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "organ_improver_white",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "quality_food_silver",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "clean_paper",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "ink",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "notebook",
+      "perOne": 0.20000000298023224
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "powder_dreams",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "quest_paint",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "lacquer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "heal_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "heal_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "damage_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "damage_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "motivator_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "motivator_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berserk_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berserk_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "weak_growing_elixir",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "rich_growing_elixir",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "preservative",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "organ_improver_red",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "organ_improver_white",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "resurrection_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "quality_food_silver",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "third_eye_salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white_red:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white_red:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red_white:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red_white:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "skroll_skin_pig",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "clean_paper",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "ink",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "notebook",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "science_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "science_kit_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "paper_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_potions",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "heal_potion_3",
+     "damage_potion_3",
+     "motivator_potion_3",
+     "berserk_potion_3",
+     "miracle_growing_elixir",
+     "liquid_harden",
+     "alkali",
+     "quality_food_gold",
+     "philosopher_stone",
+     "embalm_white:3",
+     "embalm_red:3",
+     "embalm_white_red:3",
+     "embalm_red_white:3",
+     "notebook_hard"
+    ],
+    "notBuying": [
+     "bag_potions"
+    ],
+    "notSelling": [],
+    "orders": [
+     "alchemy_box_appliances_2",
+     "alchemy_box_appliances_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 4,
+      "itemId": "powder_dreams",
+      "perOne": 0.5
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "quest_paint",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "lacquer",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 3,
+      "itemId": "weak_growing_elixir",
+      "perOne": 0.6666666865348816
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "rich_growing_elixir",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 1,
+      "itemId": "miracle_growing_elixir",
+      "perOne": 2.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "organ_improver_red",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "organ_improver_white",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 1,
+      "itemId": "liquid_harden",
+      "perOne": 2.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 1,
+      "itemId": "alkali",
+      "perOne": 2.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 2,
+      "itemId": "quality_food_silver",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 1,
+      "itemId": "quality_food_gold",
+      "perOne": 2.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 1,
+      "itemId": "philosopher_stone",
+      "perOne": 2.0
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "clean_paper",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "ink",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "notebook",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 5,
+      "itemId": "notebook_hard",
+      "perOne": 0.4000000059604645
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "powder_dreams",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "quest_paint",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "lacquer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "heal_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "heal_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "heal_potion_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "damage_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "damage_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "damage_potion_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "motivator_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "motivator_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "motivator_potion_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berserk_potion",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berserk_potion_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "berserk_potion_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "rich_growing_elixir",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "miracle_growing_elixir",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "preservative",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "organ_improver_red",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "organ_improver_white",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "resurrection_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "liquid_harden",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "alkali",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "quality_food_silver",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "quality_food_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "philosopher_stone",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "third_eye_salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "embalm_white:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "embalm_red:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white_red:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_white_red:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "embalm_white_red:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red_white:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "embalm_red_white:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "embalm_red_white:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "skroll_skin_pig",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "clean_paper",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "ink",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "notebook",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "notebook_hard",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "science_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "science_kit_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "paper_liquid",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_potions",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_vegetabler",
+  "id": "t_b_vegetabler",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "wheat_seed",
+     "wheat",
+     "carrot_seed",
+     "carrot",
+     "beet_seed",
+     "beet",
+     "cabbage_seed:1",
+     "cabbage:1",
+     "apple",
+     "shovel_1",
+     "apple_seedling",
+     "berry_seedling",
+     "rhod_seedling",
+     "bag_farming"
+    ],
+    "notBuying": [
+     "shovel_1",
+     "bag_farming"
+    ],
+    "notSelling": [],
+    "orders": [
+     "vegetable_box_vegetables",
+     "vegetable_box_vegetables_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "wheat",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "carrot",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "beet",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "cabbage:1",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "wheat_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "carrot_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "carrot",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "beet_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "beet",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "cabbage_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "cabbage:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "apple",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "shovel_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 2,
+      "itemId": "apple_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 2,
+      "itemId": "berry_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 2,
+      "itemId": "rhod_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_farming",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "cabbage_seed:2",
+     "cabbage_seed:3",
+     "cabbage:2",
+     "cabbage:3",
+     "onion_seed:1",
+     "onion_seed:2",
+     "onion:1",
+     "onion:2",
+     "pumpkin_seed:1",
+     "pumpkin:1",
+     "blueberry_seedling",
+     "shovel_2"
+    ],
+    "notBuying": [
+     "shovel_2",
+     "bag_farming"
+    ],
+    "notSelling": [],
+    "orders": [
+     "vegetable_box_preserves_1",
+     "vegetable_box_preserves_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 60,
+      "itemId": "wheat",
+      "perOne": 0.03333333507180214
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 60,
+      "itemId": "carrot",
+      "perOne": 0.03333333507180214
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 60,
+      "itemId": "beet",
+      "perOne": 0.03333333507180214
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 60,
+      "itemId": "cabbage:1",
+      "perOne": 0.03333333507180214
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 45,
+      "itemId": "cabbage:2",
+      "perOne": 0.04444444552063942
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 45,
+      "itemId": "cabbage:3",
+      "perOne": 0.04444444552063942
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 45,
+      "itemId": "onion:1",
+      "perOne": 0.04444444552063942
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "onion:2",
+      "perOne": 0.06666667014360428
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 30,
+      "itemId": "wheat_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "carrot_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "carrot",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "beet_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "beet",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cabbage_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cabbage_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "cabbage_seed:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cabbage:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cabbage:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "cabbage:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "onion_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "onion_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "onion:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "onion:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "pumpkin_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "pumpkin:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 4,
+      "itemId": "apple_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 4,
+      "itemId": "berry_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 4,
+      "itemId": "rhod_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 2,
+      "itemId": "blueberry_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 25,
+      "itemId": "apple",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "shovel_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "shovel_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_farming",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "onion_seed:3",
+     "onion:3",
+     "pumpkin_seed:2",
+     "pumpkin_seed:3",
+     "pumpkin:2",
+     "pumpkin:3",
+     "shovel_3"
+    ],
+    "notBuying": [
+     "shovel_3",
+     "bag_farming"
+    ],
+    "notSelling": [],
+    "orders": [
+     "vegetable_box_preserves_2",
+     "vegetable_box_preserves_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 100,
+      "itemId": "wheat",
+      "perOne": 0.03999999910593033
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 100,
+      "itemId": "carrot",
+      "perOne": 0.03999999910593033
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 100,
+      "itemId": "beet",
+      "perOne": 0.03999999910593033
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 100,
+      "itemId": "cabbage:1",
+      "perOne": 0.03999999910593033
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 80,
+      "itemId": "cabbage:2",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "cabbage:3",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 80,
+      "itemId": "onion:1",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "onion:2",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "onion:3",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "pumpkin:1",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 30,
+      "itemId": "pumpkin:2",
+      "perOne": 0.13333334028720856
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "pumpkin:3",
+      "perOne": 0.20000000298023224
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 50,
+      "itemId": "wheat_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "carrot_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "carrot",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "beet_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "beet",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "cabbage_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "cabbage_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cabbage_seed:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "cabbage:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "cabbage:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cabbage:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "onion_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "onion_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "onion_seed:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "onion:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "onion:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "onion:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "pumpkin_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "pumpkin_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "pumpkin_seed:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "pumpkin:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "pumpkin:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "pumpkin:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 8,
+      "itemId": "apple_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 8,
+      "itemId": "berry_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 8,
+      "itemId": "rhod_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "blueberry_seedling",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "apple",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "shovel_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "shovel_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "shovel_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_farming",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_tailor",
+  "id": "t_b_tailor",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "flax_seed",
+     "flax",
+     "frill",
+     "bag_universal"
+    ],
+    "notBuying": [
+     "bag_universal"
+    ],
+    "notSelling": [],
+    "orders": [
+     "tailor_box_fabric",
+     "tailor_box_fabric_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 8,
+      "itemCount": 80,
+      "itemId": "flax",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "flax_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "frill",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_universal",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "thread_flax",
+     "bag_universal_big"
+    ],
+    "notBuying": [
+     "bag_universal",
+     "bag_universal_big"
+    ],
+    "notSelling": [],
+    "orders": [
+     "tailor_box_clothes_1",
+     "tailor_box_clothes_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 16,
+      "itemCount": 160,
+      "itemId": "thread_flax",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 40,
+      "itemId": "flax_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "thread_flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "frill",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_universal",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_universal_big",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "fabric_flax"
+    ],
+    "notBuying": [
+     "bag_universal",
+     "bag_universal_big"
+    ],
+    "notSelling": [],
+    "orders": [
+     "tailor_box_clothes_2",
+     "tailor_box_clothes_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 12,
+      "itemCount": 160,
+      "itemId": "thread_flax",
+      "perOne": 0.07500000298023224
+     },
+     {
+      "happinessCount": 13,
+      "itemCount": 120,
+      "itemId": "fabric_flax",
+      "perOne": 0.10833333432674408
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 100,
+      "itemId": "flax_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 100,
+      "itemId": "flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 80,
+      "itemId": "thread_flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "fabric_flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "frill",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_universal",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_universal_big",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_furniturer",
+  "id": "t_b_furniturer",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "nails_bronze",
+     "wooden_kit_1",
+     "wooden_plank",
+     "oiled_plank",
+     "details_1_bronze",
+     "polished_bronze",
+     "trinkets_wood",
+     "bag_builder"
+    ],
+    "notBuying": [
+     "bag_builder"
+    ],
+    "notSelling": [
+     "trinkets_wood"
+    ],
+    "orders": [
+     "furniture_box_furniture_1",
+     "furniture_box_furniture_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 1,
+      "itemCount": 100,
+      "itemId": "nails_bronze",
+      "perOne": 0.009999999776482582
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 60,
+      "itemId": "wooden_kit_1",
+      "perOne": 0.01666666753590107
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 30,
+      "itemId": "oiled_plank",
+      "perOne": 0.03333333507180214
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 60,
+      "itemId": "wooden_plank",
+      "perOne": 0.01666666753590107
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 50,
+      "itemId": "details_1_bronze",
+      "perOne": 0.03999999910593033
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "polished_bronze",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 50,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "wooden_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "oiled_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 25,
+      "itemId": "details_1_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_wood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_builder",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "nails_iron",
+     "detail_1_iron",
+     "furniture_kit_1",
+     "wooden_beam"
+    ],
+    "notBuying": [
+     "bag_builder"
+    ],
+    "notSelling": [
+     "trinkets_wood"
+    ],
+    "orders": [
+     "furniture_box_furniture_2",
+     "furniture_box_furniture_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 1,
+      "itemCount": 150,
+      "itemId": "nails_bronze",
+      "perOne": 0.006666666828095913
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 60,
+      "itemId": "wooden_kit_1",
+      "perOne": 0.01666666753590107
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 90,
+      "itemId": "wooden_plank",
+      "perOne": 0.011111111380159855
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 50,
+      "itemId": "oiled_plank",
+      "perOne": 0.019999999552965164
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 80,
+      "itemId": "details_1_bronze",
+      "perOne": 0.02500000037252903
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "polished_bronze",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 100,
+      "itemId": "nails_iron",
+      "perOne": 0.019999999552965164
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "detail_1_iron",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 60,
+      "itemId": "furniture_kit_1",
+      "perOne": 0.03333333507180214
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "wooden_beam",
+      "perOne": 0.05000000074505806
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 75,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "wooden_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 45,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 25,
+      "itemId": "oiled_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "details_1_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "nails_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "detail_1_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "furniture_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "wooden_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_builder",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "wooden_joint",
+     "furniture_kit_2",
+     "screw_steel",
+     "lacquer",
+     "quest_paint"
+    ],
+    "notBuying": [
+     "bag_builder"
+    ],
+    "notSelling": [
+     "trinkets_wood"
+    ],
+    "orders": [
+     "furniture_box_appliances_1",
+     "furniture_box_appliances_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 1,
+      "itemCount": 150,
+      "itemId": "nails_bronze",
+      "perOne": 0.006666666828095913
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 60,
+      "itemId": "wooden_kit_1",
+      "perOne": 0.01666666753590107
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 90,
+      "itemId": "wooden_plank",
+      "perOne": 0.011111111380159855
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 50,
+      "itemId": "oiled_plank",
+      "perOne": 0.019999999552965164
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 80,
+      "itemId": "details_1_bronze",
+      "perOne": 0.02500000037252903
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "polished_bronze",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 100,
+      "itemId": "nails_iron",
+      "perOne": 0.019999999552965164
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "detail_1_iron",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 60,
+      "itemId": "furniture_kit_1",
+      "perOne": 0.03333333507180214
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "wooden_beam",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 3,
+      "itemCount": 20,
+      "itemId": "wooden_joint",
+      "perOne": 0.15000000596046448
+     },
+     {
+      "happinessCount": 3,
+      "itemCount": 30,
+      "itemId": "furniture_kit_2",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 3,
+      "itemCount": 50,
+      "itemId": "screw_steel",
+      "perOne": 0.05999999865889549
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 150,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 60,
+      "itemId": "wooden_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 90,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "oiled_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 80,
+      "itemId": "details_1_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 100,
+      "itemId": "nails_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "detail_1_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 60,
+      "itemId": "furniture_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "wooden_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "wooden_joint",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "furniture_kit_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "screw_steel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_wood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "lacquer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "quest_paint",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_builder",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_baker",
+  "id": "t_b_baker",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "bread",
+     "dough",
+     "flour",
+     "berry_pie",
+     "cook_muffin",
+     "cook_croissant",
+     "fabric_flax",
+     "egg_chicken",
+     "salt",
+     "bag_food"
+    ],
+    "notBuying": [
+     "bread",
+     "berry_pie",
+     "cook_muffin",
+     "cook_croissant",
+     "bag_food"
+    ],
+    "notSelling": [
+     "fabric_flax"
+    ],
+    "orders": [
+     "bakery_box_flour",
+     "bakery_box_flour_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 1,
+      "itemCount": 20,
+      "itemId": "fabric_flax",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 1,
+      "itemCount": 20,
+      "itemId": "flour",
+      "perOne": 0.05000000074505806
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "bread",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "dough",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "flour",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "berry_pie",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "cook_muffin",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "cook_croissant",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "fabric_flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "egg_chicken",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "jug_milk",
+     "flesh",
+     "spices"
+    ],
+    "notBuying": [
+     "bread",
+     "berry_pie",
+     "cook_muffin",
+     "cook_croissant",
+     "bag_food"
+    ],
+    "notSelling": [
+     "fabric_flax"
+    ],
+    "orders": [
+     "bakery_box_tools_iron",
+     "bakery_box_tools_iron_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "fabric_flax",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 10,
+      "itemId": "flesh",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "flour",
+      "perOne": 0.05000000074505806
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "bread",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "dough",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "flour",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berry_pie",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "cook_muffin",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "cook_croissant",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "fabric_flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "egg_chicken",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "jug_milk",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "flesh",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "spices",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [
+     "bread",
+     "berry_pie",
+     "cook_muffin",
+     "cook_croissant",
+     "bag_food"
+    ],
+    "notSelling": [
+     "fabric_flax"
+    ],
+    "orders": [
+     "bakery_box_appliances_1",
+     "bakery_box_appliances_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 80,
+      "itemId": "fabric_flax",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "flesh",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 80,
+      "itemId": "flour",
+      "perOne": 0.05000000074505806
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 40,
+      "itemId": "bread",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 60,
+      "itemId": "dough",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 80,
+      "itemId": "flour",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "berry_pie",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cook_muffin",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cook_croissant",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 80,
+      "itemId": "fabric_flax",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "egg_chicken",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "jug_milk",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "flesh",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "spices",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 80,
+      "itemId": "salt",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_fisher",
+  "id": "t_b_fisher",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "breadcrumb_bite",
+     "amateur_rod",
+     "fish_roach",
+     "fish_gudgeon",
+     "fish_crucian",
+     "fish_dace",
+     "fish_anchovy",
+     "fish_bream",
+     "fish_carp",
+     "fish_goldfish",
+     "fish_mackerel",
+     "fish_tuna",
+     "bag_fishing"
+    ],
+    "notBuying": [
+     "amateur_rod",
+     "bag_fishing"
+    ],
+    "notSelling": [
+     "breadcrumb_bite"
+    ],
+    "orders": [
+     "fish_box_preserves_1",
+     "fish_box_preserves_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "breadcrumb_bite",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "breadcrumb_bite",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "amateur_rod",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_roach",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_gudgeon",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_crucian",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_dace",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_anchovy",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_bream",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_carp",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_goldfish",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_mackerel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_tuna",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_fishing",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "insect_bite",
+     "advanced_rod",
+     "fish_pike",
+     "fish_silverfin",
+     "fish_frog",
+     "fish_catfish",
+     "fish_salmon",
+     "fish_trout",
+     "fish_swamp_ghost",
+     "fish_eel"
+    ],
+    "notBuying": [
+     "amateur_rod",
+     "advanced_rod",
+     "bag_fishing"
+    ],
+    "notSelling": [
+     "breadcrumb_bite",
+     "insect_bite"
+    ],
+    "orders": [
+     "fish_box_tools_iron",
+     "fish_box_tools_iron_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "breadcrumb_bite",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "insect_bite",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "breadcrumb_bite",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "insect_bite",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "amateur_rod",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "advanced_rod",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_roach",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_gudgeon",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_crucian",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_dace",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_anchovy",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_bream",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_carp",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_goldfish",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_mackerel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_tuna",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_pike",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_silverfin",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_frog",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_catfish",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_salmon",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_trout",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_swamp_ghost",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_eel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_fishing",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "ultimate_bite",
+     "pro_rod"
+    ],
+    "notBuying": [
+     "amateur_rod",
+     "advanced_rod",
+     "pro_rod",
+     "bag_fishing"
+    ],
+    "notSelling": [
+     "breadcrumb_bite",
+     "insect_bite",
+     "ultimate_bite"
+    ],
+    "orders": [
+     "fish_box_clothes_1",
+     "fish_box_clothes_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "breadcrumb_bite",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 6,
+      "itemCount": 60,
+      "itemId": "insect_bite",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 8,
+      "itemCount": 40,
+      "itemId": "ultimate_bite",
+      "perOne": 0.20000000298023224
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 40,
+      "itemId": "breadcrumb_bite",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "insect_bite",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "ultimate_bite",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "amateur_rod",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "advanced_rod",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "pro_rod",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_roach",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_gudgeon",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_crucian",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_dace",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_anchovy",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_bream",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_carp",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_goldfish",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_mackerel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_tuna",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_pike",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_silverfin",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_frog",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_catfish",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_salmon",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_trout",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_swamp_ghost",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "fish_eel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_fishing",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_jeweler",
+  "id": "t_b_jeweler",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "polished_bronze",
+     "collar_bronze",
+     "bronze_scrap",
+     "tool_talisman_1",
+     "small_instruments_1",
+     "trinkets_gold",
+     "jewelry",
+     "bag_tools"
+    ],
+    "notBuying": [
+     "tool_talisman_1",
+     "small_instruments_1",
+     "bag_tools"
+    ],
+    "notSelling": [
+     "trinkets_gold",
+     "jewelry"
+    ],
+    "orders": [
+     "jeweler_box_tools_iron",
+     "jeweler_box_tools_iron_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "polished_bronze",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "bronze_scrap",
+      "perOne": 0.06666667014360428
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "collar_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "tool_talisman_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "small_instruments_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "jewelry",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_tools",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "bronze_gear",
+     "collar_gold",
+     "keys_looters",
+     "ingot_gold",
+     "tool_talisman_2",
+     "small_instruments_2"
+    ],
+    "notBuying": [
+     "tool_talisman_2",
+     "small_instruments_2",
+     "bag_tools"
+    ],
+    "notSelling": [
+     "trinkets_gold",
+     "jewelry"
+    ],
+    "orders": [
+     "jeweler_box_tools_steel",
+     "jeweler_box_tools_steel_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 80,
+      "itemId": "polished_bronze",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "bronze_scrap",
+      "perOne": 0.06666667014360428
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 40,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "bronze_gear",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "collar_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "collar_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "keys_looters",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "ingot_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "tool_talisman_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "tool_talisman_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "small_instruments_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "small_instruments_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "jewelry",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_tools",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "collar_steel",
+     "tool_talisman_3",
+     "small_instruments_3"
+    ],
+    "notBuying": [
+     "tool_talisman_3",
+     "small_instruments_3",
+     "bag_tools"
+    ],
+    "notSelling": [
+     "trinkets_gold",
+     "jewelry"
+    ],
+    "orders": [
+     "jeweler_box_engineering_mechanism",
+     "jeweler_box_engineering_mechanism_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 80,
+      "itemId": "polished_bronze",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "bronze_scrap",
+      "perOne": 0.06666667014360428
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 50,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "bronze_gear",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "collar_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 3,
+      "itemId": "collar_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "collar_steel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "keys_looters",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "ingot_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "jewelry",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "tool_talisman_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "tool_talisman_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "tool_talisman_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "small_instruments_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "small_instruments_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "small_instruments_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_gold",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "jewelry",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_tools",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_builder",
+  "id": "t_b_builder",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "nails_bronze",
+     "building_kit_1",
+     "flitch",
+     "wooden_plank",
+     "oiled_plank",
+     "reinforced_plank",
+     "stone_plate_1",
+     "stone_plate_2",
+     "stone_plate_3",
+     "brick",
+     "trinkets_stone",
+     "bag_builder"
+    ],
+    "notBuying": [
+     "bag_builder"
+    ],
+    "notSelling": [
+     "stone_plate_3",
+     "trinkets_stone"
+    ],
+    "orders": [
+     "builder_box_tools_iron",
+     "builder_box_tools_iron_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "reinforced_plank",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "stone_plate_2",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "building_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "flitch",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "oiled_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "reinforced_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "brick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_stone",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_builder",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "nails_iron",
+     "building_kit_2",
+     "wooden_beam",
+     "oiled_beam",
+     "reinforced_beam",
+     "marble_plate_1",
+     "marble_plate_2",
+     "marble_plate_3"
+    ],
+    "notBuying": [
+     "bag_builder"
+    ],
+    "notSelling": [
+     "marble_plate_3",
+     "trinkets_stone"
+    ],
+    "orders": [
+     "builder_box_tools_steel",
+     "builder_box_tools_steel_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 8,
+      "itemCount": 40,
+      "itemId": "reinforced_beam",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "stone_plate_3",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "marble_plate_2",
+      "perOne": 0.10000000149011612
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 35,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 25,
+      "itemId": "nails_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "building_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "building_kit_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "flitch",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "oiled_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "reinforced_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "wooden_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "oiled_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "reinforced_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "marble_plate_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "marble_plate_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "marble_plate_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "brick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_stone",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_builder",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "screw_steel",
+     "wooden_joint"
+    ],
+    "notBuying": [
+     "bag_builder"
+    ],
+    "notSelling": [
+     "trinkets_stone"
+    ],
+    "orders": [
+     "builder_box_engineering_mechanism",
+     "builder_box_engineering_mechanism_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 6,
+      "itemCount": 40,
+      "itemId": "reinforced_beam",
+      "perOne": 0.15000000596046448
+     },
+     {
+      "happinessCount": 8,
+      "itemCount": 40,
+      "itemId": "marble_plate_3",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 8,
+      "itemCount": 40,
+      "itemId": "wooden_joint",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 3,
+      "itemCount": 9,
+      "itemId": "building_kit_2",
+      "perOne": 0.3333333432674408
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 50,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "nails_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "screw_steel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "building_kit_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "building_kit_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "flitch",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "wooden_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "oiled_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "reinforced_plank",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "wooden_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "oiled_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "reinforced_beam",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "wooden_joint",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "stone_plate_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "marble_plate_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "marble_plate_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "marble_plate_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "brick",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_stone",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_builder",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_blacksmith",
+  "id": "t_b_blacksmith",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "bronze_scrap",
+     "ingot_bronze",
+     "details_1_bronze",
+     "nails_bronze",
+     "polished_bronze",
+     "pike_1",
+     "armor_1",
+     "sword_1",
+     "hammer_1",
+     "axe_0",
+     "pickaxe_0",
+     "hammer_0",
+     "shovel_0",
+     "sword_0",
+     "armor_0",
+     "axe_1",
+     "pickaxe_1",
+     "shovel_1",
+     "trinkets_bronze",
+     "bag_tools"
+    ],
+    "notBuying": [
+     "hammer_1",
+     "bag_tools"
+    ],
+    "notSelling": [
+     "axe_0",
+     "pickaxe_0",
+     "hammer_0",
+     "shovel_0",
+     "sword_0",
+     "armor_0",
+     "axe_1",
+     "pickaxe_1",
+     "shovel_1",
+     "trinkets_bronze"
+    ],
+    "orders": [
+     "blacksmith_box_building_kit_1",
+     "blacksmith_box_building_kit_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "bronze_scrap",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "ingot_bronze",
+      "perOne": 0.20000000298023224
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 5,
+      "itemId": "ingot_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "details_1_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "pike_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "armor_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "sword_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "hammer_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "hammer_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "sword_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "armor_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_tools",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "bronze_gear",
+     "nails_iron",
+     "detail_1_iron",
+     "detail_2_iron",
+     "pike_2",
+     "armor_2",
+     "sword_2",
+     "hammer_2",
+     "axe_2",
+     "pickaxe_2",
+     "shovel_2"
+    ],
+    "notBuying": [
+     "hammer_2",
+     "bag_tools"
+    ],
+    "notSelling": [
+     "axe_0",
+     "pickaxe_0",
+     "hammer_0",
+     "shovel_0",
+     "sword_0",
+     "armor_0",
+     "axe_1",
+     "pickaxe_1",
+     "shovel_1",
+     "axe_2",
+     "pickaxe_2",
+     "shovel_2",
+     "trinkets_bronze"
+    ],
+    "orders": [
+     "blacksmith_box_building_kit_2",
+     "blacksmith_box_building_kit_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "bronze_scrap",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "ingot_bronze",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "detail_1_iron",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "detail_2_iron",
+      "perOne": 0.20000000298023224
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 15,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "ingot_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "details_1_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 35,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "bronze_gear",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "nails_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "detail_1_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "detail_2_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "pike_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "pike_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "armor_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "armor_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "sword_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "sword_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "hammer_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "hammer_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "hammer_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "sword_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "armor_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_tools",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "detail_1_steel",
+     "screw_steel",
+     "detail_2_steel",
+     "pike_3",
+     "armor_3",
+     "sword_3",
+     "hammer_3"
+    ],
+    "notBuying": [
+     "hammer_3",
+     "bag_tools"
+    ],
+    "notSelling": [
+     "axe_0",
+     "pickaxe_0",
+     "hammer_0",
+     "shovel_0",
+     "sword_0",
+     "armor_0",
+     "axe_1",
+     "pickaxe_1",
+     "shovel_1",
+     "axe_2",
+     "pickaxe_2",
+     "shovel_2",
+     "trinkets_bronze"
+    ],
+    "orders": [
+     "blacksmith_box_engineering_mechanism",
+     "blacksmith_box_engineering_mechanism_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "bronze_scrap",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "ingot_bronze",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "detail_1_iron",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "detail_2_iron",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 100,
+      "itemId": "screw_steel",
+      "perOne": 0.03999999910593033
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 40,
+      "itemId": "detail_2_steel",
+      "perOne": 0.125
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "bronze_scrap",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "ingot_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 25,
+      "itemId": "details_1_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "nails_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "polished_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "bronze_gear",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "nails_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "detail_1_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "detail_2_iron",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "detail_1_steel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "screw_steel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "detail_2_steel",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "pike_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "pike_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "pike_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "armor_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "armor_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "armor_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "sword_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "sword_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "sword_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "hammer_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "hammer_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "hammer_3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "hammer_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "sword_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "armor_0",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "axe_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "pickaxe_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "shovel_2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "trinkets_bronze",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_tools",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_shalman",
+  "id": "t_b_shalman",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "story:1",
+     "beer",
+     "berry_cider",
+     "apple_cider",
+     "blueberry_cider",
+     "cook_carrot_soup",
+     "cook_cabbage_soup",
+     "cook_vegetabe_soup",
+     "bag_food"
+    ],
+    "notBuying": [
+     "cook_carrot_soup",
+     "cook_cabbage_soup",
+     "cook_vegetabe_soup",
+     "bag_food"
+    ],
+    "notSelling": [],
+    "orders": [
+     "shalman_box_preserves_1",
+     "shalman_box_preserves_1_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "beer",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "berry_cider",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "apple_cider",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "blueberry_cider",
+      "perOne": 0.05000000074505806
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "story:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "berry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "apple_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "blueberry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "cook_carrot_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "cook_cabbage_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "cook_vegetabe_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "story:2",
+     "cook_fish_soup"
+    ],
+    "notBuying": [
+     "cook_carrot_soup",
+     "cook_cabbage_soup",
+     "cook_vegetabe_soup",
+     "cook_fish_soup",
+     "bag_food"
+    ],
+    "notSelling": [],
+    "orders": [
+     "shalman_box_beer",
+     "shalman_box_beer_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "beer",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "berry_cider",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "apple_cider",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "blueberry_cider",
+      "perOne": 0.06666667014360428
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "story:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "story:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "berry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "apple_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "blueberry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cook_carrot_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cook_cabbage_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cook_vegetabe_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "cook_fish_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "story:3",
+     "cook_soldier_stew"
+    ],
+    "notBuying": [
+     "cook_carrot_soup",
+     "cook_cabbage_soup",
+     "cook_vegetabe_soup",
+     "cook_soldier_stew",
+     "cook_fish_soup",
+     "bag_food"
+    ],
+    "notSelling": [],
+    "orders": [
+     "shalman_box_vine",
+     "shalman_box_vine_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 6,
+      "itemCount": 100,
+      "itemId": "beer",
+      "perOne": 0.05999999865889549
+     },
+     {
+      "happinessCount": 6,
+      "itemCount": 100,
+      "itemId": "berry_cider",
+      "perOne": 0.05999999865889549
+     },
+     {
+      "happinessCount": 6,
+      "itemCount": 100,
+      "itemId": "apple_cider",
+      "perOne": 0.05999999865889549
+     },
+     {
+      "happinessCount": 7,
+      "itemCount": 100,
+      "itemId": "blueberry_cider",
+      "perOne": 0.07000000029802322
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 10,
+      "itemId": "story:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "story:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "story:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "berry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "apple_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 50,
+      "itemId": "blueberry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cook_carrot_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cook_cabbage_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cook_vegetabe_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cook_soldier_stew",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "cook_fish_soup",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "t_b_brewer",
+  "id": "t_b_brewer",
+  "lockedByDefaultInOrdersWindow": 1,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 20,
+    "happinessCap": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "grape_seed:1",
+     "grape:1",
+     "hop_seed",
+     "hop",
+     "wheat",
+     "berry_cider",
+     "apple_cider",
+     "mead",
+     "beer",
+     "bottle_empty",
+     "apple_juice",
+     "berry_juice",
+     "bag_food"
+    ],
+    "notBuying": [
+     "bag_food"
+    ],
+    "notSelling": [
+     "bottle_empty",
+     "apple_juice",
+     "berry_juice",
+     "hop",
+     "wheat"
+    ],
+    "orders": [
+     "brewery_box_kitchen_utensils",
+     "brewery_box_kitchen_utensils_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "bottle_empty",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "apple_juice",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 20,
+      "itemId": "berry_juice",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 30,
+      "itemId": "hop",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 2,
+      "itemCount": 40,
+      "itemId": "wheat",
+      "perOne": 0.05000000074505806
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 15,
+      "itemId": "grape_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "grape:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "hop_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "hop",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "apple_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "mead",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "bottle_empty",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "apple_juice",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "berry_juice",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 50,
+    "happinessCap": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "grape_seed:2",
+     "grape:2",
+     "grape_wine:1",
+     "grape_juice:1"
+    ],
+    "notBuying": [
+     "bag_food"
+    ],
+    "notSelling": [
+     "bottle_empty",
+     "apple_juice",
+     "berry_juice",
+     "grape_juice:1",
+     "hop",
+     "wheat"
+    ],
+    "orders": [
+     "brewery_box_cutlery_2",
+     "brewery_box_cutlery_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 4,
+      "itemCount": 80,
+      "itemId": "bottle_empty",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "apple_juice",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "berry_juice",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "grape_juice:1",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "hop",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 3,
+      "itemCount": 60,
+      "itemId": "wheat",
+      "perOne": 0.05000000074505806
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 20,
+      "itemId": "grape_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "grape_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "grape:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "grape:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "hop_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "hop",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "berry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "apple_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "mead",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "grape_wine:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "bottle_empty",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "apple_juice",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "berry_juice",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "grape_juice:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 100,
+    "happinessCap": {
+     "expressionString": "25",
+     "expressionStringUnparsed": "25",
+     "pureValueBool": 0,
+     "pureValueFloat": 25.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "grape_seed:3",
+     "grape:3",
+     "grape_wine:2",
+     "grape_wine:3",
+     "grape_juice:2",
+     "grape_juice:3"
+    ],
+    "notBuying": [
+     "bag_food"
+    ],
+    "notSelling": [
+     "bottle_empty",
+     "apple_juice",
+     "berry_juice",
+     "grape_juice:1",
+     "grape_juice:2",
+     "grape_juice:3",
+     "hop",
+     "wheat"
+    ],
+    "orders": [
+     "brewery_box_appliances_2",
+     "brewery_box_appliances_2_easy"
+    ],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 6,
+      "itemCount": 120,
+      "itemId": "bottle_empty",
+      "perOne": 0.05000000074505806
+     },
+     {
+      "happinessCount": 6,
+      "itemCount": 60,
+      "itemId": "apple_juice",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 6,
+      "itemCount": 60,
+      "itemId": "berry_juice",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 40,
+      "itemId": "grape_juice:1",
+      "perOne": 0.10000000149011612
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 30,
+      "itemId": "grape_juice:2",
+      "perOne": 0.13333334028720856
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 20,
+      "itemId": "grape_juice:3",
+      "perOne": 0.20000000298023224
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 60,
+      "itemId": "hop",
+      "perOne": 0.06666667014360428
+     },
+     {
+      "happinessCount": 4,
+      "itemCount": 0,
+      "itemId": "wheat80",
+      "perOne": Infinity
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 30,
+      "itemId": "grape_seed:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "grape_seed:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "grape_seed:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "grape:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "grape:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "grape:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "hop_seed",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "hop",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 40,
+      "itemId": "wheat",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "berry_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "apple_cider",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "mead",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "grape_wine:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "grape_wine:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "grape_wine:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 60,
+      "itemId": "bottle_empty",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "apple_juice",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 30,
+      "itemId": "berry_juice",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 20,
+      "itemId": "grape_juice:1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 15,
+      "itemId": "grape_juice:2",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "grape_juice:3",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 1,
+      "itemId": "bag_food",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ },
+ {
+  "icon": "",
+  "id": "test2",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 30,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "beer",
+     "ceramic_1",
+     "body_certificate:1"
+    ],
+    "notBuying": [],
+    "notSelling": [
+     "body_certificate:1"
+    ],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": [
+     {
+      "baseCount": 5,
+      "itemId": "beer",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 10,
+      "itemId": "ceramic_1",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 0,
+      "itemId": "body_certificate:1",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "",
+     "expressionStringUnparsed": "",
+     "pureValueBool": 0,
+     "pureValueFloat": 0.0,
+     "pureValueType": 0
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [],
+    "vendorProducts": []
+   }
+  ],
+  "townVendor": 0
+ },
+ {
+  "icon": "",
+  "id": "test_town_vendor",
+  "lockedByDefaultInOrdersWindow": 0,
+  "startMoney": 100,
+  "startTier": 1,
+  "tierDataList": [
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [
+     "firewood",
+     "stick"
+    ],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 10,
+      "itemCount": 10,
+      "itemId": "firewood",
+      "perOne": 1.0
+     },
+     {
+      "happinessCount": 5,
+      "itemCount": 10,
+      "itemId": "stick",
+      "perOne": 0.5
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 25,
+      "itemId": "firewood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 45,
+      "itemId": "stick",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "7",
+     "expressionStringUnparsed": "7",
+     "pureValueBool": 0,
+     "pureValueFloat": 7.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 10,
+      "itemCount": 2,
+      "itemId": "firewood",
+      "perOne": 5.0
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 25,
+      "itemId": "firewood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 45,
+      "itemId": "stick",
+      "priceMod": 0
+     }
+    ]
+   },
+   {
+    "dailyMoneyIncome": 0,
+    "happinessCap": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "levelupCosts": 0,
+    "newProducts": [],
+    "notBuying": [],
+    "notSelling": [],
+    "orders": [],
+    "townVendorProductInfos": [
+     {
+      "happinessCount": 10,
+      "itemCount": 3,
+      "itemId": "firewood",
+      "perOne": 3.3333332538604736
+     }
+    ],
+    "vendorProducts": [
+     {
+      "baseCount": 25,
+      "itemId": "firewood",
+      "priceMod": 0
+     },
+     {
+      "baseCount": 45,
+      "itemId": "stick",
+      "priceMod": 0
+     }
+    ]
+   }
+  ],
+  "townVendor": 1
+ }
+]

@@ -1,0 +1,658 @@
+[
+ {
+  "customTargets": [
+   "stone_container_conveyor",
+   "marble_container_conveyor"
+  ],
+  "id": "porter_station_carrier",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "1h_stone"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "1h_marble"
+   }
+  ],
+  "targetWorldZone": "conveyor"
+ },
+ {
+  "customTargets": [
+   "wood_container_conveyor"
+  ],
+  "id": "porter_station_sawmill",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wood"
+   }
+  ],
+  "targetWorldZone": "conveyor"
+ },
+ {
+  "customTargets": [
+   "wood_container_conveyor"
+  ],
+  "id": "porter_station_sawmill_2",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wood"
+   }
+  ],
+  "targetWorldZone": "conveyor"
+ },
+ {
+  "customTargets": [
+   "iron_ore_container_conveyor",
+   "coal_container_conveyor"
+  ],
+  "id": "porter_station_mine",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "coal"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_ore"
+   }
+  ],
+  "targetWorldZone": "conveyor"
+ },
+ {
+  "customTargets": [
+   "clay_container_conveyor",
+   "sand_container_conveyor"
+  ],
+  "id": "porter_station_clay_sand",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "clay"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sand"
+   }
+  ],
+  "targetWorldZone": "conveyor"
+ },
+ {
+  "customTargets": [
+   "garden_bags_storage_1",
+   "garden_bags_storage_2",
+   "garden_bags_storage_3"
+  ],
+  "id": "lifting_crane",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wheat"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "carrot"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "beet"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "cabbage:1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "cabbage:2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "cabbage:3"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "onion:1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "onion:2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "onion:3"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "pumpkin:1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "pumpkin:2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "pumpkin:3"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "flax"
+   }
+  ],
+  "targetWorldZone": ""
+ },
+ {
+  "customTargets": [
+   "crates_small"
+  ],
+  "id": "porter_station_conveyor_storage",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_furniture_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_furniture_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_cutlery_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_cutlery_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_tools_iron"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_tools_steel"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_kitchen_utensils"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_clothes_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_clothes_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_fabric"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_vegetables"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_preserves_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_preserves_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_flour"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_appliances_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_appliances_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_engineering_mechanism"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_beer"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_vine"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "box_iron_ingot"
+   }
+  ],
+  "targetWorldZone": ""
+ },
+ {
+  "customTargets": [],
+  "id": "porter_station_vineyard",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "honey"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "hop"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape:1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape:2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape:3"
+   }
+  ],
+  "targetWorldZone": "vineyard_basement"
+ },
+ {
+  "customTargets": [
+   "conveyor_wine_beer_pallet"
+  ],
+  "id": "porter_station_vineyard_basement",
+  "items": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "beer"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape_wine:1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape_wine:2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape_wine:3"
+   }
+  ],
+  "targetWorldZone": "conveyor"
+ }
+]

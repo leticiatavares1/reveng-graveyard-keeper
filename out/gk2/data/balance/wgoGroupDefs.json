@@ -1,0 +1,38 @@
+[
+ {
+  "id": "trees"
+ },
+ {
+  "id": "bushes"
+ },
+ {
+  "id": "collectable_bushes"
+ },
+ {
+  "id": "graves"
+ },
+ {
+  "id": "stumps"
+ },
+ {
+  "id": "stones"
+ },
+ {
+  "id": "barricades"
+ },
+ {
+  "id": "graveyard_modules"
+ },
+ {
+  "id": "vineyard_objects"
+ },
+ {
+  "id": "morgue_pallets"
+ },
+ {
+  "id": "graveyard_lantern"
+ },
+ {
+  "id": "lanterns"
+ }
+]

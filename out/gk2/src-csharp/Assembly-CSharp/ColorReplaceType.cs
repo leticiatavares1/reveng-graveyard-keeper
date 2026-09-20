@@ -1,0 +1,5 @@
+public enum ColorReplaceType
+{
+	USE_LUT_COLOR_REPLACE,
+	USE_PALETTE_COLOR_REPLACE
+}

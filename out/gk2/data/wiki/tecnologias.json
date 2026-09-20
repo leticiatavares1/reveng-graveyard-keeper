@@ -1,0 +1,5194 @@
+[
+ {
+  "id": "alchemy_battle_potions_1",
+  "pt": "Poções de Batalha I",
+  "en": "Battle Potions I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_green": 10,
+   "tech_blue": 10
+  },
+  "requer": [
+   "alchemy_start"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "alchemy_battle_potions_2",
+  "pt": "Poções de Batalha II",
+  "en": "Battle Potions II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 25,
+   "tech_green": 25,
+   "tech_blue": 25
+  },
+  "requer": [
+   "alchemy_mix_2_place_p"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_battle_potions_3",
+  "pt": "Poções de Batalha III",
+  "en": "Battle Potions III",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 70,
+   "tech_green": 70,
+   "tech_blue": 70
+  },
+  "requer": [
+   "resurrection_liquid"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_distillation",
+  "pt": "Alquimia, Destilação",
+  "en": "Alchemy, Distillation",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 5
+  },
+  "requer": [
+   "alchemy_start"
+  ],
+  "libera_receitas": [
+   "melted_fat",
+   "alchemy_kit_1"
+  ],
+  "libera_construcoes": [
+   "distillation_cube_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_hardener",
+  "pt": "Produção de Poções",
+  "en": "Crafting Potions",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_green": 80
+  },
+  "requer": [
+   "alchemy_lab_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_item_star_1",
+  "pt": "Transmutação I",
+  "en": "Transmutation I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_green": 40,
+   "tech_blue": 40
+  },
+  "requer": [
+   "resurrection_liquid"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_lab_2",
+  "pt": "Alquimia Avançada",
+  "en": "Alchemy, Advanced",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 200,
+   "tech_blue": 100
+  },
+  "requer": [
+   "alchemy_battle_potions_3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_mix_2_place_p",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 40
+  },
+  "requer": [
+   "alchemy_battle_potions_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_organs_1",
+  "pt": "Poções Práticas",
+  "en": "Practical Potions",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_green": 100,
+   "tech_blue": 100
+  },
+  "requer": [
+   "alchemy_lab_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "alchemy_start",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [
+   "lock_npc_plague_doctor_10"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "alchemy_flask_1_shed_place_p",
+   "alchemy_mix_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [
+   "powder_dreams"
+  ],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "autopsy_1",
+  "pt": "Autópsia Básica",
+  "en": "Autopsy, Basic",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "autopsy_table_1_place_p",
+   "pallet_corpse_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "autopsy_guts_brain_heart",
+  "pt": "Autópsia Avançada",
+  "en": "Autopsy, Advanced",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_blue": 20
+  },
+  "requer": [
+   "autopsy_skull_teeth"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "autopsy_resurection",
+  "pt": "Reanimação",
+  "en": "Reanimation",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 10,
+   "tech_blue": 10
+  },
+  "requer": [
+   "alchemy_distillation",
+   "autopsy_skull_teeth"
+  ],
+  "libera_receitas": [
+   "collar_bronze",
+   "prayer_storms"
+  ],
+  "libera_construcoes": [
+   "resurrection_table_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "autopsy_skin_bones",
+  "pt": "Pele e Ossos",
+  "en": "Skin and Bones",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_green": 5,
+   "tech_blue": 2
+  },
+  "requer": [
+   "autopsy_soft"
+  ],
+  "libera_receitas": [
+   "fake_skin_craft",
+   "fake_bones_craft",
+   "surgical_kit_1"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "autopsy_skull_teeth",
+  "pt": "Crânio e Dentes",
+  "en": "Skull and Teeth",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_blue": 5
+  },
+  "requer": [
+   "autopsy_skin_bones"
+  ],
+  "libera_receitas": [
+   "fake_skull_craft",
+   "tooth"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "autopsy_soft",
+  "pt": "Partes moles",
+  "en": "Soft parts",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [
+   "autopsy_1"
+  ],
+  "libera_receitas": [
+   "fake_flesh_craft",
+   "fake_blood_craft",
+   "fake_fat_craft"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "autopsy_upgrades_2",
+  "pt": "Autópsia Mestre",
+  "en": "Autopsy, Master",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_green": 30,
+   "tech_blue": 10
+  },
+  "requer": [
+   "embalming_basic"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "body_places_1",
+  "pt": "Espaços para Corpos I",
+  "en": "Body Places I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 5
+  },
+  "requer": [
+   "autopsy_1"
+  ],
+  "libera_receitas": [
+   "burn_crematorium_1"
+  ],
+  "libera_construcoes": [
+   "crematorium_1_s"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "body_places_2",
+  "pt": "Espaços para Corpos II",
+  "en": "Body Places II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_green": 50
+  },
+  "requer": [
+   "autopsy_upgrades_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "dynamite",
+  "pt": "Dinamite",
+  "en": "Dynamite",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 30
+  },
+  "requer": [
+   "alchemy_battle_potions_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "embalming_basic",
+  "pt": "Embalsamamento I",
+  "en": "Embalming I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_blue": 10
+  },
+  "requer": [
+   "autopsy_guts_brain_heart"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "embalming_master",
+  "pt": "Embalsamamento III",
+  "en": "Embalming III",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_blue": 150
+  },
+  "requer": [
+   "resurrection_advanced"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "grave_buildings_marble_1",
+  "pt": "Lápides de Mármore I",
+  "en": "Marble Gravestones I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 200,
+   "tech_blue": 50
+  },
+  "requer": [
+   "grave_buildings_stone_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "grave_buildings_marble_2",
+  "pt": "Lápides de Mármore II",
+  "en": "Marble Gravestones II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 300,
+   "tech_blue": 100
+  },
+  "requer": [
+   "graveyard_improvement_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "grave_buildings_stone_1",
+  "pt": "Lápides de Pedra I",
+  "en": "Stone Gravestones I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_blue": 10
+  },
+  "requer": [
+   "lock_npc_nun_25"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "grave_buildings_stone_2",
+  "pt": "Lápides de Pedra II",
+  "en": "Stone Gravestones II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_blue": 30
+  },
+  "requer": [
+   "graveyard_improvement_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "grave_buildings_wood_1",
+  "pt": "Lápides de Madeira I",
+  "en": "Wooden Gravestones I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 2
+  },
+  "requer": [
+   "grave_top_wd_0"
+  ],
+  "libera_receitas": [
+   "grave_top_wd_1",
+   "grave_bot_wd_1"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "grave_buildings_wood_2",
+  "pt": "Lápides de Madeira II",
+  "en": "Wooden Gravestones II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_blue": 5
+  },
+  "requer": [
+   "grave_buildings_wood_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "grave_top_wd_0",
+  "pt": "Placa de Madeira",
+  "en": "Wooden Sign",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [
+   "grave_top_wd_0"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "graveyard_improvement_1",
+  "pt": "Caminhos e Cercas de Cemitério I",
+  "en": "Graveyard Path and Fence I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 20,
+   "tech_blue": 20
+  },
+  "requer": [
+   "modules_mixed_1",
+   "modules_grave_4"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "graveyard_improvement_2",
+  "pt": "Caminhos e Cercas de Cemitério II",
+  "en": "Graveyard Path and Fence II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_green": 100,
+   "tech_blue": 100
+  },
+  "requer": [
+   "grave_buildings_marble_1",
+   "modules_mixed_3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lacquer",
+  "pt": "Verniz",
+  "en": "Lacquer",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [
+   "alchemy_mix_2_place_p"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "lock_npc_astrologer_40",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [
+   "alchemy_battle_potions_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_nun_25",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [
+   "modules_columbarium_1",
+   "modules_grave_3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_plague_doctor_10",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_columbarium_1",
+  "pt": "Columbários I",
+  "en": "Columbariums I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_green": 10,
+   "tech_blue": 10
+  },
+  "requer": [
+   "modules_grave_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_columbarium_2",
+  "pt": "Columbários II",
+  "en": "Columbariums II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_green": 150,
+   "tech_blue": 100
+  },
+  "requer": [
+   "graveyard_improvement_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_decor_1",
+  "pt": "Decoração de Cemitério I",
+  "en": "Graveyard Decor I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_green": 40,
+   "tech_blue": 10
+  },
+  "requer": [
+   "lock_npc_nun_25"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_decor_2",
+  "pt": "Decoração de Cemitério II",
+  "en": "Graveyard Decor II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 200,
+   "tech_green": 100,
+   "tech_blue": 100
+  },
+  "requer": [
+   "grave_buildings_marble_2",
+   "modules_columbarium_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_grave_1",
+  "pt": "Coveiro I",
+  "en": "Graveyard Keeper I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 2,
+   "tech_green": 5
+  },
+  "requer": [
+   "grave_top_wd_0"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "graveyard_module_grave_1_p",
+   "graveyard_bench_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_grave_2",
+  "pt": "Coveiro II",
+  "en": "Graveyard Keeper II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 5,
+   "tech_blue": 5
+  },
+  "requer": [
+   "modules_grave_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_grave_3",
+  "pt": "Coveiro III",
+  "en": "Graveyard Keeper III",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 20
+  },
+  "requer": [
+   "modules_grave_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_grave_4",
+  "pt": "Coveiro IV",
+  "en": "Graveyard Keeper IV",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 80,
+   "tech_blue": 20
+  },
+  "requer": [
+   "modules_decor_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_mixed_1",
+  "pt": "Cemitério Misto I",
+  "en": "Mixed Graveyard I",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 30,
+   "tech_blue": 10
+  },
+  "requer": [
+   "modules_decor_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_mixed_2",
+  "pt": "Cemitério Misto II",
+  "en": "Mixed Graveyard II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_green": 50,
+   "tech_blue": 30
+  },
+  "requer": [
+   "graveyard_improvement_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "modules_mixed_3",
+  "pt": "Cemitério Misto III",
+  "en": "Mixed Graveyard III",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 80,
+   "tech_green": 80,
+   "tech_blue": 40
+  },
+  "requer": [
+   "modules_mixed_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "quest_paint",
+  "pt": "Tinta",
+  "en": "Paint",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 20
+  },
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "resurrection_advanced",
+  "pt": "Reanimação II",
+  "en": "Reanimation II",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_blue": 100
+  },
+  "requer": [
+   "resurrection_liquid"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "resurrection_liquid",
+  "pt": "Líquido de reanimação",
+  "en": "Reanimation Liquid",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 40,
+   "tech_blue": 50
+  },
+  "requer": [
+   "lock_npc_astrologer_40"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "resurrection_master",
+  "pt": "Reanimação III",
+  "en": "Reanimation III",
+  "aba": {
+   "id": "Anatomy",
+   "pt": "Anatomia\n e alquimia"
+  },
+  "custo": {
+   "tech_blue": 300
+  },
+  "requer": [
+   "embalming_master"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "brick_making",
+  "pt": "Preparação de Tijolos",
+  "en": "Brick Making",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 15,
+   "tech_green": 5
+  },
+  "requer": [
+   "pottery_basic"
+  ],
+  "libera_receitas": [
+   "brick_1"
+  ],
+  "libera_construcoes": [
+   "brick_kiln_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "ceramic_firing",
+  "pt": "Queima de Cerâmica",
+  "en": "Ceramic Firing",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 55
+  },
+  "requer": [
+   "brick_making"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "chooping",
+  "pt": "Corte",
+  "en": "Chopping",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 8
+  },
+  "requer": [
+   "wood_basic"
+  ],
+  "libera_receitas": [
+   "firewood",
+   "wood_wedge"
+  ],
+  "libera_construcoes": [
+   "chopping_spot_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "circular_saw",
+  "pt": "Serra Circular",
+  "en": "Circular Saw",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 35,
+   "tech_green": 10
+  },
+  "requer": [
+   "lock_npc_workshop_foreman_40"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_workshop_foreman_40",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {},
+  "requer": [
+   "oiled_wood"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_workshop_foreman_50",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {},
+  "requer": [
+   "tool_rack_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "marble_carving",
+  "pt": "Escultura em Mármore",
+  "en": "Marble Carving",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 175,
+   "tech_blue": 50
+  },
+  "requer": [
+   "polished_marble"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "oiled_wood",
+  "pt": "Madeira untada",
+  "en": "Oiled wood",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 20
+  },
+  "requer": [
+   "tool_rack"
+  ],
+  "libera_receitas": [
+   "oiled_plank",
+   "wooden_kit_1",
+   "trinkets_wood"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "polished_marble",
+  "pt": "Polimento de Mármore",
+  "en": "Marble Polishing",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_marble_concept"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "polished_stone",
+  "pt": "Polimento de Pedra",
+  "en": "Stone Polishing",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 5
+  },
+  "requer": [
+   "stone_basic",
+   "tool_rack"
+  ],
+  "libera_receitas": [
+   "stone_plate_2",
+   "stone_kit_1"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "pottery_basic",
+  "pt": "Olaria I",
+  "en": "Pottery I",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_green": 5
+  },
+  "requer": [
+   "stone_basic"
+  ],
+  "libera_receitas": [
+   "ceramic_1"
+  ],
+  "libera_construcoes": [
+   "potter_wheel_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "stone_basic",
+  "pt": "O Conceito de Pedra",
+  "en": "The Concept of Stone",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 15
+  },
+  "requer": [
+   "wood_basic"
+  ],
+  "libera_receitas": [
+   "stone_plate_1"
+  ],
+  "libera_construcoes": [
+   "mf_hammer_0_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "stone_carving",
+  "pt": "Escultura em Pedra",
+  "en": "Stone Carving",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 60
+  },
+  "requer": [
+   "polished_stone"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_assemblybench_1",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 75,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_conveyors"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_bioreactor",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 130,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_wooden_kit_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_box_appliances_1",
+  "pt": "Aparelhagem I",
+  "en": "Appliances I",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 130,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_furniture_kit_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_box_appliances_2",
+  "pt": "Aparelhagem II",
+  "en": "Appliances II",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 170,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_furniture_kit_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_building_kit_1",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 110,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_conveyor_assemblybench_hammer"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_building_kit_2",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 160,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_conveyor_assemblybench_t3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_carved_wood",
+  "pt": "Escultura em Madeira",
+  "en": "Wood Carving",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 30
+  },
+  "requer": [
+   "wooden_joint"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_clothes_1",
+  "pt": "Roupas I",
+  "en": "Clothes I",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 130,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_kitchen_supplies"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_clothes_2",
+  "pt": "Roupas II",
+  "en": "Clothes II",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 160,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_clothes_1",
+   "tech_conveyor_assemblybench_t3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conv_box_empty",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_assemblybench_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conveyor_assemblybench_hammer",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_assemblybench_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conveyor_assemblybench_t2",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 110,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_building_kit_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conveyor_assemblybench_t3",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_zombie_mechanisms"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conveyor_assemblybench_wheel",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_assemblybench_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conveyors",
+  "pt": "Esteiras",
+  "en": "Conveyors",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 70,
+   "tech_blue": 20
+  },
+  "requer": [
+   "lock_npc_workshop_foreman_50"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_customization",
+  "pt": "Vista-se bem!",
+  "en": "Suit Up!",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 15
+  },
+  "requer": [
+   "work_with_wood_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "customization_enable_s"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_furniture_kit_1",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_conveyor_assemblybench_t2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_furniture_kit_2",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 160,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_conveyor_assemblybench_t3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_house_repair",
+  "pt": "Reforma de Casas",
+  "en": "Houses Repairing",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 45,
+   "tech_green": 10
+  },
+  "requer": [
+   "polished_stone",
+   "brick_making"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_kitchen_supplies",
+  "pt": "Suprimentos da Cozinha",
+  "en": "Kitchen Supplies",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_conveyor_assemblybench_t2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_marble_concept",
+  "pt": "O Conceito de Mármore",
+  "en": "The Concept of Marble",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 80,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tool_rack_2",
+   "stone_carving"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_town_building_1",
+  "pt": "Barracas de Mercado I",
+  "en": "Market Stalls I",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {},
+  "requer": [
+   "work_with_wood_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "tech_town_building_2",
+  "pt": "Barracas de Mercado II",
+  "en": "Market Stalls II",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 130,
+   "tech_green": 30
+  },
+  "requer": [
+   "tech_building_kit_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_town_building_3",
+  "pt": "Barracas de Mercado III",
+  "en": "Market Stalls III",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_green": 50
+  },
+  "requer": [
+   "tech_furniture_kit_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_town_building_big_1",
+  "pt": "Artesãos I",
+  "en": "Artisans I",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 75,
+   "tech_green": 25
+  },
+  "requer": [
+   "tech_conveyors"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_town_building_big_2",
+  "pt": "Artesãos II",
+  "en": "Artisans II",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_green": 75
+  },
+  "requer": [
+   "tech_building_kit_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_ways_of_stone",
+  "pt": "Trabalho em Pedra",
+  "en": "Ways of Stone",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_conveyor_assemblybench_t2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_wooden_kit_2",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_conveyor_assemblybench_t2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_zombie_delivery",
+  "pt": "Entrega Zumbi",
+  "en": "Zombie Delivery",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 110,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_conv_box_empty"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_zombie_mechanisms",
+  "pt": "Mecanismos Zumbi",
+  "en": "Zombie Mechanisms",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 140,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_bioreactor"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tool_rack",
+  "pt": "Suporte de Ferramentas",
+  "en": "Tool Rack",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 35
+  },
+  "requer": [
+   "stone_basic",
+   "work_with_wood_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "tool_rack_p",
+   "chest_rough_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tool_rack_2",
+  "pt": "Suporte de Ferramentas II",
+  "en": "Tool Rack II",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 60,
+   "tech_green": 10,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tool_rack",
+   "work_with_wood_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "wood_basic",
+  "pt": "O Conceito de Madeira",
+  "en": "The Concept of Wood",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 2,
+   "tech_green": 2
+  },
+  "requer": [],
+  "libera_receitas": [
+   "flitch",
+   "wood1"
+  ],
+  "libera_construcoes": [
+   "sawhorse_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "wooden_joint",
+  "pt": "Articulação de Madeira",
+  "en": "Wooden Joint",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 90,
+   "tech_blue": 25
+  },
+  "requer": [
+   "tool_rack_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "work_with_wood_1",
+  "pt": "Carpintaria I",
+  "en": "Woodworking I",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 10
+  },
+  "requer": [
+   "wood_basic"
+  ],
+  "libera_receitas": [
+   "wooden_plank"
+  ],
+  "libera_construcoes": [
+   "woodworking_workbench_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "work_with_wood_2",
+  "pt": "Carpintaria II",
+  "en": "Woodworking II",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 40,
+   "tech_green": 5
+  },
+  "requer": [
+   "oiled_wood"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "zombie_marble",
+  "pt": "Mineração Zumbi: Mármore",
+  "en": "Zombie Marble Mining",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_marble_concept"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "zombie_stone",
+  "pt": "Mineração Zumbi: Pedra",
+  "en": "Zombie Stone Mining",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 70,
+   "tech_blue": 10
+  },
+  "requer": [
+   "stone_carving"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "zombie_wood",
+  "pt": "Lenhador Zumbi",
+  "en": "Zombie Lumberjack",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 75,
+   "tech_blue": 10
+  },
+  "requer": [
+   "circular_saw"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "zombie_wood_2",
+  "pt": "Lenhador Zumbi II",
+  "en": "Zombie Lumberjack II",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 25
+  },
+  "requer": [
+   "zombie_wood"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "zombie_zavhoz",
+  "pt": "Assistente Zumbi",
+  "en": "Zombie Assistant",
+  "aba": {
+   "id": "Building",
+   "pt": "Engenharia"
+  },
+  "custo": {
+   "tech_red": 35,
+   "tech_green": 5
+  },
+  "requer": [
+   "tool_rack"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "zombie_supplier_station_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "cooking_beet",
+  "pt": "Pratos de beterraba",
+  "en": "Beet dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_cabbage",
+  "pt": "Pratos de repolho",
+  "en": "Cabbage dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_carrot",
+  "pt": "Pratos de cenoura",
+  "en": "Carrot dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_chocolate",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fire",
+  "pt": "Primeiros pratos",
+  "en": "First dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [
+   "cook_baked_apple",
+   "cook_baked_mushroom",
+   "berry_pie"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fish_leg_carp",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fish_leg_catfish",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fish_leg_kraken",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fish_leg_salmon",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fish_myst",
+  "pt": "Pratos de Peixes Misteriosos",
+  "en": "Mysterious fish dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fish_river",
+  "pt": "Pratos de Peixes de Água Doce",
+  "en": "River fish dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [
+   "fillet_fish_river",
+   "cook_fish_nuggets",
+   "cook_baked_fish"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_fish_sea",
+  "pt": "Pratos de Peixes de Água Salgada",
+  "en": "Sea fish dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_meat",
+  "pt": "Ah, não!",
+  "en": "Oh no!",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_meat_minced",
+  "pt": "Enfim...",
+  "en": "Anyway...",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_onion",
+  "pt": "Pratos de cebola",
+  "en": "Onion dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_pastries",
+  "pt": "Confeitaria",
+  "en": "Pastries",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [
+   "cook_muffin",
+   "cook_croissant"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_pumpkin",
+  "pt": "Pratos de abóbora",
+  "en": "Pumpkin dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_soldier",
+  "pt": "Comida de soldado",
+  "en": "Soldier's food",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_vegetables",
+  "pt": "Pratos de vegetais",
+  "en": "Vegetable dishes",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [
+   "cook_vegetabe_soup",
+   "cook_vegetable_salad"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "cooking_wild",
+  "pt": "Primeiros lanches",
+  "en": "First snacks",
+  "aba": {
+   "id": "Cooking",
+   "pt": "Culinária"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "bread_and_pie",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 25
+  },
+  "requer": [
+   "millstone_and_flour"
+  ],
+  "libera_receitas": [
+   "dough",
+   "bread"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "fertilizer_1",
+  "pt": "Fertilizantes I",
+  "en": "Fertilizers I",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 10
+  },
+  "requer": [
+   "garden_bed"
+  ],
+  "libera_receitas": [
+   "create_peat_1",
+   "create_fertilizer_add_cells_2"
+  ],
+  "libera_construcoes": [
+   "garden_compost_pile_s"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "fertilizer_2",
+  "pt": "Fertilizantes II",
+  "en": "Fertilizers II",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 30,
+   "tech_blue": 10
+  },
+  "requer": [
+   "fertilizer_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "fertilizer_3",
+  "pt": "Fertilizantes III",
+  "en": "Fertilizers III",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 60,
+   "tech_blue": 15
+  },
+  "requer": [
+   "fertilizer_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "fertilizer_4",
+  "pt": "Fertilizantes IV",
+  "en": "Fertilizers IV",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 150,
+   "tech_blue": 30
+  },
+  "requer": [
+   "zombie_vineyard"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "fishing_1",
+  "pt": "Pesca I",
+  "en": "Fishing I",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 15
+  },
+  "requer": [
+   "garden_bed"
+  ],
+  "libera_receitas": [
+   "basic_rod"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "fishing_2",
+  "pt": "Pesca",
+  "en": "Fishing II",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 40
+  },
+  "requer": [
+   "garden_improve_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "fishing_3",
+  "pt": "Pesca III",
+  "en": "Fishing III",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 120
+  },
+  "requer": [
+   "zombie_vineyard"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "fishing_4",
+  "pt": "Pesca IV",
+  "en": "Fishing IV",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 150
+  },
+  "requer": [
+   "tech_vineyard_improvement"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_bed",
+  "pt": "Jardinagem",
+  "en": "Gardening",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 5
+  },
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "garden_empty_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_beer",
+  "pt": "Poções",
+  "en": "Brewing",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 80
+  },
+  "requer": [
+   "garden_vineyard"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_honey",
+  "pt": "Apicultura",
+  "en": "Beekeeping",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 50
+  },
+  "requer": [
+   "garden_improve_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_improve_1",
+  "pt": "Melhoria do Jardim I",
+  "en": "Garden Improvement I",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 30
+  },
+  "requer": [
+   "fertilizer_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "garden_farming_base_1_s",
+   "well_garden_upgrade_s"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_improve_2",
+  "pt": "Melhoria do Jardim II",
+  "en": "Garden Improvement II",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 100,
+   "tech_blue": 25
+  },
+  "requer": [
+   "fertilizer_3",
+   "zombie_gardening"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "garden_mead",
+  "pt": "Preparação Hidromel",
+  "en": "Mead Making",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 80
+  },
+  "requer": [
+   "garden_honey"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_sider",
+  "pt": "Produção de Cidra",
+  "en": "Cider Brewery",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 30
+  },
+  "requer": [
+   "tech_vine_press"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_vineyard",
+  "pt": "Vinhedo",
+  "en": "Vineyard",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 55
+  },
+  "requer": [
+   "fertilizer_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "garden_wine",
+  "pt": "Vinicultura",
+  "en": "Winemaking",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 175,
+   "tech_blue": 20
+  },
+  "requer": [
+   "fertilizer_4"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "graden_trees",
+  "pt": "Pomaria",
+  "en": "Orchardry",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 20
+  },
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "garden_extension_trees_bushes_p",
+   "tree_apple_clr1_xxs_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "kitchen_oven_2",
+  "pt": "Forno II",
+  "en": "Oven II",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 60,
+   "tech_blue": 10
+  },
+  "requer": [
+   "kitchen_table_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "kitchen_table_2",
+  "pt": "Cozinha II",
+  "en": "Kitchen II",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 50,
+   "tech_blue": 10
+  },
+  "requer": [
+   "bread_and_pie"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "millstone_and_flour",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 10
+  },
+  "requer": [
+   "garden_bed"
+  ],
+  "libera_receitas": [
+   "flour",
+   "seed_oil"
+  ],
+  "libera_construcoes": [
+   "millstone_s"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "sleeping_bed_2",
+  "pt": "Melhoria da Cama",
+  "en": "Bed Improvement",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 100,
+   "tech_blue": 20
+  },
+  "requer": [
+   "kitchen_oven_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_fabric_flax",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 60
+  },
+  "requer": [
+   "tech_thread_flax"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_flour_supplies",
+  "pt": "Suprimentos de Farinha",
+  "en": "Flour Supplies",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 130,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_vegetables_supply"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_preserve_2_supplies",
+  "pt": "Suprimentos de Conservação II",
+  "en": "Preservation Supplies II",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 150,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_preserve_supplies"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_preserve_supplies",
+  "pt": "Suprimentos de Conservação",
+  "en": "Preservation Supplies",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 140,
+   "tech_blue": 25
+  },
+  "requer": [
+   "tech_vegetables_supply"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_sewing",
+  "pt": "Fundamentos da Costura",
+  "en": "Sewing Basics",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 80
+  },
+  "requer": [
+   "tech_fabric_flax"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_thread_flax",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 45
+  },
+  "requer": [
+   "garden_improve_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_vegetables_supply",
+  "pt": "Suprimentos de Vegetais",
+  "en": "Vegetable Supplies",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 120,
+   "tech_blue": 25
+  },
+  "requer": [
+   "zombie_gardening"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_vine_press",
+  "pt": "Prensagem a Frio",
+  "en": "Cold Pressing",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 20
+  },
+  "requer": [
+   "graden_trees"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_vineyard_improvement",
+  "pt": "Melhoria do Vinhedo",
+  "en": "Vineyard Improvement",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 175,
+   "tech_blue": 50
+  },
+  "requer": [
+   "fertilizer_4"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "zombie_gardening",
+  "pt": "Jardinagem Zumbi",
+  "en": "Zombie Gardening",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 60,
+   "tech_blue": 20
+  },
+  "requer": [
+   "garden_improve_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "zombie_vineyard",
+  "pt": "Vinhedo Zumbi",
+  "en": "Zombie Vineyard",
+  "aba": {
+   "id": "Farming",
+   "pt": "Agricultura"
+  },
+  "custo": {
+   "tech_green": 150,
+   "tech_blue": 50
+  },
+  "requer": [
+   "garden_beer"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "barricades_1",
+  "pt": "Barricadas Simples",
+  "en": "Simple Barricades",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 60,
+   "tech_green": 25
+  },
+  "requer": [
+   "reinforced_plank"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "barricade_1_pre_fb",
+   "barricade_spike_1_pre_fb",
+   "barricade_wall_1_pre_fb"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "barricades_2",
+  "pt": "Barricadas Robustas",
+  "en": "Robust Barricades",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 90,
+   "tech_green": 30
+  },
+  "requer": [
+   "reinforced_beam"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "barricades_3",
+  "pt": "Barricadas Reforçadas",
+  "en": "Reinforced Barricades",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_green": 75
+  },
+  "requer": [
+   "steel_products"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_details",
+  "pt": "Maestria em Bronze",
+  "en": "Bronze Works",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 30
+  },
+  "requer": [
+   "bronze_ingot_scrap"
+  ],
+  "libera_receitas": [
+   "details_1_bronze"
+  ],
+  "libera_construcoes": [
+   "bucket_anvil_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_edges",
+  "pt": "Espadas de Bronze",
+  "en": "Bronze Blades",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 15,
+   "tech_green": 5
+  },
+  "requer": [
+   "bronze_details"
+  ],
+  "libera_receitas": [
+   "axe_1",
+   "pickaxe_1"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_heads",
+  "pt": "Armas de Bronze",
+  "en": "Bronze Weapons",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 35,
+   "tech_green": 10
+  },
+  "requer": [
+   "bronze_weapons"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_ingot_scrap",
+  "pt": "Derretimento de Bronze",
+  "en": "Bronze Melting",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 10
+  },
+  "requer": [
+   "bronze_works"
+  ],
+  "libera_receitas": [
+   "ingot_bronze_scrap"
+  ],
+  "libera_construcoes": [
+   "furnace_1_place_p",
+   "firewood_shed_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_ingots",
+  "pt": "Forja de Bronze",
+  "en": "Bronze Forge",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 20
+  },
+  "requer": [
+   "bronze_details"
+  ],
+  "libera_receitas": [
+   "lead",
+   "ingot_bronze"
+  ],
+  "libera_construcoes": [
+   "sluice_box_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_instruments",
+  "pt": "Instrumentos de Bronze",
+  "en": "Bronze Instruments",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 15,
+   "tech_green": 5
+  },
+  "requer": [
+   "bronze_details"
+  ],
+  "libera_receitas": [
+   "shovel_1",
+   "hammer_1"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_polishing",
+  "pt": "Maestria em Bronze",
+  "en": "Bronze Polishing",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 30
+  },
+  "requer": [
+   "bronze_ingots"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_weapons",
+  "pt": "Equipamento de Bronze",
+  "en": "Bronze Equipment",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 30
+  },
+  "requer": [
+   "lock_npc_head_of_the_guards_20"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "bronze_works",
+  "pt": "Maestria em Bronze",
+  "en": "Bronze Works",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 5
+  },
+  "requer": [],
+  "libera_receitas": [
+   "nails_bronze_scrap"
+  ],
+  "libera_construcoes": [
+   "wooden_anvil_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "firewood_shed_2",
+  "pt": "Lenheiro II",
+  "en": "Firewood shed II",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 5
+  },
+  "requer": [
+   "bronze_ingots"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "firewood_shed_2_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "glass_blowing",
+  "pt": "Vidro",
+  "en": "Glass",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 10
+  },
+  "requer": [
+   "bronze_ingot_scrap"
+  ],
+  "libera_receitas": [
+   "glass"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "glass_blowing_2",
+  "pt": "Vidro de Sopro",
+  "en": "Glass Blowing",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 45,
+   "tech_green": 10
+  },
+  "requer": [
+   "glass_blowing"
+  ],
+  "libera_receitas": [
+   "alchemy_bottle_1",
+   "bottle_empty"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "iron_armor",
+  "pt": "Equipamento de Ferro",
+  "en": "Iron Equipment",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 80
+  },
+  "requer": [
+   "iron_details"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "iron_details",
+  "pt": "Maestria em Ferro",
+  "en": "Iron Works",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 75
+  },
+  "requer": [
+   "tech_iron_anvil"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "iron_ingots",
+  "pt": "Forja de Ferro",
+  "en": "Iron Forge",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 35
+  },
+  "requer": [
+   "bronze_polishing"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "iron_instruments_1",
+  "pt": "Instrumentos de Ferro I",
+  "en": "Iron Instruments I",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 80,
+   "tech_blue": 15
+  },
+  "requer": [
+   "iron_details"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "iron_instruments_2",
+  "pt": "Instrumentos de Ferro II",
+  "en": "Iron Instruments II",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 80,
+   "tech_blue": 15
+  },
+  "requer": [
+   "iron_details"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "iron_products",
+  "pt": "Produtos de Ferro",
+  "en": "Iron Products",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 90,
+   "tech_blue": 10
+  },
+  "requer": [
+   "iron_instruments_1",
+   "iron_instruments_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "iron_weapons",
+  "pt": "Armas de Ferro",
+  "en": "Iron Weapons",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 90,
+   "tech_blue": 10
+  },
+  "requer": [
+   "iron_armor"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_head_of_the_guards_20",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {},
+  "requer": [
+   "bronze_ingots"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_workshop_foreman_70",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {},
+  "requer": [
+   "iron_products"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "master_armor",
+  "pt": "Equipamento de Alta Qualidade",
+  "en": "Masterwork Equipment",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 200,
+   "tech_blue": 25
+  },
+  "requer": [
+   "steel_armor"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "reinforced_beam",
+  "pt": "Viga reforçada",
+  "en": "Reinforced Beam",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 75
+  },
+  "requer": [
+   "iron_details"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "reinforced_plank",
+  "pt": "Tábua reforçada",
+  "en": "Reinforced Plank",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 45
+  },
+  "requer": [
+   "lock_npc_head_of_the_guards_20"
+  ],
+  "libera_receitas": [
+   "reinforced_plank"
+  ],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "steel_armor",
+  "pt": "Equipamento de Aço",
+  "en": "Steel Equipment",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 160,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_steel_instruments_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "steel_casting",
+  "pt": "Fundição de Aço",
+  "en": "Steel Casting",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_blue": 20
+  },
+  "requer": [
+   "steel_products"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "steel_products",
+  "pt": "Metalurgia de Aço",
+  "en": "Steel Smithing",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 120,
+   "tech_blue": 15
+  },
+  "requer": [
+   "lock_npc_workshop_foreman_70"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "steel_weapons",
+  "pt": "Armas de Aço",
+  "en": "Steel Weapons",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 160,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_steel_instruments_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conveyor_furnace_bellows",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 90,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_smithy_hammer"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_conveyor_furnace_t2",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 160,
+   "tech_blue": 20
+  },
+  "requer": [
+   "steel_casting"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_furnace_bellows",
+  "pt": "Fole",
+  "en": "Bellows",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 30
+  },
+  "requer": [
+   "iron_ingots"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_iron_anvil",
+  "pt": "Metalurgia do Ferro",
+  "en": "Iron Smithing",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 50
+  },
+  "requer": [
+   "iron_ingots"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_lenses",
+  "pt": "Lentes",
+  "en": "Lenses",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 175,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_conveyor_furnace_t2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_smithy_1",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 75,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_iron_anvil"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_smithy_hammer",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 80,
+   "tech_blue": 30
+  },
+  "requer": [
+   "tech_smithy_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_steel_instruments_1",
+  "pt": "Instrumentos de Aço I",
+  "en": "Steel Instruments I",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_blue": 20
+  },
+  "requer": [
+   "steel_products"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_steel_instruments_2",
+  "pt": "Instrumentos de Aço II",
+  "en": "Steel Instruments II",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_blue": 20
+  },
+  "requer": [
+   "steel_products"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_steel_works",
+  "pt": "Metalurgia do Aço",
+  "en": "Steel Works",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 175,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_conveyor_furnace_t2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_zombie_carousel",
+  "pt": "Engrenagens de Zumbi",
+  "en": "Zombie Gears",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 90,
+   "tech_blue": 20
+  },
+  "requer": [
+   "tech_smithy_hammer"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_zombie_digging",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_iron_anvil"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "towers_1",
+  "pt": "Torre dos Arqueiros",
+  "en": "Archers Tower",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 60,
+   "tech_green": 25
+  },
+  "requer": [
+   "barricades_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "towers_2",
+  "pt": "Torre dos Arqueiros II",
+  "en": "Archers Tower II",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_green": 50
+  },
+  "requer": [
+   "barricades_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "towers_3",
+  "pt": "Torre dos Arqueiros III",
+  "en": "Archers Tower III",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 160,
+   "tech_green": 80
+  },
+  "requer": [
+   "barricades_3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "zombie_mining",
+  "pt": "Mineração Zumbi",
+  "en": "Zombie Mining",
+  "aba": {
+   "id": "Metallurgy",
+   "pt": "Metalurgia"
+  },
+  "custo": {
+   "tech_red": 60,
+   "tech_blue": 10
+  },
+  "requer": [
+   "tech_iron_anvil"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": true
+ },
+ {
+  "id": "candles_1",
+  "pt": "Luz de Igreja I",
+  "en": "Church Lighting I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 10,
+   "tech_blue": 5
+  },
+  "requer": [
+   "church_upgrade_1_bench_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "candles_2",
+  "pt": "Luz de Igreja II",
+  "en": "Church Lighting II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 20,
+   "tech_blue": 20
+  },
+  "requer": [
+   "church_upgrade_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "candles_3",
+  "pt": "Luz de Igreja III",
+  "en": "Church Lighting III",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_green": 50,
+   "tech_blue": 100
+  },
+  "requer": [
+   "church_upgrade_3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_music_chore",
+  "pt": "Música de Igreja I",
+  "en": "Church Music I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_blue": 20
+  },
+  "requer": [
+   "church_upgrade_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_music_organ",
+  "pt": "Música de Igreja II",
+  "en": "Church Music II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 150,
+   "tech_blue": 100
+  },
+  "requer": [
+   "church_upgrade_3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_passive_buidlings_1",
+  "pt": "Mobiliário de Igreja I",
+  "en": "Church Furniture I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_blue": 5
+  },
+  "requer": [
+   "church_upgrade_1_bench_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "confession_1_place_p",
+   "altar_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_passive_buidlings_2",
+  "pt": "Mobiliário de Igreja II",
+  "en": "Church Furniture II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_green": 20,
+   "tech_blue": 30
+  },
+  "requer": [
+   "church_upgrade_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_passive_buidlings_3",
+  "pt": "Mobiliário de Igreja III",
+  "en": "Church Furniture III",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_green": 70,
+   "tech_blue": 80
+  },
+  "requer": [
+   "church_upgrade_3"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_upgrade_1_bench_1",
+  "pt": "Limpeza da Igreja",
+  "en": "Church Cleaning",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {},
+  "requer": [],
+  "libera_receitas": [],
+  "libera_construcoes": [
+   "bench_1_place_p",
+   "upgrade_church_1_s"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_upgrade_2",
+  "pt": "Tapetes de Igreja",
+  "en": "Church Carpets",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 5,
+   "tech_blue": 10
+  },
+  "requer": [
+   "lock_npc_nun_30"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "church_upgrade_3",
+  "pt": "Iluminação de Igreja",
+  "en": "Church Illumination",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_green": 20,
+   "tech_blue": 50
+  },
+  "requer": [
+   "lock_npc_nun_50"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "incense_1",
+  "pt": "Aromas de Igreja I",
+  "en": "Church Smells I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_green": 50,
+   "tech_blue": 30
+  },
+  "requer": [
+   "candles_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "incense_2",
+  "pt": "Aromas de Igreja II",
+  "en": "Church Smells II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_green": 100,
+   "tech_blue": 100
+  },
+  "requer": [
+   "candles_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "jewelry",
+  "pt": "Joias de Luxo",
+  "en": "Fine Jewelry",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 30,
+   "tech_blue": 70
+  },
+  "requer": [
+   "writing_tools_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_astrologer_30",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {},
+  "requer": [
+   "writing_books_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_nun_30",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {},
+  "requer": [
+   "church_passive_buidlings_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "lock_npc_nun_50",
+  "pt": null,
+  "en": null,
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {},
+  "requer": [
+   "church_passive_buidlings_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "newspaper",
+  "pt": "Jornal",
+  "en": "Newspaper",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 10,
+   "tech_blue": 20
+  },
+  "requer": [
+   "lock_npc_astrologer_30"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "paper_press",
+  "pt": "Prensa de papel",
+  "en": "Paper Press",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_blue": 10
+  },
+  "requer": [
+   "writing_books_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "sermons_money_faith",
+  "pt": "Escrita Religiosa I",
+  "en": "Religious Writing I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 5,
+   "tech_blue": 20
+  },
+  "requer": [
+   "sermons_writing_basic",
+   "church_upgrade_1_bench_1"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "sermons_war_trade",
+  "pt": "Escrita Religiosa II",
+  "en": "Religious Writing II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_green": 10,
+   "tech_blue": 40
+  },
+  "requer": [
+   "newspaper"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "sermons_writing_basic",
+  "pt": "Escrita Básica",
+  "en": "Writing Basic",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 5,
+   "tech_green": 5
+  },
+  "requer": [],
+  "libera_receitas": [
+   "skroll_skin_pig"
+  ],
+  "libera_construcoes": [
+   "writing_desk_1_place_p"
+  ],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": true,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_jeweler_table",
+  "pt": "Trabalho Delicado",
+  "en": "Delicate Work",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_green": 10,
+   "tech_blue": 15
+  },
+  "requer": [
+   "writing_items"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_self_books",
+  "pt": "Livros de Autoajuda",
+  "en": "Self-Help Books",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 50,
+   "tech_green": 50,
+   "tech_blue": 50
+  },
+  "requer": [
+   "newspaper"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_self_books_2",
+  "pt": "Livros de Autoajuda II",
+  "en": "Self-Help Books II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 100,
+   "tech_green": 100,
+   "tech_blue": 100
+  },
+  "requer": [
+   "writing_tools_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "tech_storytelling",
+  "pt": "Contação de Histórias I",
+  "en": "Storytelling I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_green": 80,
+   "tech_blue": 80
+  },
+  "requer": [
+   "writing_books_2"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "writing_books_1",
+  "pt": "Livros",
+  "en": "Books I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 20,
+   "tech_blue": 10
+  },
+  "requer": [
+   "writing_items"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "writing_books_2",
+  "pt": "Livros II",
+  "en": "Books II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 30,
+   "tech_green": 30,
+   "tech_blue": 20
+  },
+  "requer": [
+   "newspaper"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "writing_items",
+  "pt": "Suprimentos para escrita",
+  "en": "Writing Supplies",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 10,
+   "tech_blue": 5
+  },
+  "requer": [
+   "sermons_writing_basic"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "writing_tools_1",
+  "pt": "Ferramentas de Escrita I",
+  "en": "Writing Tools I",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_green": 80,
+   "tech_blue": 80
+  },
+  "requer": [
+   "lock_npc_astrologer_30"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ },
+ {
+  "id": "writing_tools_2",
+  "pt": "Ferramentas de Escrita II",
+  "en": "Writing Tools II",
+  "aba": {
+   "id": "Theology",
+   "pt": "Teologia"
+  },
+  "custo": {
+   "tech_red": 20,
+   "tech_green": 20,
+   "tech_blue": 50
+  },
+  "requer": [
+   "paper_press"
+  ],
+  "libera_receitas": [],
+  "libera_construcoes": [],
+  "libera_perks": [],
+  "libera_formulas": [],
+  "disponivel_na_demo": false,
+  "oculta_no_inicio": false
+ }
+]

@@ -1,0 +1,1038 @@
+[
+ {
+  "count": 1,
+  "happinessReward": {
+   "expressionString": "20+ 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20+ 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "quest_order_iron",
+  "isRenewable": 0,
+  "isUrgent": 0,
+  "itemId": "box_iron_ingot"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "pharmacy_box_cutlery_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_cutlery_1"
+ },
+ {
+  "count": 5,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "pharmacy_box_cutlery_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_cutlery_1"
+ },
+ {
+  "count": 5,
+  "happinessReward": {
+   "expressionString": "15 + 1*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 1*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "pharmacy_box_cutlery_1_one_time",
+  "isRenewable": 0,
+  "isUrgent": 0,
+  "itemId": "box_cutlery_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40+ 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40+ 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "pharmacy_box_kitchen_utensils",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_kitchen_utensils"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25+ 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25+ 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "pharmacy_box_kitchen_utensils_easy",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_kitchen_utensils"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "pharmacy_box_cutlery_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_cutlery_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "30 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "30 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "pharmacy_box_cutlery_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_cutlery_2"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "30+ 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "30+ 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "vegetable_box_vegetables",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_vegetables"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "vegetable_box_vegetables_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_vegetables"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "vegetable_box_preserves_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_preserves_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "vegetable_box_preserves_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_preserves_1"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50+ 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50+ 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "vegetable_box_preserves_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_preserves_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "vegetable_box_preserves_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_preserves_2"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "25 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tailor_box_fabric",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_fabric"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tailor_box_fabric_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_fabric"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tailor_box_clothes_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_clothes_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tailor_box_clothes_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_clothes_1"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tailor_box_clothes_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_clothes_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tailor_box_clothes_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_clothes_2"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "25 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "furniture_box_furniture_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_furniture_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "furniture_box_furniture_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_furniture_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "furniture_box_appliances_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_appliances_1"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "furniture_box_furniture_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_furniture_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "furniture_box_furniture_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_furniture_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "furniture_box_appliances_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_appliances_1"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "bakery_box_flour",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_flour"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "bakery_box_tools_iron",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "bakery_box_appliances_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_appliances_1"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "bakery_box_flour_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_flour"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "bakery_box_tools_iron_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "bakery_box_appliances_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_appliances_1"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "fish_box_preserves_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_preserves_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "fish_box_tools_iron",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "fish_box_clothes_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_clothes_1"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "fish_box_preserves_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_preserves_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "fish_box_tools_iron_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "fish_box_clothes_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_clothes_1"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "alchemy_box_kitchen_utensils",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_kitchen_utensils"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "alchemy_box_engineering_mechanism",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "alchemy_box_appliances_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_appliances_2"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "alchemy_box_kitchen_utensils_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_kitchen_utensils"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "alchemy_box_engineering_mechanism_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "alchemy_box_appliances_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_appliances_2"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "jeweler_box_tools_iron",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "jeweler_box_tools_steel",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_tools_steel"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "jeweler_box_engineering_mechanism",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "jeweler_box_tools_iron_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "jeweler_box_tools_steel_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_tools_steel"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "jeweler_box_engineering_mechanism_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "builder_box_tools_iron",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "builder_box_tools_steel",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_tools_steel"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "builder_box_engineering_mechanism",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "builder_box_tools_iron_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_tools_iron"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "builder_box_tools_steel_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_tools_steel"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "builder_box_engineering_mechanism_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "blacksmith_box_building_kit_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_building_kit_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "blacksmith_box_building_kit_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_building_kit_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "blacksmith_box_engineering_mechanism",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "25+ 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25+ 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "blacksmith_box_building_kit_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_building_kit_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "blacksmith_box_building_kit_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_building_kit_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "blacksmith_box_engineering_mechanism_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_engineering_mechanism"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "20 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "20 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "shalman_box_preserves_1",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_preserves_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "40 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "shalman_box_beer",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_beer"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "50 + 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "50 + 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "shalman_box_vine",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_vine"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "shalman_box_preserves_1_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_preserves_1"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "shalman_box_beer_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_beer"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "shalman_box_vine_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_vine"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "40+ 10*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "40+ 10*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "brewery_box_kitchen_utensils",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_kitchen_utensils"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "70 + 20*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "70 + 20*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "brewery_box_cutlery_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_cutlery_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "80 + 20*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "80 + 20*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "brewery_box_appliances_2",
+  "isRenewable": 1,
+  "isUrgent": 1,
+  "itemId": "box_appliances_2"
+ },
+ {
+  "count": 10,
+  "happinessReward": {
+   "expressionString": "15 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "15 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "brewery_box_kitchen_utensils_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_kitchen_utensils"
+ },
+ {
+  "count": 20,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "brewery_box_cutlery_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_cutlery_2"
+ },
+ {
+  "count": 30,
+  "happinessReward": {
+   "expressionString": "25 + 5*PPar(\"perk_happy_supplier\")",
+   "expressionStringUnparsed": "25 + 5*$perk_happy_supplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "brewery_box_appliances_2_easy",
+  "isRenewable": 1,
+  "isUrgent": 0,
+  "itemId": "box_appliances_2"
+ }
+]

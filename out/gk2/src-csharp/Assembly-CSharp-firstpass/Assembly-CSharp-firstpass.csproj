@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaxyCSharp">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/GalaxyCSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="SoftMask">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/SoftMask.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Core">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/Rewired_Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Windows">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/Rewired_Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>../../../../../../../.local/share/Steam/steamapps/common/Graveyard Keeper 2 Demo/GraveyardKeeper2Demo_Data/Managed/UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

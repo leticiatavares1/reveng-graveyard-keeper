@@ -1,0 +1,1517 @@
+[
+ {
+  "id": "BrokenBarn_xs_horizontal_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBarn_xs_horizontal_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBarn_xs_horizontal_01_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBarn_xs_verticall_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_09",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_vertical_01_10",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_09",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_10",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_11",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_12",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_13",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_14",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_15",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_16",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_17",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_18",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_19",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_20",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_21",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_22",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_23",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_24",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_25",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_26",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_27",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_28",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenBetween_m_verticall_02_29",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenConnection_s_horzontal_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenConnection_s_horzontal_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenConnection_s_horzontal_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenConnection_s_horzontal_03_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_horizontal_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_01_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_01_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_01_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_01_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_03_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenExtension_s_vertical_04_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_m_horzontal_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_09",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_10",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_11",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_12",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_13",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_14",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_15",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_s_horzontal_02_16",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryArches_xl_horzontal_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryCanopy_s_horzontal_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenGalleryCanopy_s_horzontal_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_01_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_02_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_02_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_l_vertical_02_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_00",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_01_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_01_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_01_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_02_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_04_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_04_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_horizontal_04_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_02 (5)",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_02_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_02_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_02_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_02_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_04_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_04_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_06_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_07_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_09",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_10",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_11",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_12",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_13",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_14",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_15",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_16",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_17",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_18",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_19",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_20",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_21",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_22",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_23",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_24",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_25",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_26",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_27",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_28",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_29",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_30",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_08_31",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_09",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_10",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_11",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_12",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_13",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_14",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_15",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_16",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_17",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_18",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_19",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_20",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_21",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_22",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_23",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_24",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_25",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_26",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_09_27",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_10_09",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_11",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_11_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_11_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_03_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_03_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_03_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_03_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_02_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_02_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_02_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_03_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_03_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_03_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_06",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_07",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_tower_04_08",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_02_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_02_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_02_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_02_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_roof",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_roof_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_roof_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical_roof_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenWoodenBridge_s_horzontal_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenWoodenBridge_s_horzontal_01_01",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenWoodenBridge_s_horzontal_01_02",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenWoodenBridge_s_horzontal_01_03",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenWoodenBridge_s_horzontal_01_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenWoodenBridge_s_horzontal_01_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_vertical",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_04",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_s_horizontal_05",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenHouse_m_vertical_12",
+  "replacementConfigId": "broken_2",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1101",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1101",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1102",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1102",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1103",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1103",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1104",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1104",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1105",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1105",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1106",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1106",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1107",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1107",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1108",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1108",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1109",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1109",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1301",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1301",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1302",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1302",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1303",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1303",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1304",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1304",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1201",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1201",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1202",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1202",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1203",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1203",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1204",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1204",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1205",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1205",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1206",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1206",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1207",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1207",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1208",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1208",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1401",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1401",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1402",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1402",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1403",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1403",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1404",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1404",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1405",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1405",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1406",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1406",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "BrokenDecor_1407",
+  "replacementConfigId": "",
+  "townQuality": 0
+ },
+ {
+  "id": "RepairedDecor_1407",
+  "replacementConfigId": "",
+  "townQuality": 0
+ }
+]

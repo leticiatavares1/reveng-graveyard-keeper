@@ -1,0 +1,288 @@
+[
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "energy",
+  "max": {
+   "expressionString": "100 - PPar(\"insanity\")",
+   "expressionStringUnparsed": "100 - $insanity",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "4",
+   "expressionStringUnparsed": "4",
+   "pureValueBool": 0,
+   "pureValueFloat": 4.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "energy_nedosyp",
+  "max": {
+   "expressionString": "100 - PPar(\"insanity\")",
+   "expressionStringUnparsed": "100 - $insanity",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "80",
+   "expressionStringUnparsed": "80",
+   "pureValueBool": 0,
+   "pureValueFloat": 80.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [
+   {
+    "expressionString": "GSFireEvent(\"Music\", \"set_music_weight\")",
+    "expressionStringUnparsed": "GSFireEvent(\"Music\", \"set_music_weight\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "expressionsOnIncrease": [
+   {
+    "expressionString": "GSFireEvent(\"Music\", \"set_music_weight\")",
+    "expressionStringUnparsed": "GSFireEvent(\"Music\", \"set_music_weight\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "id": "insanity",
+  "max": {
+   "expressionString": "80 - 10*PPar(\"perk_ironwill\")",
+   "expressionStringUnparsed": "80 - 10*$perk_ironwill",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "10",
+   "expressionStringUnparsed": "10",
+   "pureValueBool": 0,
+   "pureValueFloat": 10.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "tech_red",
+  "max": {
+   "expressionString": "999",
+   "expressionStringUnparsed": "999",
+   "pureValueBool": 0,
+   "pureValueFloat": 999.0,
+   "pureValueType": 1
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "tech_green",
+  "max": {
+   "expressionString": "999",
+   "expressionStringUnparsed": "999",
+   "pureValueBool": 0,
+   "pureValueFloat": 999.0,
+   "pureValueType": 1
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "tech_blue",
+  "max": {
+   "expressionString": "999",
+   "expressionStringUnparsed": "999",
+   "pureValueBool": 0,
+   "pureValueFloat": 999.0,
+   "pureValueType": 1
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "happiness",
+  "max": {
+   "expressionString": "9999",
+   "expressionStringUnparsed": "9999",
+   "pureValueBool": 0,
+   "pureValueFloat": 9999.0,
+   "pureValueType": 1
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "stamina",
+  "max": {
+   "expressionString": "100",
+   "expressionStringUnparsed": "100",
+   "pureValueBool": 0,
+   "pureValueFloat": 100.0,
+   "pureValueType": 1
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "100",
+   "expressionStringUnparsed": "100",
+   "pureValueBool": 0,
+   "pureValueFloat": 100.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "donkey_body_drop_chance",
+  "max": {
+   "expressionString": "100",
+   "expressionStringUnparsed": "100",
+   "pureValueBool": 0,
+   "pureValueFloat": 100.0,
+   "pureValueType": 1
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "100",
+   "expressionStringUnparsed": "100",
+   "pureValueBool": 0,
+   "pureValueFloat": 100.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "expressionsOnDecrease": [],
+  "expressionsOnIncrease": [],
+  "id": "money",
+  "max": {
+   "expressionString": "999999999",
+   "expressionStringUnparsed": "999999999",
+   "pureValueBool": 0,
+   "pureValueFloat": 1000000000.0,
+   "pureValueType": 1
+  },
+  "min": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "overrodeResName": "",
+  "start": {
+   "expressionString": "100",
+   "expressionStringUnparsed": "100",
+   "pureValueBool": 0,
+   "pureValueFloat": 100.0,
+   "pureValueType": 1
+  }
+ }
+]

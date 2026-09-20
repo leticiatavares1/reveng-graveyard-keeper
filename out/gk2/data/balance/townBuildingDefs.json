@@ -1,0 +1,7825 @@
+[
+ {
+  "characterId": "test_town_building_char_1",
+  "craftsIn": [
+   "test_town_building_signboard_1"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_coal",
+  "id": "test_forge_1",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "test_forge_2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "stick"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Forge",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_coal",
+  "id": "test_forge_2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "stick"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Forge",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "test_town_building_char_2",
+  "craftsIn": [
+   "test_town_building_signboard_2"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_bonfire",
+  "id": "test_bakery_1",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "test_bakery_2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "stick"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Bakery",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_bonfire",
+  "id": "test_bakery_2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "stick"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Bakery",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_tavern_table_1",
+  "id": "test_custom_beer_house_1",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "test_custom_beer_house_2",
+  "needItems": [],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_tavern_table_1",
+  "id": "test_custom_beer_house_2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "t_b_apothecary",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-pharmacy",
+  "id": "Pharmacy_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Pharmacy_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Pharmacy_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Pharmacy_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Pharmacy",
+  "vendorId": "t_b_apothecary"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-pharmacy_2",
+  "id": "Pharmacy_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Pharmacy_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "glass_containers"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Pharmacy",
+  "vendorId": "t_b_apothecary"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-pharmacy_3",
+  "id": "Pharmacy_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Pharmacy",
+  "vendorId": "t_b_apothecary"
+ },
+ {
+  "characterId": "t_b_vegetabler",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-vegetable",
+  "id": "Vegetable_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Vegetable_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Vegetable_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Vegetable_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Vegetable",
+  "vendorId": "t_b_vegetabler"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-vegetable_2",
+  "id": "Vegetable_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Vegetable_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "glass_containers"
+   },
+   {
+    "count": {
+     "expressionString": "40",
+     "expressionStringUnparsed": "40",
+     "pureValueBool": 0,
+     "pureValueFloat": 40.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "cabbage:2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Vegetable",
+  "vendorId": "t_b_vegetabler"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-vegetable_3",
+  "id": "Vegetable_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "40",
+     "expressionStringUnparsed": "40",
+     "pureValueBool": 0,
+     "pureValueFloat": 40.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "onion:3"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Vegetable",
+  "vendorId": "t_b_vegetabler"
+ },
+ {
+  "characterId": "t_b_tailor",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-weaving_workshop",
+  "id": "Tailor_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Tailor_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Tailor_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Tailor_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Tailor",
+  "vendorId": "t_b_tailor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-weaving_workshop_2",
+  "id": "Tailor_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Tailor_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "40",
+     "expressionStringUnparsed": "40",
+     "pureValueBool": 0,
+     "pureValueFloat": 40.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "thread_flax"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Tailor",
+  "vendorId": "t_b_tailor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-weaving_workshop_3",
+  "id": "Tailor_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "60",
+     "expressionStringUnparsed": "60",
+     "pureValueBool": 0,
+     "pureValueFloat": 60.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "fabric_flax"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Tailor",
+  "vendorId": "t_b_tailor"
+ },
+ {
+  "characterId": "t_b_furniturer",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-furniture",
+  "id": "Furniture_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Furniture_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Furniture_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Furniture_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Furniture",
+  "vendorId": "t_b_furniturer"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-furniture_2",
+  "id": "Furniture_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Furniture_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_beam"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Furniture",
+  "vendorId": "t_b_furniturer"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-furniture_3",
+  "id": "Furniture_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "12",
+     "expressionStringUnparsed": "12",
+     "pureValueBool": 0,
+     "pureValueFloat": 12.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "screw_steel"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Furniture",
+  "vendorId": "t_b_furniturer"
+ },
+ {
+  "characterId": "t_b_baker",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-bakery",
+  "id": "Bakery_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Bakery_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Bakery_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Bakery_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Bakery",
+  "vendorId": "t_b_baker"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-bakery_2",
+  "id": "Bakery_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Bakery_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "flesh"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Bakery",
+  "vendorId": "t_b_baker"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-bakery_3",
+  "id": "Bakery_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "flesh"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Bakery",
+  "vendorId": "t_b_baker"
+ },
+ {
+  "characterId": "t_b_fisher",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-fish",
+  "id": "Fish_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Fish_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Fish_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Fish_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Fish",
+  "vendorId": "t_b_fisher"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-fish_2",
+  "id": "Fish_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Fish_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "advanced_rod"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Fish",
+  "vendorId": "t_b_fisher"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-fish_3",
+  "id": "Fish_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "pro_rod"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Fish",
+  "vendorId": "t_b_fisher"
+ },
+ {
+  "characterId": "t_b_alchemist",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "4",
+      "expressionStringUnparsed": "4",
+      "pureValueBool": 0,
+      "pureValueFloat": 4.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-alchemis",
+  "id": "Alchemy_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Alchemy_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Alchemy_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Alchemy_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Alchemy",
+  "vendorId": "t_b_alchemist"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-alchemis_2",
+  "id": "Alchemy_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Alchemy_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "notebook"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Alchemy",
+  "vendorId": "t_b_alchemist"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-alchemis_3",
+  "id": "Alchemy_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "notebook_hard"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Alchemy",
+  "vendorId": "t_b_alchemist"
+ },
+ {
+  "characterId": "t_b_jeweler",
+  "craftsIn": [
+   "t_b_signboard_house",
+   "repair_sign_1102",
+   "repair_sign_1106",
+   "repair_sign_1203",
+   "repair_sign_1206",
+   "repair_sign_1208",
+   "repair_sign_1402",
+   "repair_sign_1407"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "4",
+      "expressionStringUnparsed": "4",
+      "pureValueBool": 0,
+      "pureValueFloat": 4.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-shop-jewelry",
+  "id": "Jeweler_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Jeweler_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Jeweler_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Jeweler_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Jeweler",
+  "vendorId": "t_b_jeweler"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-jewelry_2",
+  "id": "Jeweler_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Jeweler_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "polished_bronze"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Jeweler",
+  "vendorId": "t_b_jeweler"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-shop-jewelry_3",
+  "id": "Jeweler_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "polished_bronze"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Jeweler",
+  "vendorId": "t_b_jeweler"
+ },
+ {
+  "characterId": "t_b_builder",
+  "craftsIn": [
+   "t_b_signboard_yard",
+   "repair_sign_1104",
+   "repair_sign_1201",
+   "repair_sign_1403",
+   "repair_sign_1405"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-mf-builder",
+  "id": "Builder_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Builder_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Builder_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Builder_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Builder",
+  "vendorId": "t_b_builder"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-builder_2",
+  "id": "Builder_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Builder_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "marble_kit"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "stone_plate_3"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Builder",
+  "vendorId": "t_b_builder"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-builder_3",
+  "id": "Builder_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_joint"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Builder",
+  "vendorId": "t_b_builder"
+ },
+ {
+  "characterId": "t_b_blacksmith",
+  "craftsIn": [
+   "t_b_signboard_yard",
+   "repair_sign_1104",
+   "repair_sign_1201",
+   "repair_sign_1403",
+   "repair_sign_1405"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-mf-blacksmith",
+  "id": "Blacksmith_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Blacksmith_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Blacksmith_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Blacksmith_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Blacksmith",
+  "vendorId": "t_b_blacksmith"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-blacksmith_2",
+  "id": "Blacksmith_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Blacksmith_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "marble_kit"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "detail_2_iron"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Blacksmith",
+  "vendorId": "t_b_blacksmith"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-blacksmith_3",
+  "id": "Blacksmith_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "12",
+     "expressionStringUnparsed": "12",
+     "pureValueBool": 0,
+     "pureValueFloat": 12.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "screw_steel"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Blacksmith",
+  "vendorId": "t_b_blacksmith"
+ },
+ {
+  "characterId": "t_b_shalman",
+  "craftsIn": [
+   "t_b_signboard_yard",
+   "repair_sign_1104",
+   "repair_sign_1201",
+   "repair_sign_1403",
+   "repair_sign_1405"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-mf-shalman",
+  "id": "Shalman_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Shalman_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Shalman_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Shalman_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Shalman",
+  "vendorId": "t_b_shalman"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-shalman_2",
+  "id": "Shalman_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Shalman_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "marble_kit"
+   },
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "apple_cider"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Shalman",
+  "vendorId": "t_b_shalman"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-shalman_3",
+  "id": "Shalman_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "12",
+     "expressionStringUnparsed": "12",
+     "pureValueBool": 0,
+     "pureValueFloat": 12.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "blueberry_cider"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Shalman",
+  "vendorId": "t_b_shalman"
+ },
+ {
+  "characterId": "t_b_brewer",
+  "craftsIn": [
+   "t_b_signboard_yard",
+   "repair_sign_1104",
+   "repair_sign_1201",
+   "repair_sign_1403",
+   "repair_sign_1405"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-mf-brewery",
+  "id": "Brewery_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Brewery_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 2)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_shop\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_shop\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"market_stall_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "LockTownBuilding(\"Brewery_t1\")",
+    "expressionStringUnparsed": "LockTownBuilding(\"Brewery_t1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Brewery",
+  "vendorId": "t_b_brewer"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-brewery_2",
+  "id": "Brewery_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Brewery_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "marble_kit"
+   },
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape_juice:1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Brewery",
+  "vendorId": "t_b_brewer"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-mf-brewery_3",
+  "id": "Brewery_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "12",
+     "expressionStringUnparsed": "12",
+     "pureValueBool": 0,
+     "pureValueFloat": 12.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape_juice:3"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddRep(\"village_REP\", 3)",
+    "expressionStringUnparsed": "AddRep(\"village_REP\", 3)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Brewery",
+  "vendorId": "t_b_brewer"
+ },
+ {
+  "characterId": "t_b_potter",
+  "craftsIn": [
+   "t_b_signboard_yard",
+   "repair_sign_1104",
+   "repair_sign_1201",
+   "repair_sign_1403",
+   "repair_sign_1405"
+  ],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [
+   {
+    "expressionString": "FireEventOnWgo(\"OnCreate\")",
+    "expressionStringUnparsed": "FireEventOnWgo(\"OnCreate\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "iconId": "i_b-mf-pottery_workmf",
+  "id": "Potter_t1",
+  "isNeedsUnlock": 1,
+  "lvlUpId": "Potter_t2",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "12",
+     "expressionStringUnparsed": "12",
+     "pureValueBool": 0,
+     "pureValueFloat": 12.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "flitch"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "nails_bronze"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddTownQuality(5)",
+    "expressionStringUnparsed": "AddTownQuality(5)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Potter",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "",
+  "id": "Potter_t2",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "Potter_t3",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "12",
+     "expressionStringUnparsed": "12",
+     "pureValueBool": 0,
+     "pureValueFloat": 12.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_plank"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "detail_1_iron"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddTownQuality(5)",
+    "expressionStringUnparsed": "AddTownQuality(5)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Potter",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [],
+  "dontPlaceBuildingOnWgo": 0,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "",
+  "id": "Potter_t3",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_beam"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "detail_2_iron"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "CreateTownBuilding()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddTownQuality(5)",
+    "expressionStringUnparsed": "AddTownQuality(5)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 0,
+  "upgradeRequirements": [],
+  "variationId": "Potter",
+  "vendorId": "test_town_vendor"
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1101"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "8",
+      "expressionStringUnparsed": "8",
+      "pureValueBool": 0,
+      "pureValueFloat": 8.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "4",
+      "expressionStringUnparsed": "4",
+      "pureValueBool": 0,
+      "pureValueFloat": 4.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_two",
+  "id": "repair_1101",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"10\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"10\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1101\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1101\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_1\", 2)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_1\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1103"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "8",
+      "expressionStringUnparsed": "8",
+      "pureValueBool": 0,
+      "pureValueFloat": 8.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "4",
+      "expressionStringUnparsed": "4",
+      "pureValueBool": 0,
+      "pureValueFloat": 4.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_two",
+  "id": "repair_1103",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"10\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"10\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1103\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1103\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_1\", 2)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_1\", 2)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1105"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "8",
+      "expressionStringUnparsed": "8",
+      "pureValueBool": 0,
+      "pureValueFloat": 8.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "sculpture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_three",
+  "id": "repair_1105",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"25\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"25\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1105\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1105\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_4\", 8)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_4\", 8)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1107"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "iron_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_regular",
+  "id": "repair_1107",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "2",
+     "expressionStringUnparsed": "2",
+     "pureValueBool": 0,
+     "pureValueFloat": 2.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"3\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"3\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1107\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1107\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchUnlock(\"ach_recover_house\")",
+    "expressionStringUnparsed": "AchUnlock(\"ach_recover_house\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1108"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "minValue": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_small",
+  "id": "repair_1108",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "iron_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"1\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1108\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1108\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AwaitQuest(\"139_town_homobonus_meet\")",
+    "expressionStringUnparsed": "AwaitQuest(\"139_town_homobonus_meet\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchUnlock(\"ach_recover_house\")",
+    "expressionStringUnparsed": "AchUnlock(\"ach_recover_house\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1109"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "8",
+      "expressionStringUnparsed": "8",
+      "pureValueBool": 0,
+      "pureValueFloat": 8.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "sculpture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_three",
+  "id": "repair_1109",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"20\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"20\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_4\", 8)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_4\", 8)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1301"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "8",
+      "expressionStringUnparsed": "8",
+      "pureValueBool": 0,
+      "pureValueFloat": 8.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "sculpture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_three",
+  "id": "repair_1301",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"25\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"25\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_4\", 8)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_4\", 8)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1301\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1301\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1302"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "10",
+      "expressionStringUnparsed": "10",
+      "pureValueBool": 0,
+      "pureValueFloat": 10.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_two",
+  "id": "repair_1302",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"10\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"10\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_2\", 4)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_2\", 4)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1302\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1302\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1303"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "10",
+      "expressionStringUnparsed": "10",
+      "pureValueBool": 0,
+      "pureValueFloat": 10.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_two",
+  "id": "repair_1303",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"10\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"10\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_2\", 4)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_2\", 4)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1303\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1303\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1202"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "10",
+      "expressionStringUnparsed": "10",
+      "pureValueBool": 0,
+      "pureValueFloat": 10.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_two",
+  "id": "repair_1202",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"10\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"10\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_2\", 4)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_2\", 4)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1202\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1202\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1204"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "10",
+      "expressionStringUnparsed": "10",
+      "pureValueBool": 0,
+      "pureValueFloat": 10.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_two",
+  "id": "repair_1204",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"10\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"10\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_2\", 4)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_2\", 4)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1204\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1204\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1205"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "8",
+      "expressionStringUnparsed": "8",
+      "pureValueBool": 0,
+      "pureValueFloat": 8.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "sculpture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_three",
+  "id": "repair_1205",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"25\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"25\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_4\", 8)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_4\", 8)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1205\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1205\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1207"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "10",
+      "expressionStringUnparsed": "10",
+      "pureValueBool": 0,
+      "pureValueFloat": 10.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "3",
+      "expressionStringUnparsed": "3",
+      "pureValueBool": 0,
+      "pureValueFloat": 3.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_regular",
+  "id": "repair_1207",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "20",
+     "expressionStringUnparsed": "20",
+     "pureValueBool": 0,
+     "pureValueFloat": 20.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_1"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"3\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"3\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_2\", 4)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_2\", 4)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1207\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1207\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1401"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "15",
+      "expressionStringUnparsed": "15",
+      "pureValueBool": 0,
+      "pureValueFloat": 15.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "sculpture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_two",
+  "id": "repair_1401",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "30",
+     "expressionStringUnparsed": "30",
+     "pureValueBool": 0,
+     "pureValueFloat": 30.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"10\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"10\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_3\", 7)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_3\", 7)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1401\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1401\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1404"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_1",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "15",
+      "expressionStringUnparsed": "15",
+      "pureValueBool": 0,
+      "pureValueFloat": 15.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "wooden_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "sculpture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_regular",
+  "id": "repair_1404",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "30",
+     "expressionStringUnparsed": "30",
+     "pureValueBool": 0,
+     "pureValueFloat": 30.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_1"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "wooden_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"3\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"3\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_3\", 7)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_3\", 7)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1404\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1404\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_1406"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "building_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "8",
+      "expressionStringUnparsed": "8",
+      "pureValueBool": 0,
+      "pureValueFloat": 8.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "furniture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "5",
+      "expressionStringUnparsed": "5",
+      "pureValueBool": 0,
+      "pureValueFloat": 5.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    },
+    {
+     "chance": {
+      "expressionString": "0.3 * PPar(\"perk_builder\")",
+      "expressionStringUnparsed": "0.3 * $perk_builder",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "count": {
+      "expressionString": "",
+      "expressionStringUnparsed": "",
+      "pureValueBool": 0,
+      "pureValueFloat": 0.0,
+      "pureValueType": 0
+     },
+     "id": "sculpture_kit_2",
+     "isStarGroup": 0,
+     "maxValue": {
+      "expressionString": "2",
+      "expressionStringUnparsed": "2",
+      "pureValueBool": 0,
+      "pureValueFloat": 2.0,
+      "pureValueType": 1
+     },
+     "minValue": {
+      "expressionString": "1",
+      "expressionStringUnparsed": "1",
+      "pureValueBool": 0,
+      "pureValueFloat": 1.0,
+      "pureValueType": 1
+     },
+     "outputGroupId": ""
+    }
+   ],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b-city-house_three",
+  "id": "repair_1406",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "16",
+     "expressionStringUnparsed": "16",
+     "pureValueBool": 0,
+     "pureValueFloat": 16.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "building_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "furniture_kit_2"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "sculpture_kit_2"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "RepairTownCluster()",
+    "expressionStringUnparsed": "RepairTownCluster()",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DropItem(\"green_scroll\", \"25\")",
+    "expressionStringUnparsed": "DropItem(\"green_scroll\", \"25\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddInspiration(\"insp_build_house\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_build_house\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddPPar(\"add_village_REP_4\", 8)",
+    "expressionStringUnparsed": "AddPPar(\"add_village_REP_4\", 8)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"house_built\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"house_built\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "GSFireEvent(\"NPCSimTown\", \"1406\")",
+    "expressionStringUnparsed": "GSFireEvent(\"NPCSimTown\", \"1406\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 1,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_666"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_repair",
+  "id": "repair_666",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "dynamite"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "DestroyWgoData(\"conveyor_place_dec_1\")",
+    "expressionStringUnparsed": "DestroyWgoData(\"conveyor_place_dec_1\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 2,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ },
+ {
+  "characterId": "",
+  "craftsIn": [
+   "repair_sign_777"
+  ],
+  "dontPlaceBuildingOnWgo": 1,
+  "dropItemsOnBuildingFinished": {
+   "chanceOutputItems": [],
+   "groupChanceOutputItems": []
+  },
+  "expressionOnCharCreate": [],
+  "iconId": "i_b_repair",
+  "id": "repair_777",
+  "isNeedsUnlock": 0,
+  "lvlUpId": "",
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "dynamite"
+   }
+  ],
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "DestroySignboard()",
+    "expressionStringUnparsed": "",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "ReplaceWgoByIds(\"conveyor_place_dec_2\",\"conveyor_place_dec_3\")",
+    "expressionStringUnparsed": "ReplaceWgoByIds(\"conveyor_place_dec_2\",\"conveyor_place_dec_3\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "townBuildingType": 2,
+  "upgradeRequirements": [],
+  "variationId": "",
+  "vendorId": ""
+ }
+]

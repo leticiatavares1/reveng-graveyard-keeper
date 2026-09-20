@@ -1,0 +1,4 @@
+public enum CameraNoiseType
+{
+	Shake
+}

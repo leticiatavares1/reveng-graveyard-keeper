@@ -1,0 +1,2144 @@
+[
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "10",
+   "expressionStringUnparsed": "10",
+   "pureValueBool": 0,
+   "pureValueFloat": 10.0,
+   "pureValueType": 1
+  },
+  "id": "soldier_le_test",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "Item_KnForce(GetWeapon())",
+   "expressionStringUnparsed": "Item_KnForce(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 1.0,
+  "mvtSpeed": 1.0,
+  "retDamage": {
+   "expressionString": "2",
+   "expressionStringUnparsed": "2",
+   "pureValueBool": 0,
+   "pureValueFloat": 2.0,
+   "pureValueType": 1
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "atkDamage": {
+   "expressionString": "3",
+   "expressionStringUnparsed": "3",
+   "pureValueBool": 0,
+   "pureValueFloat": 3.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "2",
+   "expressionStringUnparsed": "2",
+   "pureValueBool": 0,
+   "pureValueFloat": 2.0,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "2",
+   "expressionStringUnparsed": "2",
+   "pureValueBool": 0,
+   "pureValueFloat": 2.0,
+   "pureValueType": 1
+  },
+  "id": "soldier_pure_test",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "mvtAcceleration": 2.0,
+  "mvtSpeed": 1.0,
+  "retDamage": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "2",
+   "expressionStringUnparsed": "2",
+   "pureValueBool": 0,
+   "pureValueFloat": 2.0,
+   "pureValueType": 1
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "150",
+   "expressionStringUnparsed": "150",
+   "pureValueBool": 0,
+   "pureValueFloat": 150.0,
+   "pureValueType": 1
+  },
+  "id": "npc_town_barracks_mercenary_1",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.4000000953674316,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "150",
+   "expressionStringUnparsed": "150",
+   "pureValueBool": 0,
+   "pureValueFloat": 150.0,
+   "pureValueType": 1
+  },
+  "id": "npc_town_barracks_mercenary_2",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.4000000953674316,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "150",
+   "expressionStringUnparsed": "150",
+   "pureValueBool": 0,
+   "pureValueFloat": 150.0,
+   "pureValueType": 1
+  },
+  "id": "npc_town_barracks_mercenary_3",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.4000000953674316,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "150",
+   "expressionStringUnparsed": "150",
+   "pureValueBool": 0,
+   "pureValueFloat": 150.0,
+   "pureValueType": 1
+  },
+  "id": "npc_town_barracks_mercenary_4",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.4000000953674316,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())+AttackerPar(\"zperk_tin_can\")",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())+AttackerPar(\"zperk_tin_can\")",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())-3*PPar(\"buff_damage\")",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())-3*$buff_damage",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())*(1-0.5*PPar(\"buff_motivator\"))",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())*(1-0.5*$buff_motivator)",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "100+50*AttackerPar(\"zperk_undead_resistance\")",
+   "expressionStringUnparsed": "100+50*AttackerPar(\"zperk_undead_resistance\")",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "zmb_wild_mob_allie",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.4000000953674316,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "4",
+   "expressionStringUnparsed": "4",
+   "pureValueBool": 0,
+   "pureValueFloat": 4.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "0.8",
+   "expressionStringUnparsed": "0.8",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.800000011920929,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "0.55",
+   "expressionStringUnparsed": "0.55",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.550000011920929,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "15",
+   "expressionStringUnparsed": "15",
+   "pureValueBool": 0,
+   "pureValueFloat": 15.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_wild_mob",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 0.800000011920929,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "10",
+   "expressionStringUnparsed": "10",
+   "pureValueBool": 0,
+   "pureValueFloat": 10.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "30",
+   "expressionStringUnparsed": "30",
+   "pureValueBool": 0,
+   "pureValueFloat": 30.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_wild_mob_door",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 0.800000011920929,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "6",
+   "expressionStringUnparsed": "6",
+   "pureValueBool": 0,
+   "pureValueFloat": 6.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "0.8",
+   "expressionStringUnparsed": "0.8",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.800000011920929,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "0.55",
+   "expressionStringUnparsed": "0.55",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.550000011920929,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "35",
+   "expressionStringUnparsed": "35",
+   "pureValueBool": 0,
+   "pureValueFloat": 35.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_mob_bucket",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 0.800000011920929,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "10",
+   "expressionStringUnparsed": "10",
+   "pureValueBool": 0,
+   "pureValueFloat": 10.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "0.8",
+   "expressionStringUnparsed": "0.8",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.800000011920929,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "0.55",
+   "expressionStringUnparsed": "0.55",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.550000011920929,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "100",
+   "expressionStringUnparsed": "100",
+   "pureValueBool": 0,
+   "pureValueFloat": 100.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_mob_barrel",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 0.800000011920929,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "5",
+   "expressionStringUnparsed": "5",
+   "pureValueBool": 0,
+   "pureValueFloat": 5.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "0.8",
+   "expressionStringUnparsed": "0.8",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.800000011920929,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "0.55",
+   "expressionStringUnparsed": "0.55",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.550000011920929,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_mob_stump",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 1.5,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "7",
+   "expressionStringUnparsed": "7",
+   "pureValueBool": 0,
+   "pureValueFloat": 7.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "0.8",
+   "expressionStringUnparsed": "0.8",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.800000011920929,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "0.6",
+   "expressionStringUnparsed": "0.6",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.6000000238418579,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "48",
+   "expressionStringUnparsed": "48",
+   "pureValueBool": 0,
+   "pureValueFloat": 48.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_mob_stinker",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 0.800000011920929,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "7",
+   "expressionStringUnparsed": "7",
+   "pureValueBool": 0,
+   "pureValueFloat": 7.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "1.5",
+   "expressionStringUnparsed": "1.5",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.5,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "4.5",
+   "expressionStringUnparsed": "4.5",
+   "pureValueBool": 0,
+   "pureValueFloat": 4.5,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "32",
+   "expressionStringUnparsed": "32",
+   "pureValueBool": 0,
+   "pureValueFloat": 32.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_mob_spitter",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 0.800000011920929,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "10",
+   "expressionStringUnparsed": "10",
+   "pureValueBool": 0,
+   "pureValueFloat": 10.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "1",
+   "expressionStringUnparsed": "1",
+   "pureValueBool": 0,
+   "pureValueFloat": 1.0,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "0.65",
+   "expressionStringUnparsed": "0.65",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.6499999761581421,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "100",
+   "expressionStringUnparsed": "100",
+   "pureValueBool": 0,
+   "pureValueFloat": 100.0,
+   "pureValueType": 1
+  },
+  "id": "zmb_mob_barreltorso",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 5.0,
+  "mvtSpeed": 0.800000011920929,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "8+4*PPar(\"perk_warengineer\")",
+   "expressionStringUnparsed": "8+4*$perk_warengineer",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "0.6",
+   "expressionStringUnparsed": "0.6",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.6000000238418579,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "7",
+   "expressionStringUnparsed": "7",
+   "pureValueBool": 0,
+   "pureValueFloat": 7.0,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "150 + 50*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "150 + 50*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tower_1_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "16+4*PPar(\"perk_warengineer\")",
+   "expressionStringUnparsed": "16+4*$perk_warengineer",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "0.6",
+   "expressionStringUnparsed": "0.6",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.6000000238418579,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "7",
+   "expressionStringUnparsed": "7",
+   "pureValueBool": 0,
+   "pureValueFloat": 7.0,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "300 + 100*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "300 + 100*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tower_2_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "24+6*PPar(\"perk_warengineer\")",
+   "expressionStringUnparsed": "24+6*$perk_warengineer",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "0.6",
+   "expressionStringUnparsed": "0.6",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.6000000238418579,
+   "pureValueType": 1
+  },
+  "atkRange": {
+   "expressionString": "7",
+   "expressionStringUnparsed": "7",
+   "pureValueBool": 0,
+   "pureValueFloat": 7.0,
+   "pureValueType": 1
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "450 + 100*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "450 + 100*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "tower_3_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "400 + 40*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "400 + 40*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_1_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "600 + 60*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "600 + 60*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_2_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "800 + 80*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "800 + 80*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_3_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "250 + 25*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "250 + 25*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_spike_1_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "3+PPar(\"perk_warengineer\")",
+   "expressionStringUnparsed": "3+$perk_warengineer",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "450 + 45*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "450 + 45*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_spike_2_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "5+2*PPar(\"perk_warengineer\")",
+   "expressionStringUnparsed": "5+2*$perk_warengineer",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "600 + 60*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "600 + 60*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_spike_3_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "7+3*PPar(\"perk_warengineer\")",
+   "expressionStringUnparsed": "7+3*$perk_warengineer",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "600 + 60*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "600 + 60*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_wall_1_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "800 + 80*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "800 + 80*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_wall_2_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "1000 + 100*PPar(\"perk_warsupplier\")",
+   "expressionStringUnparsed": "1000 + 100*$perk_warsupplier",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "id": "barricade_wall_3_fight",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "50",
+   "expressionStringUnparsed": "50",
+   "pureValueBool": 0,
+   "pureValueFloat": 50.0,
+   "pureValueType": 1
+  },
+  "id": "npc_city_guards_fight_01",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "50",
+   "expressionStringUnparsed": "50",
+   "pureValueBool": 0,
+   "pureValueFloat": 50.0,
+   "pureValueType": 1
+  },
+  "id": "npc_city_guards_fight_02",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "50",
+   "expressionStringUnparsed": "50",
+   "pureValueBool": 0,
+   "pureValueFloat": 50.0,
+   "pureValueType": 1
+  },
+  "id": "npc_city_guards_fight_03",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "Item_Dmg(GetWeapon())",
+   "expressionStringUnparsed": "Item_Dmg(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "50",
+   "expressionStringUnparsed": "50",
+   "pureValueBool": 0,
+   "pureValueFloat": 50.0,
+   "pureValueType": 1
+  },
+  "id": "npc_city_guards_fight_04",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "50",
+   "expressionStringUnparsed": "50",
+   "pureValueBool": 0,
+   "pureValueFloat": 50.0,
+   "pureValueType": 1
+  },
+  "id": "npc_city_guards_fight_05",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "Item_Armor(GetArmor())",
+   "expressionStringUnparsed": "Item_Armor(GetArmor())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "0",
+   "expressionStringUnparsed": "0",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 1
+  },
+  "atkPause": {
+   "expressionString": "Item_AtkPause(GetWeapon())",
+   "expressionStringUnparsed": "Item_AtkPause(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "Item_Range(GetWeapon())",
+   "expressionStringUnparsed": "Item_Range(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "50",
+   "expressionStringUnparsed": "50",
+   "pureValueBool": 0,
+   "pureValueFloat": 50.0,
+   "pureValueType": 1
+  },
+  "id": "npc_city_guards_fight_06",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 10.0,
+  "mvtSpeed": 2.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "Item_DPTag(GetWeapon())",
+   "expressionStringUnparsed": "Item_DPTag(GetWeapon())",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ },
+ {
+  "armor": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkPause": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "atkRange": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "expressionsOnCombatDeath": [],
+  "hp": {
+   "expressionString": "30",
+   "expressionStringUnparsed": "30",
+   "pureValueBool": 0,
+   "pureValueFloat": 30.0,
+   "pureValueType": 1
+  },
+  "id": "barricade_ev_3_2",
+  "killXp": 0,
+  "knockbackForce": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "mvtAcceleration": 0.0,
+  "mvtSpeed": 0.0,
+  "retDamage": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "targetFilterDockPointTag": {
+   "expressionString": "",
+   "expressionStringUnparsed": "",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  }
+ }
+]

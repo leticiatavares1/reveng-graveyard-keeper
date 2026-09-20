@@ -1,0 +1,814 @@
+[
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "powder_dreams",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 1,
+  "runesGreen": 1,
+  "runesRed": 0,
+  "tab": 2
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "quest_paint",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 2,
+  "runesRed": 0,
+  "tab": 0
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "lacquer",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 2,
+  "runesGreen": 0,
+  "runesRed": 0,
+  "tab": 0
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "heal_potion",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 0,
+  "runesRed": 2,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "heal_potion_2",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 0,
+  "runesRed": 4,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "heal_potion_3",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 0,
+  "runesRed": 5,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "damage_potion",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 1,
+  "runesRed": 1,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "damage_potion_2",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 2,
+  "runesRed": 2,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "damage_potion_3",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 3,
+  "runesRed": 3,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "motivator_potion",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 1,
+  "runesGreen": 0,
+  "runesRed": 1,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "motivator_potion_2",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 2,
+  "runesGreen": 0,
+  "runesRed": 1,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "motivator_potion_3",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 3,
+  "runesGreen": 0,
+  "runesRed": 3,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "berserk_potion",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 1,
+  "runesGreen": 1,
+  "runesRed": 1,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "berserk_potion_2",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 1,
+  "runesGreen": 1,
+  "runesRed": 2,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "berserk_potion_3",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 2,
+  "runesGreen": 2,
+  "runesRed": 3,
+  "tab": 1
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "weak_growing_elixir",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 2,
+  "runesRed": 1,
+  "tab": 2
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "rich_growing_elixir",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 3,
+  "runesRed": 1,
+  "tab": 2
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "miracle_growing_elixir",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 5,
+  "runesRed": 1,
+  "tab": 2
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "preservative",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 3,
+  "runesRed": 0,
+  "tab": 4
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "organ_improver_red",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 1,
+  "runesRed": 4,
+  "tab": 4
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "organ_improver_white",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 0,
+  "runesGreen": 4,
+  "runesRed": 0,
+  "tab": 4
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "resurrection_liquid",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 4,
+  "runesGreen": 1,
+  "runesRed": 2,
+  "tab": 4
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "liquid_harden",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 1,
+  "runesGreen": 2,
+  "runesRed": 4,
+  "tab": 0
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "alkali",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 2,
+  "runesGreen": 4,
+  "runesRed": 1,
+  "tab": 0
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "dust_explosive",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 2,
+  "runesGreen": 0,
+  "runesRed": 2,
+  "tab": 3
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "quality_food_silver",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 2,
+  "runesGreen": 2,
+  "runesRed": 0,
+  "tab": 3
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "quality_food_gold",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 4,
+  "runesGreen": 4,
+  "runesRed": 0,
+  "tab": 3
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "philosopher_stone",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 3,
+  "runesGreen": 3,
+  "runesRed": 3,
+  "tab": 3
+ },
+ {
+  "craftsIn": [
+   "alchemy_mix",
+   "alchemy_mix_2"
+  ],
+  "hiddenAtStart": 1,
+  "id": "third_eye_salt",
+  "onCraftEndExpressions": [
+   {
+    "expressionString": "AddInspiration(\"alchemist\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"alchemist\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AchTriggerCountable(\"pot_done\", 1)",
+    "expressionStringUnparsed": "AchTriggerCountable(\"pot_done\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "runesBlue": 5,
+  "runesGreen": 0,
+  "runesRed": 1,
+  "tab": 3
+ }
+]

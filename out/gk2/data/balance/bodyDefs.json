@@ -1,0 +1,1614 @@
+[
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_2",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_3",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_4",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_2:2",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_5",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_1:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood",
+   "blood"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_6",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_1:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "fat"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_7",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_1:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "fat"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_8",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "blood"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_9",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "fat"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_10",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "blood"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_11",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_2:2",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_12",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_1_1:2",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_13",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_2:2",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "fat"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_14",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_2:2",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood",
+   "fat",
+   "fat"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_0_15",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_1:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_2:2",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "fat",
+   "flesh"
+  ],
+  "tier": 0
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_3:3",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood",
+   "fat"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_2",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_2_0:2",
+   "bones_0_1:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "flesh"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_3",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_2_1:2",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "flesh"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_4",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_3_0:3",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_5",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_2:2",
+   "bones_0_0:1",
+   "skull_0_1:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood",
+   "fat",
+   "fat"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_6",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_1:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_2_1:2"
+  ],
+  "pocket": [
+   "blood",
+   "fat"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_7",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_2_2:2",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_8",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_2_0:2",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_1_9",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_2_1:2",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "fat"
+  ],
+  "tier": 1
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_1_1:2",
+   "skull_0_1:1",
+   "heart_0_3:3",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "blood"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_2",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_3_1:3",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_3",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_3:3",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_4",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_3:3",
+   "brain_1_0:1",
+   "guts_3_0:3"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_5",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_2:2",
+   "brain_1_0:1",
+   "guts_2_2:2"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_6",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_1_3:3",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_2_1:2",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "fat",
+   "flesh"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_7",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_2:2",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_3_1:3",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh",
+   "blood"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_8",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_1:1",
+   "skull_2_2:2",
+   "heart_0_1:1",
+   "brain_0_2:2",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_2_9",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_3_0:3",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_2_1:2"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 2
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_1:1",
+   "skull_3_2:3",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "blood"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_2",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_0_3:3",
+   "guts_3_0:3"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_3",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_3:3",
+   "heart_2_2:2",
+   "brain_0_1:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_4",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_2_1:2",
+   "skull_0_1:1",
+   "heart_1_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_5",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_3_1:3",
+   "guts_1_3:3"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_6",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_1_3:3",
+   "skull_2_2:2",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "fat",
+   "flesh"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_7",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_3_1:3",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_2_2:2"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh",
+   "blood"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_8",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_1:1",
+   "skull_0_2:2",
+   "heart_3_1:3",
+   "brain_0_3:3",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_3_9",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_0:1",
+   "skull_3_2:3",
+   "heart_1_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 3
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_1:1",
+   "skull_3_2:3",
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "blood"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_2",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_0_3:3",
+   "guts_3_0:3"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_3",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_3:3",
+   "heart_2_2:2",
+   "brain_0_1:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_4",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_2_1:2",
+   "skull_0_1:1",
+   "heart_1_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_5",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_3_1:3",
+   "guts_1_3:3"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_6",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_1_3:3",
+   "skull_2_2:2",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "fat",
+   "fat",
+   "fat",
+   "flesh"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_7",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_3_1:3",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_2_2:2"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh",
+   "blood"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_8",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_1:1",
+   "skull_0_2:2",
+   "heart_3_1:3",
+   "brain_0_3:3",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_4_9",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_0:1",
+   "bones_0_0:1",
+   "skull_3_2:3",
+   "heart_1_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "flesh",
+   "flesh",
+   "flesh"
+  ],
+  "tier": 4
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_test",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_insert_test_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "brain_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_insert_test_2",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": ";axe_0",
+  "id": "body_extract_test_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "brain_0_1:1",
+   "heart_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_mistake_test_1",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "brain_0_1:1",
+   "surgeon_mistake_heart",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_mistake_test_2",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "brain_0_1:1",
+   "heart_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "wild_zombie_test",
+  "linkedBodyItemId": "body_wild_zombie",
+  "parts": [
+   "brain_0_1:1",
+   "heart_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "armor_1",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "pike_1",
+  "id": "zombie_fighter_pike",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "brain_0_1:1",
+   "heart_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "armor_1",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "bow_1",
+  "id": "zombie_fighter_bow",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "brain_0_1:1",
+   "heart_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_zombie_test_1",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "pseudo_tool",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "armor_1",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "axe_2",
+  "id": "body_zombie_test_2",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "heart_0_1:1",
+   "brain_0_1:1",
+   "axe_2",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_zombie_test_4",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "heart_2_2:2",
+   "brain_2_1:2",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:1"
+  ],
+  "handsId": "",
+  "id": "body_zombie_test_5",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "heart_1_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1",
+   "skull_0_0:1",
+   "bones_0_0:1",
+   "skin_1_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_zombie_doctor_1",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "skin_3_0:3",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_zombie_doctor_2",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "skin_0_0:1",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_2_1:2",
+   "guts_1_0:1"
+  ],
+  "pocket": [],
+  "tier": 999
+ },
+ {
+  "armorId": "armor_0",
+  "burialReward": [
+   "body_certificate:3"
+  ],
+  "handsId": "",
+  "id": "body_zombie_astrologer_1",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "skin_0_0:1",
+   "bones_3_1:3",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_1_0:1"
+  ],
+  "pocket": [],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "bow_0",
+  "id": "body_zombie_astrologer_2",
+  "linkedBodyItemId": "body_zombie",
+  "parts": [
+   "skin_3_0:3",
+   "bones_0_0:1",
+   "skull_0_0:1",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_5_5",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_0_0:1",
+   "bones_1_1:2",
+   "skull_0_0:1",
+   "heart_2_2:2",
+   "brain_2_1:2",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "blood",
+   "blood"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_5_3",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_2_0:2",
+   "bones_2_1:2",
+   "skull_0_0:1",
+   "heart_1_1:1",
+   "brain_0_1:1",
+   "guts_0_0:1"
+  ],
+  "pocket": [
+   "flesh",
+   "fat"
+  ],
+  "tier": 999
+ },
+ {
+  "armorId": "",
+  "burialReward": [
+   "body_certificate:2"
+  ],
+  "handsId": "",
+  "id": "body_6_6",
+  "linkedBodyItemId": "body_corpse",
+  "parts": [
+   "skin_1_2:2",
+   "bones_0_0:1",
+   "skull_2_2:2",
+   "heart_0_1:1",
+   "brain_1_0:1",
+   "guts_2_1:2"
+  ],
+  "pocket": [
+   "flesh",
+   "fat",
+   "blood"
+  ],
+  "tier": 999
+ }
+]

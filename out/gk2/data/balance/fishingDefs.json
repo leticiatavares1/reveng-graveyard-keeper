@@ -1,0 +1,1921 @@
+[
+ {
+  "anger": {
+   "expressionString": "2-PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "2-$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 2.0,
+  "baseCount": 5,
+  "baseWeight": 15,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_roach",
+  "id": "fish_roach_test",
+  "intervalTimeRange": [
+   2.0,
+   3.0
+  ],
+  "regenTime": 100.0,
+  "reservoirId": "lake_village_forest_2",
+  "resistTimeRange": [
+   2.0,
+   3.0
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.20000000298023224,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   2.0
+  ],
+  "wriggleCoef": 0.20000000298023224
+ },
+ {
+  "anger": {
+   "expressionString": "5-2*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "5-2*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.5,
+  "baseCount": 5,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_carp",
+  "id": "fish_carp_test",
+  "intervalTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "regenTime": 100.0,
+  "reservoirId": "lake_village_forest_2",
+  "resistTimeRange": [
+   0.30000001192092896,
+   0.5
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.4000000059604645,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.5,
+   2.5
+  ],
+  "wriggleCoef": 0.4000000059604645
+ },
+ {
+  "anger": {
+   "expressionString": "12-4*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "12-4*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2999999523162842,
+  "baseCount": 5,
+  "baseWeight": 8,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_tuna",
+  "id": "fish_tuna_test",
+  "intervalTimeRange": [
+   1.100000023841858,
+   1.5
+  ],
+  "regenTime": 100.0,
+  "reservoirId": "lake_village_forest_2",
+  "resistTimeRange": [
+   1.0,
+   1.399999976158142
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.699999988079071,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   2.0,
+   3.0
+  ],
+  "wriggleCoef": 0.699999988079071
+ },
+ {
+  "anger": {
+   "expressionString": "18-6*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "18-6*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "ultimate_bite"
+   ],
+   "resValues": [
+    {
+     "type": "ultimate_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 5,
+  "baseWeight": 6,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_kraken_jr",
+  "id": "fish_kraken_jr_test",
+  "intervalTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "regenTime": 100.0,
+  "reservoirId": "lake_village_forest_2",
+  "resistTimeRange": [
+   0.4000000059604645,
+   0.6000000238418579
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 4,
+  "waitTimeRange": [
+   3.0,
+   5.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "2-1*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "2-1*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 2.0,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_roach",
+  "id": "fish_roach_home",
+  "intervalTimeRange": [
+   0.8999999761581421,
+   1.2000000476837158
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_ place_home",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.100000023841858
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.30000001192092896,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   2.0
+  ],
+  "wriggleCoef": 0.30000001192092896
+ },
+ {
+  "anger": {
+   "expressionString": "3-1*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "3-1*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.5,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_gudgeon",
+  "id": "fish_gudgeon_home",
+  "intervalTimeRange": [
+   0.699999988079071,
+   0.8999999761581421
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_home",
+  "resistTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.5,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.5,
+   2.5
+  ],
+  "wriggleCoef": 0.5
+ },
+ {
+  "anger": {
+   "expressionString": "4-2*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "4-2*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2999999523162842,
+  "baseCount": 1,
+  "baseWeight": 5,
+  "curvePresetId": "",
+  "daytimeMod": [
+   0.5,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_crucian",
+  "id": "fish_crucian_home",
+  "intervalTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_home",
+  "resistTimeRange": [
+   0.30000001192092896,
+   0.5
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.800000011920929,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   2.0,
+   3.0
+  ],
+  "wriggleCoef": 0.800000011920929
+ },
+ {
+  "anger": {
+   "expressionString": "9-3*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "9-3*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_pike",
+  "id": "fish_pike_home",
+  "intervalTimeRange": [
+   0.800000011920929,
+   1.100000023841858
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_home",
+  "resistTimeRange": [
+   0.6000000238418579,
+   0.8999999761581421
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   2.0,
+   5.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "2-1*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "2-1*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 2.0,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_roach",
+  "id": "fish_carp_village",
+  "intervalTimeRange": [
+   0.8999999761581421,
+   1.2000000476837158
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_ place_village",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.100000023841858
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.30000001192092896,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   2.0
+  ],
+  "wriggleCoef": 0.30000001192092896
+ },
+ {
+  "anger": {
+   "expressionString": "3-1*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "3-1*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.5,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_gudgeon",
+  "id": "fish_gudgeon_village",
+  "intervalTimeRange": [
+   0.699999988079071,
+   0.8999999761581421
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_village",
+  "resistTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.5,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.5,
+   2.5
+  ],
+  "wriggleCoef": 0.5
+ },
+ {
+  "anger": {
+   "expressionString": "4-2*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "4-2*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2999999523162842,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   0.5,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_crucian",
+  "id": "fish_crucian_village",
+  "intervalTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_village",
+  "resistTimeRange": [
+   0.30000001192092896,
+   0.5
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.800000011920929,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   2.0,
+   3.0
+  ],
+  "wriggleCoef": 0.800000011920929
+ },
+ {
+  "anger": {
+   "expressionString": "5-2*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "5-2*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 2.0
+    }
+   ]
+  },
+  "baitTime": 1.2999999523162842,
+  "baseCount": 2,
+  "baseWeight": 5,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_dace",
+  "id": "fish_dace_village",
+  "intervalTimeRange": [
+   1.0,
+   1.5
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_village",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.2000000476837158
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.6000000238418579,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   3.0
+  ],
+  "wriggleCoef": 0.6000000238418579
+ },
+ {
+  "anger": {
+   "expressionString": "7-3*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "7-3*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2000000476837158,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_bream",
+  "id": "fish_bream_village",
+  "intervalTimeRange": [
+   0.800000011920929,
+   1.0
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_ place_village",
+  "resistTimeRange": [
+   0.6000000238418579,
+   1.0
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.699999988079071,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   4.0
+  ],
+  "wriggleCoef": 0.699999988079071
+ },
+ {
+  "anger": {
+   "expressionString": "17-6*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "17-6*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "ultimate_bite"
+   ],
+   "resValues": [
+    {
+     "type": "ultimate_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 0.800000011920929,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddTech(\"cooking_fish_leg_carp\")",
+    "expressionStringUnparsed": "AddTech(\"cooking_fish_leg_carp\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_mythic_carp",
+  "id": "fish_mythic_carp_forest",
+  "intervalTimeRange": [
+   0.8999999761581421,
+   1.2000000476837158
+  ],
+  "regenTime": 30.0,
+  "reservoirId": "fishing_ place_village",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.100000023841858
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   3.0,
+   5.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "6-2*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "6-2*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2999999523162842,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_anchovy",
+  "id": "fish_anchovy_docks",
+  "intervalTimeRange": [
+   0.699999988079071,
+   0.8999999761581421
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_ place_port",
+  "resistTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.5,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.5,
+   3.0
+  ],
+  "wriggleCoef": 0.5
+ },
+ {
+  "anger": {
+   "expressionString": "9-3*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "9-3*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2000000476837158,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   0.5,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_mackerel",
+  "id": "fish_mackerel_docks",
+  "intervalTimeRange": [
+   0.8999999761581421,
+   1.2000000476837158
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_port",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.100000023841858
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.699999988079071,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   4.0
+  ],
+  "wriggleCoef": 0.699999988079071
+ },
+ {
+  "anger": {
+   "expressionString": "14-4*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "14-4*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2000000476837158,
+  "baseCount": 1,
+  "baseWeight": 5,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_goldfish",
+  "id": "fish_goldfish_sewers",
+  "intervalTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_ place_port",
+  "resistTimeRange": [
+   0.30000001192092896,
+   0.5
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.30000001192092896,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   3.0
+  ],
+  "wriggleCoef": 0.30000001192092896
+ },
+ {
+  "anger": {
+   "expressionString": "11-4*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "11-4*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.100000023841858,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_tuna",
+  "id": "fish_tuna_docks",
+  "intervalTimeRange": [
+   1.0,
+   1.399999976158142
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_port",
+  "resistTimeRange": [
+   0.8999999761581421,
+   1.2000000476837158
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   2.0,
+   3.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "13-5*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "13-5*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   0.5,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_salmon",
+  "id": "fish_salmon_docks",
+  "intervalTimeRange": [
+   0.699999988079071,
+   0.8999999761581421
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_ place_port",
+  "resistTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   1.0,
+   2.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "18-6*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "18-6*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "ultimate_bite"
+   ],
+   "resValues": [
+    {
+     "type": "ultimate_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddTech(\"cooking_fish_leg_kraken\")",
+    "expressionStringUnparsed": "AddTech(\"cooking_fish_leg_kraken\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_kraken_jr",
+  "id": "fish_kraken_jr_docks",
+  "intervalTimeRange": [
+   1.0,
+   1.2999999523162842
+  ],
+  "regenTime": 30.0,
+  "reservoirId": "fishing_ place_port",
+  "resistTimeRange": [
+   0.8999999761581421,
+   1.2000000476837158
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 4,
+  "waitTimeRange": [
+   3.0,
+   5.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "8-3*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "8-3*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2000000476837158,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   0.5,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_carp",
+  "id": "fish_carp_forest",
+  "intervalTimeRange": [
+   0.6000000238418579,
+   0.800000011920929
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_place_forest",
+  "resistTimeRange": [
+   0.4000000059604645,
+   0.6000000238418579
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.800000011920929,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   4.0
+  ],
+  "wriggleCoef": 0.800000011920929
+ },
+ {
+  "anger": {
+   "expressionString": "9-3*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "9-3*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_pike",
+  "id": "fish_pike_forest",
+  "intervalTimeRange": [
+   0.800000011920929,
+   1.100000023841858
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_place_forest",
+  "resistTimeRange": [
+   0.6000000238418579,
+   0.8999999761581421
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   2.0,
+   5.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "14-4*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "14-4*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2000000476837158,
+  "baseCount": 2,
+  "baseWeight": 5,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_goldfish",
+  "id": "fish_goldfish_forest",
+  "intervalTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_place_forest",
+  "resistTimeRange": [
+   0.30000001192092896,
+   0.5
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.30000001192092896,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   3.0
+  ],
+  "wriggleCoef": 0.30000001192092896
+ },
+ {
+  "anger": {
+   "expressionString": "13-5*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "13-5*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   0.5,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_salmon",
+  "id": "fish_salmon_sewers",
+  "intervalTimeRange": [
+   0.699999988079071,
+   0.8999999761581421
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_place_forest",
+  "resistTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   1.0,
+   2.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "15-5*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "15-5*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.100000023841858,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_trout",
+  "id": "fish_trout_forest",
+  "intervalTimeRange": [
+   1.100000023841858,
+   1.5
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_place_forest",
+  "resistTimeRange": [
+   1.0,
+   1.399999976158142
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.5,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   2.0
+  ],
+  "wriggleCoef": 0.5
+ },
+ {
+  "anger": {
+   "expressionString": "19-6*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "19-6*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "ultimate_bite"
+   ],
+   "resValues": [
+    {
+     "type": "ultimate_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 0.699999988079071,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddTech(\"cooking_fish_leg_salmon\")",
+    "expressionStringUnparsed": "AddTech(\"cooking_fish_leg_salmon\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_celestial_salmon",
+  "id": "fish_celestial_salmon_sewers",
+  "intervalTimeRange": [
+   0.699999988079071,
+   0.8999999761581421
+  ],
+  "regenTime": 30.0,
+  "reservoirId": "fishing_place_forest",
+  "resistTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   4.0,
+   8.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "10-4*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "10-4*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "no_bait",
+    "breadcrumb_bite",
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "no_bait",
+     "value": 1.0
+    },
+    {
+     "type": "breadcrumb_bite",
+     "value": 0.25
+    },
+    {
+     "type": "insect_bite",
+     "value": 0.25
+    }
+   ]
+  },
+  "baitTime": 0.800000011920929,
+  "baseCount": 5,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_frog",
+  "id": "fish_frog_swamp",
+  "intervalTimeRange": [
+   0.4000000059604645,
+   0.6000000238418579
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_place_swamp",
+  "resistTimeRange": [
+   0.30000001192092896,
+   0.5
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.20000000298023224,
+  "underwaterGfxType": 5,
+  "waitTimeRange": [
+   1.0,
+   2.0
+  ],
+  "wriggleCoef": 0.20000000298023224
+ },
+ {
+  "anger": {
+   "expressionString": "9-3*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "9-3*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2000000476837158,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_catfish",
+  "id": "fish_catfish_swamp",
+  "intervalTimeRange": [
+   1.100000023841858,
+   1.5
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_place_swamp",
+  "resistTimeRange": [
+   1.0,
+   1.399999976158142
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   2.0,
+   5.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "13-5*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "13-5*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "breadcrumb_bite"
+   ],
+   "resValues": [
+    {
+     "type": "breadcrumb_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.2999999523162842,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_silverfin",
+  "id": "fish_silverfin_sewers",
+  "intervalTimeRange": [
+   0.8999999761581421,
+   1.2000000476837158
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_place_swamp",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.100000023841858
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.5,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   1.0,
+   3.0
+  ],
+  "wriggleCoef": 0.5
+ },
+ {
+  "anger": {
+   "expressionString": "14-5*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "14-5*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 0.699999988079071,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   0.5,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_swamp_ghost",
+  "id": "fish_swamp_ghost_swamp",
+  "intervalTimeRange": [
+   0.6000000238418579,
+   0.800000011920929
+  ],
+  "regenTime": 6.0,
+  "reservoirId": "fishing_place_swamp",
+  "resistTimeRange": [
+   0.4000000059604645,
+   0.6000000238418579
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.8999999761581421,
+  "underwaterGfxType": 1,
+  "waitTimeRange": [
+   3.0,
+   5.0
+  ],
+  "wriggleCoef": 0.8999999761581421
+ },
+ {
+  "anger": {
+   "expressionString": "15-5*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "15-5*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_eel",
+  "id": "fish_eel_swamp",
+  "intervalTimeRange": [
+   1.0,
+   1.399999976158142
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_place_swamp",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.2000000476837158
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.699999988079071,
+  "underwaterGfxType": 3,
+  "waitTimeRange": [
+   2.0,
+   3.0
+  ],
+  "wriggleCoef": 0.699999988079071
+ },
+ {
+  "anger": {
+   "expressionString": "20-6*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "20-6*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "ultimate_bite"
+   ],
+   "resValues": [
+    {
+     "type": "ultimate_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 0.800000011920929,
+  "baseCount": 1,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   1.0
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "AddTech(\"cooking_fish_leg_catfish\")",
+    "expressionStringUnparsed": "AddTech(\"cooking_fish_leg_catfish\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_elder_catfish",
+  "id": "fish_elder_catfish_swamp",
+  "intervalTimeRange": [
+   0.5,
+   0.699999988079071
+  ],
+  "regenTime": 30.0,
+  "reservoirId": "fishing_place_swamp",
+  "resistTimeRange": [
+   0.4000000059604645,
+   0.6000000238418579
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 1.0,
+  "underwaterGfxType": 2,
+  "waitTimeRange": [
+   3.0,
+   6.0
+  ],
+  "wriggleCoef": 1.0
+ },
+ {
+  "anger": {
+   "expressionString": "15-5*PPar(\"perk_fisherman\")",
+   "expressionStringUnparsed": "15-5*$perk_fisherman",
+   "pureValueBool": 0,
+   "pureValueFloat": 0.0,
+   "pureValueType": 0
+  },
+  "baitMod": {
+   "resType": [
+    "insect_bite"
+   ],
+   "resValues": [
+    {
+     "type": "insect_bite",
+     "value": 1.0
+    }
+   ]
+  },
+  "baitTime": 1.0,
+  "baseCount": 2,
+  "baseWeight": 10,
+  "curvePresetId": "",
+  "daytimeMod": [
+   1.0,
+   0.5
+  ],
+  "expressionsOnEnd": [
+   {
+    "expressionString": "AddInspiration(\"insp_fisher\", 1)",
+    "expressionStringUnparsed": "AddInspiration(\"insp_fisher\", 1)",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "fishId": "fish_eel",
+  "id": "fish_eel_sewers",
+  "intervalTimeRange": [
+   1.0,
+   1.399999976158142
+  ],
+  "regenTime": 3.0,
+  "reservoirId": "fishing_ place_sewers",
+  "resistTimeRange": [
+   0.800000011920929,
+   1.2000000476837158
+  ],
+  "speedChangeTime": 0.10000000149011612,
+  "splashCoef": 0.699999988079071,
+  "underwaterGfxType": 3,
+  "waitTimeRange": [
+   2.0,
+   3.0
+  ],
+  "wriggleCoef": 0.699999988079071
+ }
+]

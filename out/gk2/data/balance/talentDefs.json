@@ -1,0 +1,22 @@
+[
+ {
+  "dbg_color": "#E5810E",
+  "id": "talent_orange"
+ },
+ {
+  "dbg_color": "#E5320E",
+  "id": "talent_red"
+ },
+ {
+  "dbg_color": "#0EE532",
+  "id": "talent_green"
+ },
+ {
+  "dbg_color": "#0E79E5",
+  "id": "talent_yellow"
+ },
+ {
+  "dbg_color": "#9400D3",
+  "id": "talent_blue"
+ }
+]

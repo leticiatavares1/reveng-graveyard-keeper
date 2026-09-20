@@ -1,0 +1,1509 @@
+[
+ {
+  "defencePowerLock": 1,
+  "id": "fighting_level_ev_3",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [],
+  "squads": 1
+ },
+ {
+  "defencePowerLock": 12,
+  "id": "fight_A1_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "shield_squad"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 1
+ },
+ {
+  "defencePowerLock": 12,
+  "id": "fight_A2_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A1_1\", 7, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A1_1\", 7, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A4_1\", 1, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A4_1\", 1, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "shield_squad"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 1
+ },
+ {
+  "defencePowerLock": 20,
+  "id": "fight_A2_2",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A1_1\", 7, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A1_1\", 7, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A4_1\", 1, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A4_1\", 1, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "flag_reward"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 2
+ },
+ {
+  "defencePowerLock": 22,
+  "id": "fight_A3_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A4_1\", 1, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A4_1\", 1, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B1_1\", 1, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B1_1\", 1, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 2
+ },
+ {
+  "defencePowerLock": 36,
+  "id": "fight_A4_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A2_2\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A2_2\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A2_2\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A2_2\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "shield_squad"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 2
+ },
+ {
+  "defencePowerLock": 56,
+  "id": "fight_A4_2",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A2_2\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A2_2\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A4_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A2_2\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A2_2\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A4_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A4_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "flag_reward"
+   },
+   {
+    "count": {
+     "expressionString": "6",
+     "expressionStringUnparsed": "6",
+     "pureValueBool": 0,
+     "pureValueFloat": 6.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 56,
+  "id": "fight_B1_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A5_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A5_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A5_1\", 2, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A5_1\", 2, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 80,
+  "id": "fight_B2_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A2_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A2_2\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A2_2\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A2_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A2_2\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A2_2\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "fight_B2_2",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 0,
+  "id": "fight_B2_2",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B2_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B2_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B2_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B2_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 64,
+  "id": "fight_B5_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B1_1\", 2, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B1_1\", 2, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 72,
+  "id": "fight_B3_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B5_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B5_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B1_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B1_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B5_1\", 2, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B5_1\", 2, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "fight_B3_2",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 0,
+  "id": "fight_B3_2",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_A3_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B1_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B5_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B5_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "Spawn_FightingLvl(\"fight_B3_1\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Spawn_FightingLvl(\"fight_B3_1\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A3_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B1_1\", 6, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B1_1\", 6, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B5_1\", 2, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B5_1\", 2, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_B3_1\", 2, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_B3_1\", 2, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 96,
+  "id": "fight_C0_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "flag_reward"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "1",
+     "expressionStringUnparsed": "1",
+     "pureValueBool": 0,
+     "pureValueFloat": 1.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "shield_squad"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 144,
+  "id": "fight_C1_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 4
+ },
+ {
+  "defencePowerLock": 8,
+  "id": "fight_S1_1",
+  "isBarricadesUnavailable": 1,
+  "isTowersUnavailable": 1,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 1
+ },
+ {
+  "defencePowerLock": 24,
+  "id": "fight_S2_1",
+  "isBarricadesUnavailable": 1,
+  "isTowersUnavailable": 1,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 2
+ },
+ {
+  "defencePowerLock": 6,
+  "id": "sewer_fight_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 1
+ },
+ {
+  "defencePowerLock": 2,
+  "id": "fight_test",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [
+   {
+    "expressionString": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "expressionStringUnparsed": "Despawn_FightingLvl(\"fighting_level_ev_3\", \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   },
+   {
+    "expressionString": "SetStage_FightingLvl(\"fight_A1_1\", 0, \"RuinedTemple\")",
+    "expressionStringUnparsed": "SetStage_FightingLvl(\"fight_A1_1\", 0, \"RuinedTemple\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 1
+ },
+ {
+  "defencePowerLock": 36,
+  "id": "fight_AR1_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 2
+ },
+ {
+  "defencePowerLock": 48,
+  "id": "fight_AR2_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 2
+ },
+ {
+  "defencePowerLock": 64,
+  "id": "fight_AR4_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 76,
+  "id": "fight_AR5_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "5",
+     "expressionStringUnparsed": "5",
+     "pureValueBool": 0,
+     "pureValueFloat": 5.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 88,
+  "id": "fight_AR6_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "7",
+     "expressionStringUnparsed": "7",
+     "pureValueBool": 0,
+     "pureValueFloat": 7.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "4",
+     "expressionStringUnparsed": "4",
+     "pureValueBool": 0,
+     "pureValueFloat": 4.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 104,
+  "id": "fight_AR7_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "7",
+     "expressionStringUnparsed": "7",
+     "pureValueBool": 0,
+     "pureValueFloat": 7.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "7",
+     "expressionStringUnparsed": "7",
+     "pureValueBool": 0,
+     "pureValueFloat": 7.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "7",
+     "expressionStringUnparsed": "7",
+     "pureValueBool": 0,
+     "pureValueFloat": 7.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 3
+ },
+ {
+  "defencePowerLock": 116,
+  "id": "fight_AR10_1",
+  "isBarricadesUnavailable": 0,
+  "isTowersUnavailable": 0,
+  "onDebugStartExpressions": [],
+  "onWinNextFightId": "",
+  "rewards": [
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "keys_looters"
+   },
+   {
+    "count": {
+     "expressionString": "10",
+     "expressionStringUnparsed": "10",
+     "pureValueBool": 0,
+     "pureValueFloat": 10.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "zombie_goo"
+   },
+   {
+    "count": {
+     "expressionString": "8",
+     "expressionStringUnparsed": "8",
+     "pureValueBool": 0,
+     "pureValueFloat": 8.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "town_gratitude"
+   }
+  ],
+  "squads": 4
+ }
+]

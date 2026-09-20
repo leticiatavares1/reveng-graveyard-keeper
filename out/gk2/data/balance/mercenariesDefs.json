@@ -1,0 +1,111 @@
+[
+ {
+  "afterPayExpr": [],
+  "afterWinExpr": [
+   {
+    "expressionString": "SetMercenariesPaymentId(\"money_price_2\")",
+    "expressionStringUnparsed": "SetMercenariesPaymentId(\"money_price_2\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "id": "money_price_1",
+  "money": 500,
+  "needItems": []
+ },
+ {
+  "afterPayExpr": [],
+  "afterWinExpr": [
+   {
+    "expressionString": "SetMercenariesPaymentId(\"money_price_3\")",
+    "expressionStringUnparsed": "SetMercenariesPaymentId(\"money_price_3\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "id": "money_price_2",
+  "money": 750,
+  "needItems": []
+ },
+ {
+  "afterPayExpr": [],
+  "afterWinExpr": [
+   {
+    "expressionString": "SetMercenariesPaymentId(\"money_price_4\")",
+    "expressionStringUnparsed": "SetMercenariesPaymentId(\"money_price_4\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "id": "money_price_3",
+  "money": 1000,
+  "needItems": []
+ },
+ {
+  "afterPayExpr": [],
+  "afterWinExpr": [
+   {
+    "expressionString": "SetMercenariesPaymentId(\"money_price_5\")",
+    "expressionStringUnparsed": "SetMercenariesPaymentId(\"money_price_5\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "id": "money_price_4",
+  "money": 1500,
+  "needItems": []
+ },
+ {
+  "afterPayExpr": [
+   {
+    "expressionString": "StartQuest(\"136_guards_discount_ask\")",
+    "expressionStringUnparsed": "StartQuest(\"136_guards_discount_ask\")",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "afterWinExpr": [
+   {
+    "expressionString": "If2(!IsQuestCompleted(\"136_guards_discount_wine\"), SetMercenariesPaymentId(\"money_price_6\"))",
+    "expressionStringUnparsed": "If2(!IsQuestCompleted(\"136_guards_discount_wine\"), SetMercenariesPaymentId(\"money_price_6\"))",
+    "pureValueBool": 0,
+    "pureValueFloat": 0.0,
+    "pureValueType": 0
+   }
+  ],
+  "id": "money_price_5",
+  "money": 2000,
+  "needItems": []
+ },
+ {
+  "afterPayExpr": [],
+  "afterWinExpr": [],
+  "id": "money_price_6",
+  "money": 10000,
+  "needItems": []
+ },
+ {
+  "afterPayExpr": [],
+  "afterWinExpr": [],
+  "id": "item_price_1",
+  "money": 0,
+  "needItems": [
+   {
+    "count": {
+     "expressionString": "3",
+     "expressionStringUnparsed": "3",
+     "pureValueBool": 0,
+     "pureValueFloat": 3.0,
+     "pureValueType": 1
+    },
+    "groupType": 0,
+    "id": "grape_wine:3"
+   }
+  ]
+ }
+]
