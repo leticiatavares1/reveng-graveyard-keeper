@@ -450,8 +450,8 @@
  },
  {
   "id": "Tech_cultist",
-  "pt": null,
-  "en": null,
+  "pt": "Cultista",
+  "en": "Cultist",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -496,8 +496,8 @@
  },
  {
   "id": "Zombie alchemy",
-  "pt": null,
-  "en": null,
+  "pt": "Bancada de alquimia de zumbis",
+  "en": "Zombie alchemy workbench",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -544,8 +544,8 @@
  },
  {
   "id": "tech_bag_alchemy",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa do alquimista",
+  "en": "Alchemist's bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -564,8 +564,8 @@
  },
  {
   "id": "tech_bag_builder",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa do construtor",
+  "en": "Builder's bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -584,8 +584,8 @@
  },
  {
   "id": "tech_bag_farming",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa do agricultor",
+  "en": "Farmer's bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -604,8 +604,8 @@
  },
  {
   "id": "tech_bag_fishing",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa do pescador",
+  "en": "Fisherman's bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -624,8 +624,8 @@
  },
  {
   "id": "tech_bag_food",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa de alimentos",
+  "en": "Food bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -644,8 +644,8 @@
  },
  {
   "id": "tech_bag_potions",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa para poções",
+  "en": "Potion bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -664,8 +664,8 @@
  },
  {
   "id": "tech_bag_tools",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa de ferramentas",
+  "en": "Tool bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -684,8 +684,8 @@
  },
  {
   "id": "tech_bag_universal",
-  "pt": null,
-  "en": null,
+  "pt": "Bolsa universal",
+  "en": "Universal bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -704,8 +704,8 @@
  },
  {
   "id": "tech_bag_universal_big",
-  "pt": null,
-  "en": null,
+  "pt": "Grande bolsa universal",
+  "en": "Big universal bag",
   "ramo": {
    "n": 1,
    "pt": "Anatomia e alquimia",
@@ -1570,8 +1570,8 @@
  },
  {
   "id": "Journalist",
-  "pt": null,
-  "en": null,
+  "pt": "Jornalista",
+  "en": "Journalist",
   "ramo": {
    "n": 3,
    "pt": "Escrita de livros",
@@ -1643,8 +1643,8 @@
  },
  {
   "id": "Playwright",
-  "pt": null,
-  "en": null,
+  "pt": "Dramaturgo",
+  "en": "Playwright",
   "ramo": {
    "n": 3,
    "pt": "Escrita de livros",
@@ -1665,8 +1665,8 @@
  },
  {
   "id": "Random text generator",
-  "pt": null,
-  "en": null,
+  "pt": "Gerador de texto aleatório",
+  "en": "Random text generator",
   "ramo": {
    "n": 3,
    "pt": "Escrita de livros",
@@ -2281,8 +2281,8 @@
  },
  {
   "id": "Zombie brewing",
-  "pt": null,
-  "en": null,
+  "pt": "Cervejaria zumbi",
+  "en": "Zombie-brewery",
   "ramo": {
    "n": 4,
    "pt": "Agricultura e natureza",
@@ -2351,8 +2351,8 @@
  },
  {
   "id": "Zombie winemaking",
-  "pt": null,
-  "en": null,
+  "pt": "Vinícola zumbi",
+  "en": "Zombie-winery",
   "ramo": {
    "n": 4,
    "pt": "Agricultura e natureza",
@@ -2556,8 +2556,8 @@
  },
  {
   "id": "Industriousness",
-  "pt": null,
-  "en": null,
+  "pt": "Diligência",
+  "en": "Industriousness",
   "ramo": {
    "n": 5,
    "pt": "Metalurgia",
@@ -4322,8 +4322,8 @@
  },
  {
   "id": "soul_marble_fences",
-  "pt": "",
-  "en": "",
+  "pt": "Cerca de mármore de túmulo",
+  "en": "Marble grave fence",
   "ramo": {
    "n": 8,
    "pt": "Espiritualismo",
@@ -4347,8 +4347,8 @@
  },
  {
   "id": "soul_marble_statues",
-  "pt": "",
-  "en": "",
+  "pt": "Lápides de mármore",
+  "en": "Marble Gravestones",
   "ramo": {
    "n": 8,
    "pt": "Espiritualismo",
@@ -4468,8 +4468,8 @@
  },
  {
   "id": "soul_stone_fences",
-  "pt": "",
-  "en": "",
+  "pt": "Cerca de pedra de túmulo",
+  "en": "Stone grave fence",
   "ramo": {
    "n": 8,
    "pt": "Espiritualismo",
@@ -4493,8 +4493,8 @@
  },
  {
   "id": "soul_stone_statues",
-  "pt": "",
-  "en": "",
+  "pt": "Lápides de pedra",
+  "en": "Stone Gravestones",
   "ramo": {
    "n": 8,
    "pt": "Espiritualismo",

@@ -345,7 +345,7 @@
 | `alchemy_builddesk:p:table_book_constr_place` | 9x Tábua<br>10x Pregos<br>4x Peças de ferro complexas | — | — | 0.0 | — |
 | `alchemy_builddesk:p:zombie_pulpit` | 4x Placa de madeira<br>2x Peças de ferro complexas<br>1x Caneta e tinta | — | — | 0.0 | — |
 
-## alchemy_table_zombie — `alchemy_table_zombie`
+## Decomposição de alquimia zumbi — `alchemy_table_zombie`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -362,7 +362,7 @@
 | `alchemy_1_hamp_crop` | 1x Cânhamo | 3+Ppar("p_scientist")x Pó de aceleração | 5.0 | 0.0 | — |
 | `alchemy_1_honey` | 1x Mel | 3+Ppar("p_scientist")x Pó de aceleração | 5.0 | 0.0 | — |
 | `alchemy_1_hop_crop` | 1x hop_crop | 4+Ppar("p_scientist")x Pó de retardamento | 5.0 | 0.0 | — |
-| `alchemy_1_intestine` | 1x intestine | 2+Ppar("p_scientist")x Pó de ressurreição | 5.0 | 0.0 | — |
+| `alchemy_1_intestine` | 1x Intestinos | 2+Ppar("p_scientist")x Pó de ressurreição | 5.0 | 0.0 | — |
 | `alchemy_1_intestine_dark` | 1x Intestinos sombrios | 3+Ppar("p_scientist")x Pó da morte | 5.0 | 0.0 | — |
 | `alchemy_1_lifestone` | 1x Calcário | 2+Ppar("p_scientist")x Pó branco | 5.0 | 0.0 | — |
 | `alchemy_1_nugget_gold` | 1x Pepita de ouro | 4+Ppar("p_scientist")x Pó de ouro | 5.0 | 0.0 | — |
@@ -375,7 +375,7 @@
 | `alchemy_2_bat_wing` | 1x Asa de morcego | 1+Ppar("p_scientist")x Solução do caos | 5.0 | 0.0 | — |
 | `alchemy_2_bee` | 1x Abelha | 3+Ppar("p_scientist")x Solução de ordem | 5.0 | 0.0 | — |
 | `alchemy_2_beeswax` | 1x Cera de abelha | 4+Ppar("p_scientist")x Solução de retardamento | 5.0 | 0.0 | — |
-| `alchemy_2_brain` | 1x brain | 2+Ppar("p_scientist")x Solução de vida | 5.0 | 0.0 | — |
+| `alchemy_2_brain` | 1x Cérebro | 2+Ppar("p_scientist")x Solução de vida | 5.0 | 0.0 | — |
 | `alchemy_2_brain_dark` | 1x Cérebro sombrio | 2+Ppar("p_scientist")x Solução de morte | 5.0 | 0.0 | — |
 | `alchemy_2_cabbage_crop` | 1x Couve | 2+Ppar("p_scientist")x Solução de vida | 5.0 | 0.0 | — |
 | `alchemy_2_carrot_crop` | 1x Cenoura | 3+Ppar("p_scientist")x Solução de vida | 5.0 | 0.0 | — |
@@ -397,7 +397,7 @@
 | `alchemy_3_flw_chamomile` | 1x Flor branca | 2+Ppar("p_scientist")x Extrato da ordem | 90.0 | 0.0 | — |
 | `alchemy_3_flw_dandelion` | 1x Flor amarela | 2+Ppar("p_scientist")x Extrato da vida | 90.0 | 0.0 | — |
 | `alchemy_3_hamp_crop` | 1x hamp_crop | 3+Ppar("p_scientist")x Extrato de aceleração | 90.0 | 0.0 | — |
-| `alchemy_3_heart` | 1x heart | 3+Ppar("p_scientist")x Extrato da vida | 90.0 | 0.0 | — |
+| `alchemy_3_heart` | 1x Coração | 3+Ppar("p_scientist")x Extrato da vida | 90.0 | 0.0 | — |
 | `alchemy_3_heart_dark` | 1x Coração sombrio | 3+Ppar("p_scientist")x Extrato da morte | 90.0 | 0.0 | — |
 | `alchemy_3_jelly_slug` | 1x Geleia verde | 3+Ppar("p_scientist")x Extrato da ordem | 90.0 | 0.0 | — |
 | `alchemy_3_jelly_slug_black` | 1x Geleia preta | 3+Ppar("p_scientist")x Extrato da morte | 90.0 | 0.0 | — |
@@ -432,7 +432,7 @@
 | `mix_alchemy_1_green_alchemy_2_d_green_alchemy_3_d_green` | 1x Pó da ordem<br>1x Solução de vida<br>1x Extrato de vida | 1x Poção de recuperação | 15.0 | 0.0 | — |
 | `mix_alchemy_1_red_alchemy_2_d_violet_alchemy_3_d_violet` | 1x Pó tóxico<br>1x Solução de morte<br>1x Extrato da morte | 1x Poção de fúria | 15.0 | 0.0 | — |
 | `mix_alchemy_1_red_alchemy_2_violet_alchemy_3_red` | 1x Pó tóxico<br>1x Solução do caos<br>1x Extrato tóxico | 1x Ácido | 15.0 | 0.0 | — |
-| `mix_alchemy_1_violet_alchemy_2_d_violet_alchemy_3_red` | 1x Pó de caos<br>1x Solução de morte<br>1x Extrato tóxico | 1x pot_damage | 15.0 | 0.0 | — |
+| `mix_alchemy_1_violet_alchemy_2_d_violet_alchemy_3_red` | 1x Pó de caos<br>1x Solução de morte<br>1x Extrato tóxico | 1x Poção de raiva | 15.0 | 0.0 | — |
 | `mix_alchemy_1_violet_water_alchemy_3_d_violet` | 1x Pó de caos<br>1x Água<br>1x Extrato da morte | 1x Solução balsâmica | 15.0 | 0.0 | — |
 | `mix_alchemy_1_yellow_alchemy_2_brown_alchemy_3_brown` | 1x Pó de ressurreição<br>1x Solução de retardamento<br>1x Extrato de retardamento | 1x Conservante | 15.0 | 0.0 | — |
 | `mix_alchemy_1_yellow_alchemy_2_d_green` | 1x Pó de ressurreição<br>1x Solução de vida | 1x Poção de cura | 10.0 | 0.0 | — |
@@ -474,7 +474,7 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `bat_remove` | — | — | 90.0 | 0.0 | — |
 
-## beegarden_table — `beegarden_table`
+## Apiário — `beegarden_table`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -733,58 +733,58 @@
 | `pray:b_cross:1` | 1x b_cross:1 | — | 0.0 | 0.0 | — |
 | `pray:b_cross:2` | 1x b_cross:2 | — | 0.0 | 0.0 | — |
 | `pray:b_cross:3` | 1x b_cross:3 | — | 0.0 | 0.0 | — |
-| `pray:b_empty` | 1x Oração informal | 2x faith | 0.0 | 0.0 | — |
+| `pray:b_empty` | 1x Oração informal | 2x Fé | 0.0 | 0.0 | — |
 | `pray:b_empty:1` | 1x b_empty:1 | — | 0.0 | 0.0 | — |
 | `pray:b_empty:2` | 1x b_empty:2 | — | 0.0 | 0.0 | — |
 | `pray:b_empty:3` | 1x b_empty:3 | — | 0.0 | 0.0 | — |
 | `pray:b_energy:1` | 1x b_energy:1 | — | 0.0 | 0.0 | — |
 | `pray:b_energy:2` | 1x b_energy:2 | — | 0.0 | 0.0 | — |
 | `pray:b_energy:3` | 1x b_energy:3 | — | 0.0 | 0.0 | — |
-| `pray:b_faith:1` | 1x Oração pela fé | 1x faith<br>100x money | 0.0 | 0.0 | — |
-| `pray:b_faith:2` | 1x Oração pela fé | 2x faith<br>200x money | 0.0 | 0.0 | — |
-| `pray:b_faith:3` | 1x Oração pela fé | 3x faith<br>300x money | 0.0 | 0.0 | — |
-| `pray:b_faith_money:1` | 1x Oração combinada | 1x faith<br>100x money | 0.0 | 0.0 | — |
-| `pray:b_faith_money:2` | 1x Oração combinada | 2x faith<br>200x money | 0.0 | 0.0 | — |
-| `pray:b_faith_money:3` | 1x Oração combinada | 3x faith<br>300x money | 0.0 | 0.0 | — |
+| `pray:b_faith:1` | 1x Oração pela fé | 1x Fé<br>100x money | 0.0 | 0.0 | — |
+| `pray:b_faith:2` | 1x Oração pela fé | 2x Fé<br>200x money | 0.0 | 0.0 | — |
+| `pray:b_faith:3` | 1x Oração pela fé | 3x Fé<br>300x money | 0.0 | 0.0 | — |
+| `pray:b_faith_money:1` | 1x Oração combinada | 1x Fé<br>100x money | 0.0 | 0.0 | — |
+| `pray:b_faith_money:2` | 1x Oração combinada | 2x Fé<br>200x money | 0.0 | 0.0 | — |
+| `pray:b_faith_money:3` | 1x Oração combinada | 3x Fé<br>300x money | 0.0 | 0.0 | — |
 | `pray:b_ghost:1` | 1x b_ghost:1 | — | 0.0 | 0.0 | — |
 | `pray:b_ghost:2` | 1x b_ghost:2 | — | 0.0 | 0.0 | — |
 | `pray:b_ghost:3` | 1x b_ghost:3 | — | 0.0 | 0.0 | — |
-| `pray:b_grat_points_incr:1` | 1x Orar pelo contentamento das almas | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_grat_points_incr:2` | 1x Orar pelo contentamento das almas | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_grat_points_incr:3` | 1x Orar pelo contentamento das almas | 3x faith | 0.0 | 0.0 | — |
-| `pray:b_money:1` | 1x Oração por doações | 1x faith<br>100x money | 0.0 | 0.0 | — |
-| `pray:b_money:2` | 1x Oração por doações | 2x faith<br>200x money | 0.0 | 0.0 | — |
-| `pray:b_money:3` | 1x Oração por doações | 3x faith<br>300x money | 0.0 | 0.0 | — |
-| `pray:b_pen:1` | 1x Oração pela imaginação | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_pen:2` | 1x Oração pela imaginação | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_pen:3` | 1x Oração pela imaginação | 3x faith | 0.0 | 0.0 | — |
-| `pray:b_plant:1` | 1x Oração por brotos e raízes | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_plant:2` | 1x Oração por brotos e raízes | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_plant:3` | 1x Oração por brotos e raízes | 3x faith | 0.0 | 0.0 | — |
+| `pray:b_grat_points_incr:1` | 1x Orar pelo contentamento das almas | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_grat_points_incr:2` | 1x Orar pelo contentamento das almas | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_grat_points_incr:3` | 1x Orar pelo contentamento das almas | 3x Fé | 0.0 | 0.0 | — |
+| `pray:b_money:1` | 1x Oração por doações | 1x Fé<br>100x money | 0.0 | 0.0 | — |
+| `pray:b_money:2` | 1x Oração por doações | 2x Fé<br>200x money | 0.0 | 0.0 | — |
+| `pray:b_money:3` | 1x Oração por doações | 3x Fé<br>300x money | 0.0 | 0.0 | — |
+| `pray:b_pen:1` | 1x Oração pela imaginação | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_pen:2` | 1x Oração pela imaginação | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_pen:3` | 1x Oração pela imaginação | 3x Fé | 0.0 | 0.0 | — |
+| `pray:b_plant:1` | 1x Oração por brotos e raízes | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_plant:2` | 1x Oração por brotos e raízes | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_plant:3` | 1x Oração por brotos e raízes | 3x Fé | 0.0 | 0.0 | — |
 | `pray:b_random:1` | 1x b_random:1 | — | 0.0 | 0.0 | — |
 | `pray:b_random:2` | 1x b_random:2 | — | 0.0 | 0.0 | — |
 | `pray:b_random:3` | 1x b_random:3 | — | 0.0 | 0.0 | — |
-| `pray:b_shield:1` | 1x Oração por proteção | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_shield:2` | 1x Oração por proteção | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_shield:3` | 1x Oração por proteção | 3x faith | 0.0 | 0.0 | — |
-| `pray:b_sin_shard:1` | 1x Orar pela purificação completa das almas | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_sin_shard:2` | 1x Orar pela purificação completa das almas | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_sin_shard:3` | 1x Orar pela purificação completa das almas | 3x faith | 0.0 | 0.0 | — |
-| `pray:b_sins:1` | 1x Oração pelo arrependimento | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_sins:2` | 1x Oração pelo arrependimento | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_sins:3` | 1x Oração pelo arrependimento | 3x faith | 0.0 | 0.0 | — |
-| `pray:b_skull:1` | 1x Oração pelo repouso | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_skull:2` | 1x Oração pelo repouso | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_skull:3` | 1x Oração pelo repouso | 3x faith | 0.0 | 0.0 | — |
-| `pray:b_souls:1` | 1x Orar pelo repouso das almas | 1x faith<br>100x money | 0.0 | 0.0 | — |
-| `pray:b_souls:2` | 1x Orar pelo repouso das almas | 2x faith<br>200x money | 0.0 | 0.0 | — |
-| `pray:b_souls:3` | 1x Orar pelo repouso das almas | 3x faith<br>300x money | 0.0 | 0.0 | — |
-| `pray:b_star:1` | 1x Oração pela excelência | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_star:2` | 1x Oração pela excelência | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_star:3` | 1x Oração pela excelência | 3x faith | 0.0 | 0.0 | — |
-| `pray:b_sword:1` | 1x Oração da vingança | 1x faith | 0.0 | 0.0 | — |
-| `pray:b_sword:2` | 1x Oração da vingança | 2x faith | 0.0 | 0.0 | — |
-| `pray:b_sword:3` | 1x Oração da vingança | 3x faith | 0.0 | 0.0 | — |
+| `pray:b_shield:1` | 1x Oração por proteção | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_shield:2` | 1x Oração por proteção | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_shield:3` | 1x Oração por proteção | 3x Fé | 0.0 | 0.0 | — |
+| `pray:b_sin_shard:1` | 1x Orar pela purificação completa das almas | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_sin_shard:2` | 1x Orar pela purificação completa das almas | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_sin_shard:3` | 1x Orar pela purificação completa das almas | 3x Fé | 0.0 | 0.0 | — |
+| `pray:b_sins:1` | 1x Oração pelo arrependimento | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_sins:2` | 1x Oração pelo arrependimento | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_sins:3` | 1x Oração pelo arrependimento | 3x Fé | 0.0 | 0.0 | — |
+| `pray:b_skull:1` | 1x Oração pelo repouso | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_skull:2` | 1x Oração pelo repouso | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_skull:3` | 1x Oração pelo repouso | 3x Fé | 0.0 | 0.0 | — |
+| `pray:b_souls:1` | 1x Orar pelo repouso das almas | 1x Fé<br>100x money | 0.0 | 0.0 | — |
+| `pray:b_souls:2` | 1x Orar pelo repouso das almas | 2x Fé<br>200x money | 0.0 | 0.0 | — |
+| `pray:b_souls:3` | 1x Orar pelo repouso das almas | 3x Fé<br>300x money | 0.0 | 0.0 | — |
+| `pray:b_star:1` | 1x Oração pela excelência | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_star:2` | 1x Oração pela excelência | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_star:3` | 1x Oração pela excelência | 3x Fé | 0.0 | 0.0 | — |
+| `pray:b_sword:1` | 1x Oração da vingança | 1x Fé | 0.0 | 0.0 | — |
+| `pray:b_sword:2` | 1x Oração da vingança | 2x Fé | 0.0 | 0.0 | — |
+| `pray:b_sword:3` | 1x Oração da vingança | 3x Fé | 0.0 | 0.0 | — |
 | `pray:b_techpoint_blue:1` | 1x b_techpoint_blue:1 | — | 0.0 | 0.0 | — |
 | `pray:b_techpoint_blue:2` | 1x b_techpoint_blue:2 | — | 0.0 | 0.0 | — |
 | `pray:b_techpoint_blue:3` | 1x b_techpoint_blue:3 | — | 0.0 | 0.0 | — |
@@ -794,13 +794,13 @@
 | `pray:b_techpoint_red:1` | 1x b_techpoint_red:1 | — | 0.0 | 0.0 | — |
 | `pray:b_techpoint_red:2` | 1x b_techpoint_red:2 | — | 0.0 | 0.0 | — |
 | `pray:b_techpoint_red:3` | 1x b_techpoint_red:3 | — | 0.0 | 0.0 | — |
-| `pray:b_village:1` | 1x Oração pela prosperidade | 1x faith<br>100x money<br>1x Bênção do comércio | 0.0 | 0.0 | — |
-| `pray:b_village:2` | 1x Oração pela prosperidade | 2x faith<br>200x money<br>2x Bênção do comércio | 0.0 | 0.0 | — |
-| `pray:b_village:3` | 1x Oração pela prosperidade | 3x faith<br>300x money<br>3x Bênção do comércio | 0.0 | 0.0 | — |
+| `pray:b_village:1` | 1x Oração pela prosperidade | 1x Fé<br>100x money<br>1x Bênção do comércio | 0.0 | 0.0 | — |
+| `pray:b_village:2` | 1x Oração pela prosperidade | 2x Fé<br>200x money<br>2x Bênção do comércio | 0.0 | 0.0 | — |
+| `pray:b_village:3` | 1x Oração pela prosperidade | 3x Fé<br>300x money<br>3x Bênção do comércio | 0.0 | 0.0 | — |
 | `pray:preach_1` | 1x preach_1 | 15x money | 0.0 | 0.0 | — |
 | `pray:preach_2` | 1x preach_2 | 2x Vela<br>3x Vela | 0.0 | 0.0 | — |
 
-## contraband_box — `contraband_box`
+## Caixa de Contrabando — `contraband_box`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -810,7 +810,7 @@
 | `d1_send_items` | 1x Livro de receitas | — | 0.0 | 0.0 | — |
 | `d2_send_items` | 5x Maçã vermelha | — | 0.0 | 0.0 | — |
 | `d5_1_send_items` | 1x Aforismos sobre os males do dinheiro | — | 0.0 | 0.0 | — |
-| `d5_2_send_items` | 5x faith | — | 0.0 | 0.0 | — |
+| `d5_2_send_items` | 5x Fé | — | 0.0 | 0.0 | — |
 | `d7_send_items` | 1x Abóbora mágica | — | 0.0 | 0.0 | — |
 | `d9_send_items` | 1x Ferraduras de batalha<br>1x Chifres de unicórnio de ferro | — | 0.0 | 0.0 | — |
 
@@ -839,24 +839,24 @@
 | `dough` | 2x Farinha<br>3x Água | 4x Massa | 2.0 | 4.0 | 1 verde |
 | `dough_2` | 2x Farinha<br>1x Jarra de leite<br>1x Ovo de galinha | 4x Massa folhada | 2.0 | 6.0 | 1 verde |
 | `fish_anchovy_fillet` | 1x Anchova | 1x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
-| `fish_bream_fillet` | 1x Brema | 1x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 1 verde |
+| `fish_bream_fillet` | 1x Brema | 1x Qualidade do filé de peixe | 2.0 | 5.0 | 1 verde |
 | `fish_carp_fillet` | 1x Carpa | 1x Filé de peixe azul | 2.0 | 10.0 | 1 verde |
 | `fish_crucian_gold_fillet` | 1x Prussiano dourado | 4x Filé de peixe azul<br>1x Pepita de ouro | 2.0 | 10.0 | 1 verde |
-| `fish_crucian_silver_fillet` | 1x Prussiano prateado | 3x fillet_fish:fillet_fish_red<br>1x Pepita de prata | 2.0 | 9.0 | 1 verde |
+| `fish_crucian_silver_fillet` | 1x Prussiano prateado | 3x Qualidade do filé de peixe<br>1x Pepita de prata | 2.0 | 9.0 | 1 verde |
 | `fish_eel_fillet` | 1x Enguia | 3x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
 | `fish_goldfish_fillet` | 1x Peixinho-dourado | 4x Filé de peixe azul | 2.0 | 10.0 | 10 verde |
 | `fish_gudgeon_fillet` | 1x Gróbio | 1x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
 | `fish_perch_fillet` | 1x Poleiro | 3x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
-| `fish_pike_fillet` | 1x Pique | 3x fillet_fish:fillet_fish_red | 2.0 | 8.0 | 1 verde |
+| `fish_pike_fillet` | 1x Pique | 3x Qualidade do filé de peixe | 2.0 | 8.0 | 1 verde |
 | `fish_salmon_fillet` | 1x Salmão | 3x Filé de peixe azul | 2.0 | 9.0 | 1 verde |
-| `fish_sardine_fillet` | 1x Sardinha | 2x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 1 verde |
+| `fish_sardine_fillet` | 1x Sardinha | 2x Qualidade do filé de peixe | 2.0 | 5.0 | 1 verde |
 | `fish_sturgeon_fillet` | 1x Esturjão | 2x Filé de peixe azul | 2.0 | 8.0 | 1 verde |
 | `fish_tilapia_fillet` | 1x Tilápia | 2x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
-| `fish_tuna_fillet` | 1x Atum | 2x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 1 verde |
+| `fish_tuna_fillet` | 1x Atum | 2x Qualidade do filé de peixe | 2.0 | 5.0 | 1 verde |
 | `flour_from_wheat` | 4x Trigo | 4x Farinha | 3.0 | 8.0 | 2 verde |
 | `funeral_urn_1` | 1x Jarro de cerâmica<br>5x Ash | 1x Urna funerária de cerâmica | 1.0 | 3.0 | 1 azul |
 | `funeral_urn_2` | 1x Jarra de porcelana<br>5x Ash | 1x Urna funerária de porcelana | 1.0 | 3.0 | 2 azul |
-| `grated_beetroot` | 1x beet_crop | 1x Beterraba ralada | 1.0 | 2.0 | 1 verde |
+| `grated_beetroot` | 1x Beterraba | 1x Beterraba ralada | 1.0 | 2.0 | 1 verde |
 | `grated_carrot` | 1x Cenoura | 1x Cenoura ralada | 1.0 | 2.0 | 1 verde |
 | `insert_stamp_into_table` | 1x Carimbo | — | 0.0 | 0.0 | — |
 | `jelly_green` | 4x Geleia verde<br>1x Mel | 3x Geleia verde | 2.0 | 5.0 | 1 verde |
@@ -870,7 +870,7 @@
 | `sandwich` | 2x Pão<br>1x Carne cozida<br>1x Couve | 3x Sanduíche | 2.0 | 5.0 | 1 verde |
 | `stamped_meat` | 1x Carne<br>1x Papel vazio<br>1x Carimbo | 1x Pacote de carne<br>1x Carimbo | 2.0 | 5.0 | 1 verde |
 | `stamped_meat_new` | 1x Carne<br>1x Papel vazio | 1x Pacote de carne | 2.0 | 5.0 | 1 verde |
-| `vegetable_salad` | 1x onion_crop<br>1x beet_crop<br>1x Couve | 4x Salada | 1.0 | 4.0 | 1 verde |
+| `vegetable_salad` | 1x onion_crop<br>1x Beterraba<br>1x Couve | 4x Salada | 1.0 | 4.0 | 1 verde |
 
 ## Bancada de cozinhar atualizada — `cooking_table_2`
 
@@ -885,24 +885,24 @@
 | `dough` | 2x Farinha<br>3x Água | 4x Massa | 2.0 | 4.0 | 1 verde |
 | `dough_2` | 2x Farinha<br>1x Jarra de leite<br>1x Ovo de galinha | 4x Massa folhada | 2.0 | 6.0 | 1 verde |
 | `fish_anchovy_fillet` | 1x Anchova | 1x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
-| `fish_bream_fillet` | 1x Brema | 1x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 1 verde |
+| `fish_bream_fillet` | 1x Brema | 1x Qualidade do filé de peixe | 2.0 | 5.0 | 1 verde |
 | `fish_carp_fillet` | 1x Carpa | 1x Filé de peixe azul | 2.0 | 10.0 | 1 verde |
 | `fish_crucian_gold_fillet` | 1x Prussiano dourado | 4x Filé de peixe azul<br>1x Pepita de ouro | 2.0 | 10.0 | 1 verde |
-| `fish_crucian_silver_fillet` | 1x Prussiano prateado | 3x fillet_fish:fillet_fish_red<br>1x Pepita de prata | 2.0 | 9.0 | 1 verde |
+| `fish_crucian_silver_fillet` | 1x Prussiano prateado | 3x Qualidade do filé de peixe<br>1x Pepita de prata | 2.0 | 9.0 | 1 verde |
 | `fish_eel_fillet` | 1x Enguia | 3x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
 | `fish_goldfish_fillet` | 1x Peixinho-dourado | 4x Filé de peixe azul | 2.0 | 10.0 | 10 verde |
 | `fish_gudgeon_fillet` | 1x Gróbio | 1x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
 | `fish_perch_fillet` | 1x Poleiro | 3x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
-| `fish_pike_fillet` | 1x Pique | 3x fillet_fish:fillet_fish_red | 2.0 | 8.0 | 1 verde |
+| `fish_pike_fillet` | 1x Pique | 3x Qualidade do filé de peixe | 2.0 | 8.0 | 1 verde |
 | `fish_salmon_fillet` | 1x Salmão | 3x Filé de peixe azul | 2.0 | 9.0 | 1 verde |
-| `fish_sardine_fillet` | 1x Sardinha | 2x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 1 verde |
+| `fish_sardine_fillet` | 1x Sardinha | 2x Qualidade do filé de peixe | 2.0 | 5.0 | 1 verde |
 | `fish_sturgeon_fillet` | 1x Esturjão | 2x Filé de peixe azul | 2.0 | 8.0 | 1 verde |
 | `fish_tilapia_fillet` | 1x Tilápia | 2x Filé de peixe branco | 2.0 | 5.0 | 1 verde |
-| `fish_tuna_fillet` | 1x Atum | 2x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 1 verde |
+| `fish_tuna_fillet` | 1x Atum | 2x Qualidade do filé de peixe | 2.0 | 5.0 | 1 verde |
 | `flour_from_wheat` | 4x Trigo | 4x Farinha | 3.0 | 8.0 | 2 verde |
 | `funeral_urn_1` | 1x Jarro de cerâmica<br>5x Ash | 1x Urna funerária de cerâmica | 1.0 | 3.0 | 1 azul |
 | `funeral_urn_2` | 1x Jarra de porcelana<br>5x Ash | 1x Urna funerária de porcelana | 1.0 | 3.0 | 2 azul |
-| `grated_beetroot` | 1x beet_crop | 1x Beterraba ralada | 1.0 | 2.0 | 1 verde |
+| `grated_beetroot` | 1x Beterraba | 1x Beterraba ralada | 1.0 | 2.0 | 1 verde |
 | `grated_carrot` | 1x Cenoura | 1x Cenoura ralada | 1.0 | 2.0 | 1 verde |
 | `insert_stamp_into_table` | 1x Carimbo | — | 0.0 | 0.0 | — |
 | `jelly_green` | 4x Geleia verde<br>1x Mel | 3x Geleia verde | 2.0 | 5.0 | 1 verde |
@@ -916,7 +916,7 @@
 | `sandwich` | 2x Pão<br>1x Carne cozida<br>1x Couve | 3x Sanduíche | 2.0 | 5.0 | 1 verde |
 | `stamped_meat` | 1x Carne<br>1x Papel vazio<br>1x Carimbo | 1x Pacote de carne<br>1x Carimbo | 2.0 | 5.0 | 1 verde |
 | `stamped_meat_new` | 1x Carne<br>1x Papel vazio | 1x Pacote de carne | 2.0 | 5.0 | 1 verde |
-| `vegetable_salad` | 1x onion_crop<br>1x beet_crop<br>1x Couve | 4x Salada | 1.0 | 4.0 | 1 verde |
+| `vegetable_salad` | 1x onion_crop<br>1x Beterraba<br>1x Couve | 4x Salada | 1.0 | 4.0 | 1 verde |
 
 ## crafting_skull — `crafting_skull`
 
@@ -928,7 +928,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `skull_brain` | 1x brain | 1x Caveira | 1.0 | 1.0 | — |
+| `skull_brain` | 1x Cérebro | 1x Caveira | 1.0 | 1.0 | — |
 
 ## Crematório — `cremation_builddesk`
 
@@ -946,29 +946,29 @@
 | `b_cross` | — | 1x b_cross | 3.0 | 10.0 | 2 azul |
 | `b_empty` | — | 1x Oração informal | 3.0 | 10.0 | 2 azul |
 | `b_energy` | — | 1x b_energy | 3.0 | 10.0 | 2 azul |
-| `b_faith` | 1x chapter<br>5x faith | 1x Oração pela fé | 3.0 | 10.0 | 10 azul |
-| `b_faith_money` | 1x book:book_hard<br>7x faith | 1x Oração combinada | 3.0 | 10.0 | 15 azul |
+| `b_faith` | 1x Capítulo<br>5x Fé | 1x Oração pela fé | 3.0 | 10.0 | 10 azul |
+| `b_faith_money` | 1x book:book_hard<br>7x Fé | 1x Oração combinada | 3.0 | 10.0 | 15 azul |
 | `b_ghost` | — | 1x b_ghost | 3.0 | 10.0 | 2 azul |
-| `b_money` | 1x chapter<br>5x faith | 1x Oração por doações | 3.0 | 10.0 | 15 azul |
-| `b_pen` | 1x book:book_hard<br>7x faith | 1x Oração pela imaginação | 3.0 | 10.0 | 15 azul |
-| `b_plant` | 1x chapter<br>5x faith | 1x Oração por brotos e raízes | 3.0 | 10.0 | 15 azul |
+| `b_money` | 1x Capítulo<br>5x Fé | 1x Oração por doações | 3.0 | 10.0 | 15 azul |
+| `b_pen` | 1x book:book_hard<br>7x Fé | 1x Oração pela imaginação | 3.0 | 10.0 | 15 azul |
+| `b_plant` | 1x Capítulo<br>5x Fé | 1x Oração por brotos e raízes | 3.0 | 10.0 | 15 azul |
 | `b_random` | — | 1x b_random | 3.0 | 10.0 | 2 azul |
-| `b_shield` | 1x book:book_hard<br>7x faith | 1x Oração por proteção | 3.0 | 10.0 | 15 azul |
-| `b_sins` | 1x chapter<br>5x faith | 1x Oração pelo arrependimento | 3.0 | 10.0 | 15 azul |
-| `b_skull` | 1x book:book_hard<br>7x faith | 1x Oração pelo repouso | 3.0 | 10.0 | 15 azul |
-| `b_star` | 1x book:book_hard<br>7x faith | 1x Oração pela excelência | 3.0 | 10.0 | 15 azul |
-| `b_sword` | 1x book:book_hard<br>7x faith | 1x Oração da vingança | 3.0 | 10.0 | 15 azul |
+| `b_shield` | 1x book:book_hard<br>7x Fé | 1x Oração por proteção | 3.0 | 10.0 | 15 azul |
+| `b_sins` | 1x Capítulo<br>5x Fé | 1x Oração pelo arrependimento | 3.0 | 10.0 | 15 azul |
+| `b_skull` | 1x book:book_hard<br>7x Fé | 1x Oração pelo repouso | 3.0 | 10.0 | 15 azul |
+| `b_star` | 1x book:book_hard<br>7x Fé | 1x Oração pela excelência | 3.0 | 10.0 | 15 azul |
+| `b_sword` | 1x book:book_hard<br>7x Fé | 1x Oração da vingança | 3.0 | 10.0 | 15 azul |
 | `b_techpoint_blue` | — | 1x b_techpoint_blue | 3.0 | 10.0 | 2 azul |
 | `b_techpoint_green` | — | 1x b_techpoint_green | 3.0 | 10.0 | 2 azul |
 | `b_techpoint_red` | — | 1x b_techpoint_red | 3.0 | 10.0 | 2 azul |
-| `b_village` | 1x chapter<br>5x faith | 1x Oração pela prosperidade | 3.0 | 10.0 | 15 azul |
-| `book_hard` | 1x cover<br>1x chapter | 1x book:book_hard | 3.0 | 5.0 | 1 vermelho 15 azul |
+| `b_village` | 1x Capítulo<br>5x Fé | 1x Oração pela prosperidade | 3.0 | 10.0 | 15 azul |
+| `book_hard` | 1x cover<br>1x Capítulo | 1x book:book_hard | 3.0 | 5.0 | 1 vermelho 15 azul |
 | `book_of_receipts` | 2x Caneta e tinta<br>10x Papel vazio<br>1x Vinho tinto | 1x Livro de receitas | 3.0 | 10.0 | — |
-| `chapter` | 1x Anotações<br>1x Anotações<br>1x Anotações | 1x chapter | 3.0 | 20.0 | 5 azul |
+| `chapter` | 1x Anotações<br>1x Anotações<br>1x Anotações | 1x Capítulo | 3.0 | 20.0 | 5 azul |
 | `flyer_bad` | 1x Caneta e tinta<br>1x Papel vazio | 5x Panfleto | 3.0 | 20.0 | 2 azul |
-| `notes` | 1x story<br>1x Caneta e tinta<br>1x Papel vazio | 1x Anotações | 3.0 | 20.0 | 3 azul |
+| `notes` | 1x História<br>1x Caneta e tinta<br>1x Papel vazio | 1x Anotações | 3.0 | 20.0 | 3 azul |
 | `old_paper` | 1x Livro destruído<br>1x Areia do rio | 2x Papel vazio | 1.0 | 5.0 | 1 vermelho 1 azul |
-| `story` | 1x Caneta e tinta<br>1x Papel vazio<br>10x faith | 1x story | 3.0 | 15.0 | 1 azul |
+| `story` | 1x Caneta e tinta<br>1x Papel vazio<br>10x Fé | 1x História | 3.0 | 15.0 | 1 azul |
 
 ## Mesa II — `desk_2`
 
@@ -979,29 +979,29 @@
 | `b_cross` | — | 1x b_cross | 3.0 | 10.0 | 2 azul |
 | `b_empty` | — | 1x Oração informal | 3.0 | 10.0 | 2 azul |
 | `b_energy` | — | 1x b_energy | 3.0 | 10.0 | 2 azul |
-| `b_faith_2` | 1x chapter<br>5x faith | 1x Oração pela fé | 3.0 | 10.0 | 15 azul |
-| `b_faith_money_2` | 1x book:book_hard<br>7x faith | 1x Oração combinada | 3.0 | 10.0 | 15 azul |
+| `b_faith_2` | 1x Capítulo<br>5x Fé | 1x Oração pela fé | 3.0 | 10.0 | 15 azul |
+| `b_faith_money_2` | 1x book:book_hard<br>7x Fé | 1x Oração combinada | 3.0 | 10.0 | 15 azul |
 | `b_ghost` | — | 1x b_ghost | 3.0 | 10.0 | 2 azul |
-| `b_money_2` | 1x chapter<br>5x faith | 1x Oração por doações | 3.0 | 10.0 | 15 azul |
-| `b_pen_2` | 1x book:book_hard<br>7x faith | 1x Oração pela imaginação | 3.0 | 10.0 | 15 azul |
-| `b_plant_2` | 1x chapter<br>5x faith | 1x Oração por brotos e raízes | 3.0 | 10.0 | 15 azul |
+| `b_money_2` | 1x Capítulo<br>5x Fé | 1x Oração por doações | 3.0 | 10.0 | 15 azul |
+| `b_pen_2` | 1x book:book_hard<br>7x Fé | 1x Oração pela imaginação | 3.0 | 10.0 | 15 azul |
+| `b_plant_2` | 1x Capítulo<br>5x Fé | 1x Oração por brotos e raízes | 3.0 | 10.0 | 15 azul |
 | `b_random` | — | 1x b_random | 3.0 | 10.0 | 2 azul |
-| `b_shield_2` | 1x book:book_hard<br>7x faith | 1x Oração por proteção | 3.0 | 10.0 | 15 azul |
-| `b_sins_2` | 1x chapter<br>5x faith | 1x Oração pelo arrependimento | 3.0 | 10.0 | 15 azul |
-| `b_skull_2` | 1x book:book_hard<br>7x faith | 1x Oração pelo repouso | 3.0 | 10.0 | 15 azul |
-| `b_star_2` | 1x book:book_hard<br>7x faith | 1x Oração pela excelência | 3.0 | 10.0 | 15 azul |
-| `b_sword_2` | 1x book:book_hard<br>7x faith | 1x Oração da vingança | 3.0 | 10.0 | 15 azul |
+| `b_shield_2` | 1x book:book_hard<br>7x Fé | 1x Oração por proteção | 3.0 | 10.0 | 15 azul |
+| `b_sins_2` | 1x Capítulo<br>5x Fé | 1x Oração pelo arrependimento | 3.0 | 10.0 | 15 azul |
+| `b_skull_2` | 1x book:book_hard<br>7x Fé | 1x Oração pelo repouso | 3.0 | 10.0 | 15 azul |
+| `b_star_2` | 1x book:book_hard<br>7x Fé | 1x Oração pela excelência | 3.0 | 10.0 | 15 azul |
+| `b_sword_2` | 1x book:book_hard<br>7x Fé | 1x Oração da vingança | 3.0 | 10.0 | 15 azul |
 | `b_techpoint_blue` | — | 1x b_techpoint_blue | 3.0 | 10.0 | 2 azul |
 | `b_techpoint_green` | — | 1x b_techpoint_green | 3.0 | 10.0 | 2 azul |
 | `b_techpoint_red` | — | 1x b_techpoint_red | 3.0 | 10.0 | 2 azul |
-| `b_village_2` | 1x chapter<br>5x faith | 1x Oração pela prosperidade | 3.0 | 10.0 | 15 azul |
-| `book_hard_2` | 1x cover<br>1x chapter | 1x book:book_hard | 3.0 | 5.0 | 1 vermelho 15 azul |
+| `b_village_2` | 1x Capítulo<br>5x Fé | 1x Oração pela prosperidade | 3.0 | 10.0 | 15 azul |
+| `book_hard_2` | 1x cover<br>1x Capítulo | 1x book:book_hard | 3.0 | 5.0 | 1 vermelho 15 azul |
 | `book_of_receipts_2` | 2x Caneta e tinta<br>10x Papel vazio<br>1x Vinho tinto | 1x Livro de receitas | 3.0 | 10.0 | — |
-| `chapter_2` | 1x Anotações<br>1x Anotações<br>1x Anotações | 1x chapter | 3.0 | 10.0 | 5 azul |
+| `chapter_2` | 1x Anotações<br>1x Anotações<br>1x Anotações | 1x Capítulo | 3.0 | 10.0 | 5 azul |
 | `flyer_bad_2` | 1x Caneta e tinta<br>1x Papel vazio | 5x Panfleto | 3.0 | 15.0 | 2 azul |
-| `notes_2` | 1x story<br>1x Caneta e tinta<br>1x Papel vazio | 1x Anotações | 3.0 | 10.0 | 3 azul |
+| `notes_2` | 1x História<br>1x Caneta e tinta<br>1x Papel vazio | 1x Anotações | 3.0 | 10.0 | 3 azul |
 | `old_paper_2` | 1x Livro destruído<br>1x Areia do rio | 2x Papel vazio | 1.0 | 5.0 | 1 vermelho 1 azul |
-| `story_2` | 1x Caneta e tinta<br>1x Papel vazio<br>10x faith | 1x story | 3.0 | 15.0 | 1 azul |
+| `story_2` | 1x Caneta e tinta<br>1x Papel vazio<br>10x Fé | 1x História | 3.0 | 15.0 | 1 azul |
 
 ## Estendal quebrado — `drying_rack_broken`
 
@@ -1015,7 +1015,7 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `fix_egg_seller_broken` | 2x Vareta de madeira<br>1x Kit de conserto de madeira | — | 2.0 | 5.0 | — |
 
-## elevator_top — `elevator_top`
+## Fábrica de baús — `elevator_top`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -1024,8 +1024,8 @@
 | `box_beer_3` | 20x Caneca de cerveja | 1x Caixa de cerveja ouro | 3.0 | 10.0 | — |
 | `box_booz` | 20x Pinga | 1x Caixa de álcool forte | 3.0 | 10.0 | — |
 | `box_foodstuff_1_1` | 80x Cenoura<br>40x Couve | 1x Caixa de víveres 1 | 3.0 | 10.0 | — |
-| `box_foodstuff_1_2` | 50x beet_crop<br>40x Cenoura | 1x Caixa de víveres 1 | 3.0 | 10.0 | — |
-| `box_foodstuff_1_3` | 80x Trigo<br>20x beet_crop | 1x Caixa de víveres 1 | 3.0 | 10.0 | — |
+| `box_foodstuff_1_2` | 50x Beterraba<br>40x Cenoura | 1x Caixa de víveres 1 | 3.0 | 10.0 | — |
+| `box_foodstuff_1_3` | 80x Trigo<br>20x Beterraba | 1x Caixa de víveres 1 | 3.0 | 10.0 | — |
 | `box_foodstuff_1_4` | 80x Couve<br>40x Trigo | 1x Caixa de víveres 1 | 3.0 | 10.0 | — |
 | `box_foodstuff_2_1` | 50x Lentilha<br>25x Abóbora | 1x Caixa de víveres 2 | 3.0 | 10.0 | — |
 | `box_foodstuff_2_2` | 50x Abóbora<br>25x Cebola | 1x Caixa de víveres 2 | 3.0 | 10.0 | — |
@@ -1132,7 +1132,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `garden_beet_planting_1` | 4x beet_seed | — | 0.0 | 0.0 | 1 verde |
+| `garden_beet_planting_1` | 4x Semente de beterraba | — | 0.0 | 0.0 | 1 verde |
 | `garden_cabbage_planting_1` | 4x Semente de repolho | — | 0.0 | 0.0 | 1 verde |
 | `garden_cannabis_planting_1` | 4x Semente de cânhamo | — | 0.0 | 0.0 | 1 verde |
 | `garden_cannabis_planting_2` | 4x Semente de cânhamo | — | 0.0 | 0.0 | 1 verde |
@@ -1182,7 +1182,7 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `garden_lentils_growing` | — | — | 1440*(1-0.2*WGOpar("grow_time")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 
-## garden_of_stones_place — `garden_of_stones_place`
+## Jardim de pedra — `garden_of_stones_place`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -1323,7 +1323,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `graveyard_zone_lvlup2` | 50x faith | — | 4.0 | 0.0 | — |
+| `graveyard_zone_lvlup2` | 50x Fé | — | 4.0 | 0.0 | — |
 
 ## hiccup_grass_spawner — `hiccup_grass_spawner`
 
@@ -1409,14 +1409,14 @@
 | `keeper_room_builddesk:p:keeper_room_plant_yellow_4` | 2x Tábua<br>1x Turfa<br>5x Flor amarela | — | — | 0.0 | — |
 | `keeper_room_builddesk:p:keeper_room_rack` | 12x Tábua<br>10x Pregos<br>4x Viga de madeira | — | — | 0.0 | — |
 
-## lantern_1_clone — `lantern_1_clone`
+## Tocha — `lantern_1_clone`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `lantern_1_to_lantern_2` | 1x Viga de madeira<br>3x Peças simples de ferro<br>2x Vidro | — | 3.0 | 5.0 | — |
 | `lantern_1_to_lantern_3` | 4x Pedaço de pedra<br>4x Peças simples de ferro<br>2x Vidro | — | 3.0 | 6.0 | — |
 
-## lantern_2_clone — `lantern_2_clone`
+## Lamparina de madeira — `lantern_2_clone`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -1515,7 +1515,7 @@
 | `mix:mf_alchemy_craft_03:alchemy_1_green:alchemy_2_d_green:alchemy_3_d_green:` | 1x Pó da ordem<br>1x Solução de vida<br>1x Extrato de vida | 1x Poção de recuperação | 2.0 | 5.0 | — |
 | `mix:mf_alchemy_craft_03:alchemy_1_red:alchemy_2_d_violet:alchemy_3_d_violet:` | 1x Pó tóxico<br>1x Solução de morte<br>1x Extrato da morte | 1x Poção de fúria | 2.0 | 5.0 | — |
 | `mix:mf_alchemy_craft_03:alchemy_1_red:alchemy_2_violet:alchemy_3_red:` | 1x Pó tóxico<br>1x Solução do caos<br>1x Extrato tóxico | 1x Ácido | 2.0 | 5.0 | — |
-| `mix:mf_alchemy_craft_03:alchemy_1_violet:alchemy_2_d_violet:alchemy_3_red:` | 1x Pó de caos<br>1x Solução de morte<br>1x Extrato tóxico | 1x pot_damage | 2.0 | 5.0 | — |
+| `mix:mf_alchemy_craft_03:alchemy_1_violet:alchemy_2_d_violet:alchemy_3_red:` | 1x Pó de caos<br>1x Solução de morte<br>1x Extrato tóxico | 1x Poção de raiva | 2.0 | 5.0 | — |
 | `mix:mf_alchemy_craft_03:alchemy_1_violet:water:alchemy_3_d_violet:` | 1x Pó de caos<br>1x Água<br>1x Extrato da morte | 1x Solução balsâmica | 2.0 | 5.0 | — |
 | `mix:mf_alchemy_craft_03:alchemy_1_yellow:alchemy_2_brown:alchemy_3_brown:` | 1x Pó de ressurreição<br>1x Solução de retardamento<br>1x Extrato de retardamento | 1x Conservante | 2.0 | 5.0 | — |
 | `mix:mf_alchemy_craft_03:alchemy_1_yellow:alchemy_2_d_violet:blood:` | 1x Pó de ressurreição<br>1x Solução de morte<br>1x Sangue | 1x Alcalino | 2.0 | 5.0 | — |
@@ -2000,7 +2000,7 @@
 | `alch:mf_alchemy_mill:hamp_crop` | 1x hamp_crop | 3+Ppar("p_scientist")x Pó de aceleração | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_mill:honey` | 1x Mel | 3+Ppar("p_scientist")x Pó de aceleração | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_mill:hop_crop` | 1x hop_crop | 4+Ppar("p_scientist")x Pó de retardamento | 2.0 | 5.0 | — |
-| `alch:mf_alchemy_mill:intestine` | 1x intestine | 2+Ppar("p_scientist")x Pó de ressurreição | 2.0 | 5.0 | — |
+| `alch:mf_alchemy_mill:intestine` | 1x Intestinos | 2+Ppar("p_scientist")x Pó de ressurreição | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_mill:intestine_dark` | 1x Intestinos sombrios | 3+Ppar("p_scientist")x Pó da morte | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_mill:lifestone` | 1x Calcário | 2+Ppar("p_scientist")x Pó branco | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_mill:nugget_gold` | 1x Pepita de ouro | 4+Ppar("p_scientist")x Pó de ouro | 2.0 | 5.0 | — |
@@ -2018,7 +2018,7 @@
 | `alch:mf_alchemy_stirrer_01:bat_wing` | 1x Asa de morcego | 1+Ppar("p_scientist")x Solução do caos | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_stirrer_01:bee` | 1x Abelha | 3+Ppar("p_scientist")x Solução de ordem | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_stirrer_01:beeswax` | 1x Cera de abelha | 4+Ppar("p_scientist")x Solução de retardamento | 2.0 | 5.0 | — |
-| `alch:mf_alchemy_stirrer_01:brain` | 1x brain | 2+Ppar("p_scientist")x Solução de vida | 2.0 | 5.0 | — |
+| `alch:mf_alchemy_stirrer_01:brain` | 1x Cérebro | 2+Ppar("p_scientist")x Solução de vida | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_stirrer_01:brain_dark` | 1x Cérebro sombrio | 2+Ppar("p_scientist")x Solução de morte | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_stirrer_01:cabbage_crop` | 1x Couve | 2+Ppar("p_scientist")x Solução de vida | 2.0 | 5.0 | — |
 | `alch:mf_alchemy_stirrer_01:carrot_crop` | 1x Cenoura | 3+Ppar("p_scientist")x Solução de vida | 2.0 | 5.0 | — |
@@ -2052,8 +2052,8 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `surv:1h_obsidian` | 1x Obsidiana<br>4x faith | 1x Pesquisar obsidiana | 2.0 | 5.0 | 25 vermelho 15 verde 100 azul |
-| `surv:1h_ore_metal` | 1x 1h_ore_metal<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:1h_obsidian` | 1x Obsidiana<br>4x Fé | 1x Pesquisar obsidiana | 2.0 | 5.0 | 25 vermelho 15 verde 100 azul |
+| `surv:1h_ore_metal` | 1x Minério de ferro<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
 | `surv:alchemy_1_brown` | 1x Pó de retardamento | — | 2.0 | 5.0 | 5 verde |
 | `surv:alchemy_1_d_blue` | 1x Pó de aceleração | — | 2.0 | 5.0 | 5 verde |
 | `surv:alchemy_1_d_green` | 1x Pó de vida | — | 2.0 | 5.0 | 5 verde |
@@ -2062,7 +2062,7 @@
 | `surv:alchemy_1_red` | 1x Pó tóxico | — | 2.0 | 5.0 | 5 verde |
 | `surv:alchemy_1_violet` | 1x Pó de caos | — | 2.0 | 5.0 | 5 azul |
 | `surv:alchemy_1_yellow` | 1x Pó de ressurreição | — | 2.0 | 5.0 | 5 azul |
-| `surv:alchemy_1_yellow_electro` | 1x Pó elétrico<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 5 azul 5 vermelho |
+| `surv:alchemy_1_yellow_electro` | 1x Pó elétrico<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 5 azul 5 vermelho |
 | `surv:alchemy_2_brown` | 1x Solução de retardamento | — | 2.0 | 5.0 | 5 verde |
 | `surv:alchemy_2_d_blue` | 1x Solução de aceleração | — | 2.0 | 5.0 | 5 verde |
 | `surv:alchemy_2_d_green` | 1x Solução de vida | — | 2.0 | 5.0 | 5 verde |
@@ -2079,80 +2079,80 @@
 | `surv:alchemy_3_red` | 1x Extrato tóxico | — | 2.0 | 5.0 | 5 verde |
 | `surv:alchemy_3_violet` | 1x Extrato do caos | — | 2.0 | 5.0 | 5 azul |
 | `surv:alchemy_3_yellow` | 1x Extrato da vida | — | 2.0 | 5.0 | 5 azul |
-| `surv:armor_lamellar_1` | 1x Armadura de ferro<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:armor_lamellar_2` | 1x Armadura de aço<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
-| `surv:ash` | 1x Ash<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:axe_0` | 1x Machado enferrujado<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:axe_1` | 1x Machado I<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:axe_2` | 1x Machado II<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
-| `surv:bat_wing` | 1x Asa de morcego<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:bee` | 1x Abelha<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 verde |
-| `surv:beeswax` | 1x Cera de abelha<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:beet_crop` | 1x beet_crop<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
-| `surv:beet_seed` | 1x beet_seed<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
-| `surv:blood` | 1x Sangue<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | 20 azul |
-| `surv:bone` | 1x Osso<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
+| `surv:armor_lamellar_1` | 1x Armadura de ferro<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:armor_lamellar_2` | 1x Armadura de aço<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
+| `surv:ash` | 1x Ash<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:axe_0` | 1x Machado enferrujado<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:axe_1` | 1x Machado I<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:axe_2` | 1x Machado II<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:bat_wing` | 1x Asa de morcego<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:bee` | 1x Abelha<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 verde |
+| `surv:beeswax` | 1x Cera de abelha<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:beet_crop` | 1x Beterraba<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
+| `surv:beet_seed` | 1x Semente de beterraba<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
+| `surv:blood` | 1x Sangue<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | 20 azul |
+| `surv:bone` | 1x Osso<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
 | `surv:book:book_hard:1` | 1x Livro | — | 0.0 | 0.0 | — |
 | `surv:book:book_hard:2` | 1x Livro | — | 0.0 | 0.0 | — |
 | `surv:book:book_hard:3` | 1x Livro | — | 0.0 | 0.0 | — |
-| `surv:brain` | 1x brain<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 50 azul |
-| `surv:brain_dark` | 1x Cérebro sombrio<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 2.0 | 100 azul |
-| `surv:butterfly` | 1x Borboleta<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:cabbage_crop` | 1x Couve<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:cabbage_seed` | 1x Semente de repolho<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:carrot_crop` | 1x Cenoura<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:carrot_seed` | 1x Semente de cenoura<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:carved_wood` | 1x carved_wood<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
-| `surv:ceramic_1` | 1x Potes de cerâmica<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:ceramic_2` | 1x Jarro de cerâmica<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
-| `surv:ceramic_3` | 1x Jarra de porcelana<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:brain` | 1x Cérebro<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 50 azul |
+| `surv:brain_dark` | 1x Cérebro sombrio<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 2.0 | 100 azul |
+| `surv:butterfly` | 1x Borboleta<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:cabbage_crop` | 1x Couve<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:cabbage_seed` | 1x Semente de repolho<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:carrot_crop` | 1x Cenoura<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:carrot_seed` | 1x Semente de cenoura<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:carved_wood` | 1x Madeira entalhada<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
+| `surv:ceramic_1` | 1x Potes de cerâmica<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:ceramic_2` | 1x Jarro de cerâmica<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
+| `surv:ceramic_3` | 1x Jarra de porcelana<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
 | `surv:chapter:1` | 1x Capítulo | — | 0.0 | 0.0 | — |
 | `surv:chapter:2` | 1x Capítulo | — | 0.0 | 0.0 | — |
 | `surv:chapter:3` | 1x Capítulo | — | 0.0 | 0.0 | — |
-| `surv:chisel:chisel_1` | 1x Cinzel de ferro<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:chisel:chisel_2` | 1x chisel:chisel_2<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:clay` | 1x Argila<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:coal` | 1x Carvão<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:cover:cover_1` | 1x Capa mole<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:cover:cover_hard` | 1x Capa dura<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 100 vermelho |
-| `surv:crop_waste` | 1x Resíduos de colheita<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:dark_gold_cloak` | 1x Manto preto e dourado<br>4x faith | — | 2.0 | 10.0 | 50 vermelho 50 verde 50 azul |
-| `surv:dessert:jelly_green` | 1x Geleia verde<br>1x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 10 verde |
-| `surv:detail_1` | 1x Peças simples de ferro<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:detail_2` | 1x Peças de ferro complexas<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
-| `surv:detail_3` | 1x Peças de aço<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:faceted_emerald` | 1x Esmeralda lapidada<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
-| `surv:fat` | 1x Gordura<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
-| `surv:firewood` | 1x Lenha<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
-| `surv:fish_anchovy` | 1x Anchova<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
-| `surv:fish_bream` | 1x Brema<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
-| `surv:fish_carp` | 1x Carpa<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
-| `surv:fish_crucian_gold` | 1x Prussiano dourado<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
-| `surv:fish_crucian_silver` | 1x Prussiano prateado<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
-| `surv:fish_eel` | 1x Enguia<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
-| `surv:fish_frog_green` | 1x Sapo<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
-| `surv:fish_goldfish` | 1x Peixinho-dourado<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
-| `surv:fish_gudgeon` | 1x Gróbio<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
-| `surv:fish_perch` | 1x Poleiro<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
-| `surv:fish_pike` | 1x Pique<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
-| `surv:fish_salmon` | 1x Salmão<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
-| `surv:fish_sardine` | 1x Sardinha<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
-| `surv:fish_sturgeon` | 1x Esturjão<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
-| `surv:fish_tilapia` | 1x Tilápia<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
-| `surv:fish_tuna` | 1x Atum<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
-| `surv:flesh` | 1x Carne<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
-| `surv:flitch` | 1x Tábua<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:flw_chamomile` | 1x Flor branca<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:flw_dandelion` | 1x Flor amarela<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:flw_poppy` | 1x Flor vermelha<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:fruit:apple_red_crop` | 1x Maçã vermelha<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:fruit:berry` | 1x Frutinha<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:fruit:grapes_crop` | 1x fruit:grapes_crop<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
-| `surv:funeral_urn_1` | 1x Urna funerária de cerâmica<br>2x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul 5 vermelho |
-| `surv:funeral_urn_2` | 1x Urna funerária de porcelana<br>4x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 50 azul 10 vermelho |
-| `surv:glass_0` | 1x Vidro<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:glass_1` | 1x Frascos cônicos<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
-| `surv:glass_2` | 1x Frascos cônicos avançados<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:chisel:chisel_1` | 1x Cinzel de ferro<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:chisel:chisel_2` | 1x chisel:chisel_2<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:clay` | 1x Argila<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:coal` | 1x Carvão<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:cover:cover_1` | 1x Capa mole<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:cover:cover_hard` | 1x Capa dura<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 100 vermelho |
+| `surv:crop_waste` | 1x Resíduos de colheita<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:dark_gold_cloak` | 1x Manto preto e dourado<br>4x Fé | — | 2.0 | 10.0 | 50 vermelho 50 verde 50 azul |
+| `surv:dessert:jelly_green` | 1x Geleia verde<br>1x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 10 verde |
+| `surv:detail_1` | 1x Peças simples de ferro<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:detail_2` | 1x Peças de ferro complexas<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
+| `surv:detail_3` | 1x Peças de aço<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:faceted_emerald` | 1x Esmeralda lapidada<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:fat` | 1x Gordura<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
+| `surv:firewood` | 1x Lenha<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
+| `surv:fish_anchovy` | 1x Anchova<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
+| `surv:fish_bream` | 1x Brema<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
+| `surv:fish_carp` | 1x Carpa<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
+| `surv:fish_crucian_gold` | 1x Prussiano dourado<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
+| `surv:fish_crucian_silver` | 1x Prussiano prateado<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
+| `surv:fish_eel` | 1x Enguia<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
+| `surv:fish_frog_green` | 1x Sapo<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
+| `surv:fish_goldfish` | 1x Peixinho-dourado<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
+| `surv:fish_gudgeon` | 1x Gróbio<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
+| `surv:fish_perch` | 1x Poleiro<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 20 verde |
+| `surv:fish_pike` | 1x Pique<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
+| `surv:fish_salmon` | 1x Salmão<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 1.0 | None azul 50 verde |
+| `surv:fish_sardine` | 1x Sardinha<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
+| `surv:fish_sturgeon` | 1x Esturjão<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
+| `surv:fish_tilapia` | 1x Tilápia<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
+| `surv:fish_tuna` | 1x Atum<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | None azul 30 verde |
+| `surv:flesh` | 1x Carne<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
+| `surv:flitch` | 1x Tábua<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:flw_chamomile` | 1x Flor branca<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:flw_dandelion` | 1x Flor amarela<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:flw_poppy` | 1x Flor vermelha<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:fruit:apple_red_crop` | 1x Maçã vermelha<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:fruit:berry` | 1x Frutinha<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:fruit:grapes_crop` | 1x fruit:grapes_crop<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
+| `surv:funeral_urn_1` | 1x Urna funerária de cerâmica<br>2x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul 5 vermelho |
+| `surv:funeral_urn_2` | 1x Urna funerária de porcelana<br>4x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 50 azul 10 vermelho |
+| `surv:glass_0` | 1x Vidro<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:glass_1` | 1x Frascos cônicos<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
+| `surv:glass_2` | 1x Frascos cônicos avançados<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
 | `surv:goo` | 1x Gosma | — | 2.0 | 5.0 | 5 verde |
 | `surv:goo_alcohol` | 1x Gosma de álcool | — | 2.0 | 5.0 | 1 azul |
 | `surv:goo_ash` | 1x Gosma de cinza | — | 2.0 | 5.0 | 1 vermelho |
@@ -2174,118 +2174,118 @@
 | `surv:goo_white` | 1x Gosma branca | — | 2.0 | 5.0 | 1 verde |
 | `surv:goo_yellow` | 1x Gosma da vida | — | 2.0 | 5.0 | 1 azul |
 | `surv:goo_yellow_electro` | 1x Gosma elétrica | — | 2.0 | 5.0 | 1 vermelho |
-| `surv:grapes_seed` | 1x grapes_seed<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
-| `surv:graphite` | 1x Grafite<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:grave_bot_mrb_1` | 1x Cerca de mármore de túmulo<br>7x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 80 azul |
-| `surv:grave_bot_mrb_2` | 1x Cerca de mármore de túmulo II<br>8x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 10.0 | 90 azul |
-| `surv:grave_bot_mrb_8` | 1x Cerca de mármore de túmulo VIII<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 120 azul |
-| `surv:grave_bot_stn_1` | 1x Cerca de pedra de túmulo<br>3x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
-| `surv:grave_bot_stn_2` | 1x Cerca de pedra de túmulo II<br>3x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
-| `surv:grave_bot_stn_8` | 1x Cerca de pedra de túmulo VIII<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
-| `surv:grave_bot_wd_1` | 1x Cerca de madeira de túmulo<br>2x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 20 azul |
-| `surv:grave_top_mrb_cross_1` | 1x Cruz de mármore<br>7x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 80 azul |
-| `surv:grave_top_mrb_cross_2` | 1x Cruz de mármore II<br>8x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 10.0 | 90 azul |
-| `surv:grave_top_sarcofag_mrb_1` | 1x Sarcófago de mármore<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
-| `surv:grave_top_sculpt_mrb_1` | 1x Escultura de mármore<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
-| `surv:grave_top_sculpt_mrb_2` | 1x Escultura de mármore II<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
-| `surv:grave_top_sculpt_mrb_5` | 1x Escultura de mármore VI<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 120 azul |
-| `surv:grave_top_sculpt_stn_1` | 1x Escultura em pedra<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 50 azul |
-| `surv:grave_top_sculpt_stn_2` | 1x Escultura em pedra II<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 50 azul |
-| `surv:grave_top_sculpt_stn_5` | 1x Escultura de pedra VI<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
-| `surv:grave_top_stella_mrb_1` | 1x Base de mármore<br>8x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 10.0 | 90 azul |
-| `surv:grave_top_stella_stn_1` | 1x Base de pedra<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 30 azul |
-| `surv:grave_top_stn_cross_1` | 1x Cruz de pedra<br>3x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
-| `surv:grave_top_stn_cross_2` | 1x Cruz de pedra II<br>3x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
-| `surv:grave_top_stn_plate_1` | 1x Lápide<br>2x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 20 azul |
-| `surv:grave_top_stn_plate_2` | 1x Lápide II<br>3x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
-| `surv:grave_top_wd_cross_1` | 1x Cruz de madeira<br>2x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 20 azul |
-| `surv:grave_top_wd_tab_1` | 1x Marcador de madeira<br>1x faith | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 10 azul |
-| `surv:hammer_0` | 1x Martelo enferrujado<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:hammer_2` | 1x Martelo de ferro<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
-| `surv:hamp_crop` | 1x hamp_crop<br>4x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
-| `surv:hamp_seed` | 1x hamp_seed<br>4x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
-| `surv:heart` | 1x heart<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 50 azul |
-| `surv:heart_dark` | 1x Coração sombrio<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 2.0 | 100 azul |
-| `surv:hiccup_grass` | 1x Capim-soluço<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:honey` | 1x Mel<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:hop_crop` | 1x hop_crop<br>4x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
-| `surv:hop_seed` | 1x hop_seed<br>4x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
-| `surv:incense_1` | 1x Incenso<br>1x faith | — | 2.0 | 5.0 | 5 vermelho 15 azul |
-| `surv:incense_2` | 1x Incenso II<br>2x faith | — | 2.0 | 5.0 | 15 vermelho 45 azul |
-| `surv:ingot_gold` | 1x Lingote de ouro<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:ingot_metal` | 1x Lingote de ferro<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho 10 verde |
-| `surv:ingot_silver` | 1x Lingote de prata<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:ingot_steel` | 1x Lingote de aço<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:intestine` | 1x intestine<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 50 azul |
-| `surv:intestine_dark` | 1x Intestinos sombrios<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 2.0 | 100 azul |
-| `surv:jelly_slug` | 1x Geleia verde<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:jelly_slug_black` | 1x Geleia preta<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:jelly_slug_blue` | 1x Gelatina verde<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:jelly_slug_orange` | 1x Gelatina laranja<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:jewelry_detail_gold` | 1x Detalhes de joias de ouro<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
-| `surv:jewelry_detail_silver` | 1x Detalhes de joias de prata<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:grapes_seed` | 1x grapes_seed<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
+| `surv:graphite` | 1x Grafite<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:grave_bot_mrb_1` | 1x Cerca de mármore de túmulo<br>7x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 80 azul |
+| `surv:grave_bot_mrb_2` | 1x Cerca de mármore de túmulo II<br>8x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 10.0 | 90 azul |
+| `surv:grave_bot_mrb_8` | 1x Cerca de mármore de túmulo VIII<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 120 azul |
+| `surv:grave_bot_stn_1` | 1x Cerca de pedra de túmulo<br>3x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
+| `surv:grave_bot_stn_2` | 1x Cerca de pedra de túmulo II<br>3x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
+| `surv:grave_bot_stn_8` | 1x Cerca de pedra de túmulo VIII<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
+| `surv:grave_bot_wd_1` | 1x Cerca de madeira de túmulo<br>2x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 20 azul |
+| `surv:grave_top_mrb_cross_1` | 1x Cruz de mármore<br>7x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 80 azul |
+| `surv:grave_top_mrb_cross_2` | 1x Cruz de mármore II<br>8x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 10.0 | 90 azul |
+| `surv:grave_top_sarcofag_mrb_1` | 1x Sarcófago de mármore<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
+| `surv:grave_top_sculpt_mrb_1` | 1x Escultura de mármore<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
+| `surv:grave_top_sculpt_mrb_2` | 1x Escultura de mármore II<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
+| `surv:grave_top_sculpt_mrb_5` | 1x Escultura de mármore VI<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 120 azul |
+| `surv:grave_top_sculpt_stn_1` | 1x Escultura em pedra<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 50 azul |
+| `surv:grave_top_sculpt_stn_2` | 1x Escultura em pedra II<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 50 azul |
+| `surv:grave_top_sculpt_stn_5` | 1x Escultura de pedra VI<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | 100 azul |
+| `surv:grave_top_stella_mrb_1` | 1x Base de mármore<br>8x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 10.0 | 90 azul |
+| `surv:grave_top_stella_stn_1` | 1x Base de pedra<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 2.0 | 5.0 | 30 azul |
+| `surv:grave_top_stn_cross_1` | 1x Cruz de pedra<br>3x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
+| `surv:grave_top_stn_cross_2` | 1x Cruz de pedra II<br>3x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
+| `surv:grave_top_stn_plate_1` | 1x Lápide<br>2x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 20 azul |
+| `surv:grave_top_stn_plate_2` | 1x Lápide II<br>3x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 30 azul |
+| `surv:grave_top_wd_cross_1` | 1x Cruz de madeira<br>2x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 20 azul |
+| `surv:grave_top_wd_tab_1` | 1x Marcador de madeira<br>1x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 5.0 | 10 azul |
+| `surv:hammer_0` | 1x Martelo enferrujado<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:hammer_2` | 1x Martelo de ferro<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:hamp_crop` | 1x hamp_crop<br>4x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
+| `surv:hamp_seed` | 1x hamp_seed<br>4x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
+| `surv:heart` | 1x Coração<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 50 azul |
+| `surv:heart_dark` | 1x Coração sombrio<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 2.0 | 100 azul |
+| `surv:hiccup_grass` | 1x Capim-soluço<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:honey` | 1x Mel<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:hop_crop` | 1x hop_crop<br>4x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
+| `surv:hop_seed` | 1x hop_seed<br>4x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 40 verde |
+| `surv:incense_1` | 1x Incenso<br>1x Fé | — | 2.0 | 5.0 | 5 vermelho 15 azul |
+| `surv:incense_2` | 1x Incenso II<br>2x Fé | — | 2.0 | 5.0 | 15 vermelho 45 azul |
+| `surv:ingot_gold` | 1x Lingote de ouro<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:ingot_metal` | 1x Lingote de ferro<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho 10 verde |
+| `surv:ingot_silver` | 1x Lingote de prata<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:ingot_steel` | 1x Lingote de aço<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:intestine` | 1x Intestinos<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 50 azul |
+| `surv:intestine_dark` | 1x Intestinos sombrios<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 2.0 | 100 azul |
+| `surv:jelly_slug` | 1x Geleia verde<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:jelly_slug_black` | 1x Geleia preta<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:jelly_slug_blue` | 1x Gelatina verde<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:jelly_slug_orange` | 1x Gelatina laranja<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:jewelry_detail_gold` | 1x Detalhes de joias de ouro<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:jewelry_detail_silver` | 1x Detalhes de joias de prata<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
 | `surv:lense` | 1x Lente | — | 0.0 | 0.0 | — |
-| `surv:lentils_crop` | 1x Lentilha<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
-| `surv:lentils_seed` | 1x Semente de lentilha<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
-| `surv:lifestone` | 1x Calcário<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:maggot` | 1x Larva<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:marble_plate_1` | 1x Pedaço de mármore<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:marble_plate_2` | 1x Tijolo polido de mármore<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:marble_plate_3` | 1x marble_plate_3<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
-| `surv:moth` | 1x Mariposa<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:nails` | 1x Pregos<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:nori` | 1x Nori<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:lentils_crop` | 1x Lentilha<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
+| `surv:lentils_seed` | 1x Semente de lentilha<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
+| `surv:lifestone` | 1x Calcário<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:maggot` | 1x Larva<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:marble_plate_1` | 1x Pedaço de mármore<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:marble_plate_2` | 1x Tijolo polido de mármore<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:marble_plate_3` | 1x Pedaço de mármore entalhado<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
+| `surv:moth` | 1x Mariposa<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:nails` | 1x Pregos<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:nori` | 1x Nori<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
 | `surv:notes:1` | 1x Anotações | — | 0.0 | 0.0 | — |
 | `surv:notes:2` | 1x Anotações | — | 0.0 | 0.0 | — |
 | `surv:notes:3` | 1x Anotações | — | 0.0 | 0.0 | — |
-| `surv:nugget_gold` | 1x Pepita de ouro<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:nugget_silver` | 1x Pepita de prata<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
-| `surv:onion_crop` | 1x onion_crop<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
-| `surv:onion_seed` | 1x onion_seed<br>2x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
+| `surv:nugget_gold` | 1x Pepita de ouro<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:nugget_silver` | 1x Pepita de prata<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 verde |
+| `surv:onion_crop` | 1x onion_crop<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
+| `surv:onion_seed` | 1x onion_seed<br>2x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 20 verde |
 | `surv:paper_clean` | 1x Papel vazio | — | 0.0 | 0.0 | — |
-| `surv:peat` | 1x Turfa<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:pen:ink_pen` | 1x Caneta e tinta<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho 10 verde |
-| `surv:pickaxe_0` | 1x Picareta enferrujada<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:pickaxe_1` | 1x Picareta I<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:pickaxe_2` | 1x Picareta II<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
-| `surv:polishing_paste` | 1x Pasta de polimento<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:pumpkin_crop` | 1x pumpkin_crop<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
-| `surv:pumpkin_seed` | 1x pumpkin_seed<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
-| `surv:pyrite` | 1x Pirita<br>7x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 70 verde |
-| `surv:quest_key_astrologer` | 1x Chave do coveiro<br>1x Instruções para a chave<br>2x faith | 1x Chave ativa | 0.0 | 0.0 | 10 azul |
-| `surv:rope_hemp` | 1x Corda de cânhamo<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:sack_clock_gold` | 1x Reforço de fertilizante II<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
-| `surv:sack_clock_silver` | 1x Reforço de fertilizante I<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
-| `surv:sack_star_gold` | 1x Fertilizante de qualidade II<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
-| `surv:sack_star_silver` | 1x Fertilizante de qualidade I<br>3x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
-| `surv:sand_river` | 1x Areia do rio<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:shovel_0` | 1x Pá enferrujada<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:shovel_1` | 1x Pá I<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:shovel_2` | 1x Pá II<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
-| `surv:shr_agaric` | 1x Cogumelo vermelho<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 verde |
-| `surv:shr_boletus` | 1x Cogumelo comestível<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:skin` | 1x Pele<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | 20 azul |
-| `surv:skin_pig` | 1x Couro de porco<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:skroll_skin_pig` | 1x Papel de couro de porco<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho 10 verde |
-| `surv:skull` | 1x Caveira<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
-| `surv:slime` | 1x Meleca<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:spider_web` | 1x Teia de aranha<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:spike_1` | 1x Cunha de madeira<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
-| `surv:stone_plate_1` | 1x Pedaço de pedra<br>2x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
-| `surv:stone_plate_2` | 1x Tijolo polido de pedra<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:stone_plate_3` | 1x Pedaço de pedra esculpida<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:sulfur` | 1x Enxofre<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 verde |
-| `surv:sword_0` | 1x Espada enferrujada<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
-| `surv:sword_1` | 1x Espada<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:sword_damask_gem` | 1x Espada damascena com pedra preciosa<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
-| `surv:sword_steel_gem` | 1x Espada de aço com pedra preciosa<br>10x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
-| `surv:wheat_crop` | 1x Trigo<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:wheat_seed` | 1x Semente de trigo<br>1x faith | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
-| `surv:wood1` | 1x Pedaço de madeira<br>1x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
-| `surv:wood_balk_1` | 1x Viga de madeira<br>5x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
-| `surv:wood_constr_1` | 1x Vigamento<br>7x faith | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 100 vermelho |
-| `surv:wooden_plank` | 1x Placa de madeira<br>3x faith | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
-| `surv:zombie_juise` | 1x Suco de zumbi<br>3x faith | 1*Ppar("p_naturalist")x História | 2.0 | 10.0 | 10 azul 10 verde |
+| `surv:peat` | 1x Turfa<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:pen:ink_pen` | 1x Caneta e tinta<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho 10 verde |
+| `surv:pickaxe_0` | 1x Picareta enferrujada<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:pickaxe_1` | 1x Picareta I<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:pickaxe_2` | 1x Picareta II<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:polishing_paste` | 1x Pasta de polimento<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:pumpkin_crop` | 1x pumpkin_crop<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
+| `surv:pumpkin_seed` | 1x pumpkin_seed<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
+| `surv:pyrite` | 1x Pirita<br>7x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 70 verde |
+| `surv:quest_key_astrologer` | 1x Chave do coveiro<br>1x Instruções para a chave<br>2x Fé | 1x Chave ativa | 0.0 | 0.0 | 10 azul |
+| `surv:rope_hemp` | 1x Corda de cânhamo<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:sack_clock_gold` | 1x Reforço de fertilizante II<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
+| `surv:sack_clock_silver` | 1x Reforço de fertilizante I<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
+| `surv:sack_star_gold` | 1x Fertilizante de qualidade II<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 1.0 | 0.0 | None azul 50 verde |
+| `surv:sack_star_silver` | 1x Fertilizante de qualidade I<br>3x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 30 verde |
+| `surv:sand_river` | 1x Areia do rio<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:shovel_0` | 1x Pá enferrujada<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:shovel_1` | 1x Pá I<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:shovel_2` | 1x Pá II<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:shr_agaric` | 1x Cogumelo vermelho<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 verde |
+| `surv:shr_boletus` | 1x Cogumelo comestível<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:skin` | 1x Pele<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 1.0 | 20 azul |
+| `surv:skin_pig` | 1x Couro de porco<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:skroll_skin_pig` | 1x Papel de couro de porco<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho 10 verde |
+| `surv:skull` | 1x Caveira<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | 20 azul |
+| `surv:slime` | 1x Meleca<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:spider_web` | 1x Teia de aranha<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:spike_1` | 1x Cunha de madeira<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
+| `surv:stone_plate_1` | 1x Pedaço de pedra<br>2x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 20 vermelho |
+| `surv:stone_plate_2` | 1x Tijolo polido de pedra<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:stone_plate_3` | 1x Pedaço de pedra esculpida<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:sulfur` | 1x Enxofre<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 verde |
+| `surv:sword_0` | 1x Espada enferrujada<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 vermelho |
+| `surv:sword_1` | 1x Espada<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:sword_damask_gem` | 1x Espada damascena com pedra preciosa<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 150 vermelho |
+| `surv:sword_steel_gem` | 1x Espada de aço com pedra preciosa<br>10x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa<br>1*Ppar("p_naturalist")x História brilhante | 10.0 | 15.0 | None azul 100 vermelho |
+| `surv:wheat_crop` | 1x Trigo<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:wheat_seed` | 1x Semente de trigo<br>1x Fé | 1*Ppar("p_naturalist")x História | 1.0 | 0.0 | None azul 10 verde |
+| `surv:wood1` | 1x Pedaço de madeira<br>1x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 10 verde |
+| `surv:wood_balk_1` | 1x Viga de madeira<br>5x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 50 vermelho |
+| `surv:wood_constr_1` | 1x Vigamento<br>7x Fé | 1*Ppar("p_naturalist")x História<br>1*Ppar("p_naturalist")x História boa | 3.0 | 5.0 | None azul 100 vermelho |
+| `surv:wooden_plank` | 1x Placa de madeira<br>3x Fé | 1*Ppar("p_naturalist")x História | 3.0 | 5.0 | None azul 30 vermelho |
+| `surv:zombie_juise` | 1x Suco de zumbi<br>3x Fé | 1*Ppar("p_naturalist")x História | 2.0 | 10.0 | 10 azul 10 verde |
 
 ## Bigorna de madeira — `mf_anvil_1`
 
@@ -2387,13 +2387,13 @@
 | `oven_fuel_firewood` | 1x Lenha | — | 0.0 | 0.0 | — |
 | `oven_fuel_stick` | 10x Vareta de madeira | — | 0.0 | 0.0 | — |
 
-## mf_crematorium_burning — `mf_crematorium_burning`
+## Parede do Crematório — `mf_crematorium_burning`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `crematorium_corp_burning` | — | 3x Ash<br>2x Sal<br>1x Certidão de sepultamento | 20.0 | 0.0 | — |
 
-## mf_crematorium_corp — `mf_crematorium_corp`
+## Parede do Crematório — `mf_crematorium_corp`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -2419,7 +2419,7 @@
 | `alch:mf_distcube_2_clay:goo_violet=4` | 4x Gosma do caos | 1+Ppar("p_scientist")x Extrato do caos | 90.0 | 0.0 | — |
 | `alch:mf_distcube_2_clay:goo_yellow=4` | 4x Gosma da vida | 1+Ppar("p_scientist")x Extrato da vida | 90.0 | 0.0 | — |
 | `alch:mf_distcube_2_clay:hamp_crop` | 1x hamp_crop | 2+Ppar("p_scientist")x Extrato de aceleração | 90.0 | 0.0 | — |
-| `alch:mf_distcube_2_clay:heart` | 1x heart | 2+Ppar("p_scientist")x Extrato da vida | 90.0 | 0.0 | — |
+| `alch:mf_distcube_2_clay:heart` | 1x Coração | 2+Ppar("p_scientist")x Extrato da vida | 90.0 | 0.0 | — |
 | `alch:mf_distcube_2_clay:heart_dark` | 1x Coração sombrio | 2+Ppar("p_scientist")x Extrato da morte | 90.0 | 0.0 | — |
 | `alch:mf_distcube_2_clay:jelly_slug` | 1x Geleia verde | 2+Ppar("p_scientist")x Extrato da ordem | 90.0 | 0.0 | — |
 | `alch:mf_distcube_2_clay:jelly_slug_black` | 1x Geleia preta | 2+Ppar("p_scientist")x Extrato da morte | 90.0 | 0.0 | — |
@@ -2451,7 +2451,7 @@
 | `alch:mf_distcube_2_cuprum:goo_violet=4` | 4x Gosma do caos | 1+Ppar("p_scientist")x Extrato do caos | 60.0 | 0.0 | — |
 | `alch:mf_distcube_2_cuprum:goo_yellow=4` | 4x Gosma da vida | 1+Ppar("p_scientist")x Extrato da vida | 60.0 | 0.0 | — |
 | `alch:mf_distcube_2_cuprum:hamp_crop` | 1x hamp_crop | 3+Ppar("p_scientist")x Extrato de aceleração | 60.0 | 0.0 | — |
-| `alch:mf_distcube_2_cuprum:heart` | 1x heart | 3+Ppar("p_scientist")x Extrato da vida | 60.0 | 0.0 | — |
+| `alch:mf_distcube_2_cuprum:heart` | 1x Coração | 3+Ppar("p_scientist")x Extrato da vida | 60.0 | 0.0 | — |
 | `alch:mf_distcube_2_cuprum:heart_dark` | 1x Coração sombrio | 3+Ppar("p_scientist")x Extrato da morte | 60.0 | 0.0 | — |
 | `alch:mf_distcube_2_cuprum:jelly_slug` | 1x Geleia verde | 3+Ppar("p_scientist")x Extrato da ordem | 60.0 | 0.0 | — |
 | `alch:mf_distcube_2_cuprum:jelly_slug_black` | 1x Geleia preta | 3+Ppar("p_scientist")x Extrato da morte | 60.0 | 0.0 | — |
@@ -2488,8 +2488,8 @@
 | `glass_0` | 2x Areia do rio<br>1x Água | 2x Vidro | 60.0 | 0.0 | 1 vermelho |
 | `glass_broken_0` | 1x Vidro quebrado | 1x Vidro | 30.0 | 0.0 | 1 vermelho |
 | `ingot_from_scrap` | 10x Sucata de metal | 1x Lingote de ferro | 40.0 | 0.0 | 1 vermelho |
-| `ingot_metal` | 1x 1h_ore_metal | 1x Lingote de ferro | 150.0 | 0.0 | 1 vermelho |
-| `ingot_metal_huge` | 2x 1h_ore_metal | 2x Lingote de ferro | 250.0 | 0.0 | 1 vermelho |
+| `ingot_metal` | 1x Minério de ferro | 1x Lingote de ferro | 150.0 | 0.0 | 1 vermelho |
+| `ingot_metal_huge` | 2x Minério de ferro | 2x Lingote de ferro | 250.0 | 0.0 | 1 vermelho |
 | `mf_furnace_0_fuel_coal` | 10x Carvão | — | 0.0 | 0.0 | — |
 | `mf_furnace_0_fuel_firewood` | 10x Lenha | — | 0.0 | 0.0 | — |
 | `mf_furnace_0_to_1` | 6x Pedaço de pedra<br>2x Peças de ferro complexas<br>2x Papel de couro de porco | — | 5.0 | 50.0 | — |
@@ -2509,8 +2509,8 @@
 | `graphite` | 5x Carvão | 1x Grafite | 50.0 | 0.0 | 1 vermelho |
 | `ingot_from_scrap_2` | 10x Sucata de metal | 1x Lingote de ferro | 35.0 | 0.0 | 1 vermelho |
 | `ingot_gold` | 2x Pepita de ouro | 1x Lingote de ouro | 120.0 | 0.0 | 5 vermelho |
-| `ingot_metal_1` | 2x 1h_ore_metal | 2x Lingote de ferro | 150.0 | 0.0 | 1 vermelho |
-| `ingot_metal_1_huge` | 4x 1h_ore_metal | 4x Lingote de ferro | 250.0 | 0.0 | 1 vermelho |
+| `ingot_metal_1` | 2x Minério de ferro | 2x Lingote de ferro | 150.0 | 0.0 | 1 vermelho |
+| `ingot_metal_1_huge` | 4x Minério de ferro | 4x Lingote de ferro | 250.0 | 0.0 | 1 vermelho |
 | `ingot_silver` | 2x Pepita de prata | 1x Lingote de prata | 120.0 | 0.0 | 3 vermelho |
 | `ingot_steel` | 2x Lingote de ferro<br>1x Grafite | 2x Lingote de aço | 210.0 | 0.0 | 2 vermelho |
 | `mf_furnace_1_fuel_coal` | 10x Carvão | — | 0.0 | 0.0 | — |
@@ -2533,8 +2533,8 @@
 | `graphite_2` | 5x Carvão | 2x Grafite | 30.0 | 0.0 | 1 vermelho |
 | `ingot_from_scrap_3` | 10x Sucata de metal | 1x Lingote de ferro | 30.0 | 0.0 | 1 vermelho |
 | `ingot_gold_2` | 2x Pepita de ouro | 1x Lingote de ouro | 90.0 | 0.0 | 5 vermelho |
-| `ingot_metal_2` | 3x 1h_ore_metal | 3x Lingote de ferro | 120.0 | 0.0 | 1 vermelho |
-| `ingot_metal_2_huge` | 6x 1h_ore_metal | 6x Lingote de ferro | 200.0 | 0.0 | 1 vermelho |
+| `ingot_metal_2` | 3x Minério de ferro | 3x Lingote de ferro | 120.0 | 0.0 | 1 vermelho |
+| `ingot_metal_2_huge` | 6x Minério de ferro | 6x Lingote de ferro | 200.0 | 0.0 | 1 vermelho |
 | `ingot_silver_2` | 2x Pepita de prata | 1x Lingote de prata | 90.0 | 0.0 | 3 vermelho |
 | `ingot_steel_2` | 2x Lingote de ferro<br>1x Grafite | 2x Lingote de aço | 180.0 | 0.0 | 3 vermelho |
 | `mf_furnace_2_fuel_coal` | 10x Carvão | — | 0.0 | 0.0 | — |
@@ -2565,7 +2565,7 @@
 | `destroy_grave_top_stn_plate_1` | 1x Lápide | 1x Pedaço de pedra | 2.0 | 10.0 | — |
 | `grave_bot_stn_1` | 2x Pedaço de pedra | 1x Cerca de pedra de túmulo | 3.0 | 20.0 | 2 vermelho 5 azul |
 | `grave_top_stn_plate_1` | 2x Pedaço de pedra | 1x Lápide | 3.0 | 20.0 | 5 vermelho |
-| `iron_to_small` | 1x ore_metal | 5x 1h_ore_metal<br>1x Pepita de ouro<br>2x Pepita de prata | 2.0 | 10.0 | 1 vermelho 1 verde |
+| `iron_to_small` | 1x Minério de ferro | 5x Minério de ferro<br>1x Pepita de ouro<br>2x Pepita de prata | 2.0 | 10.0 | 1 vermelho 1 verde |
 | `marble_plate_1` | 1x Mármore<br>2x Cunha de madeira | 3x Pedaço de mármore | 3.0 | 15.0 | 2 vermelho 1 verde 1 azul |
 | `marble_plate_2` | 1x Cinzel de ferro<br>1x Pedaço de mármore | 1x Tijolo polido de mármore | 3.0 | 10.0 | 2 vermelho 1 verde 1 azul |
 | `repair_mrb` | 1x Tijolo polido de mármore<br>2x Peças de ferro complexas<br>1x Argila | 4x Kit de conserto de mármore | 2.0 | 10.0 | 2 vermelho 1 verde |
@@ -2610,8 +2610,8 @@
 | `grave_top_mrb_cross_1` | 1x Tijolo polido de mármore<br>1x Pedaço de mármore<br>2x Peças de ferro complexas | 1x Cruz de mármore | 3.0 | 15.0 | 5 vermelho |
 | `grave_top_mrb_cross_2` | 1x Tijolo polido de mármore<br>1x Pedaço de mármore entalhado<br>2x Peças de ferro complexas | 1x Cruz de mármore II | 2.0 | 20.0 | 5 vermelho |
 | `grave_top_sarcofag_mrb_1` | 4x Tijolo polido de mármore<br>1x Pedaço de mármore entalhado<br>3x Peças de ferro complexas | 1x Sarcófago de mármore | 3.0 | 25.0 | 5 vermelho |
-| `grave_top_sculpt_mrb_1` | 1x Pedaço de mármore entalhado<br>2x Peças de ferro complexas<br>5x faith | 1x Escultura de mármore | 3.0 | 25.0 | 5 vermelho 15 azul |
-| `grave_top_sculpt_mrb_2` | 1x Pedaço de mármore entalhado<br>2x Peças de ferro complexas<br>5x faith | 1x Escultura de mármore II | 3.0 | 25.0 | 5 vermelho 15 azul |
+| `grave_top_sculpt_mrb_1` | 1x Pedaço de mármore entalhado<br>2x Peças de ferro complexas<br>5x Fé | 1x Escultura de mármore | 3.0 | 25.0 | 5 vermelho 15 azul |
+| `grave_top_sculpt_mrb_2` | 1x Pedaço de mármore entalhado<br>2x Peças de ferro complexas<br>5x Fé | 1x Escultura de mármore II | 3.0 | 25.0 | 5 vermelho 15 azul |
 | `grave_top_sculpt_mrb_4` | 3x Tijolo polido de mármore<br>2x Pedaço de mármore entalhado<br>2x Peças de ferro complexas | 1x Escultura de mármore V | 3.0 | 30.0 | 15 vermelho 15 azul |
 | `grave_top_sculpt_mrb_5` | 3x Tijolo polido de mármore<br>3x Pedaço de mármore entalhado<br>2x Peças de ferro complexas | 1x Escultura de mármore VI | 3.0 | 30.0 | 17 vermelho 15 azul |
 | `grave_top_sculpt_stn_1` | 1x Tijolo polido de pedra<br>1x Pedaço de pedra esculpida<br>2x Peças de ferro complexas | 1x Escultura em pedra | 3.0 | 20.0 | 5 vermelho 10 azul |
@@ -2626,23 +2626,23 @@
 | `grave_top_stn_plate_2` | 3x Pedaço de pedra | 1x Lápide II | 2.0 | 10.0 | 5 vermelho 5 azul |
 | `grave_top_womansaver_mrb_1` | 3x Tijolo polido de mármore<br>2x Pedaço de mármore entalhado<br>1x Detalhes de joias de ouro | 1x Escultura de mármore III | 3.0 | 30.0 | 10 vermelho 15 azul |
 | `grave_top_womansaver_stn_1` | 2x Tijolo polido de pedra<br>2x Pedaço de pedra esculpida<br>2x Peças de ferro complexas | 1x Escultura de pedra III | 2.0 | 20.0 | 10 vermelho 15 azul |
-| `iron_to_small_2` | 1x ore_metal | 5x 1h_ore_metal<br>1x Pepita de ouro<br>2x Pepita de prata | 3.0 | 10.0 | 1 vermelho 1 verde |
+| `iron_to_small_2` | 1x Minério de ferro | 5x Minério de ferro<br>1x Pepita de ouro<br>2x Pepita de prata | 3.0 | 10.0 | 1 vermelho 1 verde |
 | `marble_plate_1_2` | 1x Mármore<br>2x Cunha de madeira | 3x Pedaço de mármore | 3.0 | 10.0 | 2 vermelho 1 verde 1 azul |
 | `marble_plate_2_2` | 1x Cinzel de ferro<br>1x Pedaço de mármore | 1x Tijolo polido de mármore | 2.0 | 10.0 | 2 vermelho 1 verde 1 azul |
-| `marble_plate_3` | 1x chisel:chisel_2<br>1x Tijolo polido de mármore<br>5x faith | 1x marble_plate_3 | 3.0 | 20.0 | 3 vermelho 1 verde 2 azul |
+| `marble_plate_3` | 1x chisel:chisel_2<br>1x Tijolo polido de mármore<br>5x Fé | 1x Pedaço de mármore entalhado | 3.0 | 20.0 | 3 vermelho 1 verde 2 azul |
 | `repair_mrb_2` | 1x Tijolo polido de mármore<br>2x Peças de ferro complexas<br>1x Argila | 4x Kit de conserto de mármore | 2.0 | 10.0 | 2 vermelho 1 verde |
 | `repair_stn_2` | 1x Pedaço de pedra<br>2x Peças simples de ferro<br>1x Argila | 4x Kit de conserto de pedra | 2.0 | 8.0 | 1 vermelho 1 verde |
 | `stone_plate_1_2` | 1x Pedra | 6+Ppar("p_mason")*2x Pedaço de pedra | 4.0 | 15.0 | 3 vermelho 1 verde |
 | `stone_plate_2_3` | 1x Pasta de polimento<br>1x Pedaço de pedra | 1x Tijolo polido de pedra | 2.0 | 10.0 | 3 vermelho 1 verde 1 azul |
 | `stone_plate_2_4` | 1x Cinzel de ferro<br>1x Pedaço de pedra | 1x Tijolo polido de pedra | 2.0 | 10.0 | 3 vermelho 1 verde 1 azul |
-| `stone_plate_3` | 1x Cinzel de ferro<br>1x Tijolo polido de pedra<br>3x faith | 1+Ppar("p_mason")x Pedaço de pedra esculpida | 3.0 | 30-Ppar("p_mason")*15 | 2 vermelho 1 verde |
+| `stone_plate_3` | 1x Cinzel de ferro<br>1x Tijolo polido de pedra<br>3x Fé | 1+Ppar("p_mason")x Pedaço de pedra esculpida | 3.0 | 30-Ppar("p_mason")*15 | 2 vermelho 1 verde |
 
 ## Mesa de joias — `mf_jewelry`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `bijouterie_gold` | 1x Detalhes de joias de ouro<br>1x Diamante lapidado<br>2x faith | 1x Joias | 3.0 | 15.0 | 5 vermelho 1 azul |
-| `jewelry_detail_gold` | 1x Lingote de ouro<br>1x Peças de aço<br>2x faith | 1x Detalhes de joias de ouro | 15.0 | 15.0 | 3 vermelho 1 azul |
+| `bijouterie_gold` | 1x Detalhes de joias de ouro<br>1x Diamante lapidado<br>2x Fé | 1x Joias | 3.0 | 15.0 | 5 vermelho 1 azul |
+| `jewelry_detail_gold` | 1x Lingote de ouro<br>1x Peças de aço<br>2x Fé | 1x Detalhes de joias de ouro | 15.0 | 15.0 | 3 vermelho 1 azul |
 | `jewelry_detail_silver` | 1x Lingote de prata<br>1x Peças de ferro complexas | 1x Detalhes de joias de prata | 15.0 | 15.0 | 3 vermelho 1 azul |
 | `sword_damask_gem` | 1x Espada de aço<br>1x Diamante lapidado<br>3x Detalhes de joias de ouro | 1x Espada damascena com pedra preciosa | 3.0 | 30.0 | 3 vermelho 1 azul |
 | `sword_steel_gem` | 1x Espada de aço<br>1x Detalhes de joias de ouro | 1x Espada de aço com pedra preciosa | 3.0 | 30.0 | 3 vermelho 1 azul |
@@ -2671,13 +2671,13 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `ex:mf_preparation_1:blood` | — | 1x Sangue | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_1:bone` | — | 1x Osso | 3.0 | 10.0 | 1 verde |
-| `ex:mf_preparation_1:brain` | — | 1x brain | 3.0 | 10.0 | 1 verde |
+| `ex:mf_preparation_1:brain` | — | 1x Cérebro | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_1:brain_dark` | — | 1x Cérebro sombrio | 3.0 | 10.0 | 1 verde 5 azul |
 | `ex:mf_preparation_1:fat` | — | 1x Gordura | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_1:flesh` | — | 1x Carne | 3.0 | 10.0 | 1 verde |
-| `ex:mf_preparation_1:heart` | — | 1x heart | 3.0 | 10.0 | 1 verde |
+| `ex:mf_preparation_1:heart` | — | 1x Coração | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_1:heart_dark` | — | 1x Coração sombrio | 3.0 | 10.0 | 1 verde 5 azul |
-| `ex:mf_preparation_1:intestine` | — | 1x intestine | 3.0 | 10.0 | 1 verde |
+| `ex:mf_preparation_1:intestine` | — | 1x Intestinos | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_1:intestine_dark` | — | 1x Intestinos sombrios | 3.0 | 10.0 | 1 verde 5 azul |
 | `ex:mf_preparation_1:lungs` | — | 1x lungs | 3.0 | 10.0 | 5 azul |
 | `ex:mf_preparation_1:lungs_dark` | — | 1x Pulmões sombrios | 3.0 | 10.0 | 5 azul |
@@ -2688,13 +2688,13 @@
 | `ex:mf_preparation_1:tr_bellas_ring` | — | 1x Anel da sacerdotisa | 3.0 | 10.0 | — |
 | `insert:mf_preparation_1:blood` | 1x Sangue | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_1:bone` | 1x Osso | — | 3.0 | 10.0 | 1 verde |
-| `insert:mf_preparation_1:brain` | 1x brain | — | 3.0 | 10.0 | 1 verde 1 azul |
+| `insert:mf_preparation_1:brain` | 1x Cérebro | — | 3.0 | 10.0 | 1 verde 1 azul |
 | `insert:mf_preparation_1:brain_dark` | 1x Cérebro sombrio | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_1:fat` | 1x Gordura | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_1:flesh` | 1x Carne | — | 3.0 | 10.0 | 1 verde |
-| `insert:mf_preparation_1:heart` | 1x heart | — | 3.0 | 10.0 | 1 verde 1 azul |
+| `insert:mf_preparation_1:heart` | 1x Coração | — | 3.0 | 10.0 | 1 verde 1 azul |
 | `insert:mf_preparation_1:heart_dark` | 1x Coração sombrio | — | 3.0 | 10.0 | 1 verde |
-| `insert:mf_preparation_1:intestine` | 1x intestine | — | 3.0 | 10.0 | 1 verde 1 azul |
+| `insert:mf_preparation_1:intestine` | 1x Intestinos | — | 3.0 | 10.0 | 1 verde 1 azul |
 | `insert:mf_preparation_1:intestine_dark` | 1x Intestinos sombrios | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_1:skin` | 1x Pele | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_1:skull` | 1x Caveira | — | 3.0 | 10.0 | 1 verde |
@@ -2705,13 +2705,13 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `ex:mf_preparation_2:blood` | — | 1x Sangue | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_2:bone` | — | 1x Osso | 3.0 | 10.0 | 1 verde |
-| `ex:mf_preparation_2:brain` | — | 1x brain | 3.0 | 10.0 | 1 verde |
+| `ex:mf_preparation_2:brain` | — | 1x Cérebro | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_2:brain_dark` | — | 1x Cérebro sombrio | 3.0 | 10.0 | 1 verde 5 azul |
 | `ex:mf_preparation_2:fat` | — | 1x Gordura | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_2:flesh` | — | 1x Carne | 3.0 | 10.0 | 1 verde |
-| `ex:mf_preparation_2:heart` | — | 1x heart | 3.0 | 10.0 | 1 verde |
+| `ex:mf_preparation_2:heart` | — | 1x Coração | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_2:heart_dark` | — | 1x Coração sombrio | 3.0 | 10.0 | 1 verde 5 azul |
-| `ex:mf_preparation_2:intestine` | — | 1x intestine | 3.0 | 10.0 | 1 verde |
+| `ex:mf_preparation_2:intestine` | — | 1x Intestinos | 3.0 | 10.0 | 1 verde |
 | `ex:mf_preparation_2:intestine_dark` | — | 1x Intestinos sombrios | 3.0 | 10.0 | 1 verde 5 azul |
 | `ex:mf_preparation_2:lungs` | — | 1x lungs | 3.0 | 10.0 | 5 azul |
 | `ex:mf_preparation_2:lungs_dark` | — | 1x Pulmões sombrios | 3.0 | 10.0 | 5 azul |
@@ -2722,13 +2722,13 @@
 | `ex:mf_preparation_2:tr_bellas_ring` | — | 1x Anel da sacerdotisa | 3.0 | 10.0 | — |
 | `insert:mf_preparation_2:blood` | 1x Sangue | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_2:bone` | 1x Osso | — | 3.0 | 10.0 | 1 verde |
-| `insert:mf_preparation_2:brain` | 1x brain | — | 3.0 | 10.0 | 1 verde 1 azul |
+| `insert:mf_preparation_2:brain` | 1x Cérebro | — | 3.0 | 10.0 | 1 verde 1 azul |
 | `insert:mf_preparation_2:brain_dark` | 1x Cérebro sombrio | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_2:fat` | 1x Gordura | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_2:flesh` | 1x Carne | — | 3.0 | 10.0 | 1 verde |
-| `insert:mf_preparation_2:heart` | 1x heart | — | 3.0 | 10.0 | 1 verde 1 azul |
+| `insert:mf_preparation_2:heart` | 1x Coração | — | 3.0 | 10.0 | 1 verde 1 azul |
 | `insert:mf_preparation_2:heart_dark` | 1x Coração sombrio | — | 3.0 | 10.0 | 1 verde |
-| `insert:mf_preparation_2:intestine` | 1x intestine | — | 3.0 | 10.0 | 1 verde 1 azul |
+| `insert:mf_preparation_2:intestine` | 1x Intestinos | — | 3.0 | 10.0 | 1 verde 1 azul |
 | `insert:mf_preparation_2:intestine_dark` | 1x Intestinos sombrios | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_2:skin` | 1x Pele | — | 3.0 | 10.0 | 1 verde |
 | `insert:mf_preparation_2:skull` | 1x Caveira | — | 3.0 | 10.0 | 1 verde |
@@ -2746,7 +2746,7 @@
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `flyer_good_2` | 2x Papel vazio<br>1x Tinta | 10x Panfleto | 3.0 | 10.0 | 2 azul |
-| `printng_chapter` | 1x chapter<br>15x Papel vazio<br>1x Tinta | 5x chapter | 3.0 | 20.0 | 3 azul |
+| `printng_chapter` | 1x Capítulo<br>15x Papel vazio<br>1x Tinta | 5x Capítulo | 3.0 | 20.0 | 3 azul |
 | `printng_notes_2` | 1x Anotações<br>5x Papel vazio<br>1x Tinta | 5x Anotações | 3.0 | 20.0 | 3 azul |
 
 ## mf_pyre_burning — `mf_pyre_burning`
@@ -2761,7 +2761,7 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `pyre_burnt_remove` | — | — | 15.0 | 0.0 | — |
 
-## mf_saw_1 — `mf_saw_1`
+## Serra circular — `mf_saw_1`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -2837,7 +2837,7 @@
 | `armor_lamellar_1_2` | 4x Pele<br>6x Peças simples de ferro | 1x Armadura de ferro | 3.0 | 25.0 | 1 vermelho 1 azul |
 | `armor_lamellar_2` | 2x Vareta de madeira<br>5x Peças de ferro complexas | 1x Armadura de aço | 3.0 | 30.0 | 2 vermelho 1 azul |
 | `bartender_doll` | 4x Placa de madeira<br>4x Peças de ferro complexas<br>2x Viga de madeira | 1x Boneco barman | 5.0 | 25.0 | 5 vermelho 15 azul |
-| `carved_wood` | 1x chisel<br>1x Placa de madeira<br>2x faith | 1x carved_wood | 3.0 | 12.0 | 10 vermelho |
+| `carved_wood` | 1x chisel<br>1x Placa de madeira<br>2x Fé | 1x Madeira entalhada | 3.0 | 12.0 | 10 vermelho |
 | `chisel_1_2` | 4x Vareta de madeira<br>3x Peças simples de ferro | 1x Cinzel de ferro | 3.0 | 20.0 | 2 vermelho |
 | `chisel_2_2` | 2x Vareta de madeira<br>1x Peças de aço | 1x Cinzel de aço | 2.0 | 5.0 | 2 vermelho 1 azul |
 | `chisel_2_2a` | 2x Vareta de madeira<br>1x Peças de aço<br>1x Lente | 1x Cinzel | 2.0 | 5.0 | 2 vermelho 1 azul |
@@ -2845,11 +2845,11 @@
 | `grave_bot_wd_1_2` | 1x Placa de madeira | 1x Cerca de madeira de túmulo | 2.0 | 5.0 | 2 vermelho |
 | `grave_top_wd_cross_1_2` | 1x Placa de madeira<br>1x Pregos | 1x Cruz de madeira | 2.0 | 10.0 | 5 vermelho |
 | `grave_top_wd_tab_1_2` | 2x Tábua<br>1x Pregos | 1x Marcador de madeira | 2.0 | 5.0 | 3 vermelho |
-| `lense` | 2x Vidro<br>1x Pasta de polimento<br>2x faith | 4x Lente | 3.0 | 15.0 | 5 vermelho 2 azul |
+| `lense` | 2x Vidro<br>1x Pasta de polimento<br>2x Fé | 4x Lente | 3.0 | 15.0 | 5 vermelho 2 azul |
 | `polishing_paste_2` | 1x Areia do rio<br>1x Óleo<br>1x Potes de cerâmica | 1x Pasta de polimento | 2.0 | 5.0 | 1 vermelho 1 verde |
 | `repair_wdn_1` | 3x Tábua<br>1x Placa de madeira<br>2x Pregos | 4x Kit de conserto de madeira | 3.0 | 10.0 | 1 vermelho |
 | `wood_constr_1` | 1x Viga de madeira<br>2x Pregos<br>1x Peças de ferro complexas | 1x Vigamento | 3.0 | 15.0 | 5 vermelho |
-| `wood_magic_1` | 1x Placa de madeira<br>5x faith | 1x Prancha de madeira mágica | 5.0 | 20.0 | 5 vermelho 10 azul |
+| `wood_magic_1` | 1x Placa de madeira<br>5x Fé | 1x Prancha de madeira mágica | 5.0 | 20.0 | 5 vermelho 10 azul |
 | `wooden_plank_3` | 1x Tábua | 1x Placa de madeira | 3.0 | 4.0 | 1 vermelho |
 
 ## Cervejaria zumbi — `mf_zombie_brewing`
@@ -2874,12 +2874,12 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `repair_mill` | 5x Peças de ferro complexas<br>6x Placa de madeira<br>1x Papel com cálculos | — | 4.0 | 20.0 | — |
 
-## mine_zombie_bench — `mine_zombie_bench`
+## Mina zumbi — `mine_zombie_bench`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `mine_zombie_bench_coal_production` | — | 7x Carvão | 40.0 | 0.0 | — |
-| `mine_zombie_bench_iron_production` | — | 1x ore_metal | 60.0 | 0.0 | — |
+| `mine_zombie_bench_iron_production` | — | 1x Minério de ferro | 60.0 | 0.0 | — |
 
 ## Cabana na floresta — `mining_builddesk`
 
@@ -2943,7 +2943,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `pray_in_church` | — | 1x faith | 2.0 | 0.0 | — |
+| `pray_in_church` | — | 1x Fé | 2.0 | 0.0 | — |
 
 ## Forno — `oven`
 
@@ -2954,8 +2954,8 @@
 | `baked_kebab_7` | 5x Cogumelo comestível | 3x Cogumelos assados | 25.0 | 0.0 | 1 verde |
 | `baked_meat` | 1x Carne crua fatiada | 2x Carne cozida | 35.0 | 0.0 | 1 verde |
 | `baked_pumpkin` | 1x pumpkin_crop | 3x Abóbora assada | 40.0 | 0.0 | 1 verde |
-| `baked_salmon` | 1x Couve<br>1x fillet_fish:fillet_fish_red | 3x Salmão assado | 65.0 | 0.0 | 1 verde |
-| `beet_slice` | 2x beet_crop | 1x Fatias de beterraba | 35.0 | 0.0 | 1 verde |
+| `baked_salmon` | 1x Couve<br>1x Qualidade do filé de peixe | 3x Salmão assado | 65.0 | 0.0 | 1 verde |
+| `beet_slice` | 2x Beterraba | 1x Fatias de beterraba | 35.0 | 0.0 | 1 verde |
 | `berry_pudding` | 2x Ovo de galinha<br>1x Manteiga<br>8x Frutinha | 4x Pudim de frutinha | 25.0 | 0.0 | 1 verde |
 | `boiled_egg` | 1x Ovo de galinha | 1x Ovo cozido | 10.0 | 0.0 | 1 verde |
 | `bowl_lentil` | 1x Água<br>1x Lentilha | 2x Pote de lentilhas | 35.0 | 0.0 | 1 verde |
@@ -2990,12 +2990,12 @@
 | `pie_1` | 1x Massa folhada<br>1x Suco de frutinhas | 2x Torta de frutinha | 45.0 | 0.0 | 1 verde |
 | `pie_2` | 1x Massa folhada<br>1x fruit:grapes_crop | 2x Torta de uva | 45.0 | 0.0 | 1 verde |
 | `soup_fish` | 4x Filé de peixe branco<br>2x Cenoura<br>5x Água | 4x Sopa de peixe | 120.0 | 0.0 | 1 verde |
-| `soup_red_green` | 2x Couve<br>1x beet_crop<br>1x onion_crop | 4x Sopa de repolho | 90.0 | 0.0 | 1 verde |
-| `soup_red_yellow` | 1x beet_crop<br>2x Cenoura<br>2x pumpkin_crop | 4x Sopa de abóbora | 100.0 | 0.0 | 1 verde |
+| `soup_red_green` | 2x Couve<br>1x Beterraba<br>1x onion_crop | 4x Sopa de repolho | 90.0 | 0.0 | 1 verde |
+| `soup_red_yellow` | 1x Beterraba<br>2x Cenoura<br>2x pumpkin_crop | 4x Sopa de abóbora | 100.0 | 0.0 | 1 verde |
 | `soup_yellow_green` | 2x Couve<br>2x Cenoura<br>2x pumpkin_crop | 4x Sopa de vegetais | 120.0 | 0.0 | 1 verde |
 | `toasts` | 1x Massa<br>1x onion_crop | 3x Torradas com cebola | 45.0 | 0.0 | 2 verde |
 | `vegetable_patty` | 1x pumpkin_crop<br>1x Cenoura<br>2x Massa | 6x Enroladinho de vegetais | 50.0 | 0.0 | 1 verde |
-| `vegetable_stew` | 1x pumpkin_crop<br>1x beet_crop<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | 1 verde |
+| `vegetable_stew` | 1x pumpkin_crop<br>1x Beterraba<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | 1 verde |
 | `сheese_patty` | 1x Queijo<br>2x Massa | 6x Enroladinho de queijo | 35.0 | 0.0 | 1 verde |
 
 ## Mesa de empacotamento — `packing_table`
@@ -3014,11 +3014,11 @@
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `players_tavern_builddesk::rat_race_table` | 18x Placa de madeira<br>36x Pregos<br>4x Frascos cônicos avançados | — | — | 0.0 | — |
-| `players_tavern_builddesk::tavern_alcofest` | 5x Panfleto<br>5x faith<br>1x Estrela de reputação | — | — | 0.0 | — |
+| `players_tavern_builddesk::tavern_alcofest` | 5x Panfleto<br>5x Fé<br>1x Estrela de reputação | — | — | 0.0 | — |
 | `players_tavern_builddesk::tavern_artifacts_shelves` | 8x Viga de madeira<br>18x Placa de madeira<br>36x Pregos | — | — | 0.0 | — |
-| `players_tavern_builddesk::tavern_rat_race` | 10x Panfleto<br>5x faith<br>2x Estrela de reputação | — | — | 0.0 | — |
-| `players_tavern_builddesk::tavern_sharmel_song` | 15x Panfleto<br>10x faith<br>3x Estrela de reputação | — | — | 0.0 | — |
-| `players_tavern_builddesk::tavern_stand_up` | 10x Panfleto<br>5x faith<br>2x Estrela de reputação | — | — | 0.0 | — |
+| `players_tavern_builddesk::tavern_rat_race` | 10x Panfleto<br>5x Fé<br>2x Estrela de reputação | — | — | 0.0 | — |
+| `players_tavern_builddesk::tavern_sharmel_song` | 15x Panfleto<br>10x Fé<br>3x Estrela de reputação | — | — | 0.0 | — |
+| `players_tavern_builddesk::tavern_stand_up` | 10x Panfleto<br>5x Fé<br>2x Estrela de reputação | — | — | 0.0 | — |
 | `players_tavern_builddesk::tavern_upgrade` | 30x Placa de madeira<br>30x Pedaço de pedra<br>12x Peças simples de ferro | — | — | 0.0 | — |
 | `players_tavern_builddesk:p:soul_totem_players_tavern` | 3x Peças simples de ferro<br>1x Frascos cônicos<br>1x Placa de madeira | — | — | 0.0 | — |
 | `players_tavern_builddesk:p:tavern_barrel_place` | 8x Tábua<br>4x Pregos | — | — | 0.0 | — |
@@ -3040,12 +3040,12 @@
 | `rat_give_food_2_1` | 1x Cenoura | 1x Normal | 1.0 | 0.0 | — |
 | `rat_give_food_3_1` | 3x Cenoura | 1x Normal | 1.0 | 0.0 | — |
 | `rat_give_food_4_1` | 5x Cenoura | 1x Normal | 1.0 | 0.0 | — |
-| `rat_obedience_training_1` | — | 1x rat_buff:dog_training_1 | 20.0 | 0.0 | — |
-| `rat_obedience_training_2` | — | 1x rat_buff:dog_training_2 | 25.0 | 0.0 | — |
-| `rat_obedience_training_3` | — | 1x rat_buff:dog_training_3 | 30.0 | 0.0 | — |
-| `rat_speed_training_1` | — | 1x rat_buff:speed_training_1 | 20.0 | 0.0 | — |
-| `rat_speed_training_2` | — | 1x rat_buff:speed_training_2 | 25.0 | 0.0 | — |
-| `rat_speed_training_3` | — | 1x rat_buff:speed_training_3 | 30.0 | 0.0 | — |
+| `rat_obedience_training_1` | — | 1x Treinamento canino I | 20.0 | 0.0 | — |
+| `rat_obedience_training_2` | — | 1x Treinamento canino II | 25.0 | 0.0 | — |
+| `rat_obedience_training_3` | — | 1x Treinamento canino III | 30.0 | 0.0 | — |
+| `rat_speed_training_1` | — | 1x Treinamento de velocidade I | 20.0 | 0.0 | — |
+| `rat_speed_training_2` | — | 1x Treinamento de velocidade II | 25.0 | 0.0 | — |
+| `rat_speed_training_3` | — | 1x Treinamento de velocidade III | 30.0 | 0.0 | — |
 
 ## Acampamento de refugiados — `refugee_builddesk`
 
@@ -3075,7 +3075,7 @@
 | `refugee_builddesk:p:refugee_marquis_workplace_place` | 10x Placa de madeira<br>16x Pregos<br>8x Felicidade de refugiado | — | — | 0.0 | — |
 | `refugee_builddesk:p:refugee_tanner_workplace_place` | 10x Placa de madeira<br>16x Pregos<br>12x Felicidade de refugiado | — | — | 0.0 | — |
 
-## refugee_camp_cooking_table — `refugee_camp_cooking_table`
+## Bancada de cozinhar — `refugee_camp_cooking_table`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -3088,7 +3088,7 @@
 | `camp_kitchen_dough` | 2x Farinha<br>3x Água | 4x Massa | 3.0 | 0.0 | — |
 | `camp_kitchen_dough_2` | 2x Farinha<br>1x Jarra de leite<br>1x Ovo de galinha | 4x Massa folhada | 3.0 | 0.0 | — |
 | `camp_kitchen_flour` | 1x Trigo | 1x Farinha | 3.0 | 0.0 | — |
-| `camp_kitchen_grated_beetroot` | 1x beet_crop | 1x Beterraba ralada | 10.0 | 0.0 | — |
+| `camp_kitchen_grated_beetroot` | 1x Beterraba | 1x Beterraba ralada | 10.0 | 0.0 | — |
 | `camp_kitchen_grated_carrot` | 1x Cenoura | 1x Cenoura ralada | 10.0 | 0.0 | — |
 | `camp_kitchen_lentil_cutlets_1` | 2x Lentilha | 4x Escalopes de lentilha | 35.0 | 0.0 | — |
 | `camp_kitchen_lentil_cutlets_2` | 2x Lentilha | 4x Escalopes de lentilha | 35.0 | 0.0 | — |
@@ -3096,12 +3096,12 @@
 | `camp_kitchen_lentil_porridge_1` | 1x Cenoura<br>1x Lentilha<br>1x Cebola | 4x Mingau de lentilha | 50.0 | 0.0 | — |
 | `camp_kitchen_lentil_porridge_2` | 1x Cenoura<br>1x Lentilha<br>1x Cebola | 4x Mingau de lentilha | 50.0 | 0.0 | — |
 | `camp_kitchen_lentil_porridge_3` | 1x Cenoura<br>1x Lentilha<br>1x Cebola | 4x Mingau de lentilha | 50.0 | 0.0 | — |
-| `camp_kitchen_vegetable_salad_1` | 1x Cebola<br>1x beet_crop<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
-| `camp_kitchen_vegetable_salad_2` | 1x Cebola<br>1x beet_crop<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
-| `camp_kitchen_vegetable_salad_3` | 1x Cebola<br>1x beet_crop<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
-| `camp_kitchen_vegetable_stew_1` | 1x Abóbora<br>1x beet_crop<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
-| `camp_kitchen_vegetable_stew_2` | 1x Abóbora<br>1x beet_crop<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
-| `camp_kitchen_vegetable_stew_3` | 1x Abóbora<br>1x beet_crop<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
+| `camp_kitchen_vegetable_salad_1` | 1x Cebola<br>1x Beterraba<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
+| `camp_kitchen_vegetable_salad_2` | 1x Cebola<br>1x Beterraba<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
+| `camp_kitchen_vegetable_salad_3` | 1x Cebola<br>1x Beterraba<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
+| `camp_kitchen_vegetable_stew_1` | 1x Abóbora<br>1x Beterraba<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
+| `camp_kitchen_vegetable_stew_2` | 1x Abóbora<br>1x Beterraba<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
+| `camp_kitchen_vegetable_stew_3` | 1x Abóbora<br>1x Beterraba<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
 
 ## Bancada de cozinhar II — `refugee_camp_cooking_table_2`
 
@@ -3120,7 +3120,7 @@
 | `camp_kitchen_dough` | 2x Farinha<br>3x Água | 4x Massa | 3.0 | 0.0 | — |
 | `camp_kitchen_dough_2` | 2x Farinha<br>1x Jarra de leite<br>1x Ovo de galinha | 4x Massa folhada | 3.0 | 0.0 | — |
 | `camp_kitchen_flour` | 1x Trigo | 1x Farinha | 3.0 | 0.0 | — |
-| `camp_kitchen_grated_beetroot` | 1x beet_crop | 1x Beterraba ralada | 10.0 | 0.0 | — |
+| `camp_kitchen_grated_beetroot` | 1x Beterraba | 1x Beterraba ralada | 10.0 | 0.0 | — |
 | `camp_kitchen_grated_carrot` | 1x Cenoura | 1x Cenoura ralada | 10.0 | 0.0 | — |
 | `camp_kitchen_greek_lentil_soup_1` | 1x Cebola<br>1x Lentilha<br>2x Água | 2x Sopa de lentilhas chique | 55.0 | 0.0 | — |
 | `camp_kitchen_greek_lentil_soup_2` | 1x Cebola<br>1x Lentilha<br>2x Água | 2x Sopa de lentilhas chique | 55.0 | 0.0 | — |
@@ -3138,19 +3138,19 @@
 | `camp_kitchen_vegetable_patty_1` | 1x Abóbora<br>1x Cenoura<br>2x Massa | 6x Enroladinho de vegetais | 50.0 | 0.0 | — |
 | `camp_kitchen_vegetable_patty_2` | 1x Abóbora<br>1x Cenoura<br>2x Massa | 6x Enroladinho de vegetais | 50.0 | 0.0 | — |
 | `camp_kitchen_vegetable_patty_3` | 1x Abóbora<br>1x Cenoura<br>2x Massa | 6x Enroladinho de vegetais | 50.0 | 0.0 | — |
-| `camp_kitchen_vegetable_salad_1` | 1x Cebola<br>1x beet_crop<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
-| `camp_kitchen_vegetable_salad_2` | 1x Cebola<br>1x beet_crop<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
-| `camp_kitchen_vegetable_salad_3` | 1x Cebola<br>1x beet_crop<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
-| `camp_kitchen_vegetable_stew_1` | 1x Abóbora<br>1x beet_crop<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
-| `camp_kitchen_vegetable_stew_2` | 1x Abóbora<br>1x beet_crop<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
-| `camp_kitchen_vegetable_stew_3` | 1x Abóbora<br>1x beet_crop<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
+| `camp_kitchen_vegetable_salad_1` | 1x Cebola<br>1x Beterraba<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
+| `camp_kitchen_vegetable_salad_2` | 1x Cebola<br>1x Beterraba<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
+| `camp_kitchen_vegetable_salad_3` | 1x Cebola<br>1x Beterraba<br>1x Couve | 4x Salada | 15.0 | 0.0 | — |
+| `camp_kitchen_vegetable_stew_1` | 1x Abóbora<br>1x Beterraba<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
+| `camp_kitchen_vegetable_stew_2` | 1x Abóbora<br>1x Beterraba<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
+| `camp_kitchen_vegetable_stew_3` | 1x Abóbora<br>1x Beterraba<br>2x Couve | 4x Ensopado de vegetais | 60.0 | 0.0 | — |
 | `camp_kitchen_сheese_patty` | 1x Queijo<br>2x Massa | 6x Enroladinho de queijo | 35.0 | 0.0 | — |
 
 ## Cama — `refugee_camp_garden_bed_1`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `refugee_garden_beet_grow_desk_planting` | 24x beet_seed | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x beet_crop<br>20–28x beet_seed | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
+| `refugee_garden_beet_grow_desk_planting` | 24x Semente de beterraba | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Beterraba<br>20–28x Semente de beterraba | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_cabbage_grow_desk_planting` | 24x Semente de repolho | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Couve<br>20–28x Semente de repolho | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_carrot_grow_desk_planting` | 24x Semente de cenoura | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Cenoura<br>20–28x Semente de cenoura | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_desk_upgr_to_silver` | 12x Fertilizante de qualidade I | — | 0.0 | 0.0 | — |
@@ -3163,7 +3163,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `refugee_garden_beet_grow_desk_planting` | 24x beet_seed | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x beet_crop<br>20–28x beet_seed | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
+| `refugee_garden_beet_grow_desk_planting` | 24x Semente de beterraba | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Beterraba<br>20–28x Semente de beterraba | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_cabbage_grow_desk_planting` | 24x Semente de repolho | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Couve<br>20–28x Semente de repolho | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_carrot_grow_desk_planting` | 24x Semente de cenoura | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Cenoura<br>20–28x Semente de cenoura | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_desk_upgr_to_gold` | 12x Fertilizante de qualidade II | — | 0.0 | 0.0 | — |
@@ -3179,7 +3179,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `refugee_garden_beet_grow_desk_planting` | 24x beet_seed | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x beet_crop<br>20–28x beet_seed | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
+| `refugee_garden_beet_grow_desk_planting` | 24x Semente de beterraba | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Beterraba<br>20–28x Semente de beterraba | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_cabbage_grow_desk_planting` | 24x Semente de repolho | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Couve<br>20–28x Semente de repolho | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_carrot_grow_desk_planting` | 24x Semente de cenoura | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Cenoura<br>20–28x Semente de cenoura | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_lentils_grow_desk_planting_1` | 24x Semente de lentilha | (16+4*WGOpar("lvl"))–(24+4*WGOpar("lvl"))x Lentilha<br>20–28x Semente de lentilha | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
@@ -3193,7 +3193,7 @@
 | `refugee_garden_pumpkin_grow_desk_planting_3` | 24x Semente de abóbora | (16+4*WGOpar("lvl"))–(24+4*WGOpar("lvl"))x Abóbora<br>20–28x Semente de abóbora | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `refugee_garden_wheat_grow_desk_planting` | 24x Semente de trigo | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Trigo<br>20–28x Semente de trigo | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 
-## refugee_camp_hive — `refugee_camp_hive`
+## Colmeia — `refugee_camp_hive`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -3237,19 +3237,19 @@
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `slime_remove` | — | — | 90.0 | 0.0 | — |
 
-## soul_container_2_place_2 — `soul_container_2_place_2`
+## Receptáculo de alma II — `soul_container_2_place_2`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `soul_container_2_st_2` | 4x Tijolo polido de pedra<br>2x Placa de madeira<br>3x Fragmento de pecado | — | 5.0 | 6.0 | — |
 
-## soul_container_3_place_2 — `soul_container_3_place_2`
+## Receptáculo de alma III — `soul_container_3_place_2`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `soul_container_3_st_2` | 2x Tijolo polido de mármore<br>4x Peças de aço<br>4x Fragmento de pecado | — | 6.0 | 7.0 | — |
 
-## soul_container_place_2 — `soul_container_place_2`
+## Receptáculo de alma I — `soul_container_place_2`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -3307,17 +3307,17 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `b_grat_points_incr` | 1x chapter<br>4x faith<br>2x Fragmento de pecado | 1x Orar pelo contentamento das almas | 3.0 | 10.0 | 2 azul |
-| `b_sin_shard` | 1x chapter<br>4x faith<br>1x Fragmento de pecado | 1x Orar pela purificação completa das almas | 3.0 | 10.0 | 2 azul |
-| `b_souls` | 1x chapter<br>5x faith<br>2x Fragmento de pecado | 1x Orar pelo repouso das almas | 3.0 | 10.0 | 2 azul |
-| `book_hard_souls` | 1x chapter<br>2x Fragmento de pecado<br>1x story | 1x book:book_hard | 3.0 | 5.0 | 1 vermelho 10 azul |
-| `chapter_souls` | 3x Papel vazio<br>2x Fragmento de pecado<br>1x story | 1x chapter | 3.0 | 20.0 | 3 azul |
+| `b_grat_points_incr` | 1x Capítulo<br>4x Fé<br>2x Fragmento de pecado | 1x Orar pelo contentamento das almas | 3.0 | 10.0 | 2 azul |
+| `b_sin_shard` | 1x Capítulo<br>4x Fé<br>1x Fragmento de pecado | 1x Orar pela purificação completa das almas | 3.0 | 10.0 | 2 azul |
+| `b_souls` | 1x Capítulo<br>5x Fé<br>2x Fragmento de pecado | 1x Orar pelo repouso das almas | 3.0 | 10.0 | 2 azul |
+| `book_hard_souls` | 1x Capítulo<br>2x Fragmento de pecado<br>1x História | 1x book:book_hard | 3.0 | 5.0 | 1 vermelho 10 azul |
+| `chapter_souls` | 3x Papel vazio<br>2x Fragmento de pecado<br>1x História | 1x Capítulo | 3.0 | 20.0 | 3 azul |
 | `sack_clock_gold_souls` | 10x Turfa<br>4x Fragmento de pecado<br>3x hamp_crop | 10x Reforço de fertilizante II | 4.0 | 15.0 | — |
 | `sack_clock_silver_souls` | 10x Turfa<br>2x Fragmento de pecado<br>2x hamp_crop | 10x Reforço de fertilizante I | 2.0 | 7.0 | — |
 | `sack_star_gold_souls` | 10x Turfa<br>4x Fragmento de pecado<br>3x Ash | 10x Fertilizante de qualidade II | 4.0 | 15.0 | — |
 | `sack_star_silver_souls` | 10x Turfa<br>2x Fragmento de pecado<br>2x Ash | 10x Fertilizante de qualidade I | 2.0 | 7.0 | — |
 | `soul_workbench_craft` | — | — | — | 0.0 | — |
-| `story_souls` | 1x Papel vazio<br>2x Fragmento de pecado<br>5x faith | 1x story | 3.0 | 15.0 | 1 azul |
+| `story_souls` | 1x Papel vazio<br>2x Fragmento de pecado<br>5x Fé | 1x História | 3.0 | 15.0 | 1 azul |
 
 ## Almas — `souls_builddesk`
 
@@ -3403,8 +3403,8 @@
 | `candle_4` | 4x Cera de abelha<br>2x Tinta branca<br>1x Corda de cânhamo | 4x Vela | 2.0 | 6.0 | 2 azul |
 | `candle_6` | 4x Cera de abelha<br>2x Tinta branca<br>1x Corda de cânhamo | 4x Vela | 2.0 | 7.0 | 2 azul |
 | `cover_1` | 2x Papel de couro de porco | 1x Capa mole | 3.0 | 10.0 | 1 vermelho |
-| `cover_hard` | 1x Capa mole<br>1x Agente de bronzeamento<br>1x faith | 1x Capa dura | 3.0 | 10.0 | 1 vermelho 5 azul |
-| `cover_hard_2` | 1x Capa dura<br>2x Peças de aço<br>2x faith | 1x Capa dura | 3.0 | 20.0 | 1 vermelho 5 azul |
+| `cover_hard` | 1x Capa mole<br>1x Agente de bronzeamento<br>1x Fé | 1x Capa dura | 3.0 | 10.0 | 1 vermelho 5 azul |
+| `cover_hard_2` | 1x Capa dura<br>2x Peças de aço<br>2x Fé | 1x Capa dura | 3.0 | 20.0 | 1 vermelho 5 azul |
 | `cover_hard_3` | 1x Capa dura<br>2x Detalhes de joias de ouro | 1x Capa dura | 3.0 | 20.0 | 1 vermelho 5 azul |
 | `curtain_blue` | 1x Seda<br>1x Tinta branca<br>2x Pó de aceleração | 1x Cortina | 2.0 | 10.0 | — |
 | `embalm_-1_-1` | 1x Ácido<br>6x Água<br>2x Frascos cônicos | 5x Injeção de ácido | — | 0.0 | 3 azul |
@@ -3419,7 +3419,7 @@
 | `incense_2` | 1x Aromatizador | 2x Incenso II | 3.0 | 5.0 | — |
 | `ink_jar` | 1x Frascos cônicos<br>1x Água<br>1x Tinta preta | 5x Tinta | 3.0 | 5.0 | 1 vermelho |
 | `ink_pen` | 3x Pena<br>1x Tinta | 3x Caneta e tinta | 3.0 | 5.0 | 1 vermelho |
-| `pagan_amulet` | 1x intestine<br>1x Cera de abelha<br>1x Pedaço de pelo de burro | 1x Amuleto pagão de invocação de espírito | 4.0 | 0.0 | — |
+| `pagan_amulet` | 1x Intestinos<br>1x Cera de abelha<br>1x Pedaço de pelo de burro | 1x Amuleto pagão de invocação de espírito | 4.0 | 0.0 | — |
 | `pail_blood` | 3x Tábua<br>10x Sangue | 1x Balde de sangue | 2.0 | 10.0 | — |
 | `pail_wet_paper` | 1x Balde de água limpa<br>20x Trigo | 1x Mistureba de papel | 5.0 | 5.0 | 2 verde |
 | `paper_bad` | 1x Papel de couro de porco | 4x Papel vazio | 3.0 | 5.0 | 1 vermelho |
@@ -3467,20 +3467,20 @@
 | `t_dough` | 10x Farinha<br>15x Água | 20x Massa | 2.0 | 4.0 | 5 verde |
 | `t_dough_2` | 10x Farinha<br>5x Jarra de leite<br>5x Ovo de galinha | 20x Massa folhada | 2.0 | 6.0 | 5 verde |
 | `t_fish_anchovy_fillet` | 5x Anchova | 5x Filé de peixe branco | 2.0 | 5.0 | 5 verde |
-| `t_fish_bream_fillet` | 5x Brema | 5x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 5 verde |
+| `t_fish_bream_fillet` | 5x Brema | 5x Qualidade do filé de peixe | 2.0 | 5.0 | 5 verde |
 | `t_fish_carp_fillet` | 5x Carpa | 5x Filé de peixe azul | 2.0 | 10.0 | 5 verde |
 | `t_fish_crucian_gold_fillet` | 5x Prussiano dourado | 20x Filé de peixe azul<br>0–5x Pepita de ouro | 2.0 | 10.0 | 5 verde |
-| `t_fish_crucian_silver_fillet` | 5x Prussiano prateado | 15x fillet_fish:fillet_fish_red<br>0–5x Pepita de prata | 2.0 | 9.0 | 5 verde |
+| `t_fish_crucian_silver_fillet` | 5x Prussiano prateado | 15x Qualidade do filé de peixe<br>0–5x Pepita de prata | 2.0 | 9.0 | 5 verde |
 | `t_fish_eel_fillet` | 5x Enguia | 15x Filé de peixe branco | 2.0 | 5.0 | 5 verde |
 | `t_fish_goldfish_fillet` | 5x Peixinho-dourado | 20x Filé de peixe azul | 2.0 | 10.0 | 50 verde |
 | `t_fish_gudgeon_fillet` | 5x Gróbio | 5x Filé de peixe branco | 2.0 | 5.0 | 5 verde |
 | `t_fish_perch_fillet` | 5x Poleiro | 15x Filé de peixe branco | 2.0 | 5.0 | 5 verde |
-| `t_fish_pike_fillet` | 5x Pique | 15x fillet_fish:fillet_fish_red | 2.0 | 8.0 | 5 verde |
+| `t_fish_pike_fillet` | 5x Pique | 15x Qualidade do filé de peixe | 2.0 | 8.0 | 5 verde |
 | `t_fish_salmon_fillet` | 5x Salmão | 15x Filé de peixe azul | 2.0 | 9.0 | 5 verde |
-| `t_fish_sardine_fillet` | 5x Sardinha | 10x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 5 verde |
+| `t_fish_sardine_fillet` | 5x Sardinha | 10x Qualidade do filé de peixe | 2.0 | 5.0 | 5 verde |
 | `t_fish_sturgeon_fillet` | 5x Esturjão | 10x Filé de peixe azul | 2.0 | 8.0 | 5 verde |
 | `t_fish_tilapia_fillet` | 5x Tilápia | 10x Filé de peixe branco | 2.0 | 5.0 | 5 verde |
-| `t_fish_tuna_fillet` | 5x Atum | 10x fillet_fish:fillet_fish_red | 2.0 | 5.0 | 5 verde |
+| `t_fish_tuna_fillet` | 5x Atum | 10x Qualidade do filé de peixe | 2.0 | 5.0 | 5 verde |
 | `t_flour_from_wheat` | 20x Trigo | 20x Farinha | 3.0 | 8.0 | 10 verde |
 | `t_jelly_green` | 20x Geleia verde<br>5x Mel | 15x Geleia verde | 2.0 | 5.0 | 5 verde |
 | `t_jelly_red` | 20x Geleia verde<br>5x Suco de frutinhas | 15x Gelatina vermelha | 2.0 | 5.0 | 5 verde |
@@ -3507,8 +3507,8 @@
 | `t_baked_kebab_7` | 25x Cogumelo comestível | 15x Cogumelos assados | 25.0 | 0.0 | 5 verde |
 | `t_baked_meat` | 5x Carne crua fatiada | 10x Carne cozida | 35.0 | 0.0 | 5 verde |
 | `t_baked_pumpkin` | 5x pumpkin_crop | 15x Abóbora assada | 40.0 | 0.0 | 5 verde |
-| `t_baked_salmon` | 5x Couve<br>5x fillet_fish:fillet_fish_red | 15x Salmão assado | 65.0 | 0.0 | 5 verde |
-| `t_beet_slice` | 10x beet_crop | 5x Fatias de beterraba | 35.0 | 0.0 | 5 verde |
+| `t_baked_salmon` | 5x Couve<br>5x Qualidade do filé de peixe | 15x Salmão assado | 65.0 | 0.0 | 5 verde |
+| `t_beet_slice` | 10x Beterraba | 5x Fatias de beterraba | 35.0 | 0.0 | 5 verde |
 | `t_bowl_lentil` | 5x Água<br>5x Lentilha | 10x Pote de lentilhas | 35.0 | 0.0 | 5 verde |
 | `t_bowl_pumpkin` | 5x Jarra de leite<br>10x pumpkin_crop | 20x Pote de sopa de abóbora | 40.0 | 0.0 | 5 verde |
 | `t_bread` | 10x Massa | 10x Pão | 60.0 | 0.0 | 5 verde |
@@ -3527,8 +3527,8 @@
 | `t_pie_1` | 5x Massa folhada<br>5x Suco de frutinhas | 10x Torta de frutinha | 45.0 | 0.0 | 5 verde |
 | `t_pie_2` | 5x Massa folhada<br>5x fruit:grapes_crop | 10x Torta de uva | 45.0 | 0.0 | 5 verde |
 | `t_soup_fish` | 20x Filé de peixe branco<br>10x Cenoura<br>25x Água | 20x Sopa de peixe | 120.0 | 0.0 | 5 verde |
-| `t_soup_red_green` | 10x Couve<br>5x beet_crop<br>5x onion_crop | 20x Sopa de repolho | 90.0 | 0.0 | 5 verde |
-| `t_soup_red_yellow` | 5x beet_crop<br>10x Cenoura<br>10x pumpkin_crop | 20x Sopa de abóbora | 100.0 | 0.0 | 5 verde |
+| `t_soup_red_green` | 10x Couve<br>5x Beterraba<br>5x onion_crop | 20x Sopa de repolho | 90.0 | 0.0 | 5 verde |
+| `t_soup_red_yellow` | 5x Beterraba<br>10x Cenoura<br>10x pumpkin_crop | 20x Sopa de abóbora | 100.0 | 0.0 | 5 verde |
 | `t_soup_yellow_green` | 10x Couve<br>10x Cenoura<br>10x pumpkin_crop | 20x Sopa de vegetais | 120.0 | 0.0 | 5 verde |
 | `t_toasts` | 5x Massa<br>5x onion_crop | 15x Torradas com cebola | 45.0 | 0.0 | 10 verde |
 
@@ -3804,13 +3804,13 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `zombie_craft` | 1x Suco de zumbi<br>10x faith | — | 2.1 | 0.0 | — |
+| `zombie_craft` | 1x Suco de zumbi<br>10x Fé | — | 2.1 | 0.0 | — |
 
-## zombie_garden_desk_0 — `zombie_garden_desk_0`
+## Fazenda zumbi — `zombie_garden_desk_0`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `garden_beet_grow_desk_planting` | 24x beet_seed | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x beet_crop<br>20–28x beet_seed | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
+| `garden_beet_grow_desk_planting` | 24x Semente de beterraba | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Beterraba<br>20–28x Semente de beterraba | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_cabbage_grow_desk_planting` | 24x Semente de repolho | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Couve<br>20–28x Semente de repolho | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_carrot_grow_desk_planting` | 24x Semente de cenoura | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Cenoura<br>20–28x Semente de cenoura | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_lentils_grow_desk_planting_1` | 24x Semente de lentilha | (16+4*WGOpar("lvl"))–(24+4*WGOpar("lvl"))x Lentilha<br>20–28x Semente de lentilha | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
@@ -3823,7 +3823,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `garden_beet_grow_desk_planting` | 24x beet_seed | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x beet_crop<br>20–28x beet_seed | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
+| `garden_beet_grow_desk_planting` | 24x Semente de beterraba | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Beterraba<br>20–28x Semente de beterraba | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_cabbage_grow_desk_planting` | 24x Semente de repolho | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Couve<br>20–28x Semente de repolho | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_carrot_grow_desk_planting` | 24x Semente de cenoura | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Cenoura<br>20–28x Semente de cenoura | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_lentils_grow_desk_planting_1` | 24x Semente de lentilha | (16+4*WGOpar("lvl"))–(24+4*WGOpar("lvl"))x Lentilha<br>20–28x Semente de lentilha | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
@@ -3839,7 +3839,7 @@
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
-| `garden_beet_grow_desk_planting` | 24x beet_seed | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x beet_crop<br>20–28x beet_seed | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
+| `garden_beet_grow_desk_planting` | 24x Semente de beterraba | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Beterraba<br>20–28x Semente de beterraba | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_cabbage_grow_desk_planting` | 24x Semente de repolho | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Couve<br>20–28x Semente de repolho | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_carrot_grow_desk_planting` | 24x Semente de cenoura | (26+4*WGOpar("lvl"))–(38+4*WGOpar("lvl"))x Cenoura<br>20–28x Semente de cenoura | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
 | `garden_lentils_grow_desk_planting_1` | 24x Semente de lentilha | (16+4*WGOpar("lvl"))–(24+4*WGOpar("lvl"))x Lentilha<br>20–28x Semente de lentilha | 300*(1-0.2*WGOpar("lvl")-0.2*WGOpar("buff_plant")) | 0.0 | — |
@@ -3860,13 +3860,13 @@
 | `zombie_mine_marble_production` | — | 1x Mármore | 45.0 | 0.0 | — |
 | `zombie_mine_stone_production` | — | 1x Pedra | 45.0 | 0.0 | — |
 
-## zombie_mine_fence_left_front — `zombie_mine_fence_left_front`
+## Mina zumbi — `zombie_mine_fence_left_front`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
 | `zombie_mine_stone_production` | — | 1x Pedra | 45.0 | 0.0 | — |
 
-## zombie_pulpit — `zombie_pulpit`
+## Gerador de texto aleatório — `zombie_pulpit`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |
@@ -3874,7 +3874,7 @@
 | `zombie_craft_paper_restore` | 1x Livro destruído<br>1x Areia do rio | 2x Papel vazio | 10.0 | 0.0 | — |
 | `zombie_craft_techbook` | 3x Papel vazio | 1x Livro (g)<br>1x Livro (r)<br>1x Livro (b) | 400.0 | 0.0 | — |
 
-## zombie_sawmill_completed — `zombie_sawmill_completed`
+## Serraria de árvores grandes — `zombie_sawmill_completed`
 
 | receita | precisa | produz | tempo | energia | pontos |
 | ------- | ------- | ------ | ----: | ------: | ------ |

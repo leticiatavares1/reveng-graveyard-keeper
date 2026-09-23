@@ -22,9 +22,26 @@ def carregar(game: Game, lista: str) -> list:
 
 
 def carregar_locale(game: Game, lng: str) -> dict[str, str]:
+    """Os textos do idioma, com os aliases já resolvidos.
+
+    O `GJL.L()` do jogo consulta os aliases antes do dicionário, e em cadeia:
+    `1h_ore_metal` -> `t_iron_ore_2` -> "Minério de ferro". Sem isso, 51 itens,
+    20 bancadas e 7 tecnologias ficavam sem nome. Um alias cujo alvo não está no
+    dicionário faz o jogo mostrar o próprio alvo, cru ("Advanced gravestones"):
+    isso não é tradução, e aqui é ignorado.
+    """
     caminho = os.path.join(game.out, "data", "locales", f"{lng}.json")
     with open(caminho, encoding="utf8") as fh:
-        return json.load(fh)["strings"]
+        loc = json.load(fh)
+    strings, aliases = dict(loc["strings"]), loc["aliases"]
+    for chave in aliases:
+        alvo, vistos = chave, set()
+        while alvo in aliases and alvo not in vistos:
+            vistos.add(alvo)
+            alvo = aliases[alvo]
+        if alvo in loc["strings"]:
+            strings[chave] = loc["strings"][alvo]
+    return strings
 
 
 class Names:

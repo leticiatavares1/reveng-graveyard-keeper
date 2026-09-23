@@ -4,7 +4,7 @@
 
 | id | pt-BR | en | tipo | preco | qualidade | pilha |
 | -- | ----- | -- | ---- | ----: | --------: | ----: |
-| `1h_ore_metal` | — | — | None | 0.15 | 0 | 30 |
+| `1h_ore_metal` | Minério de ferro | Iron ore | None | 0.15 | 0 | 30 |
 | `acid` | Ácido | Acid | None | 5 | 0 | 20 |
 | `alchemy_1_brown` | Pó de retardamento | Slowing powder | None | 0.5 | 0 | 50 |
 | `alchemy_1_d_blue` | Pó de aceleração | Acceleration powder | None | 0.5 | 0 | 50 |
@@ -122,8 +122,8 @@
 | `battle_horseshoes` | Ferraduras de batalha | Battle horseshoes | None | 0 | 0 | 1 |
 | `bee` | Abelha | Bee | None | 0.2 | 0 | 30 |
 | `beeswax` | Cera de abelha | Beeswax | None | 0.3 | 0 | 30 |
-| `beet_crop` | — | — | None | 0.16 | 0 | 50 |
-| `beet_seed` | — | — | None | 0.12 | 0 | 50 |
+| `beet_crop` | Beterraba | Beet | None | 0.16 | 0 | 50 |
+| `beet_seed` | Semente de beterraba | Beet seed | None | 0.12 | 0 | 50 |
 | `bijouterie_gold` | Joias | Jewelry | None | 100 | 0 | 30 |
 | `black_paint` | Tinta preta | Black paint | None | 0 | 0 | 30 |
 | `blessing_commerce` | Bênção do comércio | Blessing of commerce | None | 1.33 | 0 | 5 |
@@ -158,29 +158,29 @@
 | `box_wine_1` | Caixa de vinho bronze | Box of bronze wine | Crate | 0 | 0 | 1 |
 | `box_wine_2` | Caixa de vinho prata | Box of silver wine | Crate | 0 | 0 | 1 |
 | `box_wine_3` | Caixa de vinho ouro | Box of gold wine | Crate | 0 | 0 | 1 |
-| `brain:brain_-1_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_-1_3` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_-2_3` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_0_0` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_0_1` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_0_2` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_0_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_1_0` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_0_3` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_1_0` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_1_1` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_1_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_1_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_1_2` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_1_3` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_2_-1` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_2_0` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_2_1` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_2_2` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_2_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_3_-1` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_3_0` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_3_1` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_3_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_2_3` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_3_-1` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_3_0` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_3_1` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_3_2` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_3_3` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain:brain_4_1` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_4_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `brain:brain_4_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_4_2` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
+| `brain:brain_4_3` | Cérebro | Brain | BodyUniversalPart | 0 | 0 | 1 |
 | `brain_dark` | Cérebro sombrio | Dark brain | BodyUniversalPart | 0 | 0 | 1 |
 | `broken_sword` | Espada quebrada | Broken sword | Sword | 0 | 0 | 1 |
 | `brown_paint` | Tinta marrom | Brown Paint | None | 0 | 0 | 30 |
@@ -272,14 +272,14 @@
 | `eye` | Olho | Eye | BodyUniversalPart | 0 | 0 | 1 |
 | `faceted_diamond` | Diamante lapidado | Faceted diamond | None | 30 | 0 | 10 |
 | `faceted_emerald` | Esmeralda lapidada | Faceted emerald | None | 20 | 0 | 1 |
-| `faith` | — | — | None | 0 | 0 | 100000 |
+| `faith` | Fé | Faith | None | 0 | 0 | 100000 |
 | `fat` | Gordura | Fat | BodyUniversalPart | 0 | 0 | 30 |
 | `fillet_fish:fillet_fish_blue:1` | Filé de peixe azul | Blue fish fillet | None | 0.7 | 1 | 30 |
 | `fillet_fish:fillet_fish_blue:2` | Filé de peixe azul | Blue fish fillet | None | 1 | 2 | 30 |
 | `fillet_fish:fillet_fish_blue:3` | Filé de peixe azul | Blue fish fillet | None | 2 | 3 | 30 |
-| `fillet_fish:fillet_fish_red:1` | — | — | None | 0.7 | 1 | 30 |
-| `fillet_fish:fillet_fish_red:2` | — | — | None | 1 | 2 | 30 |
-| `fillet_fish:fillet_fish_red:3` | — | — | None | 1.5 | 3 | 30 |
+| `fillet_fish:fillet_fish_red:1` | Qualidade do filé de peixe | Quality fish fillet | None | 0.7 | 1 | 30 |
+| `fillet_fish:fillet_fish_red:2` | Qualidade do filé de peixe | Quality fish fillet | None | 1 | 2 | 30 |
+| `fillet_fish:fillet_fish_red:3` | Qualidade do filé de peixe | Quality fish fillet | None | 1.5 | 3 | 30 |
 | `fillet_fish_white` | Filé de peixe branco | White fish fillet | None | 0.1 | 0 | 30 |
 | `firewood` | Lenha | Firewood | None | 0.05 | 0 | 50 |
 | `fish_anchovy` | Anchova | Anchovy | Bait | 0.2 | 0 | 10 |
@@ -413,29 +413,29 @@
 | `hamp_seed:1` | Semente de cânhamo | Hemp seed | None | 0.08 | 0 | 50 |
 | `hamp_seed:2` | Semente de cânhamo | Hemp seed | None | 0.12 | 0 | 50 |
 | `hamp_seed:3` | Semente de cânhamo | Hemp seed | None | 0.17 | 0 | 50 |
-| `heart:heart_-1_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_-1_3` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_-2_3` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_0_0` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_0_1` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_0_2` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_0_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_1_0` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_0_3` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_1_0` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_1_1` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_1_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_1_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_1_2` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_1_3` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_2_-1` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_2_0` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_2_1` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_2_2` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_2_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_3_-1` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_3_0` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_3_1` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_3_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_2_3` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_3_-1` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_3_0` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_3_1` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_3_2` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_3_3` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart:heart_4_1` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_4_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `heart:heart_4_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_4_2` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
+| `heart:heart_4_3` | Coração | Heart | BodyUniversalPart | 0 | 0 | 1 |
 | `heart_dark` | Coração sombrio | Dark heart | BodyUniversalPart | 0 | 0 | 1 |
 | `hiccup_grass` | Capim-soluço | Hiccup-grass | None | 0 | 0 | 50 |
 | `honey` | Mel | Honey | None | 0.3 | 0 | 30 |
@@ -457,29 +457,29 @@
 | `ingot_silver` | Lingote de prata | Silver ingot | None | 20 | 0 | 30 |
 | `ingot_steel` | Lingote de aço | Steel ingot | None | 2.2 | 0 | 30 |
 | `ink:ink_jar` | Tinta | Ink | None | 1.5 | 0 | 30 |
-| `intestine:intestine_-1_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_-1_3` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_-2_3` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_0_0` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_0_1` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_0_2` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_0_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_1_0` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_0_3` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_1_0` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_1_1` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_1_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_1_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_1_2` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_1_3` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_2_-1` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_2_0` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_2_1` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_2_2` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_2_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_3_-1` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_3_0` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_3_1` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_3_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_2_3` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_3_-1` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_3_0` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_3_1` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_3_2` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_3_3` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine:intestine_4_1` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_4_2` | — | — | BodyUniversalPart | 0 | 0 | 1 |
-| `intestine:intestine_4_3` | — | — | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_4_2` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
+| `intestine:intestine_4_3` | Intestinos | Intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `intestine_dark` | Intestinos sombrios | Dark intestines | BodyUniversalPart | 0 | 0 | 1 |
 | `jelly_slug` | Geleia verde | Green jelly | None | 0.1 | 0 | 30 |
 | `jelly_slug_black` | Geleia preta | Black jelly | None | 0 | 0 | 30 |
@@ -599,7 +599,7 @@
 | `onion_seed:1` | Semente de cebola | Onion seed | None | 0.12 | 1 | 50 |
 | `onion_seed:2` | Semente de cebola | Onion seed | None | 0.18 | 2 | 50 |
 | `onion_seed:3` | Semente de cebola | Onion seed | None | 0.24 | 3 | 50 |
-| `ore_metal` | — | — | None | 0.75 | 0 | 1 |
+| `ore_metal` | Minério de ferro | Iron ore | None | 0.75 | 0 | 1 |
 | `organs:organs_1` | Órgãos | Organs | BodyUniversalPart | 0 | 0 | 5 |
 | `packet_meat` | Pacote de carne | Package of meat | None | 0.9 | 0 | 10 |
 | `pagan_amulet` | Amuleto pagão de invocação de espírito | Pagan amulet of spirit summoning | None | 0 | 0 | 1 |
@@ -624,7 +624,7 @@
 | `pot_appetite` | Poção de digestão | Digestion potion | None | 1 | 0 | 20 |
 | `pot_armor` | Poção de proteção | Protection potion | None | 2 | 0 | 20 |
 | `pot_berserk` | Poção de fúria | Berserk potion | None | 2 | 0 | 20 |
-| `pot_damage` | — | — | None | 1 | 0 | 20 |
+| `pot_damage` | Poção de raiva | Rage potion | None | 1 | 0 | 20 |
 | `pot_heal` | Poção de cura | Heal potion | None | 0.5 | 0 | 20 |
 | `pot_heal_long` | Poção de recuperação | Restoring potion | None | 2 | 0 | 20 |
 | `pot_mana` | Poção de energia | Energy potion | None | 0.5 | 0 | 20 |
@@ -646,12 +646,12 @@
 | `pyrite` | Pirita | Pyrite | None | 0 | 0 | 30 |
 | `ques_key_cultist` | Chave ativa | Active key | None | 0 | 0 | 1 |
 | `quest_instruction_snake` | Instruções para a chave | Instructions for the key | None | 0 | 0 | 1 |
-| `rat_buff:dog_training_1` | — | — | RatBuff | 0 | 0 | 1 |
-| `rat_buff:dog_training_2` | — | — | RatBuff | 0 | 0 | 1 |
-| `rat_buff:dog_training_3` | — | — | RatBuff | 0 | 0 | 1 |
-| `rat_buff:speed_training_1` | — | — | RatBuff | 0 | 0 | 1 |
-| `rat_buff:speed_training_2` | — | — | RatBuff | 0 | 0 | 1 |
-| `rat_buff:speed_training_3` | — | — | RatBuff | 0 | 0 | 1 |
+| `rat_buff:dog_training_1` | Treinamento canino I | Dog training I | RatBuff | 0 | 0 | 1 |
+| `rat_buff:dog_training_2` | Treinamento canino II | Dog training II | RatBuff | 0 | 0 | 1 |
+| `rat_buff:dog_training_3` | Treinamento canino III | Dog training III | RatBuff | 0 | 0 | 1 |
+| `rat_buff:speed_training_1` | Treinamento de velocidade I | Speed training I | RatBuff | 0 | 0 | 1 |
+| `rat_buff:speed_training_2` | Treinamento de velocidade II | Speed training II | RatBuff | 0 | 0 | 1 |
+| `rat_buff:speed_training_3` | Treinamento de velocidade III | Speed training III | RatBuff | 0 | 0 | 1 |
 | `rat_status:normal` | Normal | Normal | RatBuff | 0 | 0 | 1 |
 | `rat_status:satisfied` | Saciado | Satisfied | RatBuff | 0 | 0 | 1 |
 | `raw_meat_sliced` | Carne crua fatiada | Raw sliced meat | None | 0.2 | 0 | 30 |

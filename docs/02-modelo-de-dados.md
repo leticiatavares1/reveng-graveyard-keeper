@@ -134,8 +134,15 @@ Duas listas paralelas `txt_ids` × `txts`, 10.961 pares por idioma, 11 idiomas
 Item com estrelas (`id:2`) cai no id base — é o que `ItemDefinition.GetItemName` faz, e o
 `Names.name()` do catálogo repete.
 
-**75 itens em uso não têm entrada na localização** (ex.: `onion_crop`, `1h_ore_metal`).
-Nesses o catálogo deixa `pt`/`en` nulos em vez de inventar nome.
+O locale também traz uma tabela `aliases`, e o `GJL.L()` do jogo a consulta **antes** do
+dicionário, em cadeia: `1h_ore_metal` → `t_iron_ore_2` → "Minério de ferro". O
+`carregar_locale()` resolve os aliases do mesmo jeito. Sem isso, 51 itens, 20 bancadas e
+7 tecnologias ficavam sem nome, e os órgãos modificados (`blood:blood_1_0`) caíam no nome
+base, "Sangue", em vez de "Sangue modificado". Alias cujo alvo não está no dicionário faz o
+jogo mostrar o alvo cru ("Advanced gravestones"), o que não é tradução, e é ignorado.
+
+**24 itens em uso não têm nome nem com alias**: são todos bônus de sermão (`b_circle:1`,
+`b_techpoint_red:3`…). Nesses o catálogo deixa `pt`/`en` nulos em vez de inventar nome.
 
 
 ---

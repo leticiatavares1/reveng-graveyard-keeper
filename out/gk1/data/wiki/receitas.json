@@ -37,8 +37,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "alchemy_table_zombie",
-   "pt": null,
-   "en": null,
+   "pt": "Decomposição de alquimia zumbi",
+   "en": "Zombie alchemy decomposer",
    "icone": "i_stone_plate_2"
   },
   "acao": "Remove"
@@ -169,8 +169,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "alchemy_workbench_zombie_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de alquimia de zumbis",
+   "en": "Zombie alchemy workbench",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -251,8 +251,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "barrel_brew_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barril de fermentação",
+   "en": "Fermentation barrel",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -471,8 +471,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "brewing_stand_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fogareiro de fermentação",
+   "en": "Brewing stand",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -655,8 +655,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "c_obj_incense_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Incensório",
+   "en": "Incense burner",
    "icone": "i_stone_plate_2"
   },
   "acao": "Remove"
@@ -749,8 +749,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "c_obj_incense_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Incensório II",
+   "en": "Incense burner II",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -963,8 +963,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "chest_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Chest",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -1139,8 +1139,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "church_budka_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Confessionário",
+   "en": "Сonfessional",
    "icone": "i_b_repentance_booh01"
   },
   "acao": "Remove"
@@ -1233,8 +1233,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "church_budka_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Confessionário II",
+   "en": "Сonfessional II",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -1327,8 +1327,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "church_table_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Santuário de igreja de madeira",
+   "en": "Wooden church shrine",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -1421,8 +1421,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "church_table_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Santuário de igreja de pedra",
+   "en": "Stone church shrine",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -1515,8 +1515,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "columbarium_marble",
-   "pt": null,
-   "en": null,
+   "pt": "Columbário de mármore",
+   "en": "Marble columbarium",
    "icone": "i_marble_plate_2"
   },
   "acao": "Remove"
@@ -1559,8 +1559,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "columbarium_marble_place",
-   "pt": null,
-   "en": null,
+   "pt": "Columbário de mármore",
+   "en": "Marble columbarium",
    "icone": "i_marble_plate_2"
   },
   "acao": "Remove"
@@ -1603,8 +1603,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "columbarium_stone",
-   "pt": null,
-   "en": null,
+   "pt": "Columbário de pedra",
+   "en": "Stone columbarium",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -1647,8 +1647,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "columbarium_stone_place",
-   "pt": null,
-   "en": null,
+   "pt": "Columbário de pedra",
+   "en": "Stone columbarium",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -1773,8 +1773,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "corpse_bed_big_place",
-   "pt": null,
-   "en": null,
+   "pt": "Paletes duplas",
+   "en": "Double pallet",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -1811,8 +1811,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "corpse_bed_place",
-   "pt": null,
-   "en": null,
+   "pt": "Palete",
+   "en": "Pallet",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -1905,8 +1905,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "corpse_fridge_place",
-   "pt": null,
-   "en": null,
+   "pt": "Palete refrigerador",
+   "en": "Fridge pallet",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -2025,8 +2025,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "flowerbed_2x2",
-   "pt": null,
-   "en": null,
+   "pt": "Canteiro de flores",
+   "en": "Flowerbed",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -2203,8 +2203,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "garden_empty_place",
-   "pt": null,
-   "en": null,
+   "pt": "Canteiro vazio",
+   "en": "Empty garden bed",
    "icone": null
   },
   "acao": "Remove"
@@ -2267,8 +2267,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "garden_empty_stick_place",
-   "pt": null,
-   "en": null,
+   "pt": "Canteiro com varetas",
+   "en": "Garden bed with sticks",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -2523,8 +2523,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "grass_sward_2x3",
-   "pt": null,
-   "en": null,
+   "pt": "Gramado",
+   "en": "Lawn",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -2555,8 +2555,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "grass_sward_2x4",
-   "pt": null,
-   "en": null,
+   "pt": "Gramado",
+   "en": "Lawn",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -2587,8 +2587,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "grass_sward_2x6",
-   "pt": null,
-   "en": null,
+   "pt": "Gramado",
+   "en": "Lawn",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -4125,8 +4125,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "lantern_1_clone",
-   "pt": null,
-   "en": null,
+   "pt": "Tocha",
+   "en": "Torch",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -4169,8 +4169,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "lantern_2_clone",
-   "pt": null,
-   "en": null,
+   "pt": "Lamparina de madeira",
+   "en": "Wooden lantern",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -4219,8 +4219,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "lantern_3",
-   "pt": null,
-   "en": null,
+   "pt": "Lamparina",
+   "en": "Lantern",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -4382,8 +4382,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_alchemy_craft_02_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de alquimia",
+   "en": "Alchemy workbench",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -4476,8 +4476,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_alchemy_craft_03_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de alquimia II",
+   "en": "Alchemy workbench II",
    "icone": "i_wood_constr_1"
   },
   "acao": "Remove"
@@ -4570,8 +4570,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_alchemy_mill_place",
-   "pt": null,
-   "en": null,
+   "pt": "Moinho de alquimia",
+   "en": "Alchemy mill",
    "icone": "i_stone_plate_2"
   },
   "acao": "Remove"
@@ -4664,8 +4664,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_alchemy_stirrer_01_place",
-   "pt": null,
-   "en": null,
+   "pt": "Batedor",
+   "en": "Hand mixer",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -4758,8 +4758,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_alchemy_survey_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de estudo",
+   "en": "Study Table",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -4978,8 +4978,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_balsamation_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de embalsamamento",
+   "en": "Embalming Table",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -5072,8 +5072,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_balsamation_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de embalsamamento II",
+   "en": "Embalming Table II",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -5166,8 +5166,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_barrel_mid_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barril de vinho",
+   "en": "Wine making barrel",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -5230,8 +5230,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_beam_gantry_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cavalete",
+   "en": "Sawhorse",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -5318,8 +5318,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -5476,8 +5476,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_distcube_2_clay_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cubo de destilação",
+   "en": "Distillation cube",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -5570,8 +5570,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_distcube_2_cuprum_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cubo de destilação II",
+   "en": "Distillation cube II",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -5664,8 +5664,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_distcube_3_place",
-   "pt": null,
-   "en": null,
+   "pt": "Destilador de álcool",
+   "en": "Alcohol distiller",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -5758,8 +5758,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_furnace_0_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fornalha",
+   "en": "Furnace",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -5852,8 +5852,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_furnace_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fornalha II",
+   "en": "Furnace II",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -5946,8 +5946,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_furnace_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fornalha III",
+   "en": "Furnace III",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -6122,8 +6122,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_hammer_0_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cortador de pedra",
+   "en": "Stone cutter",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -6216,8 +6216,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_hammer_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cortador de pedra II",
+   "en": "Stone cutter II",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -6310,8 +6310,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_jewelry_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de joias",
+   "en": "Jewelry table",
    "icone": "i_wood_constr_1"
   },
   "acao": "Remove"
@@ -6342,8 +6342,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_ore_1_complete",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de minério de ferro",
+   "en": "Iron ore stockpile",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -6436,8 +6436,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_paper_press_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa de papel",
+   "en": "Paper press",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -6530,8 +6530,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_potter_wheel_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Torno de oleiro",
+   "en": "Potter's wheel",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -6624,8 +6624,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_preparation_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Lugar de preparação",
+   "en": "Preparation place",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -6718,8 +6718,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_preparation_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Lugar de preparação II",
+   "en": "Preparation place II",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -6862,8 +6862,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_printing_press_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa móvel II",
+   "en": "Printing press II",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -6906,8 +6906,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_printing_press_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa móvel",
+   "en": "Printing press",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -6956,8 +6956,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_saw_1",
-   "pt": null,
-   "en": null,
+   "pt": "Serra circular",
+   "en": "Circular Saw",
    "icone": "i_detail_2"
   },
   "acao": "Remove"
@@ -7000,8 +7000,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_saw_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Serra circular",
+   "en": "Circular Saw",
    "icone": "i_detail_2"
   },
   "acao": "Remove"
@@ -7082,8 +7082,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_stones_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de pedras",
+   "en": "Stone stockpile",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -7170,8 +7170,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_timber_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de madeira",
+   "en": "Timber stockpile",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -7264,8 +7264,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_vine_press_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa de vinho",
+   "en": "Vine press",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -7346,8 +7346,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_workbench_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de carpintaria",
+   "en": "Carpenter's Workbench",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -7440,8 +7440,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_workbench_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de carpintaria II",
+   "en": "Carpenter's Workbench II",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -7528,8 +7528,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_zombie_brewing_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cervejaria zumbi",
+   "en": "Zombie-brewery",
    "icone": "i_stone_plate_1"
   },
   "acao": "Remove"
@@ -7616,8 +7616,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_zombie_winemaking_place",
-   "pt": null,
-   "en": null,
+   "pt": "Vinícola zumbi",
+   "en": "Zombie-winery",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -7710,8 +7710,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "obj_church_bookcase_place",
-   "pt": null,
-   "en": null,
+   "pt": "Estante de livros",
+   "en": "Bookshelf",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -7804,8 +7804,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "obj_church_scroll_cabinet_place",
-   "pt": null,
-   "en": null,
+   "pt": "Estante de pergaminhos",
+   "en": "Scrollshelf",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -7898,8 +7898,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "packing_table_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de empacotamento",
+   "en": "Packing table",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -8024,8 +8024,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "pray_stand_stn_place",
-   "pt": null,
-   "en": null,
+   "pt": "Genuflexório de pedra",
+   "en": "Stone prayer station",
    "icone": "i_stone_plate_2"
   },
   "acao": "Remove"
@@ -8112,8 +8112,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "pray_stand_wd_place",
-   "pt": null,
-   "en": null,
+   "pt": "Genuflexório de madeira",
+   "en": "Wooden prayer station",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -8206,8 +8206,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "rack_alchemy_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prateleira de alquimia",
+   "en": "Alchemy rack",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -8300,8 +8300,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "rack_organs_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prateleira do necrotério",
+   "en": "Mortuary rack",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -8520,8 +8520,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_hive_place",
-   "pt": null,
-   "en": null,
+   "pt": "Colmeia",
+   "en": "Bee hive",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -8608,8 +8608,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_4_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -8652,8 +8652,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_5_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -8696,8 +8696,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_6_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -8740,8 +8740,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_7_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -8784,8 +8784,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_coffin_workplace_place",
-   "pt": null,
-   "en": null,
+   "pt": "Local de trabalho do sepultureira",
+   "en": "Undertaker's workplace",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -8828,8 +8828,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_marquis_workplace_place",
-   "pt": null,
-   "en": null,
+   "pt": "Local de trabalho de Teodoro",
+   "en": "Teodoro's workplace",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -8872,8 +8872,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_tanner_workplace_place",
-   "pt": null,
-   "en": null,
+   "pt": "Local de trabalho do curtidora",
+   "en": "Tanner's workplace",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -8904,8 +8904,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "road_marble",
-   "pt": null,
-   "en": null,
+   "pt": "Calçada de mármore",
+   "en": "Marble flagstones",
    "icone": "i_marble_plate_1"
   },
   "acao": "Remove"
@@ -9068,8 +9068,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_alchemy",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9100,8 +9100,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_cellar",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9132,8 +9132,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_church",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9164,8 +9164,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_garden",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9196,8 +9196,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_keeper_room",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9228,8 +9228,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_mf_wood",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9260,8 +9260,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_mining",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9292,8 +9292,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_morgue",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9324,8 +9324,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_players_tavern",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9356,8 +9356,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_players_tavern_cellar",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9388,8 +9388,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_refugee",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9420,8 +9420,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_souls",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9452,8 +9452,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_vineyard",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_detail_1"
   },
   "acao": "Remove"
@@ -9546,8 +9546,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "table_book_constr_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada da igreja",
+   "en": "Church workbench",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -9584,8 +9584,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_barrel_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barril",
+   "en": "Barrel",
    "icone": "i_flitch"
   },
   "acao": "Remove"
@@ -9672,8 +9672,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_cellar_rack_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prateleira de caixas",
+   "en": "Box rack",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -9748,8 +9748,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_table_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa da taberna",
+   "en": "Tavern table",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -9836,8 +9836,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_table_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa da taberna II",
+   "en": "Tavern table II",
    "icone": "i_wood_balk_1"
   },
   "acao": "Remove"
@@ -10014,8 +10014,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "v_obj_compost_heap_place",
-   "pt": null,
-   "en": null,
+   "pt": "Pilha de compostagem",
+   "en": "Compost heap",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -10078,8 +10078,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "vineyard_grapes_stick_place",
-   "pt": null,
-   "en": null,
+   "pt": "Treliça de videira",
+   "en": "Vine trellis",
    "icone": "i_stick"
   },
   "acao": "Remove"
@@ -10280,8 +10280,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "zombie_crafting_table_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de ressurreição",
+   "en": "Resurrection table",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -10324,8 +10324,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "zombie_garden_desk_0",
-   "pt": null,
-   "en": null,
+   "pt": "Fazenda zumbi",
+   "en": "Zombie farm",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -10456,8 +10456,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "zombie_garden_desk_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fazenda zumbi",
+   "en": "Zombie farm",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -10538,8 +10538,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "zombie_pulpit",
-   "pt": null,
-   "en": null,
+   "pt": "Gerador de texto aleatório",
+   "en": "Random text generator",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -10714,8 +10714,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "zombie_vineyard_desk_place",
-   "pt": null,
-   "en": null,
+   "pt": "Vinhedo zumbi",
+   "en": "Zombie vineyard",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -10758,8 +10758,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "zombie_vineyard_desk_place_2",
-   "pt": null,
-   "en": null,
+   "pt": "Vinhedo zumbi",
+   "en": "Zombie vineyard",
    "icone": "i_wooden_plank"
   },
   "acao": "Remove"
@@ -11939,8 +11939,8 @@
   "entradas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1
    }
   ],
@@ -12459,8 +12459,8 @@
   "entradas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1
    }
   ],
@@ -14139,8 +14139,8 @@
   "entradas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1
    }
   ],
@@ -15179,8 +15179,8 @@
   "entradas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1
    }
   ],
@@ -15691,8 +15691,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -15731,8 +15731,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -15771,8 +15771,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -15811,8 +15811,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -15851,8 +15851,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -15891,8 +15891,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -15931,8 +15931,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -15971,8 +15971,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16011,8 +16011,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16051,8 +16051,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16091,8 +16091,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16131,8 +16131,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16171,8 +16171,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16211,16 +16211,16 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
   "entradas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1.0
    }
   ],
@@ -16251,8 +16251,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16291,8 +16291,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16331,8 +16331,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16371,8 +16371,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16411,8 +16411,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16451,8 +16451,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16491,8 +16491,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16531,8 +16531,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16571,8 +16571,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16611,8 +16611,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16651,8 +16651,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16691,8 +16691,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16731,16 +16731,16 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
   "entradas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1.0
    }
   ],
@@ -16771,8 +16771,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16811,8 +16811,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16851,8 +16851,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16891,8 +16891,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16931,8 +16931,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -16971,8 +16971,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17011,8 +17011,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17051,8 +17051,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17091,8 +17091,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17131,8 +17131,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17171,8 +17171,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17211,8 +17211,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17251,8 +17251,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17291,8 +17291,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17331,8 +17331,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17371,8 +17371,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17411,8 +17411,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17451,8 +17451,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17491,8 +17491,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17531,8 +17531,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17571,8 +17571,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17611,16 +17611,16 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
   "entradas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1.0
    }
   ],
@@ -17651,8 +17651,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17691,8 +17691,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17731,8 +17731,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17771,8 +17771,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17811,8 +17811,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17851,8 +17851,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17891,8 +17891,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17931,8 +17931,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -17971,8 +17971,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -18011,8 +18011,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -18051,8 +18051,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -18091,8 +18091,8 @@
   "estacoes": [
    {
     "id": "alchemy_table_zombie",
-    "pt": null,
-    "en": null,
+    "pt": "Decomposição de alquimia zumbi",
+    "en": "Zombie alchemy decomposer",
     "icone": "i_b_grn_zombie_mix"
    }
   ],
@@ -18224,8 +18224,8 @@
   ],
   "objeto_construido": {
    "id": "alchemy_workbench_zombie_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de alquimia de zumbis",
+   "en": "Zombie alchemy workbench",
    "icone": "i_b_grn_zombie_alchemy"
   },
   "acao": "Put"
@@ -18377,8 +18377,8 @@
   ],
   "objeto_construido": {
    "id": "mf_alchemy_craft_02_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de alquimia",
+   "en": "Alchemy workbench",
    "icone": "i_b_alchemy_bench2"
   },
   "acao": "Put"
@@ -18430,8 +18430,8 @@
   ],
   "objeto_construido": {
    "id": "mf_alchemy_craft_03_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de alquimia II",
+   "en": "Alchemy workbench II",
    "icone": "i_b_alchemy_bench3"
   },
   "acao": "Put"
@@ -18483,8 +18483,8 @@
   ],
   "objeto_construido": {
    "id": "mf_alchemy_mill_place",
-   "pt": null,
-   "en": null,
+   "pt": "Moinho de alquimia",
+   "en": "Alchemy mill",
    "icone": "i_b_alchemy_millstone"
   },
   "acao": "Put"
@@ -18536,8 +18536,8 @@
   ],
   "objeto_construido": {
    "id": "mf_alchemy_stirrer_01_place",
-   "pt": null,
-   "en": null,
+   "pt": "Batedor",
+   "en": "Hand mixer",
    "icone": "i_b_alchemical"
   },
   "acao": "Put"
@@ -18589,8 +18589,8 @@
   ],
   "objeto_construido": {
    "id": "mf_alchemy_survey_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de estudo",
+   "en": "Study Table",
    "icone": "i_b_search_bench"
   },
   "acao": "Put"
@@ -18636,8 +18636,8 @@
   ],
   "objeto_construido": {
    "id": "mf_distcube_2_clay_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cubo de destilação",
+   "en": "Distillation cube",
    "icone": "i_b_multy_oven2"
   },
   "acao": "Put"
@@ -18689,8 +18689,8 @@
   ],
   "objeto_construido": {
    "id": "mf_distcube_2_cuprum_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cubo de destilação II",
+   "en": "Distillation cube II",
    "icone": "i_b_multy_oven2"
   },
   "acao": "Put"
@@ -18742,8 +18742,8 @@
   ],
   "objeto_construido": {
    "id": "mf_printing_press_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa móvel II",
+   "en": "Printing press II",
    "icone": "i_b_printing_press2"
   },
   "acao": "Put"
@@ -18795,8 +18795,8 @@
   ],
   "objeto_construido": {
    "id": "mf_printing_press_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa móvel",
+   "en": "Printing press",
    "icone": "i_b_printing_press"
   },
   "acao": "Put"
@@ -18848,8 +18848,8 @@
   ],
   "objeto_construido": {
    "id": "obj_church_bookcase_place",
-   "pt": null,
-   "en": null,
+   "pt": "Estante de livros",
+   "en": "Bookshelf",
    "icone": "i_b_bookcase"
   },
   "acao": "Put"
@@ -18901,8 +18901,8 @@
   ],
   "objeto_construido": {
    "id": "obj_church_scroll_cabinet_place",
-   "pt": null,
-   "en": null,
+   "pt": "Estante de pergaminhos",
+   "en": "Scrollshelf",
    "icone": "i_b_scrollcase"
   },
   "acao": "Put"
@@ -18954,8 +18954,8 @@
   ],
   "objeto_construido": {
    "id": "rack_alchemy_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prateleira de alquimia",
+   "en": "Alchemy rack",
    "icone": "i_b_boock_alchemical_cabinet"
   },
   "acao": "Put"
@@ -19005,8 +19005,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_alchemy",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -19059,8 +19059,8 @@
   ],
   "objeto_construido": {
    "id": "table_book_constr_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada da igreja",
+   "en": "Church workbench",
    "icone": "i_b_alchemy_gear"
   },
   "acao": "Put"
@@ -19112,8 +19112,8 @@
   ],
   "objeto_construido": {
    "id": "zombie_pulpit",
-   "pt": null,
-   "en": null,
+   "pt": "Gerador de texto aleatório",
+   "en": "Random text generator",
    "icone": "i_b_grn_zombie_writer"
   },
   "acao": "Put"
@@ -19781,14 +19781,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -19834,14 +19834,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -19893,8 +19893,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -19946,8 +19946,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20037,14 +20037,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4.0
    },
    {
@@ -20096,14 +20096,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -20149,14 +20149,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -20208,8 +20208,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20257,8 +20257,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20300,14 +20300,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -20353,14 +20353,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -20456,8 +20456,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20509,8 +20509,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20556,14 +20556,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4.0
    },
    {
@@ -20615,14 +20615,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -20668,14 +20668,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -20727,8 +20727,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20780,8 +20780,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20827,14 +20827,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    },
    {
@@ -20892,8 +20892,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20942,8 +20942,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -20992,8 +20992,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -21045,8 +21045,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7.0
    }
   ],
@@ -21224,14 +21224,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -21277,14 +21277,14 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -22275,8 +22275,8 @@
    },
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 1.0
    }
   ],
@@ -22498,8 +22498,8 @@
   "estacoes": [
    {
     "id": "beegarden_table",
-    "pt": null,
-    "en": null,
+    "pt": "Apiário",
+    "en": "Apiary",
     "icone": "i_z_beegarden_table"
    }
   ],
@@ -22623,8 +22623,8 @@
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 2.0
    }
   ],
@@ -22747,8 +22747,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -23156,8 +23156,8 @@
    },
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    }
   ],
@@ -23209,8 +23209,8 @@
    },
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    }
   ],
@@ -23256,8 +23256,8 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
@@ -23268,8 +23268,8 @@
    },
    {
     "id": "story",
-    "pt": null,
-    "en": null,
+    "pt": "História",
+    "en": "Story",
     "qtd": 1.0
    }
   ],
@@ -23974,8 +23974,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24013,8 +24013,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24052,8 +24052,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24091,8 +24091,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24130,8 +24130,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24175,16 +24175,16 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 50.0
    },
    {
@@ -24220,8 +24220,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24234,8 +24234,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 20.0
    }
   ],
@@ -24265,8 +24265,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24310,8 +24310,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24355,8 +24355,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24400,8 +24400,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24445,8 +24445,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24490,8 +24490,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24535,8 +24535,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24580,8 +24580,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24625,8 +24625,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24676,8 +24676,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24727,8 +24727,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24778,8 +24778,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24829,8 +24829,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24880,8 +24880,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24925,8 +24925,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -24976,8 +24976,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25015,8 +25015,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25054,8 +25054,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25144,8 +25144,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25246,8 +25246,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25348,8 +25348,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25450,8 +25450,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25552,8 +25552,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25654,8 +25654,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25705,8 +25705,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25744,8 +25744,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -25783,8 +25783,8 @@
   "estacoes": [
    {
     "id": "elevator_top",
-    "pt": null,
-    "en": null,
+    "pt": "Fábrica de baús",
+    "en": "Crate factory",
     "icone": "i_b_grn_zombie_lift"
    }
   ],
@@ -26350,8 +26350,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26395,8 +26395,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26440,8 +26440,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26626,8 +26626,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26683,8 +26683,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26740,8 +26740,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26797,8 +26797,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26848,8 +26848,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26905,8 +26905,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26950,8 +26950,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -26964,8 +26964,8 @@
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    }
   ],
@@ -26995,8 +26995,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27289,8 +27289,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27334,8 +27334,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27379,8 +27379,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27424,8 +27424,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27481,8 +27481,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27538,8 +27538,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27838,8 +27838,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27858,8 +27858,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -27895,8 +27895,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27915,8 +27915,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -27952,8 +27952,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -27972,8 +27972,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -28009,8 +28009,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -28029,8 +28029,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -28066,8 +28066,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -28086,8 +28086,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -28123,8 +28123,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_cooking_table",
-    "pt": null,
-    "en": null,
+    "pt": "Bancada de cozinhar",
+    "en": "Cooking table",
     "icone": null
    },
    {
@@ -28143,8 +28143,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -29008,8 +29008,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -29017,8 +29017,8 @@
   "saidas": [
    {
     "id": "carved_wood",
-    "pt": "",
-    "en": "",
+    "pt": "Madeira entalhada",
+    "en": "Carved wood",
     "qtd": 1.0
    }
   ],
@@ -29081,8 +29081,8 @@
   ],
   "objeto_construido": {
    "id": "barrel_brew_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barril de fermentação",
+   "en": "Fermentation barrel",
    "icone": "i_b_barrel2"
   },
   "acao": "Put"
@@ -29128,8 +29128,8 @@
   ],
   "objeto_construido": {
    "id": "brewing_stand_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fogareiro de fermentação",
+   "en": "Brewing stand",
    "icone": "i_b_multy_oven3"
   },
   "acao": "Put"
@@ -29181,8 +29181,8 @@
   ],
   "objeto_construido": {
    "id": "mf_barrel_mid_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barril de vinho",
+   "en": "Wine making barrel",
    "icone": "i_b_barrel"
   },
   "acao": "Put"
@@ -29232,8 +29232,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_b_box_wooden"
   },
   "acao": "Put"
@@ -29285,8 +29285,8 @@
   ],
   "objeto_construido": {
    "id": "mf_distcube_3_place",
-   "pt": null,
-   "en": null,
+   "pt": "Destilador de álcool",
+   "en": "Alcohol distiller",
    "icone": "i_b_alcohol_distillation"
   },
   "acao": "Put"
@@ -29338,8 +29338,8 @@
   ],
   "objeto_construido": {
    "id": "mf_vine_press_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa de vinho",
+   "en": "Vine press",
    "icone": "i_b_mf_vine_press"
   },
   "acao": "Put"
@@ -29391,8 +29391,8 @@
   ],
   "objeto_construido": {
    "id": "mf_zombie_brewing_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cervejaria zumbi",
+   "en": "Zombie-brewery",
    "icone": "i_b_grn_zombie_brewing"
   },
   "acao": "Put"
@@ -29444,8 +29444,8 @@
   ],
   "objeto_construido": {
    "id": "mf_zombie_winemaking_place",
-   "pt": null,
-   "en": null,
+   "pt": "Vinícola zumbi",
+   "en": "Zombie-winery",
    "icone": "i_b_grn_zombie_winemaking"
   },
   "acao": "Put"
@@ -29495,8 +29495,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_cellar",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -29905,8 +29905,8 @@
   "saidas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    }
   ],
@@ -29964,8 +29964,8 @@
   "saidas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    }
   ],
@@ -30014,8 +30014,8 @@
    },
    {
     "id": "story",
-    "pt": null,
-    "en": null,
+    "pt": "História",
+    "en": "Story",
     "qtd": 1.0
    }
   ],
@@ -30023,8 +30023,8 @@
   "saidas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    }
   ],
@@ -30683,8 +30683,8 @@
   ],
   "objeto_construido": {
    "id": "c_obj_incense_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Incensório",
+   "en": "Incense burner",
    "icone": "i_b_incense"
   },
   "acao": "Put"
@@ -30736,8 +30736,8 @@
   ],
   "objeto_construido": {
    "id": "c_obj_incense_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Incensório II",
+   "en": "Incense burner II",
    "icone": "i_b_incense2"
   },
   "acao": "Put"
@@ -30922,8 +30922,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "chest_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Chest",
    "icone": "i_b_chest"
   },
   "acao": "Put"
@@ -31069,8 +31069,8 @@
   ],
   "objeto_construido": {
    "id": "church_budka_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Confessionário",
+   "en": "Сonfessional",
    "icone": "i_b_repentance_booh01"
   },
   "acao": "Put"
@@ -31122,8 +31122,8 @@
   ],
   "objeto_construido": {
    "id": "church_budka_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Confessionário II",
+   "en": "Сonfessional II",
    "icone": "i_b_repentance_booh02"
   },
   "acao": "Put"
@@ -31175,8 +31175,8 @@
   ],
   "objeto_construido": {
    "id": "church_table_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Santuário de igreja de madeira",
+   "en": "Wooden church shrine",
    "icone": "i_b_holy_cross"
   },
   "acao": "Put"
@@ -31228,8 +31228,8 @@
   ],
   "objeto_construido": {
    "id": "church_table_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Santuário de igreja de pedra",
+   "en": "Stone church shrine",
    "icone": "i_b_holy_cross02"
   },
   "acao": "Put"
@@ -31332,8 +31332,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_church",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -31715,8 +31715,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -31771,8 +31771,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -32105,8 +32105,8 @@
   ],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_b_box_wooden"
   },
   "acao": "Put"
@@ -32159,8 +32159,8 @@
   "estacoes": [
    {
     "id": "mf_crematorium_corp",
-    "pt": null,
-    "en": null,
+    "pt": "Parede do Crematório",
+    "en": "Wall Crematorium",
     "icone": "i_b_sls_crematorium"
    }
   ],
@@ -32191,8 +32191,8 @@
   "estacoes": [
    {
     "id": "mf_crematorium_burning",
-    "pt": null,
-    "en": null,
+    "pt": "Parede do Crematório",
+    "en": "Wall Crematorium",
     "icone": null
    }
   ],
@@ -32679,8 +32679,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -32717,8 +32717,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -32749,8 +32749,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -32781,8 +32781,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -32813,8 +32813,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -32845,8 +32845,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -32877,16 +32877,16 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
   "entradas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -32909,8 +32909,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -32941,8 +32941,8 @@
   "estacoes": [
    {
     "id": "contraband_box",
-    "pt": null,
-    "en": null,
+    "pt": "Caixa de Contrabando",
+    "en": "Contraband Box",
     "icone": "i_b_goc_revolution_box"
    }
   ],
@@ -34777,8 +34777,8 @@
   "saidas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1
    }
   ],
@@ -34922,8 +34922,8 @@
   "saidas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1
    }
   ],
@@ -34995,8 +34995,8 @@
   "saidas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1
    }
   ],
@@ -35378,8 +35378,8 @@
   "saidas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1
    }
   ],
@@ -35523,8 +35523,8 @@
   "saidas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1
    }
   ],
@@ -35596,8 +35596,8 @@
   "saidas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1
    }
   ],
@@ -36056,8 +36056,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 1.0
    }
   ],
@@ -36209,8 +36209,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 3.0
    },
    {
@@ -36454,8 +36454,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 3.0
    }
   ],
@@ -36552,8 +36552,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 2.0
    }
   ],
@@ -36697,8 +36697,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 2.0
    }
   ],
@@ -38992,8 +38992,8 @@
   "estacoes": [
    {
     "id": "mf_saw_1",
-    "pt": null,
-    "en": null,
+    "pt": "Serra circular",
+    "en": "Circular Saw",
     "icone": "i_b_mf_saw_1"
    }
   ],
@@ -39464,8 +39464,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    },
    {
@@ -39484,8 +39484,8 @@
   "entradas": [
    {
     "id": "beet_seed",
-    "pt": null,
-    "en": null,
+    "pt": "Semente de beterraba",
+    "en": "Beet seed",
     "qtd": 24.0
    }
   ],
@@ -39493,16 +39493,16 @@
   "saidas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": null,
     "qtd_expr": "(26+4*WGOpar(\"lvl\"))",
     "qtd_max": "(38+4*WGOpar(\"lvl\"))"
    },
    {
     "id": "beet_seed",
-    "pt": null,
-    "en": null,
+    "pt": "Semente de beterraba",
+    "en": "Beet seed",
     "qtd": 20.0,
     "qtd_max": 28.0
    }
@@ -39557,8 +39557,8 @@
   "entradas": [
    {
     "id": "beet_seed",
-    "pt": null,
-    "en": null,
+    "pt": "Semente de beterraba",
+    "en": "Beet seed",
     "qtd": 4.0
    }
   ],
@@ -39604,8 +39604,8 @@
   ],
   "objeto_construido": {
    "id": "garden_empty_place",
-   "pt": null,
-   "en": null,
+   "pt": "Canteiro vazio",
+   "en": "Empty garden bed",
    "icone": "i_b_beds"
   },
   "acao": "Put"
@@ -39645,8 +39645,8 @@
   ],
   "objeto_construido": {
    "id": "garden_empty_stick_place",
-   "pt": null,
-   "en": null,
+   "pt": "Canteiro com varetas",
+   "en": "Garden bed with sticks",
    "icone": "i_b_wine_stick"
   },
   "acao": "Put"
@@ -39698,8 +39698,8 @@
   ],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_b_box_wooden"
   },
   "acao": "Put"
@@ -39749,8 +39749,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "packing_table_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de empacotamento",
+   "en": "Packing table",
    "icone": "i_b_packing_table"
   },
   "acao": "Put"
@@ -39845,8 +39845,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_garden",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -39886,8 +39886,8 @@
   ],
   "objeto_construido": {
    "id": "v_obj_compost_heap_place",
-   "pt": null,
-   "en": null,
+   "pt": "Pilha de compostagem",
+   "en": "Compost heap",
    "icone": "i_b_pile_of_humus"
   },
   "acao": "Put"
@@ -39939,8 +39939,8 @@
   ],
   "objeto_construido": {
    "id": "zombie_garden_desk_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fazenda zumbi",
+   "en": "Zombie farm",
    "icone": "i_b_grn_zombie_garden"
   },
   "acao": "Put"
@@ -39997,8 +39997,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    },
    {
@@ -40243,8 +40243,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    },
    {
@@ -41112,8 +41112,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    },
    {
@@ -41401,8 +41401,8 @@
   "estacoes": [
    {
     "id": "garden_of_stones_place",
-    "pt": null,
-    "en": null,
+    "pt": "Jardim de pedra",
+    "en": "Stone garden",
     "icone": "i_b_garden_of_stones"
    }
   ],
@@ -41439,8 +41439,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    },
    {
@@ -41728,8 +41728,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    },
    {
@@ -42185,8 +42185,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    },
    {
@@ -43067,8 +43067,8 @@
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    }
   ],
@@ -44480,8 +44480,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -44536,8 +44536,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -45743,8 +45743,8 @@
   ],
   "objeto_construido": {
    "id": "columbarium_marble_place",
-   "pt": null,
-   "en": null,
+   "pt": "Columbário de mármore",
+   "en": "Marble columbarium",
    "icone": "i_b_funeral_urn_2"
   },
   "acao": "Put"
@@ -45796,8 +45796,8 @@
   ],
   "objeto_construido": {
    "id": "columbarium_stone_place",
-   "pt": null,
-   "en": null,
+   "pt": "Columbário de pedra",
+   "en": "Stone columbarium",
    "icone": "i_b_funeral_urn_1"
   },
   "acao": "Put"
@@ -45847,8 +45847,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "flowerbed_2x2",
-   "pt": null,
-   "en": null,
+   "pt": "Canteiro de flores",
+   "en": "Flowerbed",
    "icone": "i_b_flowerbed"
   },
   "acao": "Put"
@@ -45894,8 +45894,8 @@
   ],
   "objeto_construido": {
    "id": "grass_sward_2x3",
-   "pt": null,
-   "en": null,
+   "pt": "Gramado",
+   "en": "Lawn",
    "icone": "i_b_grass_sward"
   },
   "acao": "Put"
@@ -45941,8 +45941,8 @@
   ],
   "objeto_construido": {
    "id": "grass_sward_2x4",
-   "pt": null,
-   "en": null,
+   "pt": "Gramado",
+   "en": "Lawn",
    "icone": "i_b_grass_sward"
   },
   "acao": "Put"
@@ -45988,8 +45988,8 @@
   ],
   "objeto_construido": {
    "id": "grass_sward_2x6",
-   "pt": null,
-   "en": null,
+   "pt": "Gramado",
+   "en": "Lawn",
    "icone": "i_b_grass_sward"
   },
   "acao": "Put"
@@ -46073,8 +46073,8 @@
   ],
   "objeto_construido": {
    "id": "lantern_3",
-   "pt": null,
-   "en": null,
+   "pt": "Lamparina",
+   "en": "Lantern",
    "icone": "i_b_lantern_3"
   },
   "acao": "Put"
@@ -46126,8 +46126,8 @@
   ],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_b_box_wooden"
   },
   "acao": "Put"
@@ -46179,8 +46179,8 @@
   ],
   "objeto_construido": {
    "id": "pray_stand_stn_place",
-   "pt": null,
-   "en": null,
+   "pt": "Genuflexório de pedra",
+   "en": "Stone prayer station",
    "icone": "i_b_boock_roof02"
   },
   "acao": "Put"
@@ -46232,8 +46232,8 @@
   ],
   "objeto_construido": {
    "id": "pray_stand_wd_place",
-   "pt": null,
-   "en": null,
+   "pt": "Genuflexório de madeira",
+   "en": "Wooden prayer station",
    "icone": "i_b_boock_roof01"
   },
   "acao": "Put"
@@ -46273,8 +46273,8 @@
   ],
   "objeto_construido": {
    "id": "road_marble",
-   "pt": null,
-   "en": null,
+   "pt": "Calçada de mármore",
+   "en": "Marble flagstones",
    "icone": "i_b_ground_plate"
   },
   "acao": "Put"
@@ -46294,8 +46294,8 @@
   "entradas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 50.0
    }
   ],
@@ -47323,8 +47323,8 @@
   "entradas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 1.0
    }
   ],
@@ -47373,8 +47373,8 @@
   "entradas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 2.0
    }
   ],
@@ -47421,8 +47421,8 @@
   "entradas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 4.0
    }
   ],
@@ -47471,8 +47471,8 @@
   "entradas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 3.0
    }
   ],
@@ -47519,8 +47519,8 @@
   "entradas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 6.0
    }
   ],
@@ -47569,8 +47569,8 @@
   "entradas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 2.0
    }
   ],
@@ -48003,8 +48003,8 @@
   "entradas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1
    }
   ],
@@ -48140,8 +48140,8 @@
   "entradas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1
    }
   ],
@@ -48209,8 +48209,8 @@
   "entradas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1
    }
   ],
@@ -48414,8 +48414,8 @@
   "entradas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1
    }
   ],
@@ -48551,8 +48551,8 @@
   "entradas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1
    }
   ],
@@ -48620,8 +48620,8 @@
   "entradas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1
    }
   ],
@@ -49339,8 +49339,8 @@
   "entradas": [
    {
     "id": "ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 1.0
    }
   ],
@@ -49348,8 +49348,8 @@
   "saidas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 5.0
    },
    {
@@ -49393,8 +49393,8 @@
   "entradas": [
    {
     "id": "ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 1.0
    }
   ],
@@ -49402,8 +49402,8 @@
   "saidas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 5.0
    },
    {
@@ -49620,8 +49620,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -51593,8 +51593,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_keeper_room",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "None"
@@ -53249,8 +53249,8 @@
   "estacoes": [
    {
     "id": "lantern_1_clone",
-    "pt": null,
-    "en": null,
+    "pt": "Tocha",
+    "en": "Torch",
     "icone": "i_b_lantern_1"
    }
   ],
@@ -53293,8 +53293,8 @@
   "estacoes": [
    {
     "id": "lantern_1_clone",
-    "pt": null,
-    "en": null,
+    "pt": "Tocha",
+    "en": "Torch",
     "icone": "i_b_lantern_1"
    }
   ],
@@ -53381,8 +53381,8 @@
   "estacoes": [
    {
     "id": "lantern_2_clone",
-    "pt": null,
-    "en": null,
+    "pt": "Lamparina de madeira",
+    "en": "Wooden lantern",
     "icone": "i_b_lantern_2"
    }
   ],
@@ -53553,8 +53553,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -53986,8 +53986,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -53995,8 +53995,8 @@
   "saidas": [
    {
     "id": "marble_plate_3",
-    "pt": null,
-    "en": null,
+    "pt": "Pedaço de mármore entalhado",
+    "en": "A carved piece of marble",
     "qtd": 1.0
    }
   ],
@@ -54235,8 +54235,8 @@
    },
    {
     "id": "mf_crematorium_corp",
-    "pt": null,
-    "en": null,
+    "pt": "Parede do Crematório",
+    "en": "Wall Crematorium",
     "icone": "i_b_sls_crematorium"
    }
   ],
@@ -54752,8 +54752,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "chest_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Chest",
    "icone": "i_b_chest"
   },
   "acao": "Put"
@@ -54928,8 +54928,8 @@
   ],
   "objeto_construido": {
    "id": "mf_beam_gantry_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cavalete",
+   "en": "Sawhorse",
    "icone": "i_b_mf_beam_gantry_1"
   },
   "acao": "Put"
@@ -54979,8 +54979,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_b_box_wooden"
   },
   "acao": "Put"
@@ -55073,8 +55073,8 @@
   ],
   "objeto_construido": {
    "id": "mf_furnace_0_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fornalha",
+   "en": "Furnace",
    "icone": "i_b_mf_furnace_0"
   },
   "acao": "Put"
@@ -55126,8 +55126,8 @@
   ],
   "objeto_construido": {
    "id": "mf_furnace_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fornalha II",
+   "en": "Furnace II",
    "icone": "i_b_mf_furnace_1"
   },
   "acao": "Put"
@@ -55179,8 +55179,8 @@
   ],
   "objeto_construido": {
    "id": "mf_furnace_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Fornalha III",
+   "en": "Furnace III",
    "icone": "i_b_mf_furnace_2"
   },
   "acao": "Put"
@@ -55277,8 +55277,8 @@
   ],
   "objeto_construido": {
    "id": "mf_hammer_0_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cortador de pedra",
+   "en": "Stone cutter",
    "icone": "i_b_mf_hammer_0"
   },
   "acao": "Put"
@@ -55330,8 +55330,8 @@
   ],
   "objeto_construido": {
    "id": "mf_hammer_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cortador de pedra II",
+   "en": "Stone cutter II",
    "icone": "i_b_mf_hammer_1"
   },
   "acao": "Put"
@@ -55383,8 +55383,8 @@
   ],
   "objeto_construido": {
    "id": "mf_jewelry_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de joias",
+   "en": "Jewelry table",
    "icone": "i_b_mf_jewelry"
   },
   "acao": "Put"
@@ -55424,8 +55424,8 @@
   ],
   "objeto_construido": {
    "id": "mf_ore_1_complete",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de minério de ferro",
+   "en": "Iron ore stockpile",
    "icone": "i_b_irone_ore"
   },
   "acao": "Put"
@@ -55477,8 +55477,8 @@
   ],
   "objeto_construido": {
    "id": "mf_paper_press_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa de papel",
+   "en": "Paper press",
    "icone": "i_b_paper_press"
   },
   "acao": "Put"
@@ -55530,8 +55530,8 @@
   ],
   "objeto_construido": {
    "id": "mf_potter_wheel_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Torno de oleiro",
+   "en": "Potter's wheel",
    "icone": "i_b_mf_potter_wheel_1"
   },
   "acao": "Put"
@@ -55583,8 +55583,8 @@
   ],
   "objeto_construido": {
    "id": "mf_saw_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Serra circular",
+   "en": "Circular Saw",
    "icone": "i_b_mf_saw_1"
   },
   "acao": "Put"
@@ -55630,8 +55630,8 @@
   ],
   "objeto_construido": {
    "id": "mf_stones_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de pedras",
+   "en": "Stone stockpile",
    "icone": "i_b_stone_storage"
   },
   "acao": "Put"
@@ -55683,8 +55683,8 @@
   ],
   "objeto_construido": {
    "id": "mf_timber_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de madeira",
+   "en": "Timber stockpile",
    "icone": "i_b_wood_storage"
   },
   "acao": "Put"
@@ -55736,8 +55736,8 @@
   ],
   "objeto_construido": {
    "id": "mf_vine_press_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prensa de vinho",
+   "en": "Vine press",
    "icone": "i_b_mf_vine_press"
   },
   "acao": "Put"
@@ -55783,8 +55783,8 @@
   ],
   "objeto_construido": {
    "id": "mf_workbench_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de carpintaria",
+   "en": "Carpenter's Workbench",
    "icone": "i_b_mf_workbench_1"
   },
   "acao": "Put"
@@ -55836,8 +55836,8 @@
   ],
   "objeto_construido": {
    "id": "mf_workbench_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de carpintaria II",
+   "en": "Carpenter's Workbench II",
    "icone": "i_b_mf_workbench_2"
   },
   "acao": "Put"
@@ -55887,8 +55887,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_mf_wood",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -55940,8 +55940,8 @@
   "estacoes": [
    {
     "id": "mine_zombie_bench",
-    "pt": null,
-    "en": null,
+    "pt": "Mina zumbi",
+    "en": "Zombie mine",
     "icone": "i_z_mine_zombie_bench"
    }
   ],
@@ -55972,8 +55972,8 @@
   "estacoes": [
    {
     "id": "mine_zombie_bench",
-    "pt": null,
-    "en": null,
+    "pt": "Mina zumbi",
+    "en": "Zombie mine",
     "icone": "i_z_mine_zombie_bench"
    }
   ],
@@ -55982,8 +55982,8 @@
   "saidas": [
    {
     "id": "ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 1.0
    }
   ],
@@ -56430,8 +56430,8 @@
   ],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_b_box_wooden"
   },
   "acao": "Put"
@@ -56477,8 +56477,8 @@
   ],
   "objeto_construido": {
    "id": "mf_hammer_0_place",
-   "pt": null,
-   "en": null,
+   "pt": "Cortador de pedra",
+   "en": "Stone cutter",
    "icone": "i_b_mf_hammer_0"
   },
   "acao": "Put"
@@ -56518,8 +56518,8 @@
   ],
   "objeto_construido": {
    "id": "mf_ore_1_complete",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de minério de ferro",
+   "en": "Iron ore stockpile",
    "icone": "i_b_irone_ore"
   },
   "acao": "Put"
@@ -56565,8 +56565,8 @@
   ],
   "objeto_construido": {
    "id": "mf_stones_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Reserva de pedras",
+   "en": "Stone stockpile",
    "icone": "i_b_stone_storage"
   },
   "acao": "Put"
@@ -56669,8 +56669,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_mining",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": null
   },
   "acao": "Put"
@@ -59216,8 +59216,8 @@
   "saidas": [
    {
     "id": "pot_damage",
-    "pt": null,
-    "en": null,
+    "pt": "Poção de raiva",
+    "en": "Rage potion",
     "qtd": 1.0
    }
   ],
@@ -82790,8 +82790,8 @@
   "saidas": [
    {
     "id": "pot_damage",
-    "pt": null,
-    "en": null,
+    "pt": "Poção de raiva",
+    "en": "Rage potion",
     "qtd": 1.0
    }
   ],
@@ -83710,8 +83710,8 @@
   ],
   "objeto_construido": {
    "id": "corpse_bed_big_place",
-   "pt": null,
-   "en": null,
+   "pt": "Paletes duplas",
+   "en": "Double pallet",
    "icone": "i_b_corpse_place02"
   },
   "acao": "Put"
@@ -83757,8 +83757,8 @@
   ],
   "objeto_construido": {
    "id": "corpse_bed_place",
-   "pt": null,
-   "en": null,
+   "pt": "Palete",
+   "en": "Pallet",
    "icone": "i_b_corpse_place"
   },
   "acao": "Put"
@@ -83810,8 +83810,8 @@
   ],
   "objeto_construido": {
    "id": "corpse_fridge_place",
-   "pt": null,
-   "en": null,
+   "pt": "Palete refrigerador",
+   "en": "Fridge pallet",
    "icone": "i_b_corpse_place02_fridge"
   },
   "acao": "Put"
@@ -83863,8 +83863,8 @@
   ],
   "objeto_construido": {
    "id": "mf_balsamation_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de embalsamamento",
+   "en": "Embalming Table",
    "icone": "i_b_mf_balsamation_1"
   },
   "acao": "Put"
@@ -83916,8 +83916,8 @@
   ],
   "objeto_construido": {
    "id": "mf_balsamation_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de embalsamamento II",
+   "en": "Embalming Table II",
    "icone": "i_b_mf_balsamation_2"
   },
   "acao": "Put"
@@ -83969,8 +83969,8 @@
   ],
   "objeto_construido": {
    "id": "mf_preparation_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Lugar de preparação",
+   "en": "Preparation place",
    "icone": "i_b_mf_preparation_1"
   },
   "acao": "Put"
@@ -84022,8 +84022,8 @@
   ],
   "objeto_construido": {
    "id": "mf_preparation_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Lugar de preparação II",
+   "en": "Preparation place II",
    "icone": "i_b_mf_preparation_2"
   },
   "acao": "Put"
@@ -84075,8 +84075,8 @@
   ],
   "objeto_construido": {
    "id": "rack_organs_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prateleira do necrotério",
+   "en": "Mortuary rack",
    "icone": "i_b_boock_organs_cabinet"
   },
   "acao": "Put"
@@ -84126,8 +84126,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_morgue",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -84173,8 +84173,8 @@
   ],
   "objeto_construido": {
    "id": "zombie_crafting_table_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa de ressurreição",
+   "en": "Resurrection table",
    "icone": "i_b_grn_revival_table"
   },
   "acao": "Put"
@@ -84459,8 +84459,8 @@
   "entradas": [
    {
     "id": "story",
-    "pt": null,
-    "en": null,
+    "pt": "História",
+    "en": "Story",
     "qtd": 1.0
    },
    {
@@ -84518,8 +84518,8 @@
   "entradas": [
    {
     "id": "story",
-    "pt": null,
-    "en": null,
+    "pt": "História",
+    "en": "Story",
     "qtd": 1.0
    },
    {
@@ -85080,8 +85080,8 @@
    },
    {
     "id": "mf_crematorium_corp",
-    "pt": null,
-    "en": null,
+    "pt": "Parede do Crematório",
+    "en": "Wall Crematorium",
     "icone": "i_b_sls_crematorium"
    }
   ],
@@ -85154,8 +85154,8 @@
    },
    {
     "id": "mf_crematorium_corp",
-    "pt": null,
-    "en": null,
+    "pt": "Parede do Crematório",
+    "en": "Wall Crematorium",
     "icone": "i_b_sls_crematorium"
    }
   ],
@@ -85194,8 +85194,8 @@
   "entradas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1.0
    },
    {
@@ -86316,8 +86316,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    },
    {
@@ -86418,8 +86418,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    },
    {
@@ -86469,8 +86469,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10.0
    },
    {
@@ -86520,8 +86520,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    },
    {
@@ -86646,8 +86646,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_players_tavern",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -86691,8 +86691,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_barrel_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barril",
+   "en": "Barrel",
    "icone": "i_b_tavern_table_barrel"
   },
   "acao": "Put"
@@ -86736,8 +86736,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_table_1_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa da taberna",
+   "en": "Tavern table",
    "icone": "i_b_tavern_table_1"
   },
   "acao": "Put"
@@ -86787,8 +86787,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_table_2_place",
-   "pt": null,
-   "en": null,
+   "pt": "Mesa da taberna II",
+   "en": "Tavern table II",
    "icone": "i_b_tavern_table_2"
   },
   "acao": "Put"
@@ -86838,8 +86838,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_players_tavern_cellar",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -86889,8 +86889,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "tavern_cellar_rack_place",
-   "pt": null,
-   "en": null,
+   "pt": "Prateleira de caixas",
+   "en": "Box rack",
    "icone": "i_b_tavern_pallet"
   },
   "acao": "Put"
@@ -87276,8 +87276,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -87507,8 +87507,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    },
    {
@@ -87552,8 +87552,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    },
    {
@@ -87597,8 +87597,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    },
    {
@@ -87642,8 +87642,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    },
    {
@@ -87687,8 +87687,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    },
    {
@@ -87732,8 +87732,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    },
    {
@@ -87873,8 +87873,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -87912,8 +87912,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -87951,8 +87951,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -87990,8 +87990,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    },
    {
@@ -88035,8 +88035,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    },
    {
@@ -88080,8 +88080,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    },
    {
@@ -88125,8 +88125,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -88164,8 +88164,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -88203,8 +88203,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -88242,8 +88242,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -88281,8 +88281,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -88320,8 +88320,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -88455,8 +88455,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -88494,8 +88494,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -88533,8 +88533,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -88572,8 +88572,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -88611,8 +88611,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -88650,8 +88650,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -88689,8 +88689,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -88728,8 +88728,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -88767,8 +88767,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -88806,8 +88806,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -88845,8 +88845,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -88884,8 +88884,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -88923,8 +88923,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    },
    {
@@ -88968,8 +88968,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    },
    {
@@ -89013,8 +89013,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    },
    {
@@ -89058,8 +89058,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -89097,8 +89097,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -89136,8 +89136,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -89175,8 +89175,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -89214,8 +89214,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    }
   ],
@@ -89253,8 +89253,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -89580,8 +89580,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    },
    {
@@ -89631,8 +89631,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2.0
    },
    {
@@ -89682,8 +89682,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    },
    {
@@ -89810,8 +89810,8 @@
   "saidas": [
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1.0
    }
   ],
@@ -89897,8 +89897,8 @@
   "entradas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 1.0
    },
    {
@@ -89918,8 +89918,8 @@
   "saidas": [
    {
     "id": "chapter",
-    "pt": null,
-    "en": null,
+    "pt": "Capítulo",
+    "en": "Chapter",
     "qtd": 5.0
    }
   ],
@@ -90245,8 +90245,8 @@
   "saidas": [
    {
     "id": "rat_buff:dog_training_1",
-    "pt": null,
-    "en": null,
+    "pt": "Treinamento canino I",
+    "en": "Dog training I",
     "qtd": 1
    }
   ],
@@ -90277,8 +90277,8 @@
   "saidas": [
    {
     "id": "rat_buff:dog_training_2",
-    "pt": null,
-    "en": null,
+    "pt": "Treinamento canino II",
+    "en": "Dog training II",
     "qtd": 1
    }
   ],
@@ -90309,8 +90309,8 @@
   "saidas": [
    {
     "id": "rat_buff:dog_training_3",
-    "pt": null,
-    "en": null,
+    "pt": "Treinamento canino III",
+    "en": "Dog training III",
     "qtd": 1
    }
   ],
@@ -90341,8 +90341,8 @@
   "saidas": [
    {
     "id": "rat_buff:speed_training_1",
-    "pt": null,
-    "en": null,
+    "pt": "Treinamento de velocidade I",
+    "en": "Speed training I",
     "qtd": 1
    }
   ],
@@ -90373,8 +90373,8 @@
   "saidas": [
    {
     "id": "rat_buff:speed_training_2",
-    "pt": null,
-    "en": null,
+    "pt": "Treinamento de velocidade II",
+    "en": "Speed training II",
     "qtd": 1
    }
   ],
@@ -90405,8 +90405,8 @@
   "saidas": [
    {
     "id": "rat_buff:speed_training_3",
-    "pt": null,
-    "en": null,
+    "pt": "Treinamento de velocidade III",
+    "en": "Speed training III",
     "qtd": 1
    }
   ],
@@ -90704,8 +90704,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_cooking_table",
-   "pt": null,
-   "en": null,
+   "pt": "Bancada de cozinhar",
+   "en": "Cooking table",
    "icone": "i_b_goc_field_kitchen_1"
   },
   "acao": "None"
@@ -91214,8 +91214,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_refugee",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "None"
@@ -91316,8 +91316,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_hive_place",
-   "pt": null,
-   "en": null,
+   "pt": "Colmeia",
+   "en": "Bee hive",
    "icone": "i_b_goc_beehive"
   },
   "acao": "Put"
@@ -91418,8 +91418,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_4_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_b_goc_tent"
   },
   "acao": "Put"
@@ -91469,8 +91469,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_5_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_b_goc_tent"
   },
   "acao": "Put"
@@ -91520,8 +91520,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_6_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_b_goc_tent"
   },
   "acao": "Put"
@@ -91571,8 +91571,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_camp_tent_7_place",
-   "pt": null,
-   "en": null,
+   "pt": "Barraca Residencial",
+   "en": "Residential tent",
    "icone": "i_b_goc_tent"
   },
   "acao": "Put"
@@ -91622,8 +91622,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_coffin_workplace_place",
-   "pt": null,
-   "en": null,
+   "pt": "Local de trabalho do sepultureira",
+   "en": "Undertaker's workplace",
    "icone": "i_b_goc_table_2"
   },
   "acao": "Put"
@@ -91673,8 +91673,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_marquis_workplace_place",
-   "pt": null,
-   "en": null,
+   "pt": "Local de trabalho de Teodoro",
+   "en": "Teodoro's workplace",
    "icone": "i_b_goc_table_1"
   },
   "acao": "Put"
@@ -91724,8 +91724,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "refugee_tanner_workplace_place",
-   "pt": null,
-   "en": null,
+   "pt": "Local de trabalho do curtidora",
+   "en": "Tanner's workplace",
    "icone": "i_b_goc_table_3"
   },
   "acao": "Put"
@@ -91757,8 +91757,8 @@
   "entradas": [
    {
     "id": "beet_seed",
-    "pt": null,
-    "en": null,
+    "pt": "Semente de beterraba",
+    "en": "Beet seed",
     "qtd": 24.0
    }
   ],
@@ -91766,16 +91766,16 @@
   "saidas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": null,
     "qtd_expr": "(26+4*WGOpar(\"lvl\"))",
     "qtd_max": "(38+4*WGOpar(\"lvl\"))"
    },
    {
     "id": "beet_seed",
-    "pt": null,
-    "en": null,
+    "pt": "Semente de beterraba",
+    "en": "Beet seed",
     "qtd": 20.0,
     "qtd_max": 28.0
    }
@@ -92527,8 +92527,8 @@
   "estacoes": [
    {
     "id": "refugee_camp_hive",
-    "pt": null,
-    "en": null,
+    "pt": "Colmeia",
+    "en": "Bee hive",
     "icone": null
    }
   ],
@@ -97551,8 +97551,8 @@
   "entradas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1.0
    }
   ],
@@ -97919,8 +97919,8 @@
   "estacoes": [
    {
     "id": "soul_container_2_place_2",
-    "pt": null,
-    "en": null,
+    "pt": "Receptáculo de alma II",
+    "en": "Soul container II",
     "icone": "i_b_sls_soul_container2"
    }
   ],
@@ -97963,8 +97963,8 @@
   "estacoes": [
    {
     "id": "soul_container_3_place_2",
-    "pt": null,
-    "en": null,
+    "pt": "Receptáculo de alma III",
+    "en": "Soul container III",
     "icone": "i_b_sls_soul_container3"
    }
   ],
@@ -98007,8 +98007,8 @@
   "estacoes": [
    {
     "id": "soul_container_place_2",
-    "pt": null,
-    "en": null,
+    "pt": "Receptáculo de alma I",
+    "en": "Soul container I",
     "icone": "i_b_sls_soul_container"
    }
   ],
@@ -98569,8 +98569,8 @@
   ],
   "objeto_construido": {
    "id": "soul_extractor_upgrd_to_2",
-   "pt": null,
-   "en": null,
+   "pt": "Extrator de alma II",
+   "en": "Soul extractor II",
    "icone": "i_b_sls_soul_ejector2"
   },
   "acao": "None"
@@ -98622,8 +98622,8 @@
   ],
   "objeto_construido": {
    "id": "soul_extractor_upgrd_to_3",
-   "pt": null,
-   "en": null,
+   "pt": "Extrator de alma III",
+   "en": "Soul extractor III",
    "icone": "i_b_sls_soul_ejector3"
   },
   "acao": "None"
@@ -98726,8 +98726,8 @@
   ],
   "objeto_construido": {
    "id": "soul_totem_souls",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "None"
@@ -98877,8 +98877,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "chest_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Chest",
    "icone": "i_b_chest"
   },
   "acao": "Put"
@@ -98922,8 +98922,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "corpse_bed_place",
-   "pt": null,
-   "en": null,
+   "pt": "Palete",
+   "en": "Pallet",
    "icone": "i_b_corpse_place"
   },
   "acao": "Put"
@@ -99223,8 +99223,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -99281,8 +99281,8 @@
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -99971,8 +99971,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3.0
    }
   ],
@@ -100154,8 +100154,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10.0
    }
   ],
@@ -100163,8 +100163,8 @@
   "saidas": [
    {
     "id": "story",
-    "pt": null,
-    "en": null,
+    "pt": "História",
+    "en": "Story",
     "qtd": 1.0
    }
   ],
@@ -100213,8 +100213,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10.0
    }
   ],
@@ -100222,8 +100222,8 @@
   "saidas": [
    {
     "id": "story",
-    "pt": null,
-    "en": null,
+    "pt": "História",
+    "en": "Story",
     "qtd": 1.0
    }
   ],
@@ -100272,8 +100272,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -100281,8 +100281,8 @@
   "saidas": [
    {
     "id": "story",
-    "pt": null,
-    "en": null,
+    "pt": "História",
+    "en": "Story",
     "qtd": 1.0
    }
   ],
@@ -100323,8 +100323,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4
    }
   ],
@@ -100373,14 +100373,14 @@
   "entradas": [
    {
     "id": "1h_ore_metal",
-    "pt": null,
-    "en": null,
+    "pt": "Minério de ferro",
+    "en": "Iron ore",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -100763,8 +100763,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -101475,8 +101475,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -101531,8 +101531,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -101601,8 +101601,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -101657,8 +101657,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -101713,8 +101713,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -101769,8 +101769,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -101839,8 +101839,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -101895,8 +101895,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -101951,8 +101951,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -102001,14 +102001,14 @@
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -102057,14 +102057,14 @@
   "entradas": [
    {
     "id": "beet_seed",
-    "pt": null,
-    "en": null,
+    "pt": "Semente de beterraba",
+    "en": "Beet seed",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -102119,8 +102119,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102174,8 +102174,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102319,14 +102319,14 @@
   "entradas": [
    {
     "id": "brain",
-    "pt": null,
-    "en": null,
+    "pt": "Cérebro",
+    "en": "Brain",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -102380,8 +102380,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -102442,8 +102442,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102498,8 +102498,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102554,8 +102554,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102610,8 +102610,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102666,8 +102666,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102716,14 +102716,14 @@
   "entradas": [
    {
     "id": "carved_wood",
-    "pt": "",
-    "en": "",
+    "pt": "Madeira entalhada",
+    "en": "Carved wood",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -102792,8 +102792,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -102848,8 +102848,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -102904,8 +102904,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -103063,8 +103063,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -103119,8 +103119,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -103182,8 +103182,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -103238,8 +103238,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -103294,8 +103294,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -103350,8 +103350,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -103413,8 +103413,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -103469,8 +103469,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4
    }
   ],
@@ -103518,8 +103518,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -103581,8 +103581,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -103637,8 +103637,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -103693,8 +103693,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -103756,8 +103756,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -103826,8 +103826,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -103881,8 +103881,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -103937,8 +103937,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -103993,8 +103993,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -104049,8 +104049,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -104105,8 +104105,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -104168,8 +104168,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -104231,8 +104231,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -104287,8 +104287,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -104343,8 +104343,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -104406,8 +104406,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -104462,8 +104462,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -104518,8 +104518,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -104574,8 +104574,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -104637,8 +104637,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -104693,8 +104693,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -104749,8 +104749,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -104805,8 +104805,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -104861,8 +104861,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -104916,8 +104916,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -104972,8 +104972,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -105028,8 +105028,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -105084,8 +105084,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -105140,8 +105140,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -105196,8 +105196,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -105252,8 +105252,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -105315,8 +105315,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -105371,8 +105371,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4
    }
   ],
@@ -105427,8 +105427,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -105483,8 +105483,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -105539,8 +105539,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -106465,8 +106465,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -106528,8 +106528,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -106584,8 +106584,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7
    }
   ],
@@ -106646,8 +106646,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 8
    }
   ],
@@ -106715,8 +106715,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -106784,8 +106784,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -106839,8 +106839,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -106894,8 +106894,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -106963,8 +106963,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -107018,8 +107018,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7
    }
   ],
@@ -107080,8 +107080,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 8
    }
   ],
@@ -107149,8 +107149,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -107218,8 +107218,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -107287,8 +107287,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -107356,8 +107356,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -107425,8 +107425,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -107487,8 +107487,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -107549,8 +107549,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -107618,8 +107618,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 8
    }
   ],
@@ -107687,8 +107687,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -107749,8 +107749,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -107804,8 +107804,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -107859,8 +107859,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -107914,8 +107914,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -107969,8 +107969,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -108024,8 +108024,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -108079,8 +108079,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -108135,8 +108135,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -108205,8 +108205,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4
    }
   ],
@@ -108268,8 +108268,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4
    }
   ],
@@ -108325,14 +108325,14 @@
   "entradas": [
    {
     "id": "heart",
-    "pt": null,
-    "en": null,
+    "pt": "Coração",
+    "en": "Heart",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -108386,8 +108386,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -108448,8 +108448,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -108504,8 +108504,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -108560,8 +108560,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4
    }
   ],
@@ -108623,8 +108623,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 4
    }
   ],
@@ -108686,8 +108686,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -108734,8 +108734,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -108782,8 +108782,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -108845,8 +108845,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -108902,8 +108902,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -108965,8 +108965,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -109015,14 +109015,14 @@
   "entradas": [
    {
     "id": "intestine",
-    "pt": null,
-    "en": null,
+    "pt": "Intestinos",
+    "en": "Intestines",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -109076,8 +109076,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -109138,8 +109138,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -109194,8 +109194,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -109250,8 +109250,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -109306,8 +109306,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -109362,8 +109362,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -109432,8 +109432,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -109534,8 +109534,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -109590,8 +109590,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -109646,8 +109646,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -109702,8 +109702,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -109758,8 +109758,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -109814,8 +109814,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -109871,14 +109871,14 @@
   "entradas": [
    {
     "id": "marble_plate_3",
-    "pt": null,
-    "en": null,
+    "pt": "Pedaço de mármore entalhado",
+    "en": "A carved piece of marble",
     "qtd": 1
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -109947,8 +109947,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -110003,8 +110003,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -110059,8 +110059,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -110211,8 +110211,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -110267,8 +110267,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -110323,8 +110323,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -110379,8 +110379,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -110467,8 +110467,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -110523,8 +110523,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -110580,8 +110580,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -110636,8 +110636,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -110692,8 +110692,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -110762,8 +110762,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -110818,8 +110818,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -110874,8 +110874,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -110930,8 +110930,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7
    }
   ],
@@ -110999,8 +110999,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -111053,8 +111053,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111109,8 +111109,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -111172,8 +111172,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -111228,8 +111228,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -111291,8 +111291,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -111347,8 +111347,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111403,8 +111403,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111459,8 +111459,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -111515,8 +111515,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -111585,8 +111585,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -111641,8 +111641,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111697,8 +111697,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111752,8 +111752,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111808,8 +111808,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -111865,8 +111865,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111920,8 +111920,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -111976,8 +111976,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -112032,8 +112032,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -112088,8 +112088,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 2
    }
   ],
@@ -112144,8 +112144,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -112200,8 +112200,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -112263,8 +112263,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -112319,8 +112319,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -112375,8 +112375,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -112431,8 +112431,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -112501,8 +112501,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10
    }
   ],
@@ -112571,8 +112571,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -112627,8 +112627,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -112683,8 +112683,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 1
    }
   ],
@@ -112739,8 +112739,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5
    }
   ],
@@ -112802,8 +112802,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 7
    }
   ],
@@ -112865,8 +112865,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -112921,8 +112921,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 3
    }
   ],
@@ -113719,8 +113719,8 @@
    },
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 5.0
    }
   ],
@@ -113771,8 +113771,8 @@
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 10.0
    }
   ],
@@ -114365,8 +114365,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 5.0
    }
   ],
@@ -114501,8 +114501,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 15.0
    },
    {
@@ -114717,8 +114717,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 15.0
    }
   ],
@@ -114803,8 +114803,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 10.0
    }
   ],
@@ -114930,8 +114930,8 @@
   "saidas": [
    {
     "id": "fillet_fish:fillet_fish_red",
-    "pt": null,
-    "en": null,
+    "pt": "Qualidade do filé de peixe",
+    "en": "Quality fish fillet",
     "qtd": 10.0
    }
   ],
@@ -116092,8 +116092,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 5.0
    },
    {
@@ -116150,8 +116150,8 @@
   "entradas": [
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 5.0
    },
    {
@@ -117507,8 +117507,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -117564,8 +117564,8 @@
    },
    {
     "id": "beet_crop",
-    "pt": null,
-    "en": null,
+    "pt": "Beterraba",
+    "en": "Beet",
     "qtd": 1.0
    },
    {
@@ -117654,8 +117654,8 @@
   ],
   "objeto_construido": {
    "id": "mf_box_stuff_place",
-   "pt": null,
-   "en": null,
+   "pt": "Baú",
+   "en": "Trunk",
    "icone": "i_b_box_wooden"
   },
   "acao": "Put"
@@ -117756,8 +117756,8 @@
   "liberada_por": [],
   "objeto_construido": {
    "id": "soul_totem_vineyard",
-   "pt": null,
-   "en": null,
+   "pt": "Receptor de alma",
+   "en": "Soul receiver",
    "icone": "i_b_sls_soultotem"
   },
   "acao": "Put"
@@ -117797,8 +117797,8 @@
   ],
   "objeto_construido": {
    "id": "vineyard_grapes_stick_place",
-   "pt": null,
-   "en": null,
+   "pt": "Treliça de videira",
+   "en": "Vine trellis",
    "icone": "i_b_wine_stick"
   },
   "acao": "Put"
@@ -117850,8 +117850,8 @@
   ],
   "objeto_construido": {
    "id": "zombie_vineyard_desk_place",
-   "pt": null,
-   "en": null,
+   "pt": "Vinhedo zumbi",
+   "en": "Zombie vineyard",
    "icone": "i_b_grn_zombie_garden_4_1"
   },
   "acao": "Put"
@@ -118848,8 +118848,8 @@
   "estacoes": [
    {
     "id": "mf_saw_1",
-    "pt": null,
-    "en": null,
+    "pt": "Serra circular",
+    "en": "Circular Saw",
     "icone": "i_b_mf_saw_1"
    }
   ],
@@ -118890,8 +118890,8 @@
   "estacoes": [
    {
     "id": "mf_saw_1",
-    "pt": null,
-    "en": null,
+    "pt": "Serra circular",
+    "en": "Circular Saw",
     "icone": "i_b_mf_saw_1"
    }
   ],
@@ -119009,8 +119009,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 5.0
    }
   ],
@@ -119086,8 +119086,8 @@
   "estacoes": [
    {
     "id": "mf_saw_1",
-    "pt": null,
-    "en": null,
+    "pt": "Serra circular",
+    "en": "Circular Saw",
     "icone": "i_b_mf_saw_1"
    }
   ],
@@ -119242,8 +119242,8 @@
    },
    {
     "id": "faith",
-    "pt": null,
-    "en": null,
+    "pt": "Fé",
+    "en": "Faith",
     "qtd": 10.0
    }
   ],
@@ -119266,8 +119266,8 @@
   "estacoes": [
    {
     "id": "zombie_pulpit",
-    "pt": null,
-    "en": null,
+    "pt": "Gerador de texto aleatório",
+    "en": "Random text generator",
     "icone": "i_b_grn_zombie_writer"
    }
   ],
@@ -119317,8 +119317,8 @@
   "estacoes": [
    {
     "id": "zombie_pulpit",
-    "pt": null,
-    "en": null,
+    "pt": "Gerador de texto aleatório",
+    "en": "Random text generator",
     "icone": "i_b_grn_zombie_writer"
    }
   ],
@@ -119362,8 +119362,8 @@
   "estacoes": [
    {
     "id": "zombie_pulpit",
-    "pt": null,
-    "en": null,
+    "pt": "Gerador de texto aleatório",
+    "en": "Random text generator",
     "icone": "i_b_grn_zombie_writer"
    }
   ],
@@ -119445,8 +119445,8 @@
   "estacoes": [
    {
     "id": "zombie_garden_desk_0",
-    "pt": null,
-    "en": null,
+    "pt": "Fazenda zumbi",
+    "en": "Zombie farm",
     "icone": "i_b_grn_zombie_garden"
    }
   ],
@@ -119515,8 +119515,8 @@
    },
    {
     "id": "zombie_mine_fence_left_front",
-    "pt": null,
-    "en": null,
+    "pt": "Mina zumbi",
+    "en": "Zombie mine",
     "icone": "i_z_zombie_mine_fence_left_front"
    }
   ],
@@ -119593,8 +119593,8 @@
   "estacoes": [
    {
     "id": "zombie_sawmill_completed",
-    "pt": null,
-    "en": null,
+    "pt": "Serraria de árvores grandes",
+    "en": "Big tree sawmill",
     "icone": "i_b_grn_zombie_sawmill_lvl2"
    }
   ],

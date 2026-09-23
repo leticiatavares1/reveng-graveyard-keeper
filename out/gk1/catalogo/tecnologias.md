@@ -6,35 +6,35 @@ Custo em pontos de tecnologia e o que cada no libera (`techs_data`).
 | ---------- | ---- | ----- | ------ |
 | Partes sobressalentes sólidas (`Hardspares`) | Anatomia e alquimia | 10 vermelho 5 verde | `ex:mf_preparation_1:skull`, `ex:mf_preparation_1:bone`, `@ex:mf_preparation_2:skull`, `@ex:mf_preparation_2:bone`, `ex:mf_preparation_1:skin`, `@ex:mf_preparation_2:skin` |
 | Açougueiro delicado (`Gentle butcher`) | Anatomia e alquimia | 5 verde 25 azul | — |
-| tech_bag_alchemy (`tech_bag_alchemy`) | Anatomia e alquimia | — | `bag_alchemy` |
+| Bolsa do alquimista (`tech_bag_alchemy`) | Anatomia e alquimia | — | `bag_alchemy` |
 | Cirurgia (`Surgery`) | Anatomia e alquimia | 50 vermelho 150 verde 50 azul | — |
-| tech_bag_farming (`tech_bag_farming`) | Anatomia e alquimia | — | `bag_farming` |
-| tech_bag_potions (`tech_bag_potions`) | Anatomia e alquimia | — | `bag_potions` |
+| Bolsa do agricultor (`tech_bag_farming`) | Anatomia e alquimia | — | `bag_farming` |
+| Bolsa para poções (`tech_bag_potions`) | Anatomia e alquimia | — | `bag_potions` |
 | Primeira fatia (`First slice`) | Anatomia e alquimia | 10 vermelho 5 verde | `morgue_builddesk:p:mf_preparation_1_place`, `morgue_builddesk:p:corpse_bed_place`, `ex:mf_preparation_1:flesh`, `@ex:mf_preparation_2:flesh` |
 | Partes sobressalentes macias (`Softspares`) | Anatomia e alquimia | 10 vermelho 10 verde | `ex:mf_preparation_1:blood`, `ex:mf_preparation_1:fat`, `@ex:mf_preparation_2:blood`, `@ex:mf_preparation_2:fat` |
 | Partes importantes (`Important parts`) | Anatomia e alquimia | 30 verde | `ex:mf_preparation_1:brain`, `@ex:mf_preparation_2:brain`, `ex:mf_preparation_1:heart`, `@ex:mf_preparation_2:heart`, `ex:mf_preparation_1:intestine`, `@ex:mf_preparation_2:intestine` |
 | Anatomia II (`Anatomy 2`) | Anatomia e alquimia | 50 vermelho 30 azul | `morgue_builddesk:p:mf_preparation_2_place`, `morgue_builddesk:p:corpse_bed_big_place` |
 | Corpos sombrios (`Dark body`) | Anatomia e alquimia | 50 azul | `ex:mf_preparation_1:brain_dark`, `@ex:mf_preparation_2:brain_dark`, `ex:mf_preparation_1:heart_dark`, `@ex:mf_preparation_2:heart_dark`, `ex:mf_preparation_1:intestine_dark`, `@ex:mf_preparation_2:intestine_dark` |
-| Tech_cultist (`Tech_cultist`) | Anatomia e alquimia | 300 azul | — |
+| Cultista (`Tech_cultist`) | Anatomia e alquimia | 300 azul | — |
 | Embalsamamento (`Embalming`) | Anatomia e alquimia | 50 verde 10 azul | `morgue_builddesk:p:mf_balsamation_1_place`, `morgue_builddesk:p:rack_organs_place`, `b_skull`, `@b_skull_2` |
 | Embalsamamento II (`Embalming 2`) | Anatomia e alquimia | 50 verde 10 azul | `morgue_builddesk:p:mf_balsamation_2_place`, `morgue_builddesk:p:corpse_fridge_place` |
 | Segunda chance (`Second chance`) | Anatomia e alquimia | 10 vermelho 10 azul | `morgue_builddesk:p:zombie_crafting_table_place` |
 | Logística zumbi (`Zombie logistic`) | Anatomia e alquimia | 10 vermelho 10 verde | `mining_builddesk:p:porter_station` |
-| tech_bag_fishing (`tech_bag_fishing`) | Anatomia e alquimia | — | `bag_fishing` |
-| tech_bag_builder (`tech_bag_builder`) | Anatomia e alquimia | — | `bag_builder` |
+| Bolsa do pescador (`tech_bag_fishing`) | Anatomia e alquimia | — | `bag_fishing` |
+| Bolsa do construtor (`tech_bag_builder`) | Anatomia e alquimia | — | `bag_builder` |
 | Fluidos de embalsamamento (`Embalm 1`) | Anatomia e alquimia | 30 verde 10 azul | `alchemy_builddesk:p:table_book_constr_place`, `embalm_-1_-1`, `embalm_1_1` |
 | Fluidos de embalsamamento II (`Embalm 2`) | Anatomia e alquimia | 50 verde 20 azul | `embalm_0_1`, `embalm_stop`, `embalm_50` |
 | Fluidos de embalsamamento III (`Embalm 3`) | Anatomia e alquimia | 80 verde 30 azul | `embalm_2_0`, `embalm_-1_1`, `embalm_-2_2` |
 | Mestre da alquimia (`Master of alchemy`) | Anatomia e alquimia | 100 verde 40 azul | — |
-| tech_bag_tools (`tech_bag_tools`) | Anatomia e alquimia | — | `bag_tools` |
-| tech_bag_food (`tech_bag_food`) | Anatomia e alquimia | — | `bag_food` |
+| Bolsa de ferramentas (`tech_bag_tools`) | Anatomia e alquimia | — | `bag_tools` |
+| Bolsa de alimentos (`tech_bag_food`) | Anatomia e alquimia | — | `bag_food` |
 | O começo da alquimia (`The Beginning Of Alchemy`) | Anatomia e alquimia | 5 verde | `alchemy_builddesk:p:mf_alchemy_craft_02_place`, `alchemy_builddesk:p:mf_alchemy_stirrer_01_place`, `alchemy_builddesk:p:mf_alchemy_mill_place` |
 | Depósito de alquimia (`Alchemy storage`) | Anatomia e alquimia | 10 vermelho | `alchemy_builddesk:p:rack_alchemy_place` |
 | Alquimia avançada (`Advanced alchemy`) | Anatomia e alquimia | 20 verde 20 azul | `alchemy_builddesk:p:mf_alchemy_craft_03_place`, `alchemy_builddesk:p:mf_distcube_2_clay_place` |
 | Destilado (`Distilate`) | Anatomia e alquimia | 30 verde 30 azul | `alchemy_builddesk:p:mf_distcube_2_cuprum_place`, `@upgr_to_mf_distcube_2_cuprum` |
-| Zombie alchemy (`Zombie alchemy`) | Anatomia e alquimia | 15 vermelho 15 verde 30 azul | `alchemy_builddesk:p:alchemy_table_zombie_place`, `alchemy_builddesk:p:alchemy_workbench_zombie_place` |
-| tech_bag_universal (`tech_bag_universal`) | Anatomia e alquimia | — | `bag_universal` |
-| tech_bag_universal_big (`tech_bag_universal_big`) | Anatomia e alquimia | — | `bag_universal_big` |
+| Bancada de alquimia de zumbis (`Zombie alchemy`) | Anatomia e alquimia | 15 vermelho 15 verde 30 azul | `alchemy_builddesk:p:alchemy_table_zombie_place`, `alchemy_builddesk:p:alchemy_workbench_zombie_place` |
+| Bolsa universal (`tech_bag_universal`) | Anatomia e alquimia | — | `bag_universal` |
+| Grande bolsa universal (`tech_bag_universal_big`) | Anatomia e alquimia | — | `bag_universal_big` |
 | Luz da fé (`Light of faith`) | Teologia | 5 vermelho 5 verde 5 azul | `church_builddesk:p:candelabrum_1`, `candle_1`, `candle_3`, `@church_builddesk:p:wall_candelabrum_1` |
 | Iluminação da fé (`Illumination of faith`) | Teologia | 50 vermelho 25 azul | `church_builddesk:p:candelabrum_2`, `candle_4`, `church_builddesk:p:church_window_1`, `@church_builddesk:p:wall_candelabrum_2` |
 | Brilho da fé (`Shining of faith`) | Teologia | 250 vermelho 100 verde 100 azul | `church_builddesk:p:candelabrum_3`, `@church_builddesk:p:wall_candelabrum_3` |
@@ -65,11 +65,11 @@ Custo em pontos de tecnologia e o que cada no libera (`techs_data`).
 | Monumentos de lápide (`Grave monuments`) | Teologia | 150 vermelho 50 azul | `grave_top_sculpt_stn_1`, `grave_top_sculpt_stn_2`, `@destroy_grave_top_sculpt_stn_1`, `@destroy_grave_top_sculpt_stn_2` |
 | Lápides de mármore (`Marble gravestones`) | Teologia | 250 vermelho 100 azul | `grave_bot_mrb_1`, `grave_top_mrb_cross_1` |
 | Criptas (`Crypts`) | Teologia | 300 vermelho 150 azul | `grave_top_sculpt_mrb_1`, `grave_top_sculpt_mrb_2` |
-| Random text generator (`Random text generator`) | Escrita de livros | 15 verde 20 azul | `alchemy_builddesk:p:zombie_pulpit` |
-| Journalist (`Journalist`) | Escrita de livros | 10 verde 5 azul | — |
+| Gerador de texto aleatório (`Random text generator`) | Escrita de livros | 15 verde 20 azul | `alchemy_builddesk:p:zombie_pulpit` |
+| Jornalista (`Journalist`) | Escrita de livros | 10 verde 5 azul | — |
 | Criação de histórias (`Inventing storyes`) | Escrita de livros | 25 azul | `story`, `@story_2` |
 | Truques de escrita (`Writing tricks`) | Escrita de livros | 10 vermelho 40 azul | `b_pen`, `@b_pen_2` |
-| Playwright (`Playwright`) | Escrita de livros | 100 azul | — |
+| Dramaturgo (`Playwright`) | Escrita de livros | 100 azul | — |
 | Pesquisar (`Research`) | Escrita de livros | 5 azul | `alchemy_builddesk:p:mf_alchemy_survey_place` |
 | Escrita (`Writing`) | Escrita de livros | 5 vermelho 5 azul | `alchemy_builddesk:p:desk`, `notes`, `@notes_2`, `chapter`, `@chapter_2` |
 | Livros (`Books`) | Escrita de livros | 50 vermelho 10 azul | `cover_1`, `cover_hard`, `book_hard`, `@book_hard_2`, `@cover_hard_2`, `@cover_hard_3` |
@@ -92,12 +92,12 @@ Custo em pontos de tecnologia e o que cada no libera (`techs_data`).
 | Mistura (`Blending`) | Agricultura e natureza | 50 verde 50 azul | — |
 | Mestre de Coleta (`The master gathering`) | Agricultura e natureza | 5 verde 10 azul | — |
 | Vinhedo zumbi (`Zombie vineyard`) | Agricultura e natureza | 25 vermelho 125 verde 25 azul | `vineyard_builddesk:p:zombie_vineyard_desk_place` |
-| Zombie brewing (`Zombie brewing`) | Agricultura e natureza | 50 verde 10 azul | `cellar_builddesk:p:mf_zombie_brewing_place` |
+| Cervejaria zumbi (`Zombie brewing`) | Agricultura e natureza | 50 verde 10 azul | `cellar_builddesk:p:mf_zombie_brewing_place` |
 | Coleta (`Gathering`) | Agricultura e natureza | 5 verde | — |
 | Transplante (`Transplanting`) | Agricultura e natureza | 5 vermelho 5 verde | `tree_garden_builddesk:p:bush_berry_garden_place`, `tree_garden_builddesk:p:tree_apple_garden_place` |
 | Cultivo de uvas (`Grape farming`) | Agricultura e natureza | 5 vermelho 20 verde 10 azul | `vineyard_builddesk:p:vineyard_grapes_stick_place`, `garden_grapes_growing`, `garden_hop_growing` |
 | Vinicultura (`Winemaking`) | Agricultura e natureza | 50 vermelho 20 verde 30 azul | `mf_wood_builddesk:p:mf_vine_press_place`, `@cellar_builddesk:p:mf_vine_press_place`, `cellar_builddesk:p:mf_barrel_mid_place`, `bottle_red_vine` |
-| Zombie winemaking (`Zombie winemaking`) | Agricultura e natureza | 100 vermelho 50 verde 50 azul | `cellar_builddesk:p:mf_zombie_winemaking_place` |
+| Vinícola zumbi (`Zombie winemaking`) | Agricultura e natureza | 100 vermelho 50 verde 50 azul | `cellar_builddesk:p:mf_zombie_winemaking_place` |
 | Apicultura (`Browncastle`) | Agricultura e natureza | 15 verde | `honey_production` |
 | Insetos (`Insects`) | Agricultura e natureza | 20 verde 5 azul | — |
 | Domesticação de abelhas (`The domestication of bees`) | Agricultura e natureza | 30 vermelho 50 verde | `beegarden_table:p:beehouse_place`, `@beegarden_table` |
@@ -116,7 +116,7 @@ Custo em pontos de tecnologia e o que cada no libera (`techs_data`).
 | Ferreiro nato (`Inborn blacksmith`) | Metalurgia | 20 vermelho 30 azul | — |
 | Regras de queima (`Rules of burning`) | Metalurgia | 10 vermelho 50 verde 30 azul | `mining_builddesk::lantern_network`, `mining_builddesk:p:lantern_place`, `@ingot_metal_huge`, `@ingot_metal_1_huge`, `@ingot_metal_2_huge` |
 | Ferramentas de aço (`Steel instruments`) | Metalurgia | 100 vermelho | `axe_2`, `shovel_2`, `pickaxe_2` |
-| Industriousness (`Industriousness`) | Metalurgia | — | — |
+| Diligência (`Industriousness`) | Metalurgia | — | — |
 | Fundição avançada (`Advanced smelting`) | Metalurgia | 50 vermelho 20 verde 10 azul | `mf_wood_builddesk:p:mf_furnace_1_place`, `@mf_furnace_0_to_1`, `ingot_steel`, `@ingot_steel_2` |
 | Fundição de ferro (`Iron castings`) | Metalurgia | 200 vermelho 50 verde 20 azul | `mf_wood_builddesk:p:mf_furnace_2_place`, `@mf_furnace_1_to_2`, `detail_3` |
 | Joalheiro (`Jeweler`) | Metalurgia | 100 vermelho 50 verde 20 azul | `ingot_silver`, `@ingot_silver_2`, `ingot_gold`, `@ingot_gold_2` |
@@ -177,10 +177,10 @@ Custo em pontos de tecnologia e o que cada no libera (`techs_data`).
 | Iguarias com peixe (`Fish delicous`) | Culinária | — | `baked_salmon`, `honey_fish`, `@t_baked_salmon`, `@t_honey_fish` |
 | Processamento de leite (`Milk processing`) | Culinária | — | `cheese`, `butter`, `cream_of_mushroom_soup` |
 | Bolo de mel (`Honey cake`) | Culinária | — | `honey_cake` |
-| soul_stone_fences (`soul_stone_fences`) | Espiritualismo | 50 vermelho 50 verde | `grave_bot_stn_6`, `grave_bot_stn_7`, `grave_bot_stn_8` |
-| soul_marble_fences (`soul_marble_fences`) | Espiritualismo | 100 vermelho 75 verde | `grave_bot_mrb_6`, `grave_bot_mrb_7`, `grave_bot_mrb_8` |
-| soul_stone_statues (`soul_stone_statues`) | Espiritualismo | 80 vermelho 150 verde | `grave_top_sculpt_stn_4`, `grave_top_sculpt_stn_5` |
-| soul_marble_statues (`soul_marble_statues`) | Espiritualismo | 120 vermelho 170 verde | `grave_top_sculpt_mrb_4`, `grave_top_sculpt_mrb_5` |
+| Cerca de pedra de túmulo (`soul_stone_fences`) | Espiritualismo | 50 vermelho 50 verde | `grave_bot_stn_6`, `grave_bot_stn_7`, `grave_bot_stn_8` |
+| Cerca de mármore de túmulo (`soul_marble_fences`) | Espiritualismo | 100 vermelho 75 verde | `grave_bot_mrb_6`, `grave_bot_mrb_7`, `grave_bot_mrb_8` |
+| Lápides de pedra (`soul_stone_statues`) | Espiritualismo | 80 vermelho 150 verde | `grave_top_sculpt_stn_4`, `grave_top_sculpt_stn_5` |
+| Lápides de mármore (`soul_marble_statues`) | Espiritualismo | 120 vermelho 170 verde | `grave_top_sculpt_mrb_4`, `grave_top_sculpt_mrb_5` |
 | Orar pelas almas (`soul_church_additions`) | Espiritualismo | 25 vermelho 50 verde | `b_souls`, `b_grat_points_incr`, `b_sin_shard` |
 | Escrita requintada (`soul_writing_additions`) | Espiritualismo | 40 vermelho 35 verde 10 azul | `story_souls`, `chapter_souls`, `book_hard_souls` |
 | Purificador iniciante (`soul_sins_1`) | Espiritualismo | — | `souls_builddesk:p:soul_container_place`, `souls_builddesk::soul_workbench` |
