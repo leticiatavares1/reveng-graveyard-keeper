@@ -6,6 +6,7 @@ __pycache__/
 # saída pesada / regenerável
 out/binarios/
 out/icones/
+out/*/icones/
 out/tmp/
 *.log
 *.dll

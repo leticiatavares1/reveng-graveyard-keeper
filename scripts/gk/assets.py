@@ -53,6 +53,30 @@ def monobehaviours(env, predicate=None) -> Iterator[tuple[str, object]]:
             yield name, obj
 
 
+def read_sprites(game: Game, nomes: set[str], filename: str = RESOURCES) -> Iterator[tuple[str, object]]:
+    """(nome, imagem PIL) de cada Sprite pedido, um por nome.
+
+    Sprite e tipo nativo da Unity: o TypeTree vem no proprio arquivo e o
+    gerador do `typetree.py` nao entra aqui. O corte por nome acontece ANTES
+    de `.image`, que e a parte cara -- sao 21.030 sprites em resources.assets
+    e a wiki usa pouco mais de mil.
+
+    Nome repetido fica com a primeira ocorrencia; o chamador compara o que
+    pediu com o que saiu para saber o que faltou.
+    """
+    env = load(game, filename)
+    vistos = set()
+    for obj in env.objects:
+        if obj.type.name != "Sprite":
+            continue
+        data = obj.read()
+        nome = getattr(data, "m_Name", "")
+        if nome not in nomes or nome in vistos:
+            continue
+        vistos.add(nome)
+        yield nome, data.image
+
+
 def read_balance(game: Game) -> dict:
     """O ScriptableObject de balanceamento inteiro, como dict."""
     env = load(game)
