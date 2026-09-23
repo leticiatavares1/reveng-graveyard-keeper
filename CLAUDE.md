@@ -27,6 +27,7 @@ Tudo em português (pt-BR), inclusive comentários de código.
 ./.venv/bin/python scripts/extrai-balance.py gk1|gk2   # -> out/<jogo>/data/balance/
 ./.venv/bin/python scripts/extrai-locales.py gk1|gk2   # -> out/<jogo>/data/locales/
 ./.venv/bin/python scripts/catalogo.py       gk1|gk2   # -> out/<jogo>/{data/wiki,catalogo}
+./.venv/bin/python scripts/extrai-sprites.py gk1       # -> out/<jogo>/icones/*.png
 ```
 
 `GK1_DATA` / `GK2_DATA` apontam para a pasta `*_Data` quando a instalação não é a padrão
@@ -48,11 +49,22 @@ da Steam.
   (`LazyBearTechnology.LL`, não `LL`) — senão ele falha com "Object reference not set".
 - **Nome de item não é compartilhado entre os jogos.** 37 dos 90 ids comuns têm tradução
   pt-BR diferente no GK1 e no GK2. Nunca reuse glossário de um no outro.
+- **`ao_usar` só quer dizer "o que o item devolve" quando `pode_usar` é true.** Em
+  ferramenta o mesmo `params_on_use` guarda o custo de energia por golpe (`axe_1`:
+  `energy: -1`). Publicar isso como ganho seria errar o sinal e o sentido.
 - **Desconfie de campo que parece óbvio.** `Item.value` existe, é um int, e está errado:
   a quantidade real de uma receita é `min_value`/`max_value` (SmartExpression). Antes de
   publicar um número, confira contra o comportamento do jogo ou contra a wiki do fandom;
   quando divergir, ache a razão no C# decompilado antes de decidir quem está certo.
 - **Não invente nome.** Item sem entrada na localização fica com `pt`/`en` nulos.
+- **Nem sprite.** O nome do ícone é o que `ItemDefinition.GetIcon()` monta (`icon`, ou
+  `i_<id>` quando vazio). Quatro itens em uso não têm sprite com esse nome — no jogo
+  também não têm. Some da tela, não vira substituto parecido. Os PNG não entram no git.
+- **Bancada não é `custom_icon` sozinho.** O ícone real é o de
+  `WorldGameObject.GetUniversalObjectInfo()`: para objeto de craft, é o ícone da própria
+  receita "Put" que o ergue, senão `custom_icon`, senão `"i_b_" + id`; para builder/canteiro
+  de obras, `custom_icon` senão `"i_z_" + id`. Só `custom_icon` (o que a extração fazia antes)
+  deixava a bancada de carpintaria — a mais básica do jogo — sem ícone nenhum. Ver `docs/04`.
 - Ao mexer em `scripts/gk/typetree.py`, releia `docs/03` — as duas correções ali não são
   cosméticas: sem elas a leitura estoura ou, pior, devolve lixo plausível.
 

@@ -31,7 +31,8 @@ inteiro num ScriptableObject só.
 | **balanceamento** (~4,3 MB nos dois) | `resources.assets` | **tudo**: itens, receitas, objetos, tecnologias, quests |
 | **`lng_*`** (11 idiomas cada) | `resources.assets` | os textos oficiais — inclui **pt-BR** |
 | `Assembly-CSharp.dll` (+ `LazyBearTechnology.dll` no GK2) | `Managed/` | as regras: fórmulas, custos, lógica |
-| cenas / Addressables | `level*` (GK1), `StreamingAssets/aa` (GK2, 876 MB) | mapa, NPCs, arte (**ainda não extraído**) |
+| **sprites** (21.030 no GK1) | `resources.assets` | ícone de item, bancada, objeto de construção, ramo de tecnologia e as estrelas de qualidade |
+| cenas / Addressables | `level*` (GK1), `StreamingAssets/aa` (GK2, 876 MB) | mapa, NPCs, HUD (6 glifos extraídos à mão, resto **ainda não extraído**) |
 | `DialogData` (GK2) | `resources.assets` | diálogos (**ainda não extraído**) |
 
 Detalhe dos dois builds em [`docs/01-inventario.md`](docs/01-inventario.md).
@@ -76,9 +77,16 @@ Todo script recebe o jogo (`gk1` ou `gk2`) como primeiro argumento.
 ./.venv/bin/python scripts/extrai-balance.py gk2    # 4. balanceamento -> out/gk2/data/balance/
 ./.venv/bin/python scripts/extrai-locales.py gk2    # 5. lng_*         -> out/gk2/data/locales/
 ./.venv/bin/python scripts/catalogo.py gk2          # 6. cruza tudo    -> out/gk2/{data/wiki,catalogo}
+./.venv/bin/python scripts/extrai-sprites.py gk1    # 7. ícones PNG    -> out/gk1/icones/
 ```
 
-Os passos 4-6 levam segundos e são idempotentes. O passo 3 leva ~15 s.
+Os passos 4-7 levam segundos e são idempotentes. O passo 3 leva ~15 s.
+
+O passo 7 vem **depois** do 6 de propósito: quem sabe o nome de cada sprite (item, bancada,
+objeto de construção, ramo de tecnologia) é o catálogo, e o extrator só abre o
+`resources.assets` (mais `sharedassets2.assets`, para os 6 glifos de "dias da semana" do
+HUD, que não vêm de campo nenhum do balanceamento) e salva o que foi pedido. Os PNG ficam
+fora do git — são asset do jogo, não dado extraído.
 
 ### Passos 4 e 5 — ler os arquivos serializados
 
@@ -127,6 +135,7 @@ reveng-graveyard-keeper/
 │   ├── extrai-balance.py <jogo>  # balanceamento -> uma lista por arquivo
 │   ├── extrai-locales.py <jogo>  # lng_* -> id → texto
 │   ├── catalogo.py       <jogo>  # cruza tudo; normaliza quantidades e nomes
+│   ├── extrai-sprites.py <jogo>  # ícone de item/bancada/objeto/tecnologia + HUD -> out/<jogo>/icones/
 │   └── gk/
 │       ├── games.py              # ← registro dos jogos: tudo que difere mora aqui
 │       ├── typetree.py           # ← TypeTree a partir da DLL + as 2 correções
