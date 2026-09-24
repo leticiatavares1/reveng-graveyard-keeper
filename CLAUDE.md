@@ -63,7 +63,9 @@ da Steam.
 - **Bancada não é `custom_icon` sozinho.** O ícone real é o de
   `WorldGameObject.GetUniversalObjectInfo()`: para objeto de craft, é o ícone da própria
   receita "Put" que o ergue, senão `custom_icon`, senão `"i_b_" + id`; para builder/canteiro
-  de obras, `custom_icon` senão `"i_z_" + id`. Só `custom_icon` (o que a extração fazia antes)
+  de obras, `custom_icon` senão `"i_z_" + id`. Fora do Craft, o ícone do menu de construção
+  (receita que ergue o objeto, qualquer `build_type` menos Remove) entra antes da convenção
+  de nome — sem ele o acampamento de refugiados do Game of Crone ficava sem arte. Só `custom_icon` (o que a extração fazia antes)
   deixava a bancada de carpintaria — a mais básica do jogo — sem ícone nenhum. Ver `docs/04`.
 - Ao mexer em `scripts/gk/typetree.py`, releia `docs/03` — as duas correções ali não são
   cosméticas: sem elas a leitura estoura ou, pior, devolve lixo plausível.

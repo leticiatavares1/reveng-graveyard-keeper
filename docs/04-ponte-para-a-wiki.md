@@ -122,12 +122,23 @@ jogo tem fallback por convenção de nome que muda com `interaction_type`:
 | `interaction_type` | Regra |
 | --- | --- |
 | Craft (1) | ícone da receita "Put" que ergue este objeto, senão `custom_icon`, senão `"i_b_" + id` |
-| RunScript (2) / Builder (4) | `custom_icon`, senão `"i_z_" + id` |
+| RunScript (2) / Builder (4) | `custom_icon`, senão ícone do menu de construção, senão `"i_z_" + id` |
 | mesa de autópsia | `custom_icon`, senão `"i_b_" + id` (sem a troca pela receita) |
-| Chest, Grave, None | só `custom_icon` — o jogo não tem fallback pra esses, `UniversalObjectInfo.icon` fica `null` mesmo |
+| Chest, Grave, None | `custom_icon`, senão ícone do menu de construção — o jogo não tem fallback pra esses, `UniversalObjectInfo.icon` fica `null` |
+
+O **ícone do menu de construção** é o único passo que não sai do painel de interação: é o
+`icon` de qualquer receita de `craft_obj_data` que ergue o objeto (menos a demolição,
+`Remove`), o sprite que o jogador vê ao construí-lo. Sem ele o acampamento de refugiados
+(Game of Crone) ficava sem cozinha, colmeia e poço: o acampamento constrói com
+`build_type` "None", não "Put", a cozinha e a colmeia são None no painel, e o
+`i_z_refugee_camp_well` do poço não existe no jogo. A colmeia é erguida como
+`refugee_camp_hive_place`, que vira `refugee_camp_hive` ao terminar (`after_hp_0`), e o
+ícone segue para o objeto final. O passo não troca a arte de nenhuma bancada que já tinha
+sprite: só ganham ícone as 8 que não tinham (as 5 do acampamento, mais `beehouse_1`,
+`bush_berry_garden` e `tree_apple_garden`).
 
 Mais três ids (`grave_ground`, `mf_balsamation_1/2`) têm ícone escrito direto no C#, fora
-de qualquer regra. Com o fallback, a cobertura sobe pra **169 das 228** (74%) — inclusive
+de qualquer regra. Com o fallback e o menu de construção, a cobertura sobe pra **175 das 228** (77%) — inclusive
 a Bancada de carpintaria (`mf_workbench_1`), que tem `custom_icon` vazio mas cai no
 fallback `i_b_mf_workbench_1`. Ex. de override por receita: `mf_alchemy_mill` (Moinho de
 alquimia) → `i_b_alchemy_millstone`. Como no ícone de item, uma fração do fallback
