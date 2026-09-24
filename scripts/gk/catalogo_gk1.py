@@ -30,7 +30,7 @@ CRAFT_TYPES = {
 BUILD_TYPES = {0: "Put", 1: "Remove", 2: "None"}
 
 #: ObjectDefinition.InteractionType — só os que importam para o ícone da
-#: bancada (`estacao_icone`); Chest e Grave não têm regra de fallback.
+#: bancada (`estacao_icone`); Chest e Grave só caem no ícone do menu de construção.
 INTERACTION_CRAFT = 1
 INTERACTION_RUNSCRIPT = 2
 INTERACTION_BUILDER = 4
@@ -193,7 +193,8 @@ def itens(game: Game, names: Names) -> list[dict]:
     return sorted(out, key=lambda i: i["id"])
 
 
-def estacao_icone(obj: dict | None, put_por_objeto: dict[str, str], estacao_id: str) -> str | None:
+def estacao_icone(obj: dict | None, put_por_objeto: dict[str, str],
+                  menu_por_objeto: dict[str, str], estacao_id: str) -> str | None:
     """Ícone da bancada, pela MESMA regra de `WorldGameObject.
     GetUniversalObjectInfo()` que decide o ícone no painel de interação do
     jogo — não é só `custom_icon`: ele tem fallback por convenção de nome, que
@@ -209,6 +210,15 @@ def estacao_icone(obj: dict | None, put_por_objeto: dict[str, str], estacao_id: 
       (`UniversalObjectInfo.icon` fica `null`), então a maioria fica sem ícone
       mesmo, e isso não é bug: é o jogo também não tendo ícone ali.
 
+    Fora do Craft, entre o `custom_icon` e a convenção de nome entra o ícone
+    do menu de construção (`menu_por_objeto`): o sprite que o jogador vê ao
+    erguer aquele objeto, na mesma receita que o constrói. O painel de
+    interação não usa esse ícone, mas sem ele o acampamento de refugiados
+    (Game of Crone) perdia a cozinha, a colmeia e o poço: a cozinha e a
+    colmeia são None, sem fallback, e o poço é RunScript, cujo `"i_z_" + id`
+    não tem sprite no jogo. O desempate não muda nenhuma bancada que já
+    tinha arte: só ganham ícone as 8 que não tinham.
+
     Sem essa regra, a bancada de carpintaria — a mais básica do jogo — aparecia
     sem ícone (`custom_icon` vazio), quando na verdade o jogo mostra
     `i_b_mf_workbench_1` no fallback.
@@ -223,19 +233,22 @@ def estacao_icone(obj: dict | None, put_por_objeto: dict[str, str], estacao_id: 
     interacao = obj.get("interaction_type")
     if interacao == INTERACTION_CRAFT:
         return put_por_objeto.get(estacao_id) or custom or f"i_b_{estacao_id}"
+    menu = menu_por_objeto.get(estacao_id)
     if interacao in (INTERACTION_RUNSCRIPT, INTERACTION_BUILDER):
-        return custom or f"i_z_{estacao_id}"
-    return custom
+        return custom or menu or f"i_z_{estacao_id}"
+    return custom or menu
 
 
-def estacao_ref(names: Names, obj_por_id: dict, put_por_objeto: dict, estacao_id: str) -> dict:
+def estacao_ref(names: Names, obj_por_id: dict, put_por_objeto: dict,
+                menu_por_objeto: dict, estacao_id: str) -> dict:
     """Referência de bancada, com o ícone do objeto de mundo que ela é.
 
     Não existe classe própria de "bancada": no jogo é o mesmo `ObjectDefinition`
     de qualquer objeto colocável.
     """
     ref = names.ref(estacao_id)
-    ref["icone"] = estacao_icone(obj_por_id.get(estacao_id), put_por_objeto, estacao_id)
+    ref["icone"] = estacao_icone(obj_por_id.get(estacao_id), put_por_objeto,
+                                 menu_por_objeto, estacao_id)
     return ref
 
 
@@ -253,6 +266,18 @@ def receitas(game: Game, names: Names) -> list[dict]:
     for c in carregar(game, "craft_obj_data"):
         if c.get("out_obj") and c.get("build_type") == 0 and c.get("icon"):
             put_por_objeto.setdefault(c["out_obj"], c["icon"])
+    # Ícone do menu de construção: qualquer receita que ergue o objeto, menos
+    # a demolição ("Remove"). O acampamento de refugiados constrói com
+    # build_type "None", não "Put". A colmeia é erguida como
+    # `refugee_camp_hive_place`, que vira `refugee_camp_hive` ao terminar
+    # (`after_hp_0`): o ícone segue para o objeto final.
+    menu_por_objeto: dict[str, str] = {}
+    for c in carregar(game, "craft_obj_data"):
+        if c.get("out_obj") and c.get("build_type") != 1 and c.get("icon"):
+            menu_por_objeto.setdefault(c["out_obj"], c["icon"])
+            vira = (obj_por_id.get(c["out_obj"]) or {}).get("after_hp_0", {}).get("_id")
+            if c["out_obj"].endswith("_place") and vira:
+                menu_por_objeto.setdefault(vira, c["icon"])
 
     out = []
     for origem, crafts in (("craft", carregar(game, "craft_data")),
@@ -271,7 +296,7 @@ def receitas(game: Game, names: Names) -> list[dict]:
                 "tipo": CRAFT_TYPES.get(c["craft_type"], str(c["craft_type"])),
                 # Receita de construção não usa `craft_in`: a "estação" é quem
                 # constrói (`builder_ids`, p.ex. o canteiro de obras).
-                "estacoes": [estacao_ref(names, obj_por_id, put_por_objeto, o)
+                "estacoes": [estacao_ref(names, obj_por_id, put_por_objeto, menu_por_objeto, o)
                              for o in (c["craft_in"] or c.get("builder_ids", []))],
                 "entradas": [item_ref(names, i) for i in c["needs"]],
                 "entradas_da_estacao": [item_ref(names, i) for i in c["needs_from_wgo"]],

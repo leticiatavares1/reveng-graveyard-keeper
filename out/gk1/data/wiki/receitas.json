@@ -22585,7 +22585,7 @@
     "id": "beehouse_1",
     "pt": null,
     "en": null,
-    "icone": null
+    "icone": "i_b_beehive"
    }
   ],
   "entradas": [],
@@ -26227,7 +26227,7 @@
     "id": "bush_berry_garden",
     "pt": null,
     "en": null,
-    "icone": null
+    "icone": "i_b_barry_bush"
    }
   ],
   "entradas": [],
@@ -26301,7 +26301,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26352,13 +26352,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26397,13 +26397,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26442,13 +26442,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26487,7 +26487,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26532,7 +26532,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26583,7 +26583,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26628,13 +26628,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26685,13 +26685,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26742,13 +26742,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26799,13 +26799,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26850,13 +26850,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26907,13 +26907,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26952,13 +26952,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -26997,13 +26997,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27042,7 +27042,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27093,7 +27093,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27144,7 +27144,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27195,7 +27195,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27240,7 +27240,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27291,13 +27291,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27336,13 +27336,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27381,13 +27381,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27426,13 +27426,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27483,13 +27483,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27540,13 +27540,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27597,7 +27597,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27642,7 +27642,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27687,7 +27687,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27738,7 +27738,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27789,7 +27789,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27840,13 +27840,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27897,13 +27897,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -27954,13 +27954,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -28011,13 +28011,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -28068,13 +28068,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -28125,13 +28125,13 @@
     "id": "refugee_camp_cooking_table",
     "pt": "Bancada de cozinhar",
     "en": "Cooking table",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_1"
    },
    {
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -28182,7 +28182,7 @@
     "id": "refugee_camp_cooking_table_2",
     "pt": "Bancada de cozinhar II",
     "en": "Cooking table II",
-    "icone": null
+    "icone": "i_b_goc_field_kitchen_2"
    }
   ],
   "entradas": [
@@ -46686,7 +46686,7 @@
     "id": "beehouse_1",
     "pt": null,
     "en": null,
-    "icone": null
+    "icone": "i_b_beehive"
    }
   ],
   "entradas": [],
@@ -92529,7 +92529,7 @@
     "id": "refugee_camp_hive",
     "pt": "Colmeia",
     "en": "Bee hive",
-    "icone": null
+    "icone": "i_b_goc_beehive"
    }
   ],
   "entradas": [],
@@ -92561,7 +92561,7 @@
     "id": "refugee_camp_well",
     "pt": "Poço de água",
     "en": "Water well",
-    "icone": "i_z_refugee_camp_well"
+    "icone": "i_b_goc_well_1"
    }
   ],
   "entradas": [],
@@ -92586,7 +92586,7 @@
     "id": "refugee_camp_well_2",
     "pt": "Poço de água II",
     "en": "Water well II",
-    "icone": "i_z_refugee_camp_well_2"
+    "icone": "i_b_goc_well_2"
    }
   ],
   "entradas": [],
@@ -116530,7 +116530,7 @@
     "id": "tree_apple_garden",
     "pt": null,
     "en": null,
-    "icone": null
+    "icone": "i_b_Apple_tree"
    }
   ],
   "entradas": [],
