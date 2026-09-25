@@ -39,6 +39,13 @@ from gk import assets, games  # noqa: E402
 HUD_SEMANA = {f"i_hud_sin0{n}_off" for n in range(1, 7)}
 HUD_SEMANA_ARQUIVO = "sharedassets2.assets"
 
+#: As caveiras branca (boas acoes) e vermelha (pecados) do painel do corpo, no
+#: necroterio e na mesa de embalsamar (BodyPanelSkullBarGUI.skull_white /
+#: skull_red), usadas pelas tabelas de efeito do artigo "Corpos e autopsia".
+#: Mesma situacao dos dias da semana: e sprite de UI, nao de item, entao o
+#: nome fica fixo aqui. Estao no resources.assets, lado a lado (11x10 px).
+HUD_CAVEIRAS = {"icon_hud_skull", "icon_skull_red"}
+
 
 def pedidos(wiki_dir: str) -> tuple[set[str], set[str], set[str]]:
     """(icones, estrelas, icones em uso) que o catalogo referencia.
@@ -115,6 +122,13 @@ def main() -> None:
             salvos_hud.add(nome)
         print(f"  hud      {len(salvos_hud):5}/{len(HUD_SEMANA)} (dias da semana, {HUD_SEMANA_ARQUIVO})")
         salvos |= salvos_hud
+
+        salvos_caveiras = set()
+        for nome, imagem in assets.read_sprites(game, HUD_CAVEIRAS):
+            imagem.save(os.path.join(out, f"{nome}.png"))
+            salvos_caveiras.add(nome)
+        print(f"  caveiras {len(salvos_caveiras):5}/{len(HUD_CAVEIRAS)} (painel do corpo, {assets.RESOURCES})")
+        salvos |= salvos_caveiras
 
     print(f"-> {out} ({len(salvos)} PNG)")
 
